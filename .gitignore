@@ -1,0 +1,7 @@
+.mypy_cache
+.vscode
+.python-version
+tmp
+venv
+__pycache__
+.DS_Store
