@@ -2,6 +2,7 @@
 .vscode
 .python-version
 tmp
+out
 venv
 __pycache__
 .DS_Store
