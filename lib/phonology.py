@@ -40,6 +40,26 @@ class Reconstruction:
         return readings["MC"].iloc[0]
 
     def fanqie_reading_for(self, initial: str, final: str) -> str:
-        initial_reading = self.reading_for(initial)
-        final_reading = self.reading_for(final)
-        raise NotImplementedError
+        initial_reading = self.initial_for(initial).rstrip("-")
+        final_reading = self.final_for(final).lstrip("-")
+
+        # special cases
+        # y + j = y
+        # yh + j = yh
+        if (initial_reading[-1] == "y" and final_reading[0] == "j") or (
+            initial_reading[-2:] == "yh" and final_reading[0] == "j"
+        ):
+            return f"{initial_reading}{final_reading[1:]}"
+
+        # j + j = j
+        # j + w = w
+        # j + i = i
+        if (
+            (initial_reading[-1] == "j" and final_reading[0] == "j")
+            or (initial_reading[-1] == "j" and final_reading[0] == "w")
+            or (initial_reading[-1] == "j" and final_reading[0] == "i")
+        ):
+            return f"{initial_reading[:-1]}{final_reading}"
+
+        # base case
+        return f"{initial_reading}{final_reading}"

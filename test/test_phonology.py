@@ -95,3 +95,28 @@ class TestReconstruction(TestCase):
             )
         )
         self.assertEqual(rc.final_for("東"), "-uwng")
+
+    def test_fanqie_reading_for(self):
+        """returns the fanqie reading for a given initial and final char"""
+        rc = Reconstruction(
+            pd.DataFrame.from_dict(
+                {
+                    "zi": ["充", "忪", "為", "追", "尼"],
+                    "MC": ["tsyhuwng", "tsyowng", "hjwe", "trwij", "nrij"],
+                    "MCInitial": ["tsyh-", "tsy-", "hj-", "tr-", "nr-"],
+                    "MCfinal": ["-juwng", "-jowng", "-jwe", "-wij", "-ij"],
+                }
+            )
+        )
+        # simple case
+        self.assertEqual(rc.fanqie_reading_for("追", "忪"), "trjowng")
+        # y + j = y
+        self.assertEqual(rc.fanqie_reading_for("忪", "充"), "tsyuwng")
+        # yh + j = yh
+        self.assertEqual(rc.fanqie_reading_for("充", "忪"), "tsyhowng")
+        # j + j = j
+        self.assertEqual(rc.fanqie_reading_for("為", "充"), "hjuwng")
+        # j + w = w
+        self.assertEqual(rc.fanqie_reading_for("為", "追"), "hwij")
+        # j + i = i
+        self.assertEqual(rc.fanqie_reading_for("為", "尼"), "hij")
