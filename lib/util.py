@@ -55,7 +55,7 @@ def yin_to_mc(annotation: re.Match, mc_table: pd.DataFrame) -> str:
     if match.empty or len(match) > 1:
         return f"{annotation.group('char')}\t{BLANK}"
 
-    return f"{annotation.group('char')}\t{match['MC'].iloc[0]}"
+    return f"{annotation.group('char')}\t{match['reading'].iloc[0]}"
 
 
 def char_to_mc(annotation: re.Match, mc_table: pd.DataFrame) -> str:
@@ -71,7 +71,7 @@ def char_to_mc(annotation: re.Match, mc_table: pd.DataFrame) -> str:
     if match.empty or len(match) > 1:
         return f"{annotation.group('char')}\t{BLANK}"
 
-    return f"{annotation.group('char')}\t{match['MC'].iloc[0]}"
+    return f"{annotation.group('char')}\t{match['reading'].iloc[0]}"
 
 def clean_text(text: str, to_unicode: Callable) -> str:
     """Clean an org-mode text and convert entities into unicode."""
@@ -148,6 +148,7 @@ def align_refs(text: str) -> str:
         if anno == BLANK:
             # check up to 2 lines ahead for an annotation
             try:
+                
                 next_annos = [lines[i + 1][1], lines[i + 2][1]]
                 next_annos = [a for a in next_annos if a != BLANK]
                 next_anno = next_annos[0]
