@@ -19,6 +19,11 @@ Then you can run the annotation process, which writes to `out/` by default:
 ```bash
 bin/annotate.py
 ```
+## Testing
+You can run unit tests for the logic in the scripts with:
+```bash
+python -m unittest
+```
 ## Updating
 To get a fresh copy of the source text from upstream, you can run:
 ```sh
