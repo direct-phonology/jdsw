@@ -11,10 +11,10 @@ class TestReconstruction(TestCase):
         rc = Reconstruction(
             pd.DataFrame.from_dict(
                 {
-                    "zi": ["東", "東"],
-                    "MC": ["tuwng", "tuwng"],
-                    "MCInitial": ["t-", "t-"],
-                    "MCfinal": ["-uwng", "-uwng"],
+                    "char": ["東", "東"],
+                    "reading": ["tuwng", "tuwng"],
+                    "initial": ["t", "t"],
+                    "rime": ["uwng", "uwng"],
                 }
             )
         )
@@ -25,10 +25,10 @@ class TestReconstruction(TestCase):
         rc = Reconstruction(
             pd.DataFrame.from_dict(
                 {
-                    "zi": ["東"],
-                    "MC": ["tuwng"],
-                    "MCInitial": ["t-"],
-                    "MCfinal": ["-uwng"],
+                    "char": ["東"],
+                    "reading": ["tuwng"],
+                    "initial": ["t"],
+                    "rime": ["uwng"],
                 }
             )
         )
@@ -39,10 +39,10 @@ class TestReconstruction(TestCase):
         rc = Reconstruction(
             pd.DataFrame.from_dict(
                 {
-                    "zi": ["不", "不"],
-                    "MC": ["pjut", "pjuw"],
-                    "MCInitial": ["p-", "p-"],
-                    "MCfinal": ["-jut", "-juw"],
+                    "char": ["不", "不"],
+                    "reading": ["pjut", "pjuw"],
+                    "initial": ["p", "p"],
+                    "rime": ["jut", "juw"],
                 }
             )
         )
@@ -53,10 +53,10 @@ class TestReconstruction(TestCase):
         rc = Reconstruction(
             pd.DataFrame.from_dict(
                 {
-                    "zi": ["東"],
-                    "MC": ["tuwng"],
-                    "MCInitial": ["t-"],
-                    "MCfinal": ["-uwng"],
+                    "char": ["東"],
+                    "reading": ["tuwng"],
+                    "initial": ["t"],
+                    "rime": ["uwng"],
                 }
             )
         )
@@ -68,10 +68,10 @@ class TestReconstruction(TestCase):
         rc = Reconstruction(
             pd.DataFrame.from_dict(
                 {
-                    "zi": ["東"],
-                    "MC": ["tuwng"],
-                    "MCInitial": ["t-"],
-                    "MCfinal": ["-uwng"],
+                    "char": ["東"],
+                    "reading": ["tuwng"],
+                    "initial": ["t"],
+                    "rime": ["uwng"],
                 }
             )
         )
@@ -83,10 +83,10 @@ class TestReconstruction(TestCase):
         rc = Reconstruction(
             pd.DataFrame.from_dict(
                 {
-                    "zi": ["不", "不"],
-                    "MC": ["pjut", "pjuw"],
-                    "MCInitial": ["p-", "p-"],
-                    "MCfinal": ["-jut", "-juw"],
+                    "char": ["不", "不"],
+                    "reading": ["pjut", "pjuw"],
+                    "initial": ["p", "p"],
+                    "rime": ["jut", "juw"],
                 }
             )
         )
@@ -98,52 +98,52 @@ class TestReconstruction(TestCase):
         rc = Reconstruction(
             pd.DataFrame.from_dict(
                 {
-                    "zi": ["東"],
-                    "MC": ["tuwng"],
-                    "MCInitial": ["t-"],
-                    "MCfinal": ["-uwng"],
+                    "char": ["東"],
+                    "reading": ["tuwng"],
+                    "initial": ["t"],
+                    "rime": ["uwng"],
                 }
             )
         )
-        self.assertEqual(rc.initial_for("東"), "t-")
+        self.assertEqual(rc.initial_for("東"), "t")
 
     def test_initial_for_rhmying_polyphone(self):
-        """returns the initial for a character with multiple finals"""
+        """returns the initial for a character with multiple rimes"""
         rc = Reconstruction(
             pd.DataFrame.from_dict(
                 {
-                    "zi": ["不", "不"],
-                    "MC": ["pjut", "pjuw"],
-                    "MCInitial": ["p-", "p-"],
-                    "MCfinal": ["-jut", "-juw"],
+                    "char": ["不", "不"],
+                    "reading": ["pjut", "pjuw"],
+                    "initial": ["p", "p"],
+                    "rime": ["jut", "juw"],
                 }
             )
         )
-        self.assertEqual(rc.initial_for("不"), "p-")
+        self.assertEqual(rc.initial_for("不"), "p")
 
-    def test_final_for(self):
-        """returns the final for a given character"""
+    def test_rime_for(self):
+        """returns the rime for a given character"""
         rc = Reconstruction(
             pd.DataFrame.from_dict(
                 {
-                    "zi": ["東"],
-                    "MC": ["tuwng"],
-                    "MCInitial": ["t-"],
-                    "MCfinal": ["-uwng"],
+                    "char": ["東"],
+                    "reading": ["tuwng"],
+                    "initial": ["t"],
+                    "rime": ["uwng"],
                 }
             )
         )
-        self.assertEqual(rc.final_for("東"), "-uwng")
+        self.assertEqual(rc.rime_for("東"), "uwng")
 
     def test_fanqie_reading_for(self):
-        """returns the fanqie reading for a given initial and final char"""
+        """returns the fanqie reading for a given initial and rime char"""
         rc = Reconstruction(
             pd.DataFrame.from_dict(
                 {
-                    "zi": ["充", "忪", "為", "追", "尼"],
-                    "MC": ["tsyhuwng", "tsyowng", "hjwe", "trwij", "nrij"],
-                    "MCInitial": ["tsyh-", "tsy-", "hj-", "tr-", "nr-"],
-                    "MCfinal": ["-juwng", "-jowng", "-jwe", "-wij", "-ij"],
+                    "char": ["充", "忪", "為", "追", "尼"],
+                    "reading": ["tsyhuwng", "tsyowng", "hjwe", "trwij", "nrij"],
+                    "initial": ["tsyh", "tsy", "hj", "tr", "nr"],
+                    "rime": ["juwng", "jowng", "jwe", "wij", "ij"],
                 }
             )
         )
