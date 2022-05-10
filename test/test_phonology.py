@@ -8,7 +8,17 @@ from lib.phonology import Reconstruction, NoReadingError, MultipleReadingsError
 class TestReconstruction(TestCase):
     def test_init(self):
         """dedupes input table on init"""
-        pass
+        rc = Reconstruction(
+            pd.DataFrame.from_dict(
+                {
+                    "zi": ["東", "東"],
+                    "MC": ["tuwng", "tuwng"],
+                    "MCInitial": ["t-", "t-"],
+                    "MCfinal": ["-uwng", "-uwng"],
+                }
+            )
+        )
+        self.assertEqual(rc.table.shape[0], 1)
 
     def test_reading_for(self):
         """returns a reading for a given character"""
@@ -23,6 +33,35 @@ class TestReconstruction(TestCase):
             )
         )
         self.assertEqual(rc.reading_for("東"), "tuwng")
+
+    def test_readings_for(self):
+        """returns all readings for a given character"""
+        rc = Reconstruction(
+            pd.DataFrame.from_dict(
+                {
+                    "zi": ["不", "不"],
+                    "MC": ["pjut", "pjuw"],
+                    "MCInitial": ["p-", "p-"],
+                    "MCfinal": ["-jut", "-juw"],
+                }
+            )
+        )
+        self.assertEqual(rc.readings_for("不"), ["pjut", "pjuw"])
+
+    def test_is_valid_reading(self):
+        """returns True if a given reading is valid for a given character"""
+        rc = Reconstruction(
+            pd.DataFrame.from_dict(
+                {
+                    "zi": ["東"],
+                    "MC": ["tuwng"],
+                    "MCInitial": ["t-"],
+                    "MCfinal": ["-uwng"],
+                }
+            )
+        )
+        self.assertTrue(rc.is_valid_reading("東", "tuwng"))
+        self.assertFalse(rc.is_valid_reading("東", "pjut"))
 
     def test_reading_for_missing_char(self):
         """errors if no reading for a given character"""

@@ -39,6 +39,9 @@ class Reconstruction:
             raise MultipleReadingsError
         return readings["MC"].iloc[0]
 
+    def readings_for(self, char: str) -> list[str]:
+        return self.table[self.table["zi"] == char]["MC"].unique().tolist()
+
     def fanqie_reading_for(self, initial: str, final: str) -> str:
         initial_reading = self.initial_for(initial).rstrip("-")
         final_reading = self.final_for(final).lstrip("-")
@@ -63,3 +66,6 @@ class Reconstruction:
 
         # base case
         return f"{initial_reading}{final_reading}"
+
+    def is_valid_reading(self, char: str, reading: str) -> bool:
+        return reading in self.readings_for(char)
