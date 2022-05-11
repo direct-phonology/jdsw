@@ -3,75 +3,19 @@ from typing import Callable
 
 import pandas as pd
 
-from .patterns import BLANK, WHITELIST, KR_ENTITY, MODE_HEADER, META_HEADER, LINE_BREAK, ANNOTATION
+from .patterns import (
+    BLANK,
+    EMPTY_ANNO,
+    FANQIE,
+    YIN,
+    KR_ENTITY,
+    MODE_HEADER,
+    META_HEADER,
+    LINE_BREAK,
+    ANNOTATION,
+)
+from .phonology import Reconstruction, NoReadingError, MultipleReadingsError
 
-
-def filter_annotation(annotation: re.Match) -> str:
-    """
-    Filter out annotations that we can't convert into readings.
-
-    If the annotation doesn't match a pattern in the whitelist, turn it into
-    a blank. Leave matching annotations untouched.
-    """
-
-    if not any(annotype.match(annotation.group(0)) for annotype in WHITELIST):
-        return f"{annotation.group('char')}\t{BLANK}"
-
-    return annotation.group(0)
-
-
-def fanqie_to_mc(annotation: re.Match, mc_table: pd.DataFrame) -> str:
-    """
-    Convert a fanqie (反) annotation into a Middle Chinese reading.
-
-    Look up readings for the initial and rime characters in the annotation, then
-    return the combination of their readings. If either of the initial or rime
-    characters are missing or polyphonic, return a blank.
-    """
-
-    initial = mc_table[mc_table["char"] == annotation.group("initial")]
-    rime = mc_table[mc_table["char"] == annotation.group("rime")]
-
-    if initial.empty or rime.empty or len(initial) > 1 or len(rime) > 1:
-        return f"{annotation.group('char')}\t{BLANK}"
-
-    reading = "".join((initial["initial"].iloc[0], rime["rime"].iloc[0])).replace(
-        "-", ""
-    )
-
-    return f"{annotation.group('char')}\t{reading}"
-
-
-def yin_to_mc(annotation: re.Match, mc_table: pd.DataFrame) -> str:
-    """
-    Convert a 'yin' (音) annotation into a Middle Chinese reading.
-
-    If the 'yin' character is monophonic (only one reading), and it's recorded
-    in our data table, return that reading for the target character. Otherwise return a blank.
-    """
-
-    match = mc_table[mc_table["char"] == annotation.group("anno")]
-
-    if match.empty or len(match) > 1:
-        return f"{annotation.group('char')}\t{BLANK}"
-
-    return f"{annotation.group('char')}\t{match['reading'].iloc[0]}"
-
-
-def char_to_mc(annotation: re.Match, mc_table: pd.DataFrame) -> str:
-    """
-    Look up a Middle Chinese reading for a character.
-
-    If the character is monophonic (only one reading), and it's recorded
-    in our data table, return its reading. Otherwise return a blank.
-    """
-
-    match = mc_table[mc_table["char"] == annotation.group("char")]
-
-    if match.empty or len(match) > 1:
-        return f"{annotation.group('char')}\t{BLANK}"
-
-    return f"{annotation.group('char')}\t{match['reading'].iloc[0]}"
 
 def clean_text(text: str, to_unicode: Callable) -> str:
     """Clean an org-mode text and convert entities into unicode."""
@@ -98,6 +42,7 @@ def clean_text(text: str, to_unicode: Callable) -> str:
 
     return text
 
+
 def krp_entity_unicode(table: pd.DataFrame, match: re.Match) -> str:
     """Private use unicode representation for a Kanripo entity."""
 
@@ -110,6 +55,7 @@ def krp_entity_unicode(table: pd.DataFrame, match: re.Match) -> str:
         raise UserWarning(f"Kanripo entity not found: {entity}")
 
     return char["unicode"].values[0]
+
 
 def split_text(text: str) -> str:
     """Reformat a text into a CoNLL-like format."""
@@ -132,11 +78,8 @@ def split_text(text: str) -> str:
 
     return output
 
-def reading_in_guangyun(char: str, reading: str) -> bool:
-    """Check if the Guangyun lists a reading as valid for a character."""
-    return False
 
-def align_refs(text: str) -> str:
+def align_refs(text: str, rc: Reconstruction, lookahead: int = 2) -> str:
     """Realign phonetic annotations that are tied to the wrong character."""
     # split the text into char: annotation lines
     lines = [line.split("\t") for line in text.splitlines()]
@@ -146,23 +89,65 @@ def align_refs(text: str) -> str:
     for i, (char, anno) in enumerate(lines):
         # check if the annotation portion is blank
         if anno == BLANK:
-            # check up to 2 lines ahead for an annotation
-            try:
-                
-                next_annos = [lines[i + 1][1], lines[i + 2][1]]
-                next_annos = [a for a in next_annos if a != BLANK]
-                next_anno = next_annos[0]
-                # if any of those readings are valid for this char
-                # per the GY, apply the first of the valid ones.
-
-                # otherwise just use a blank
-
-                # apply it to this character
-                output.append((char, next_anno))
-            except IndexError:
+            # check up to max_lookahead lines ahead for an annotation
+            next_annos = [(char, line[1]) for line in lines[i + 1 : i + 1 + lookahead]]
+            # if any did have an annotation, check if valid per Guangyun
+            next_annos = list(filter(lambda l: rc.is_valid_reading(*l), next_annos))
+            # use the first of the valid annotations
+            if next_annos:
+                output.append((char, next_annos[0][1]))
+            else:
                 output.append((char, BLANK))
+        # if there was an annotation but it's invalid, blank it instead
         else:
-            output.append((char, BLANK))
+            if rc.is_valid_reading(char, anno):
+                output.append((char, anno))
+            else:
+                output.append((char, BLANK))
 
     # re-join lines and return
     return "\n".join(["\t".join(line) for line in output])
+
+
+def convert_fanqie(text: str, rc: Reconstruction, stats: dict) -> str:
+    """Convert fanqie annotations into Middle Chinese transcriptions."""
+
+    def _convert(annotation: re.Match) -> str:
+        try:
+            reading = rc.fanqie_reading_for(
+                annotation.group("initial"), annotation.group("rime")
+            )
+            return f"{annotation.group('char')}\t{reading}"
+        except (NoReadingError, MultipleReadingsError) as e:
+            stats["errors"][str(e)] += 1
+            return f"{annotation.group('char')}\t{BLANK}"
+
+    return FANQIE.sub(_convert, text)
+
+
+def convert_yin(text: str, rc: Reconstruction, stats: dict) -> str:
+    """Convert yin annotations into Middle Chinese transcriptions."""
+
+    def _convert(annotation: re.Match) -> str:
+        try:
+            reading = rc.reading_for(annotation.group("char"))
+            return f"{annotation.group('char')}\t{reading}"
+        except (NoReadingError, MultipleReadingsError) as e:
+            stats["errors"][str(e)] += 1
+            return f"{annotation.group('char')}\t{BLANK}"
+
+    return YIN.sub(_convert, text)
+
+
+def augment_annotations(text: str, rc: Reconstruction, stats: dict) -> str:
+    """Add annotations from the Guangyun for monophonic characters."""
+
+    def _convert(annotation: re.Match) -> str:
+        try:
+            reading = rc.reading_for(annotation.group("char"))
+            return f"{annotation.group('char')}\t{reading}"
+        except (NoReadingError, MultipleReadingsError) as e:
+            stats["errors"][str(e)] += 1
+            return f"{annotation.group('char')}\t{BLANK}"
+
+    return EMPTY_ANNO.sub(_convert, text)

@@ -1,26 +1,37 @@
 #!/usr/bin/env python3
+import json
 from pathlib import Path
+from typing import Any, Counter
 
 import pandas as pd
 import tqdm
 import typer
 
-from lib.patterns import BLACKLIST, ANNOTATION, FANQIE, YIN, EMPTY_ANNO
-from lib.util import clean_text, krp_entity_unicode, split_text, fanqie_to_mc, yin_to_mc, char_to_mc, align_refs
+from lib.patterns import BLACKLIST
+from lib.phonology import Reconstruction
+from lib.util import (
+    align_refs,
+    augment_annotations,
+    clean_text,
+    convert_fanqie,
+    convert_yin,
+    krp_entity_unicode,
+    split_text,
+)
 
 
 def parse(
     in_dir: Path = Path("src/"),
     out_dir: Path = Path("out/"),
-    kr_table_path: Path = Path("data/kr-unicode.tsv"),
-    mc_table_path: Path = Path("data/GDR-SBGY-full.tsv"),
+    kr_table_path: Path = Path("data/kr-unicode.csv"),
+    mc_table_path: Path = Path("data/GDR-SBGY-full.csv"),
 ) -> None:
     """
     Convert the Jingdian Shiwen into a .conll-like annotated text format.
 
     All files in the input folder are processed and split into original text
     and annotations. The text is reformatted to list one annotation per line
-    with the character it immediately follows, and then new files are saved in 
+    with the character it immediately follows, and then new files are saved in
     the output folder.
 
     Combination characters and other special entities from Kanseki Repository
@@ -29,27 +40,22 @@ def parse(
     """
 
     # read unicode conversion table
-    unicode_table = pd.read_csv(
-        kr_table_path,
-        sep="\t",
-        names=["form", "unicode"],
-    )
+    unicode_table = pd.read_csv(kr_table_path)
     to_unicode = lambda entity: krp_entity_unicode(unicode_table, entity)
 
-    # read baxter's song ben guang yun middle chinese table
-    mc_table = pd.read_csv(
-        mc_table_path,
-        sep="\t",
-        names=["char", "fanqie", "initial", "rime", "reading", "group"],
-    ).drop_duplicates()
-    _fanqie_to_mc = lambda char: fanqie_to_mc(char, mc_table)
-    _yin_to_mc = lambda char: yin_to_mc(char, mc_table)
-    _char_to_mc = lambda char: char_to_mc(char, mc_table)
+    # read gian's guangyun middle chinese reconstruction
+    mc_table = pd.read_csv(mc_table_path)
+    rc = Reconstruction(mc_table)
 
     # clean out destination directory
     out_dir.mkdir(exist_ok=True)
     for file in out_dir.glob("*.txt"):
         file.unlink()
+
+    # track statistics
+    stats: dict[str, Any] = {
+        "errors": Counter(),
+    }
 
     # process source text
     typer.echo("Creating annotated text...")
@@ -69,23 +75,25 @@ def parse(
         # text = ANNOTATION.sub(filter_annotation, text)
 
         # convert fanqie annotations
-        text = FANQIE.sub(_fanqie_to_mc, text)
+        text = convert_fanqie(text, rc, stats)
 
         # convert direct "sounds like" annotations
-        text = YIN.sub(_yin_to_mc, text)
+        text = convert_yin(text, rc, stats)
 
         # realign annotations that refer to other characters
-        # text = align_refs(text)
-
-        # TODO check for any readings that are invalid per the Guangyun
-
+        text = align_refs(text, rc)
 
         # add middle chinese readings for any remaining non-polyphones
-        text = EMPTY_ANNO.sub(_char_to_mc, text)
+        text = augment_annotations(text, rc, stats)
 
         # save the text into the output folder
         output = out_dir / f"{file.stem}.txt"
         output.open(mode="w").write(text)
+
+    # write out statistics
+    typer.echo("Writing statistics...")
+    with open(out_dir / "stats.json", "w", encoding="utf8") as f:
+        f.write(json.dumps(dict(stats), indent=2, ensure_ascii=False))
 
 
 if __name__ == "__main__":

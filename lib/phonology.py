@@ -16,27 +16,27 @@ class Reconstruction:
     def initial_for(self, char: str) -> str:
         readings = self.table[self.table["char"] == char]
         if len(readings) == 0:
-            raise NoReadingError
+            raise NoReadingError(f"No reading for {char}")
         initials = readings["initial"].unique()
         if len(initials) > 1:
-            raise MultipleReadingsError
+            raise MultipleReadingsError(f"Multiple initials for {char}")
         return initials[0]
 
     def rime_for(self, char: str) -> str:
         readings = self.table[self.table["char"] == char]
         if len(readings) == 0:
-            raise NoReadingError
+            raise NoReadingError(f"No reading for {char}")
         rimes = readings["rime"].unique()
         if len(rimes) > 1:
-            raise MultipleReadingsError
+            raise MultipleReadingsError(f"Multiple rimes for {char}")
         return rimes[0]
 
     def reading_for(self, char: str) -> str:
         readings = self.table[self.table["char"] == char]
         if len(readings) == 0:
-            raise NoReadingError
+            raise NoReadingError(f"No reading for {char}")
         if len(readings) > 1:
-            raise MultipleReadingsError
+            raise MultipleReadingsError(f"Multiple readings for {char}")
         return readings["reading"].iloc[0]
 
     def readings_for(self, char: str) -> list[str]:
