@@ -6,3 +6,5 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
 #+PROPERTY: FILE SB01n0024-010經典釋文-卷第十.
+#+PARATEXT1: 儀禮音義¶
+#+PARATEXT@: 唐國子博士兼太子中允贈齊州刺史吳縣開國男陸德明撰¶
