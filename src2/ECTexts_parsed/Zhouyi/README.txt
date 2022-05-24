@@ -1,0 +1,5 @@
+#+SOURCE: https://github.com/kanripo/KR1a0006/
+#+TITLE: 周易
+#+DATE: 2015-09-10 22:47:09.923505
+#+PROPERTY: ID KR1a0006
+#+PROPERTY: BASEEDITION SBCK    
