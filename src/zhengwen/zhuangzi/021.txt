@@ -1,0 +1,638 @@
+** 21 田子方第二十一
+
+田子方侍坐於魏文侯，¶
+數稱谿工。¶
+
+# src: ZHUANG 21.1.2 Guo Qingfan 701; Wang Shumin 767; Fang Yong 553; Chen Guying 529
+# dating: 8110
+文侯曰：¶
+「谿工，子之師邪？」¶
+
+# src: ZHUANG 21.1.3 Guo Qingfan 701; Wang Shumin 767; Fang Yong 553; Chen Guying 529
+# dating: 8110
+子方曰：¶「非也，¶
+无擇之里人也；¶
+稱道數當，¶
+故无擇稱之。」¶
+
+
+# src: ZHUANG 21.1.4 Guo Qingfan 702; Wang Shumin 767; Fang Yong 553; Chen Guying 529
+# dating: 8110
+文侯曰：¶「然則子无師邪？」¶
+
+# src: ZHUANG 21.1.5 Guo Qingfan 702; Wang Shumin 767; Fang Yong 553; Chen Guying 529
+# dating: 8110
+子方曰：¶「有。」¶
+
+# src: ZHUANG 21.1.6 Guo Qingfan 702; Wang Shumin 767; Fang Yong 553; Chen Guying 529
+# dating: 8110
+曰：¶
+「子之師誰邪？」¶
+
+# src: ZHUANG 21.1.7 Guo Qingfan 702; Wang Shumin 767; Fang Yong 553; Chen Guying 529
+# dating: 8110
+子方曰：¶「東郭順子。」¶
+
+# src: ZHUANG 21.1.8 Guo Qingfan 702; Wang Shumin 767; Fang Yong 553; Chen Guying 529
+# dating: 8110
+文侯曰：¶
+「然則夫子何故未嘗稱之？」¶
+
+# src: ZHUANG 21.1.9 Guo Qingfan 702; Wang Shumin 767; Fang Yong 553; Chen Guying 529
+# dating: 8110
+子方曰：¶
+「其為人也真，¶
+人貌而天，虛
+緣而葆真，¶
+清而容物。¶
+物无道，¶
+正容以悟之，¶
+使人之意也消。¶
+无擇何足以稱之！」<pb:KR5c0126_CHANT_021-2a>¶
+
+# src: ZHUANG 21.1.10 Guo Qingfan 703; Wang Shumin 767; Fang Yong 553; Chen Guying 529
+# dating: 8110
+子方出，¶
+文侯儻然終日不言，¶
+召前立臣而語之曰：¶
+「遠矣，¶
+全德之君子！¶
+
+# src: ZHUANG 21.1.11 Guo Qingfan 703; Wang Shumin 767; Fang Yong 553; Chen Guying 529
+# dating: 8110
+始吾以聖知之言仁義之行為至矣，¶
+吾聞子方之師，¶
+吾形解而不欲動，¶
+口鉗而不欲言。¶
+吾所學者真土梗耳，¶
+夫魏真為我累耳！」<pb:KR5c0126_CHANT_021-3a>¶
+
+# src: ZHUANG 21.2.1 Guo Qingfan 704; Wang Shumin 771; Fang Yong 556; Chen Guying 532
+# dating: 8110
+溫伯雪子適齊，¶
+舍於魯。¶
+魯人有請見之者，¶
+溫伯雪子曰：¶
+「不可。¶
+吾聞中國之君子，¶
+明乎禮義
+而陋於知人心，¶
+吾不欲見也。」¶
+
+# src: ZHUANG 21.2.2 Guo Qingfan 705; Wang Shumin 771; Fang Yong 556; Chen Guying 532
+# dating: 8110
+至於齊，¶
+反舍於魯，¶
+是人也又請見。¶
+溫伯雪子曰：¶
+「往也蘄見我，¶
+今也又蘄見我，¶
+是必有以振我也。」<pb:KR5c0126_CHANT_021-4a>¶
+
+# src: ZHUANG 21.2.3 Guo Qingfan 705; Wang Shumin 771; Fang Yong 556; Chen Guying 532
+# dating: 8110
+出而見客，¶
+入而歎。¶
+明日見客，¶
+又入而歎。¶
+其僕曰：¶
+「每見之客也，¶
+必入而歎，¶
+何邪？」¶
+
+# src: ZHUANG 21.2.4 Guo Qingfan 705; Wang Shumin 771; Fang Yong 556; Chen Guying 532
+# dating: 8110
+曰：¶
+「吾固告子矣：¶
+『中國之君子，¶
+明乎禮義
+而陋乎知人心。』¶
+昔之見我者，¶
+進退一成規，一成矩，¶
+從容一若龍，一若虎，¶
+其諫我也似子，¶
+其道我也似父，¶
+是以歎也。」¶
+
+# src: ZHUANG 21.2.5 Guo Qingfan 706; Wang Shumin 771; Fang Yong 556; Chen Guying 533
+# dating: 8110
+仲尼見之而不言。¶
+子路曰：¶
+「吾子欲見溫伯雪子久矣，¶
+見之而不言，何邪？」¶
+
+# src: ZHUANG 21.2.6 Guo Qingfan 706; Wang Shumin 771; Fang Yong 556; Chen Guying 533
+# dating: 8110
+仲尼曰：¶
+「若夫人者，¶
+目擊而道存矣，¶
+亦不可以容聲矣。」<pb:KR5c0126_CHANT_021-5a>¶
+
+# src: ZHUANG 21.3.1 Guo Qingfan 706; Wang Shumin 774; Fang Yong 558; Chen Guying 533
+# dating: 8110
+顏淵問於仲尼曰：¶
+「夫子步亦步，¶
+夫子趨亦趨，¶
+夫子馳亦馳；¶
+夫子奔逸絕塵，¶
+而回瞠若乎後矣！」¶
+
+# src: ZHUANG 21.3.2 Guo Qingfan 706; Wang Shumin 774; Fang Yong 558; Chen Guying 533
+# dating: 8110
+夫子曰：¶
+「回，¶何謂邪？」¶
+
+
+# src: ZHUANG 21.3.3 Guo Qingfan 706; Wang Shumin 774; Fang Yong 558; Chen Guying 533
+# dating: 8110
+曰：¶
+「夫子步
+亦步也
+者，¶
+夫子言
+亦言也，¶
+夫子趨
+亦趨也
+者，¶
+夫子辯
+亦辯也，¶
+
+# src: ZHUANG 21.3.4 Guo Qingfan 706; Wang Shumin 774; Fang Yong 558; Chen Guying 533
+# dating: 8110
+夫子馳亦馳也
+者，¶
+夫子言道，回亦言道也；¶
+及奔逸絕塵，¶
+而回瞠若乎後也者，¶
+夫子不言而信，¶
+不比而周，¶
+无器
+而民滔乎前，¶
+而不知所以然而已矣。」<pb:KR5c0126_CHANT_021-6a>¶
+
+# src: ZHUANG 21.3.5 Guo Qingfan 707; Wang Shumin 774; Fang Yong 558; Chen Guying 533
+# dating: 8110
+仲尼曰：¶「惡！¶
+可不察與！¶
+夫哀莫大於心死，¶
+而人死亦次之。¶
+日出東方
+而入於西極，¶
+萬物莫不比方，¶
+
+# src: ZHUANG 21.3.6 Guo Qingfan 707; Wang Shumin 774; Fang Yong 558; Chen Guying 534
+# dating: 8110
+有目有趾者，¶
+待是而後成功，¶
+是出則存，¶
+是入則亡。¶
+萬物亦然，¶
+有待也而死，¶
+有待也而生。¶
+
+# src: ZHUANG 21.3.7 Guo Qingfan 707; Wang Shumin 774; Fang Yong 558; Chen Guying 534
+# dating: 8110
+吾一受其成形，¶
+而不化以待盡，¶
+效物而動，¶
+日夜无隙，¶
+而不知其所終；¶
+薰然其成形，¶
+知命
+不能規乎其前，¶
+丘以是日徂。¶
+
+# src: ZHUANG 21.3.8 Guo Qingfan 709; Wang Shumin 774; Fang Yong 558; Chen Guying 534
+# dating: 8110
+吾終身與汝交一臂
+而失之
+可不哀與！¶
+汝殆著乎吾所以著也。¶
+彼已盡矣，¶
+而汝求之以為有，¶
+是求馬於唐肆也。¶
+吾服汝也甚忘，¶
+汝服吾也亦甚忘。¶
+
+# src: ZHUANG 21.3.9 Guo Qingfan 709; Wang Shumin 774; Fang Yong 558; Chen Guying 534
+# dating: 8110
+雖然，¶
+汝奚患焉！¶
+雖忘乎故吾，¶
+猶有不忘者存。」<pb:KR5c0126_CHANT_021-7a>¶
+
+# src: ZHUANG 21.4.1 Guo Qingfan 711; Wang Shumin 779; Fang Yong 563; Chen Guying 538
+# dating: 8110
+孔子見老聃，¶
+老聃新沐，¶
+方將被髮而乾，¶
+慹然似非人。¶
+孔子便而待之，¶
+少焉見，¶
+曰：¶
+「丘也眩與，¶
+其信然與？¶
+向者先生形體掘若槁木，¶
+似遺物
+離人而立於獨也。」¶
+
+# src: ZHUANG 21.4.2 Guo Qingfan 712; Wang Shumin 779; Fang Yong 563; Chen Guying 539
+# dating: 8110
+老聃曰：¶
+「吾遊於物之初。」¶
+
+# src: ZHUANG 21.4.3 Guo Qingfan 712; Wang Shumin 779; Fang Yong 563; Chen Guying 539
+# dating: 8110
+孔子曰：¶「何謂邪？」¶
+
+# src: ZHUANG 21.4.4 Guo Qingfan 712; Wang Shumin 779; Fang Yong 563; Chen Guying 539
+# dating: 8110
+曰：¶
+「心困焉而不能知，¶
+口辟焉而不能言，¶
+嘗為汝議乎其將。¶
+至陰肅肅，¶
+至陽赫赫；¶
+肅肅出乎天，¶
+赫赫發乎地；¶
+兩者交通成和
+而物生焉，¶
+
+# src: ZHUANG 21.4.5 Guo Qingfan 712; Wang Shumin 779; Fang Yong 563; Chen Guying 539
+# dating: 8110
+或為之紀
+而莫見其形。¶
+消息滿虛，¶
+一晦一明，¶
+日改月化，¶
+日有所為，¶
+而莫見其功。¶
+
+# src: ZHUANG 21.4.6 Guo Qingfan 712; Wang Shumin 779; Fang Yong 563; Chen Guying 539
+# dating: 8110
+生有所乎萌，¶
+死有所乎歸，¶
+始終相反乎无端
+而莫知乎其所窮。¶
+非是也，¶
+且孰為之宗！」<pb:KR5c0126_CHANT_021-8a>¶
+
+# src: ZHUANG 21.4.7 Guo Qingfan 714; Wang Shumin 7i2; Fang Yong 563; Chen Guying 539
+# dating: 8110
+孔子曰：¶「請問遊是。」¶
+
+# src: ZHUANG 21.4.8 Guo Qingfan 714; Wang Shumin 7i2; Fang Yong 563; Chen Guying 539
+# dating: 8110
+老聃曰：¶
+「夫得是，至美至樂也，¶
+得至美而遊乎至樂，¶
+謂之至人。」¶
+
+# src: ZHUANG 21.4.9 Guo Qingfan 714; Wang Shumin 7i2; Fang Yong 563; Chen Guying 539
+# dating: 8110
+孔子曰：¶「願聞其方。」¶
+
+# src: ZHUANG 21.4.10 Guo Qingfan 714; Wang Shumin 7i2; Fang Yong 563; Chen Guying 539
+# dating: 8110
+曰：¶
+「草食之獸不疾易藪，¶
+水生之蟲不疾易水，¶
+行小變而不失其大常也，¶
+喜怒哀樂不入於胸次。¶
+夫天下也者，¶
+萬物之所一也。¶
+
+# src: ZHUANG 21.4.11 Guo Qingfan 714; Wang Shumin 7i2; Fang Yong 563; Chen Guying 539
+# dating: 8110
+得其所一而同焉，¶
+則四支百體將為塵垢，¶
+而死生終始將為晝夜
+而莫之能滑，¶
+而況得喪禍福之所介乎！¶
+
+# src: ZHUANG 21.4.12 Guo Qingfan 714; Wang Shumin 7i2; Fang Yong 563; Chen Guying 539
+# dating: 8110
+棄隸者若棄泥塗，¶
+知身貴於隸也，¶
+貴在於我
+而不失於變。¶
+且萬化
+而未始有極也，¶
+夫孰足以患心！¶
+已為道者解乎此。」<pb:KR5c0126_CHANT_021-9a>¶
+
+# src: ZHUANG 21.4.13 Guo Qingfan 716; Wang Shumin 7i3; Fang Yong 563; Chen Guying 540
+# dating: 8110
+孔子曰：¶
+「夫子德配天地，¶
+而猶假至言以脩心，¶
+古之君子，¶
+孰能脫焉？」¶
+
+# src: ZHUANG 21.4.14 Guo Qingfan 716; Wang Shumin 7i3; Fang Yong 563; Chen Guying 540
+# dating: 8110
+老聃曰：¶「不然。¶
+夫水之於汋也，¶
+无為而才自然矣。¶
+至人之於德也，¶
+不脩
+而物不能離焉，¶
+若天之自高，¶
+地之自厚，¶
+日月之自明，¶
+夫何脩焉！」¶
+
+# src: ZHUANG 21.4.15 Guo Qingfan 716; Wang Shumin 7i3; Fang Yong 564; Chen Guying 540
+# dating: 8110
+孔子出，¶
+以告顏回曰：¶
+「丘之於道也，¶
+其猶醯雞與！¶
+微夫子之發吾覆也，¶
+吾不知天地之大全也。」<pb:KR5c0126_CHANT_021-10a>¶
+
+# src: ZHUANG 21.5.1 Guo Qingfan 717; Wang Shumin 786; Fang Yong 568; Chen Guying 543
+# dating: 8110
+莊子見魯哀公，¶
+哀公曰：¶
+「魯多儒士，¶
+少為先生方者。」¶
+
+# src: ZHUANG 21.5.2 Guo Qingfan 717; Wang Shumin 786; Fang Yong 568; Chen Guying 543
+# dating: 8110
+莊子曰：¶「魯少儒。」¶
+
+# src: ZHUANG 21.5.3 Guo Qingfan 717; Wang Shumin 786; Fang Yong 568; Chen Guying 543
+# dating: 8110
+哀公曰：¶「舉魯國而儒服，¶
+何謂少乎？」¶
+
+# src: ZHUANG 21.5.4 Guo Qingfan 718; Wang Shumin 786; Fang Yong 568; Chen Guying 543
+# dating: 8110
+莊子曰：¶「周聞之，¶
+儒者冠圜冠者，¶
+知天時；¶
+履句屨者，¶
+知地形；¶
+緩佩玦者，¶
+事至而斷。¶
+
+# src: ZHUANG 21.5.5 Guo Qingfan 718; Wang Shumin 786; Fang Yong 568; Chen Guying 544
+# dating: 8110
+君子有其道者，¶
+未必為其服也；¶
+為其服者，¶
+未必知其道也。¶
+公固以為不然，¶
+何不號於國中曰：¶
+『无此道而為此服者，¶
+其罪死！』」<pb:KR5c0126_CHANT_021-11a>¶
+
+# src: ZHUANG 21.5.6 Guo Qingfan 718; Wang Shumin 786; Fang Yong 568; Chen Guying 544
+# dating: 8110
+於是哀公號之五日，¶
+而魯國无敢儒服者，¶
+獨有一丈夫，儒服
+而立乎公門。¶
+公即召而問以國事，¶
+千轉萬變而不窮。¶
+
+# src: ZHUANG 21.5.7 Guo Qingfan 718; Wang Shumin 786; Fang Yong 568; Chen Guying 544
+# dating: 8110
+莊子曰：¶
+「以魯國而儒者一人耳，¶
+可謂多乎？」¶
+
+# src: ZHUANG 21.6.1 Guo Qingfan 719; Wang Shumin 786; Fang Yong 570; Chen Guying 545
+# dating: 8110
+百里奚爵祿不入於心，¶
+故飯牛而牛肥，¶
+使秦穆公忘其賤，¶
+與之政也。¶
+有虞氏
+死生不入於心，¶
+故足以動人。¶
+
+# src: ZHUANG 21.7.1 Guo Qingfan 719; Wang Shumin 786; Fang Yong 570; Chen Guying 546
+# dating: 8110
+宋元君將畫圖，¶
+眾史皆至，¶
+受揖
+而立；¶
+舐筆和墨，¶
+在外者半。¶
+有一史後至者，¶
+儃儃然不趨，¶
+
+# src: ZHUANG 21.7.2 Guo Qingfan 719; Wang Shumin 786; Fang Yong 570; Chen Guying 546
+# dating: 8110
+受揖不立，¶
+因之舍。¶
+公使人視之，¶
+則解衣
+槃礴臝。¶
+君曰：¶
+「可矣，¶
+是真畫者也。」<pb:KR5c0126_CHANT_021-12a>¶
+
+# src: ZHUANG 21.8.1 Guo Qingfan 720; Wang Shumin 789; Fang Yong 572; Chen Guying 547
+# dating: 8110
+文王觀於臧，¶
+見一丈夫釣，¶
+而其釣莫釣；¶
+非持其釣
+有釣者也，¶
+常釣也。¶
+
+# src: ZHUANG 21.8.2 Guo Qingfan 720; Wang Shumin 789; Fang Yong 572; Chen Guying 547
+# dating: 8110
+文王欲舉
+而授之政，¶
+而恐大臣父兄之弗安也；¶
+欲終而釋之，¶
+而不忍百姓之无天也。¶
+於是旦而屬之夫夫曰：¶
+
+# src: ZHUANG 21.8.3 Guo Qingfan 720; Wang Shumin 789; Fang Yong 572; Chen Guying 547
+# dating: 8110
+「昔者寡人夢見良人，¶
+黑色而髯，¶
+乘駁馬而偏朱蹄，¶
+號曰：¶
+『寓而政於臧丈人，¶
+庶幾乎民有瘳乎！』」¶
+
+# src: ZHUANG 21.8.4 Guo Qingfan 721; Wang Shumin 790; Fang Yong 572; Chen Guying 547
+# dating: 8110
+諸大夫蹴然曰：¶
+「先君命王也。」¶
+
+# src: ZHUANG 21.8.5 Guo Qingfan 721; Wang Shumin 790; Fang Yong 572; Chen Guying 547
+# dating: 8110
+文王曰：¶「然則卜之。」¶
+
+# src: ZHUANG 21.8.6 Guo Qingfan 722; Wang Shumin 790; Fang Yong 572; Chen Guying 547
+# dating: 8110
+諸大夫曰：¶「先君之命，¶
+王其无它，¶
+又何卜焉！」¶
+
+# src: ZHUANG 21.8.7 Guo Qingfan 722; Wang Shumin 790; Fang Yong 572; Chen Guying 548
+# dating: 8110
+遂迎臧丈人
+而授之政。¶
+典法无更，¶
+偏令无出。¶
+三年，¶
+文王觀於國，¶
+則列士壞植
+散群，¶
+長官者不成德，¶
+斔斛不敢入於四境。¶
+
+# src: ZHUANG 21.8.8 Guo Qingfan 722; Wang Shumin 790; Fang Yong 572; Chen Guying 548
+# dating: 8110
+列士壞植
+散群，¶
+則尚同也；¶
+長官者不成德，¶
+則同務也；¶
+斔斛不敢入於四境，¶
+則諸侯无二心也。
+
+# src: ZHUANG 21.8.9 Guo Qingfan 723; Wang Shumin 790; Fang Yong 572; Chen Guying 548
+# dating: 8110
+<pb:KR5c0126_CHANT_021-13a>¶
+文王於是焉以為大師，¶
+北面而問曰：¶
+「政可以及天下乎？」¶
+臧丈人昧然而不應，¶
+泛然而辭，¶
+朝令而夜遁，¶
+終身无聞。¶
+
+# src: ZHUANG 21.8.10 Guo Qingfan 723; Wang Shumin 790; Fang Yong 572; Chen Guying 548
+# dating: 8110
+顏淵問於仲尼曰：¶
+「文王其猶未邪？¶
+又何以夢為乎？」¶
+
+# src: ZHUANG 21.8.11 Guo Qingfan 723; Wang Shumin 790; Fang Yong 572; Chen Guying 548
+# dating: 8110
+仲尼曰：¶「默，¶
+汝无言！¶
+夫文王盡之也，¶
+而又何論刺焉！¶
+彼直以循斯須也。」<pb:KR5c0126_CHANT_021-14a>¶
+
+# src: ZHUANG 21.9.1 Guo Qingfan 724; Wang Shumin 795; Fang Yong 576; Chen Guying 551
+# dating: 8110
+列御寇為伯昏无人射，¶
+引之盈貫，¶
+措杯水其肘上，¶
+發之，¶
+適矢復沓，¶
+方矢復寓。¶
+當是時，猶象人也。¶
+
+# src: ZHUANG 21.9.2 Guo Qingfan 725; Wang Shumin 795; Fang Yong 576; Chen Guying 551
+# dating: 8110
+伯昏无人曰：¶
+「是射之射，¶
+非不射之射也。¶
+嘗與汝登高山，¶
+履佹石，¶
+臨百仞之淵，¶
+若能射乎？」¶
+
+# src: ZHUANG 21.9.3 Guo Qingfan 725; Wang Shumin 795; Fang Yong 576; Chen Guying 551
+# dating: 8110
+於是无人遂登高山，¶
+履危石，¶
+臨百仞之淵，¶
+背逡巡，¶
+足二分垂在外，¶
+揖御寇而進之
+御寇伏地，¶
+汗流至踵。¶
+
+# src: ZHUANG 21.9.4 Guo Qingfan 725; Wang Shumin 795; Fang Yong 576; Chen Guying 551
+# dating: 8110
+伯昏无人曰：¶
+「夫至人者，¶
+上闚青天，¶
+下潛黃泉，¶
+揮斥八極，¶
+神氣不變。¶
+今汝怵然有恂目之志，¶
+爾於中也殆矣夫！」<pb:KR5c0126_CHANT_021-15a>¶
+
+# src: ZHUANG 21.10.1 Guo Qingfan 726; Wang Shumin 798; Fang Yong 578; Chen Guying 553
+# dating: 8110
+肩吾問於孫叔敖曰：¶
+「子三為令尹
+而不榮華，¶
+三去之
+而无憂色。¶
+吾始也疑子，¶
+今視子之鼻閒栩栩然，¶
+子之用心獨奈何？」¶
+
+# src: ZHUANG 21.10.2 Guo Qingfan 726; Wang Shumin 798; Fang Yong 578; Chen Guying 553
+# dating: 8110
+孫叔敖曰：¶
+「吾何以過人哉！¶
+吾以其來不可卻也，¶
+其去不可止也，¶
+吾以為得失之非我也，¶
+而无憂色而已矣。¶
+我何以過人哉！¶
+且不知其在彼乎，¶
+其在我乎？¶
+
+# src: ZHUANG 21.10.3 Guo Qingfan 726; Wang Shumin 798; Fang Yong 578; Chen Guying 553
+# dating: 8110
+其在彼邪？¶
+亡乎我；¶
+在我邪？¶
+亡乎彼。¶
+方將躊躇，¶
+方將四顧，¶
+何暇至乎人貴人賤哉！」<pb:KR5c0126_CHANT_021-16a>¶
+
+# src: ZHUANG 21.10.4 Guo Qingfan 727; Wang Shumin 798; Fang Yong 578; Chen Guying 553
+# dating: 8110
+仲尼聞之曰：¶
+「古之真人，¶
+知者不得說，¶
+美人不得濫，¶
+盜人不得刦，¶
+伏戲黃帝不得友。¶
+
+# src: ZHUANG 21.10.5 Guo Qingfan 727; Wang Shumin 798; Fang Yong 578; Chen Guying 553
+# dating: 8110
+死生亦大矣，¶
+而无變乎己，¶
+況爵祿乎！¶
+若然者，¶
+其神經乎大山而无介，¶
+入乎淵泉而不濡，¶
+處卑細而不憊，¶
+充滿天地
+而不窕，既以與人
+己愈有。」<pb:KR5c0126_CHANT_021-17a>¶
+
+# src: ZHUANG 21.11.1 Guo Qingfan 728; Wang Shumin 802; Fang Yong 580; Chen Guying 555
+# dating: 8110
+楚王與凡君坐，¶
+少焉，¶
+楚王左右曰
+凡亡者三。¶
+凡君曰：¶
+「凡之亡也，¶
+不足以喪吾存。¶
+夫¶『凡之亡不足以喪吾存』，¶
+則楚之存不足以存存。¶
+由是觀之，¶
+則凡未始亡，¶
+而楚未始存也。」

@@ -1,0 +1,49 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 尚書
+#+DATE: 2016-08-10 10:16:41
+#+PROPERTY: ID KR1b0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 6
+#+PROPERTY: CAT 1pre-han,經學典籍,書經類
+# src: SHU7.0 書序; ed. SUN XINGYAN 1989 p. 560
+# dating: 3100
+<pb:KR1b0001_tls_007-1a>¶
+** 7 《甘誓》
+
+啟與有扈戰于甘之野。¶
+作《甘誓》。
+
+# src: SHU 7.1; tr. Karlgren p. 18ff
+# dating: 3100
+<pb:KR1b0001_tls_007-2a>¶
+大戰于甘，¶
+乃召六卿。¶
+
+# src: SHU 7.2; tr. Karlgren p. 18ff
+# dating: 3100
+王曰：¶
+「嗟！六事之人，¶
+予誓告汝：¶
+
+# src: SHU 7.3; tr. Karlgren p. 18ff
+# dating: 3100
+有扈氏威侮五行，¶
+怠棄三正，¶
+天用勦絕其命。¶
+今予惟恭行天之罰。¶
+
+# src: SHU 7.4; tr. Karlgren p. 18ff.4
+# dating: 3100
+左不攻于左，¶
+汝不恭命；¶
+右不攻于右，¶
+汝不恭命；¶
+御非其馬之正，¶
+汝不恭命。
+
+# src: SHU 7.5; tr. Karlgren p. 18ff
+# dating: 3100
+用命，賞于祖；¶
+弗用命，戮于社。¶
+予則孥戮汝。」
+
