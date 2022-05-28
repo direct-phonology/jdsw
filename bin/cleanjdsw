@@ -1,0 +1,69 @@
+#!/usr/bin/env python3
+
+from pathlib import Path
+from collections import OrderedDict
+
+import typer
+
+
+def main(jdsw_file: Path, sbck_file: Path) -> None:
+    """
+    Compare the JDSW edition of a text with the SBCK edition of the same text.
+
+    Any annotations in the JDSW edition that map onto the commentary in the
+    SBCK edition are dropped from the JDSW edition. Annotations that don't
+    map onto anywhere in the SBCK edition are logged to stderr.
+    """
+
+    # read JDSW edition into dict of target:annotation
+    jdsw = OrderedDict(
+        {
+            line.split("\t")[0]: line.split("\t")[1]
+            for line in jdsw_file.open("r", encoding="utf-8").read().splitlines()
+        }
+    )
+
+    # read SBCK edition into list of source:commentary tuples
+    sbck = OrderedDict(
+        {
+            line.split("\t")[0]: line.split("\t")[1]
+            for line in sbck_file.open("r", encoding="utf-8").read().splitlines()
+        }
+    )
+
+    # reconstruct the full SBCK text with commentary as a string
+    sbck_text = "".join(["".join(pair) for pair in sbck.items()])
+
+    # construct a map of the SBCK edition where each character index is mapped
+    # to a boolean indicating whether that character is in the source text
+    sbck_map = []
+    for source, commentary in sbck.items():
+        sbck_map += [True for i in range(len(source))]
+        sbck_map += [False for i in range(len(commentary))]
+    assert len(sbck_map) == len(sbck_text)
+
+    # use a pointer into the full SBCK text to find the next possible place an
+    # annotation from the JDSW could apply. if the annotation target is in the
+    # source text, we advance the pointer and keep that annotation. if the
+    # annotation target is in the commentary, we advance the pointer and
+    # ignore the annotation. if the target isn't found, log it.
+    output = {}
+    pointer = 0
+    for target, annotation in jdsw.items():
+        remaining = sbck_text[pointer:]
+        location = remaining.find(target)
+        if location == -1:
+            typer.echo(f"no match for {target} in {sbck_file}", err=True)
+        else:
+            pointer = location
+            if sbck_map[location] is True:
+                output[target] = annotation
+
+    # write cleaned version to stdout
+    typer.echo("\n".join(["\t".join(line) for line in output.items()]))
+
+
+if __name__ == "__main__":
+    typer.run(main)
+
+__doc__ = main.__doc__  # type: ignore

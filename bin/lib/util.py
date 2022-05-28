@@ -2,6 +2,7 @@ import re
 from typing import Callable
 
 import pandas as pd
+from cihai.core import Cihai
 
 from .patterns import (
     BLANK,
@@ -57,8 +58,17 @@ def krp_entity_unicode(table: pd.DataFrame, match: re.Match) -> str:
     return char["unicode"].values[0]
 
 
-def split_text(text: str) -> str:
-    """Reformat a text into a CoNLL-like format."""
+def split_text(text: str, by_char=True) -> str:
+    """
+    Reformat a text into a CoNLL-like format with annotations opposite text.
+
+    If by_char is True (the default), each character will get its own line,
+    similar to ConLL-2002 format, and the annotation will be opposite the
+    last character in each sequence.
+
+    If by_char is False, each line will be a sequence of characters, with
+    the corresponding annotation opposite it.
+    """
 
     # split text by annotations; alternating char sequence with annotation
     chunks = ANNOTATION.split(text)
@@ -67,7 +77,7 @@ def split_text(text: str) -> str:
     # all characters in sequence correspond to blanks except last, which matches
     # the annotation. each character on a new line, separated by tab
     fmt_chunks = zip(
-        [f"\t{BLANK}\n".join(char) for char in chars],
+        [f"\t{BLANK}\n".join(char) for char in chars] if by_char else chars,
         ["\t{}\n".format(anno) for anno in annos],
     )
     output = "".join(["".join(chunk) for chunk in fmt_chunks])
@@ -151,3 +161,8 @@ def augment_annotations(text: str, rc: Reconstruction, stats: dict) -> str:
             return f"{annotation.group('char')}\t{BLANK}"
 
     return EMPTY_ANNO.sub(_convert, text)
+
+
+def get_variant(char: str, rc: Reconstruction, c: Cihai) -> str:
+    """Find a variant for a character with reconstructed data."""
+    pass

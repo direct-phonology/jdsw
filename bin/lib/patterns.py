@@ -16,8 +16,8 @@ FANQIE = re.compile(r"""
     (?P<char>.)             # character being annotated
     \t
     (如字)?[徐|又]?
-    (?P<initial>[^_])       # initial/onset
-    (?P<rime>[^_])          # rime/tone
+    (?P<initial>[^_])       # character with same initial
+    (?P<rime>[^_])          # character with same rime
     反
     [下注後同與也及專大]*
     $
@@ -30,7 +30,7 @@ YIN = re.compile(r"""
     \t
     (如字)?[徐|又]?
     音
-    (?P<anno>[^_])          # sounds "the same as" this character
+    (?P<anno>[^_])          # initial and rime are the same as this character
     [下注後同與也及專大]*
     $
 """, re.VERBOSE | re.MULTILINE)
@@ -53,8 +53,8 @@ WHITELIST = (FANQIE, YIN)
 
 # chapters we don't care about using: paratextual material, notes, etc.
 BLACKLIST = (
-    "KR1g0003_000",  # introduction
-    "KR1g0003_001",  # 序録
+    "KR1g0003_000",  # front matter
+    "KR1g0003_001",  # introduction
     "KR1g0003_031",  # notes
     "KR1g0003_032",  # notes
     "KR1g0003_033",  # notes
@@ -68,3 +68,9 @@ MODE_HEADER = re.compile(r"# -\*- mode: .+; -\*-\n")
 META_HEADER = re.compile(r"#\+\w+: .+\n")
 LINE_BREAK = re.compile(r"<pb:(?:.+)>¶\n")
 ANNOTATION = re.compile(r"\((.+?)\)")
+
+# y- and z-variant indicators in Unihan
+KSEMVAR_THREE = re.compile(r"U\+(\w+)<(?:k\w+,?){3}")   # all three dicts agree
+KSEMVAR_TWO = re.compile(r"U\+(\w+)<(?:k\w+,?){2}")     # two dicts agree
+KSEMVAR_ONE = re.compile(r"U\+(\w+)<k\w+")              # use any dict
+KZVAR = re.compile(r"U\+(\w+)")                         # z-variant
