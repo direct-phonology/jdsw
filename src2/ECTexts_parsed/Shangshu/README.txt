@@ -1,7 +1,0 @@
-#+SOURCE: https://github.com/kanripo/KR1b0001
-#+TITLE: 尚書
-#+DATE: 2016-08-10 10:16:41
-#+PROPERTY: ID KR1b0001
-#+PROPERTY: BASEEDITION tls
-#+PROPERTY: JUAN 0
-#+PROPERTY: CAT 1pre-han,經學典籍,書經類
