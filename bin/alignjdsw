@@ -17,7 +17,7 @@ def main(jdsw_file: Path, sbck_file: Path, overwrite: bool = False) -> None:
     appear to map  onto anywhere in the SBCK edition will have a blank. Output
     is written to stdout or, optionally, to overwrite the JDSW input file.
 
-    $ cleanjdsw jdsw/gongyang/001.txt sbck/gongyang/001.txt --overwrite
+    $ alignjdsw jdsw/gongyang/001.txt sbck/gongyang/001.txt --overwrite
     """
 
     # read JDSW edition into list of target:annotation tuples
