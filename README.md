@@ -1,7 +1,7 @@
 # Parsing phonology from the _Jingdian Shiwen_
 This project is an attempt to convert the annotations compiled by the Tang dynasty scholar [Lu Deming (陸德明)](https://en.wikipedia.org/wiki/Lu_Deming) in the [_Jingdian Shiwen_ (经典释文)](https://en.wikipedia.org/wiki/Jingdian_Shiwen) into a structured form that matches individual characters to their Middle Chinese pronunciation.
 
-Many of the annotations in the _Jingdian Shiwen_ specify how a particular character should be read, often using the [_fanqie_ (反切)](https://en.wikipedia.org/wiki/Fanqie) method. Some of these annotations follow a structure predictable enough to transform them into a reading, for which we use William Baxter's (1992) Middle Chinese transcription system<sup>1</sup>.
+Many of the annotations in the _Jingdian Shiwen_ specify how a particular character should be read, often using the [_fanqie_ (反切)](https://en.wikipedia.org/wiki/Fanqie) method. Some of these annotations follow a structure predictable enough to transform them into a reading, for which we use [William Baxter's (1992) transcription for Middle Chinese](https://en.wikipedia.org/wiki/Baxter%27s_transcription_for_Middle_Chinese)<sup>1</sup>.
 
 The source text used is from the Kanseki Repository, and is preprocessed to remove punctuation, whitespace, and any non-Chinese characters. The output format is a [CoNLL-like](https://universaldependencies.org/format.html) plaintext file that maps a single character to its annotation, one character per line, separated by a tab. The aim is to produce output that can be used for machine learning, natural language processing, and other computational applications.
 ## Usage
