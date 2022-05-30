@@ -4,6 +4,8 @@ from pathlib import Path
 
 import typer
 
+from lib.patterns import BLANK
+
 
 def main(jdsw_file: Path, sbck_file: Path, overwrite: bool = False) -> None:
     """
@@ -44,7 +46,7 @@ def main(jdsw_file: Path, sbck_file: Path, overwrite: bool = False) -> None:
         remaining = sbck_text[pointer:]
         location = remaining.find(target)
         if location == -1:
-            output.append((target, annotation, ""))
+            output.append((target, annotation, BLANK))
         else:
             pointer = location
             if sbck_map[location] is True:
