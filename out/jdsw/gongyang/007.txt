@@ -1,108 +1,108 @@
-宣公第七何休學元年差輕	初賣反
-摘巢	吐狄反
-刳胎	口孤反
-復屬	音燭
-叢棘	才工反
-冔	況甫反
-要絰	一遥反
-又孫	音遜
-濟	子禮反
-遺齊	唯季反
-兼將	子匠反
-斐林	芳尾反
-閒	音閑
-貿	音茂
-二年華元	戸化反
-夷獔	戸刀反又古刀反二傳作夷皐
-三年則扳	普顏反又甫姦反
-于滌	大歷反養牲宫名
-迭生	大結反
-更王	音庚下于況反
-賁渾	舊音六或音奔下户門反二傳作陸渾
-鄭繆	音穆
-四年公爲	于僞反
-五年爲重	直用反下同
-六年見何	賢徧反
-升餕	音俊
-己趨	音紀
-是樂	音落
-有人何	本又作荷胡可反又音河
-畚	音本
-爲解	佳賣反又如字
-摮	五羔反又苦交反猶􁑞也
-􁑞	口弔反擊也
-愬	所革反又訴路反
-心怍	在洛反
-魚飧	音孫
-祁彌	工支反
-頸	居郢反
-自斷	音短
-重門	直容反
-擊柝	他洛反
-而食	音嗣下同
-仡然	魚乙反
-躇	丑畧反與踱同一本作辵音同
-劇不	其據反本亦作遽
-比周	毗志反
-之獒	五刀反
-而踆	音存以足逆躢之
-逆躢	徒臘反
-其頷	户感反
-蚤免	音早
-不說	音恱
-黒臀	徒門反
-剽	匹妙反
-七年爲伐	于僞反
-八年難辭	乃旦反
-編	必連反
-屬	音燭
-曰彤	羊弓反
-謂楯	食允反
-人扞	户旦反
-頃熊	音傾
-無訒	音刃
-莫者	音暮
-九年諱亟	去兾反
-未期	音基
-十年及僤	本又作闡昌善反
-取蘱	類又力對欺類二反
-贍振	常艶反
-十一年公孫寗	乃定反音寧
-十二年斷曰	音短
-藉	在夜反
-沛焉	普蓋反
-墝埆	上苦交反下音礐
-多索	所白反舊本作䇿音索
-屢往	力住反又作數音朔
-數千	所主反
-扈養	餘亮反
-艾草	魚廢反
-杅不	音于
-喪費	芳味反
-可掬	九六反注同
-扳	普顏反又必顏反
-造舟	七報反
-而佚	音逸注同
-欲壞	音怪
-十三年秋􁈰	音終
-十四年者惡	烏路反
-十五年得與	音預
-憊矣	皮誡反
-柑馬	其廉反以木銜馬口
-大貊	亡百反
-之費	芳味反
-數萬	所主反
-以食	音嗣
-伉健	苦浪反一音苦杏反
-塾	音淑
-莫	音暮
-蝝生	與專反
-十六年宣謝災	左氏作宣榭火
-十七年錫我	思曆反
-于鞌	音安
-斷道	音短又大短反
-十八年節斷	音短
-賢行	下孟反
-墠帷	音善埽地張帷
-之殺	所戒反
-怨懟	直類反
+宣公第七何休學元年差輕	初賣反	_
+摘巢	吐狄反	_
+刳胎	口孤反	commentary
+復屬	音燭	source
+叢棘	才工反	commentary
+冔	況甫反	_
+要絰	一遥反	source
+又孫	音遜	source
+濟	子禮反	commentary
+遺齊	唯季反	commentary
+兼將	子匠反	commentary
+斐林	芳尾反	commentary
+閒	音閑	_
+貿	音茂	source
+二年華元	戸化反	_
+夷獔	戸刀反又古刀反二傳作夷皐	commentary
+三年則扳	普顏反又甫姦反	_
+于滌	大歷反養牲宫名	commentary
+迭生	大結反	commentary
+更王	音庚下于況反	commentary
+賁渾	舊音六或音奔下户門反二傳作陸渾	source
+鄭繆	音穆	source
+四年公爲	于僞反	_
+五年爲重	直用反下同	_
+六年見何	賢徧反	_
+升餕	音俊	commentary
+己趨	音紀	_
+是樂	音落	source
+有人何	本又作荷胡可反又音河	source
+畚	音本	commentary
+爲解	佳賣反又如字	commentary
+摮	五羔反又苦交反猶􁑞也	commentary
+􁑞	口弔反擊也	commentary
+愬	所革反又訴路反	commentary
+心怍	在洛反	source
+魚飧	音孫	_
+祁彌	工支反	commentary
+頸	居郢反	commentary
+自斷	音短	commentary
+重門	直容反	commentary
+擊柝	他洛反	commentary
+而食	音嗣下同	commentary
+仡然	魚乙反	source
+躇	丑畧反與踱同一本作辵音同	source
+劇不	其據反本亦作遽	commentary
+比周	毗志反	commentary
+之獒	五刀反	source
+而踆	音存以足逆躢之	commentary
+逆躢	徒臘反	commentary
+其頷	户感反	commentary
+蚤免	音早	source
+不說	音恱	source
+黒臀	徒門反	commentary
+剽	匹妙反	source
+七年爲伐	于僞反	_
+八年難辭	乃旦反	_
+編	必連反	commentary
+屬	音燭	commentary
+曰彤	羊弓反	_
+謂楯	食允反	source
+人扞	户旦反	commentary
+頃熊	音傾	source
+無訒	音刃	source
+莫者	音暮	commentary
+九年諱亟	去兾反	_
+未期	音基	commentary
+十年及僤	本又作闡昌善反	_
+取蘱	類又力對欺類二反	commentary
+贍振	常艶反	commentary
+十一年公孫寗	乃定反音寧	_
+十二年斷曰	音短	_
+藉	在夜反	commentary
+沛焉	普蓋反	commentary
+墝埆	上苦交反下音礐	source
+多索	所白反舊本作䇿音索	source
+屢往	力住反又作數音朔	commentary
+數千	所主反	source
+扈養	餘亮反	source
+艾草	魚廢反	commentary
+杅不	音于	commentary
+喪費	芳味反	commentary
+可掬	九六反注同	commentary
+扳	普顏反又必顏反	commentary
+造舟	七報反	commentary
+而佚	音逸注同	source
+欲壞	音怪	source
+十三年秋􁈰	音終	_
+十四年者惡	烏路反	_
+十五年得與	音預	_
+憊矣	皮誡反	commentary
+柑馬	其廉反以木銜馬口	source
+大貊	亡百反	commentary
+之費	芳味反	commentary
+數萬	所主反	source
+以食	音嗣	source
+伉健	苦浪反一音苦杏反	source
+塾	音淑	commentary
+莫	音暮	commentary
+蝝生	與專反	source
+十六年宣謝災	左氏作宣榭火	_
+十七年錫我	思曆反	_
+于鞌	音安	commentary
+斷道	音短又大短反	commentary
+十八年節斷	音短	_
+賢行	下孟反	commentary
+墠帷	音善埽地張帷	commentary
+之殺	所戒反	source
+怨懟	直類反	commentary
