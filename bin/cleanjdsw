@@ -44,7 +44,7 @@ def main(jdsw_file: Path, sbck_file: Path, overwrite: bool = False) -> None:
     # ignore the annotation. if the target isn't found, log it.
     output: list[tuple[str, str, str]] = []
     pointer = 0
-    for target, annotation in jdsw:
+    for target, annotation, *extra in jdsw:
         remaining = sbck_chars[pointer:]
         location = remaining.find(target)
         if location == -1:
