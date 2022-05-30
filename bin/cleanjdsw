@@ -31,9 +31,11 @@ def main(jdsw_file: Path, sbck_file: Path, overwrite: bool = False) -> None:
     # construct a map of the SBCK edition where each character index is mapped
     # to a boolean indicating whether that character is in the source text
     sbck_map = []
+    sbck_chars = sbck_text.replace("\t", "").replace("\n", "")
     for source, commentary in sbck:
         sbck_map += [True for i in range(len(source))]
         sbck_map += [False for i in range(len(commentary))]
+    assert len(sbck_map) == len(sbck_chars)
 
     # use a pointer into the full SBCK text to find the next possible place an
     # annotation from the JDSW could apply. if the annotation target is in the
@@ -43,7 +45,7 @@ def main(jdsw_file: Path, sbck_file: Path, overwrite: bool = False) -> None:
     output: list[tuple[str, str, str]] = []
     pointer = 0
     for target, annotation in jdsw:
-        remaining = sbck_text[pointer:]
+        remaining = sbck_chars[pointer:]
         location = remaining.find(target)
         if location == -1:
             output.append((target, annotation, BLANK))
