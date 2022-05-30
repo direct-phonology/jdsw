@@ -12,7 +12,7 @@ from .patterns import (
     KR_ENTITY,
     MODE_HEADER,
     META_HEADER,
-    LINE_BREAK,
+    PAGE_BREAK,
     ANNOTATION,
 )
 from .phonology import Reconstruction, NoReadingError, MultipleReadingsError
@@ -27,7 +27,7 @@ def clean_text(text: str, to_unicode: Callable) -> str:
     # strip headers, page breaks, newlines, etc.
     text = MODE_HEADER.sub("", text)
     text = META_HEADER.sub("", text)
-    text = LINE_BREAK.sub("\n", text)
+    text = PAGE_BREAK.sub("\n", text)
     text = text.replace("¶", "")
     text = "".join(text.strip().splitlines())
 

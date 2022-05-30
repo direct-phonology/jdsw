@@ -66,7 +66,7 @@ BLANK = "_"
 # artifacts in kanseki repository text
 MODE_HEADER = re.compile(r"# -\*- mode: .+; -\*-\n")
 META_HEADER = re.compile(r"#\+\w+: .+\n")
-LINE_BREAK = re.compile(r"<pb:(?:.+)>¶\n")
+PAGE_BREAK = re.compile(r"<pb:(?:.+)>¶\n")
 ANNOTATION = re.compile(r"\((.+?)\)")
 
 # y- and z-variant indicators in Unihan
