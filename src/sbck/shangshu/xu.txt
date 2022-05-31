@@ -1,12 +1,3 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 尚書
-#+DATE: 2015-09-10 22:47:14.331062
-#+PROPERTY: ID KR1b0002
-#+PROPERTY: BASEEDITION SBCK    
-#+PROPERTY: WITNESS SBCK
-#+PROPERTY: JUAN 0
-#+PROPERTY: FILE SB01n0009-000尚書-序.
-<pb:KR1b0002_SBCK_000-1a>¶
 尚書序¶
 (釋文此孔氏所作述尚書起之時代并/叙爲注之由故相承講之今依舊爲音)¶
 古者伏犧氏之王天下也始畫八卦造書契以¶
@@ -78,9 +69,3 @@
 畢㑹國有巫蠱事經籍道息用不復以聞傳之¶
 子孫以貽後代若好古博雅君子與我同志亦¶
 所不隱也(巫蠱漢武帝末征和中江充造蠱敗戾太子故/經籍道息焉巫音無蠱音古貽以之反遺也)¶
-<pb:KR1b0002_SBCK_000-4b>¶
-¶
-尚書序¶
-#+PROPERTY: JUAN 0
-#+PROPERTY: FILE SB01n0009-000尚書-圖.
-<pb:KR1b0002_SBCK_000-5a>¶
