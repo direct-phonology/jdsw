@@ -1,5 +1,6 @@
 import re
 from typing import Callable
+from pathlib import Path
 
 import pandas as pd
 from cihai.core import Cihai
@@ -12,23 +13,40 @@ from .patterns import (
     KR_ENTITY,
     MODE_HEADER,
     META_HEADER,
-    LINE_BREAK,
+    PAGE_BREAK,
     ANNOTATION,
 )
 from .phonology import Reconstruction, NoReadingError, MultipleReadingsError
 
+KR_UNICODE = pd.read_csv(Path("data/kr-unicode.csv"))
+MC_BAXTER = Reconstruction(pd.read_csv(Path("data/GDR-SBGY-FULL.csv")))
+OC_BAXTER = NotImplementedError("TODO")
 
-def clean_text(text: str, to_unicode: Callable) -> str:
-    """Clean an org-mode text and convert entities into unicode."""
 
-    # replace kanripo entities with unicode placeholders
-    text = KR_ENTITY.sub(to_unicode, text)
+def get_org_metadata(text: str) -> dict:
+    """Extract metadata from an org-mode text."""
+    metadata = {}
+    for header in META_HEADER.finditer(text):
+        key, value = header.group("key"), header.group("value")
+        if key == "PROPERTY":
+            key, value = value.split(" ", 1)
+        if "," in value:
+            value = value.split(",")
+        metadata[key.lower()] = value
+    return metadata
 
-    # strip headers, page breaks, newlines, etc.
+
+def clean_org_text(text: str) -> str:
+    """Remove org-mode artifacts in Kanseki repository text."""
     text = MODE_HEADER.sub("", text)
     text = META_HEADER.sub("", text)
-    text = LINE_BREAK.sub("\n", text)
-    text = text.replace("¶", "")
+    text = PAGE_BREAK.sub("", text)
+    return text
+
+
+def clean_sbck_text(text: str) -> str:
+    """Clean an SBCK text"""
+    # remove line breaks
     text = "".join(text.strip().splitlines())
 
     # some annotations were split across lines; we need to recombine them.
@@ -38,24 +56,29 @@ def clean_text(text: str, to_unicode: Callable) -> str:
     # remove all remaining whitespace
     text = "".join(text.split())
 
-    # remove line breaks within annotations, indicated by "/"
+    # remove slashes inside annotations
     text = text.replace("/", "")
 
     return text
 
 
-def krp_entity_unicode(table: pd.DataFrame, match: re.Match) -> str:
+def krp_entity_unicode(match: re.Match) -> str:
     """Private use unicode representation for a Kanripo entity."""
 
     # entity will be either an id or a combo, we don't care which
     entity = match.group("id") or match.group("combo")
 
     # fetch from the table; warn if not found
-    char = table.loc[table["form"] == entity]
+    char = KR_UNICODE.loc[KR_UNICODE["form"] == entity]
     if char.empty:
         raise UserWarning(f"Kanripo entity not found: {entity}")
 
     return char["unicode"].values[0]
+
+
+def convert_krp_entities(text: str) -> str:
+    """Convert all Kanripo entities to unicode."""
+    return KR_ENTITY.sub(krp_entity_unicode, text)
 
 
 def split_text(text: str, by_char=True) -> str:
