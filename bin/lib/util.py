@@ -18,11 +18,18 @@ from .patterns import (
 from .phonology import Reconstruction, NoReadingError, MultipleReadingsError
 
 
-def clean_text(text: str, to_unicode: Callable) -> str:
-    """Clean an org-mode text and convert entities into unicode."""
 
-    # replace kanripo entities with unicode placeholders
-    text = KR_ENTITY.sub(to_unicode, text)
+def get_org_metadata(text: str) -> dict:
+    """Extract metadata from an org-mode text."""
+    metadata = {}
+    for header in META_HEADER.finditer(text):
+        key, value = header.group("key"), header.group("value")
+        if key == "PROPERTY":
+            key, value = value.split(" ", 1)
+        if "," in value:
+            value = value.split(",")
+        metadata[key.lower()] = value
+    return metadata
 
     # strip headers, page breaks, newlines, etc.
     text = MODE_HEADER.sub("", text)
