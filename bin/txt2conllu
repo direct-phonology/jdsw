@@ -1,0 +1,83 @@
+#!/usr/bin/env python3
+
+import pathlib
+
+import typer
+
+from lib.util import convert_krp_entities, clean_org_text, get_org_metadata
+from lib.patterns import SENTENCE, PARAGRAPH_NUMBER
+
+
+def main(file: pathlib.Path) -> None:
+    """
+    Convert a Kanseki Repository text into CoNLL-U format.
+    """
+    # read file
+    with open(file, "r", encoding="utf-8") as f:
+        text = f.read()
+
+    # get text metadata
+    metadata = get_org_metadata(text)
+
+    # convert entities to unicode & clean org-mode artifacts
+    text = convert_krp_entities(text)
+    text = clean_org_text(text)
+
+    # remove pilcrows
+    text = text.replace("¶", "")
+
+    # generate doc and doc identifier
+    doc = []
+    doc_id = f"{metadata['id']}-{file.stem}"
+
+    # extract paragraphs (split on PARAGARAPH_NUMBER)
+    for i, paragraph in enumerate(PARAGRAPH_NUMBER.split(text)[::2][1:]):
+
+        # generate paragraph and its id
+        paragraph_id = f"{doc_id}-{i+1}"
+        sentences = []
+
+        # extract sentences from each paragraph
+        for j, sentence in enumerate(SENTENCE.findall(paragraph)):
+
+            # remove line breaks
+            sentence_text = "".join(sentence.split())
+
+            # set the sentence id for each sentence
+            sentence_id = f"{paragraph_id}-{j+1}"
+
+            # tokenize by character with indices in CoNLL-U format
+            sentence_tokens = "\n".join(
+                [
+                    f"{k+1}\t{token}\t_\t_\t_\t_\t_\t_\t_\tSpaceAfter=No"
+                    for k, token in enumerate(sentence_text)
+                ]
+            )
+
+            # generate the CoNLL-U sentence
+            sentences.append(
+                f"# sent_id = {sentence_id}\n"
+                f"# text = {sentence_text}\n"
+                f"{sentence_tokens}"
+            )
+
+        # add paragraph id to each first sentence of the paragraph
+        sentences[0] = f"# newpar id = {paragraph_id}\n{sentences[0]}"
+
+        # append all sentences to the doc
+        doc += sentences
+
+    # set the doc id for the first sentence in the doc
+    doc[0] = f"# newdoc id = {doc_id}\n{doc[0]}"
+
+    # serialize the CoNLL-U output
+    output = "\n\n".join(doc)
+
+    # write to stdout
+    typer.echo(output.strip())
+
+
+if __name__ == "__main__":
+    typer.run(main)
+
+__doc__ = main.__doc__  # type: ignore
