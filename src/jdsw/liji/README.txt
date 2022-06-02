@@ -1,4 +1,4 @@
-#+SOURCE: 
+#+SOURCE: https://github.com/kanripo/KR1g0003
 #+TITLE: 經典釋文
 #+DATE: 2015-09-10 22:51:00.822535
 #+PROPERTY: ID KR1g0003
