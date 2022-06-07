@@ -1,109 +1,109 @@
-益稷第五當	丁浪反本亦作讜當蕩反李登聲類云讜言善言也
-思	徐如字又息吏反
-孜孜	音玆
-浩浩	戸老反
-墊	丁念反
-瞀	音務一音茂本或作務
-溺	乃歷反
-予乗	下音繩
-刋	苦安反
-輴	丑倫反漢書作橇如淳音蕝以板置泥上服䖍云木橇形如木箕擿行泥上尸子云澤行乗蕝蕝音子絶反
-樏	力追反史記作橋徐音丘遥反漢書作梮九足反
-隨行	下孟反
-槎	士雅反下同說文云衺斫又莊下反
-曁	其器反
-鮮	徐音仙馬云鮮生也
-距	音巨
-濬	思俊反
-畎	公犬反
-澮	故外反
-廣尺	上音光浪反
-深尺	上尸鴆反下深二仞同
-艱	工閑反馬本作根云根生之食謂百榖
-食處	昌慮反
-鼈	必滅反
-懋	音茂
-鹽	余亷反
-烝	之丞反
-粒	音立
-治	直吏反下同
-當	丁浪反
-好	呼報反
-惡	烏路反又並如字
-應	應對之應
-徯	胡啓反
-施	始豉反
-重	直用反
-股	音古
-肱	古弘反
-觀	舊音官又官喚反
-蟲	直弓反
-會	馬鄭作繪胡對反
-彞	音夷馬同鄭云宗彞虎也
-藻	音早本又作薻
-粉米	說文作黺徐本作䋛音米
-黼	音甫白與黒謂之黼
-黻	音弗黒與青謂之黻
-絺	徐勅私反又勅其反馬同鄭陟里反刺也
-繡	音秀
-背	音佩
-衮	工本反
-僭	子念反
-岀	如字又勅遂反注同
-納	如字又音内
-撻	他末反又他達反
-笞	勑疑反
-颺	音揚
-否	方有反徐音鄙
-任	汝鴆反
-應	應對之應
-傲	五報反字又作奡
-好	呼報反
-傲	五羔反徐五報反注同
-頟頟	五客反
-殄	徒現反
-娶	促住反
-復往	上扶又反
-􁀾呱	音孤
-弗子	如字鄭將吏反
-度	徒洛反
-至于五千	馬云面五千里爲方萬里鄭云五服巳五千又弼成爲萬里
-州十有二師	二千五百人爲師鄭云師長也
-要	一遥反
-薄	蒲各反徐扶各反
-長	丁丈反五長衆官之長
-別	彼列反
-重美	上直用反
-䕫	求龜反
-戛	居八反徐古八反馬云櫟也
-球	音求
-搏	音博
-拊	音撫
-柷	尺叔反所以作樂
-敔	魚吕反所以止樂
-穅	音康
-歆	許金反
-鼗	音桃
-合	如字徐音閤
-籥	余若反
-互	音􁄷
-見	賢遍反下見細器同
-鏞	音庸
-閒	間厠之閒
-鳥獸	孔以爲自舞也馬云鳥獸荀簴也
-蹌	七羊反舞貌說文作槍云鳥獸求食聲
-迭	直結反
-韶	時昭反
-於予	並如字
-喜樂	下音洛
-盡忠	上津忍反
-颺	音揚
-屢	力具反
-省	悉并反
-數	色角反
-懈	佳賣反
-賡	加孟反劉皆行反說文以爲古續字
-叢	才公反
-脞	倉果反徐音瑣馬云叢緫也脞小也
-惰	徒卧反
-墮	許規反
+益稷第五當	丁浪反本亦作讜當蕩反李登聲類云讜言善言也	_
+思	徐如字又息吏反	source
+孜孜	音玆	source
+浩浩	戸老反	source
+墊	丁念反	commentary
+瞀	音務一音茂本或作務	source
+溺	乃歷反	commentary
+予乗	下音繩	commentary
+刋	苦安反	source
+輴	丑倫反漢書作橇如淳音蕝以板置泥上服䖍云木橇形如木箕擿行泥上尸子云澤行乗蕝蕝音子絶反	source
+樏	力追反史記作橋徐音丘遥反漢書作梮九足反	source
+隨行	下孟反	source
+槎	士雅反下同說文云衺斫又莊下反	commentary
+曁	其器反	commentary
+鮮	徐音仙馬云鮮生也	commentary
+距	音巨	commentary
+濬	思俊反	commentary
+畎	公犬反	commentary
+澮	故外反	commentary
+廣尺	上音光浪反	commentary
+深尺	上尸鴆反下深二仞同	commentary
+艱	工閑反馬本作根云根生之食謂百榖	commentary
+食處	昌慮反	commentary
+鼈	必滅反	commentary
+懋	音茂	commentary
+鹽	余亷反	source
+烝	之丞反	source
+粒	音立	source
+治	直吏反下同	commentary
+當	丁浪反	commentary
+好	呼報反	commentary
+惡	烏路反又並如字	commentary
+應	應對之應	commentary
+徯	胡啓反	commentary
+施	始豉反	commentary
+重	直用反	commentary
+股	音古	source
+肱	古弘反	commentary
+觀	舊音官又官喚反	commentary
+蟲	直弓反	commentary
+會	馬鄭作繪胡對反	_
+彞	音夷馬同鄭云宗彞虎也	commentary
+藻	音早本又作薻	source
+粉米	說文作黺徐本作䋛音米	commentary
+黼	音甫白與黒謂之黼	commentary
+黻	音弗黒與青謂之黻	commentary
+絺	徐勅私反又勅其反馬同鄭陟里反刺也	commentary
+繡	音秀	commentary
+背	音佩	source
+衮	工本反	commentary
+僭	子念反	_
+岀	如字又勅遂反注同	_
+納	如字又音内	commentary
+撻	他末反又他達反	commentary
+笞	勑疑反	commentary
+颺	音揚	commentary
+否	方有反徐音鄙	commentary
+任	汝鴆反	commentary
+應	應對之應	commentary
+傲	五報反字又作奡	commentary
+好	呼報反	commentary
+傲	五羔反徐五報反注同	commentary
+頟頟	五客反	_
+殄	徒現反	commentary
+娶	促住反	commentary
+復往	上扶又反	source
+􁀾呱	音孤	_
+弗子	如字鄭將吏反	commentary
+度	徒洛反	commentary
+至于五千	馬云面五千里爲方萬里鄭云五服巳五千又弼成爲萬里	commentary
+州十有二師	二千五百人爲師鄭云師長也	source
+要	一遥反	commentary
+薄	蒲各反徐扶各反	commentary
+長	丁丈反五長衆官之長	source
+別	彼列反	_
+重美	上直用反	commentary
+䕫	求龜反	_
+戛	居八反徐古八反馬云櫟也	_
+球	音求	commentary
+搏	音博	commentary
+拊	音撫	commentary
+柷	尺叔反所以作樂	source
+敔	魚吕反所以止樂	commentary
+穅	音康	_
+歆	許金反	source
+鼗	音桃	commentary
+合	如字徐音閤	source
+籥	余若反	commentary
+互	音􁄷	commentary
+見	賢遍反下見細器同	commentary
+鏞	音庸	commentary
+閒	間厠之閒	_
+鳥獸	孔以爲自舞也馬云鳥獸荀簴也	commentary
+蹌	七羊反舞貌說文作槍云鳥獸求食聲	commentary
+迭	直結反	commentary
+韶	時昭反	commentary
+於予	並如字	commentary
+喜樂	下音洛	commentary
+盡忠	上津忍反	commentary
+颺	音揚	source
+屢	力具反	commentary
+省	悉并反	source
+數	色角反	commentary
+懈	佳賣反	commentary
+賡	加孟反劉皆行反說文以爲古續字	commentary
+叢	才公反	commentary
+脞	倉果反徐音瑣馬云叢緫也脞小也	commentary
+惰	徒卧反	source
+墮	許規反	commentary

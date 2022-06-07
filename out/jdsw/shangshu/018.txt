@@ -1,60 +1,60 @@
-盤庚上第九卷之五盤	本又作般步干反
-治	直吏反
-胥	徐思餘反
-怨	紆萬反
-盤庚	殷王名也馬云祖乙曽孫祖丁之子不言盤庚誥何非但録其誥也取其徙而立功故以盤庚名篇
-籲	音喻
-慼	千歷反
-盡	子忍反
-稽	工兮反
-台	音怡
-恪	苦角反
-五邦	馬云五邦謂商丘亳嚻相耿也
-斷	又音短
-從	才容反
-蘖	五達反本又作枿馬云顚木而肄生曰枿
-仆	音赴又步北反
-厎	之履反
-斆	戸敎反
-度	如字
-箴	之林反馬云諌也
-朝臣	上直遥反
-傲	五報反
-任	而鴆反
-播	波餓反
-匿	女力反
-聒聒	故活反馬及說文皆云拒善自用之意
-愓	他歷反
-拙	之劣反
-紊	音問徐音文
-昏	馬同本或作暋音敏爾雅昏暋皆訓強故兩存
-越	本又作粤音曰于也
-昏強	其丈反
-宄	音軌
-奉	孚勇反
-恫	勑動反又音通痛也
-相時	上息亮反馬云視也徐息羊反
-憸	息廉反馬云憸利小小見事之人也徐七漸反
-曷	何末反
-燎	力召反又力鳥反又力紹反
-嚮	許亮反
-撲	普卜反
-近	附近之近
-靖	馬云安也
-遟	直疑反徐持夷反
-任	而金反馬云古老成人
-選	息轉反又蘇管反
-掩	本又作弇
-數	色主反
-與	音預
-烝	之丞反
-射	食夜反
-準	音准
-必中	丁仲反
-侮	亡甫反
-易	以豉反
-各長	丁丈反
-伐去	下羌吕反
-臧	徐子郎反
-佚	音逸
-度	徐如字亦作渡
+盤庚上第九卷之五盤	本又作般步干反	_
+治	直吏反	source
+胥	徐思餘反	commentary
+怨	紆萬反	source
+盤庚	殷王名也馬云祖乙曽孫祖丁之子不言盤庚誥何非但録其誥也取其徙而立功故以盤庚名篇	source
+籲	音喻	commentary
+慼	千歷反	source
+盡	子忍反	commentary
+稽	工兮反	commentary
+台	音怡	source
+恪	苦角反	commentary
+五邦	馬云五邦謂商丘亳嚻相耿也	commentary
+斷	又音短	commentary
+從	才容反	source
+蘖	五達反本又作枿馬云顚木而肄生曰枿	commentary
+仆	音赴又步北反	commentary
+厎	之履反	commentary
+斆	戸敎反	source
+度	如字	commentary
+箴	之林反馬云諌也	source
+朝臣	上直遥反	source
+傲	五報反	commentary
+任	而鴆反	commentary
+播	波餓反	commentary
+匿	女力反	commentary
+聒聒	故活反馬及說文皆云拒善自用之意	commentary
+愓	他歷反	_
+拙	之劣反	commentary
+紊	音問徐音文	source
+昏	馬同本或作暋音敏爾雅昏暋皆訓強故兩存	_
+越	本又作粤音曰于也	commentary
+昏強	其丈反	_
+宄	音軌	commentary
+奉	孚勇反	commentary
+恫	勑動反又音通痛也	_
+相時	上息亮反馬云視也徐息羊反	_
+憸	息廉反馬云憸利小小見事之人也徐七漸反	_
+曷	何末反	_
+燎	力召反又力鳥反又力紹反	_
+嚮	許亮反	_
+撲	普卜反	_
+近	附近之近	source
+靖	馬云安也	commentary
+遟	直疑反徐持夷反	commentary
+任	而金反馬云古老成人	commentary
+選	息轉反又蘇管反	commentary
+掩	本又作弇	source
+數	色主反	commentary
+與	音預	commentary
+烝	之丞反	commentary
+射	食夜反	source
+準	音准	_
+必中	丁仲反	source
+侮	亡甫反	commentary
+易	以豉反	commentary
+各長	丁丈反	source
+伐去	下羌吕反	commentary
+臧	徐子郎反	commentary
+佚	音逸	commentary
+度	徐如字亦作渡	commentary

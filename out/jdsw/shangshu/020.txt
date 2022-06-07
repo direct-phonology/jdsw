@@ -1,17 +1,17 @@
-盤庚下第十一奠	田薦反
-朝	直遥反
-腎	時忍反
-腸	徐持良反
-比	毗志反
-䜛	士咸反
-降	工巷反徐下江反
-去	羌呂反
-析	先歴反注同
-治	直吏反
-弔	音的或如字
-賁	扶云反
-長	丁丈反注同
-相爾	上息亮反
-好	呼報反
-任	而林反
-告	故報反
+盤庚下第十一奠	田薦反	_
+朝	直遥反	commentary
+腎	時忍反	source
+腸	徐持良反	commentary
+比	毗志反	source
+䜛	士咸反	_
+降	工巷反徐下江反	source
+去	羌呂反	commentary
+析	先歴反注同	commentary
+治	直吏反	commentary
+弔	音的或如字	commentary
+賁	扶云反	commentary
+長	丁丈反注同	commentary
+相爾	上息亮反	source
+好	呼報反	source
+任	而林反	commentary
+告	故報反	source

@@ -1,36 +1,36 @@
-仲虺之誥第二坰	故螢反徐欽螢反又古螢反
-虺	許鬼反
-誥	故報反
-左相	息亮反
-成湯	伐桀武功成故號成湯一云成諡也
-纉	子管反
-應	應對之應
-矯	居表反
-誣	音無
-臧	作郎反
-䌓	音煩
-莠	羊九反
-秕	悲里反徐甫里反又必履反
-鋤	仕魚反
-簸	波我反
-颺	音揚
-矧	申忍反
-之惡	烏路反
-近	附近之近
-此行	下孟反
-懋懋	音茂
-吝	良刃反
-王業	上如字又于況反
-仇	音求
-餉	式亮反
-徯	胡啓反
-蘇	字亦作穌
-推	土雷反
-懈	工債反
-建中	如字本或作忠非
-裕	徐以樹反
-者王	徐于況反或如字
-好問	上呼報反
-鮮	息淺反
-覆	芳服反
-暴	蒲報反或作虣
+仲虺之誥第二坰	故螢反徐欽螢反又古螢反	_
+虺	許鬼反	source
+誥	故報反	source
+左相	息亮反	commentary
+成湯	伐桀武功成故號成湯一云成諡也	commentary
+纉	子管反	source
+應	應對之應	commentary
+矯	居表反	commentary
+誣	音無	commentary
+臧	作郎反	commentary
+䌓	音煩	_
+莠	羊九反	commentary
+秕	悲里反徐甫里反又必履反	commentary
+鋤	仕魚反	source
+簸	波我反	commentary
+颺	音揚	source
+矧	申忍反	commentary
+之惡	烏路反	source
+近	附近之近	commentary
+此行	下孟反	source
+懋懋	音茂	commentary
+吝	良刃反	commentary
+王業	上如字又于況反	commentary
+仇	音求	source
+餉	式亮反	commentary
+徯	胡啓反	commentary
+蘇	字亦作穌	commentary
+推	土雷反	commentary
+懈	工債反	commentary
+建中	如字本或作忠非	commentary
+裕	徐以樹反	_
+者王	徐于況反或如字	commentary
+好問	上呼報反	commentary
+鮮	息淺反	source
+覆	芳服反	commentary
+暴	蒲報反或作虣	source

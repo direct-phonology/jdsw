@@ -1,46 +1,46 @@
-盤庚中第十話	胡快反馬云告也言也
-誕	徐音但
-亶	丁但反馬本作單音同誡也
-造	七報反注同馬在早反云爲也
-䙝	息列反
-鮮	息淺反
-曷	何末反下同
-俾	必爾反
-咎	其九反
-比	毗志反徐扶至反注及下同
-共	群用反
-令	力呈反
-近	附近之近
-籲	羊戍反
-忱	市林反
-鞠	居六反
-臭	徐尺售反
-載	如字又在代反
-屬	音燭注同馬云獨也
-沈	直林反
-瘳	勑留反
-穢	於廢反
-倚	於綺反徐於奇反
-迂	音于
-僻	匹亦反
-迓	五駕反
-畜	許竹反下同
-脅	虛業反
-勞	力報反又如字注同
-重	直勇反又直恭反
-戕	在良反又七良反
-之行	下孟反
-斷	丁緩反
-治	直吏反
-盡	子忍反
-乃告	工號反
-我髙后	本又作乃祖乃父
-易	以豉反注同
-遠	于萬反又如字注同
-汝分	扶問反又如字注同
-暫	才淡反
-隕	于敏反
-劓	魚器反徐吾氣反
-殄	徒典反
-易	如字又以豉反注同
-長	丁丈反下遺長同
+盤庚中第十話	胡快反馬云告也言也	_
+誕	徐音但	source
+亶	丁但反馬本作單音同誡也	source
+造	七報反注同馬在早反云爲也	commentary
+䙝	息列反	source
+鮮	息淺反	commentary
+曷	何末反下同	source
+俾	必爾反	commentary
+咎	其九反	commentary
+比	毗志反徐扶至反注及下同	commentary
+共	群用反	commentary
+令	力呈反	commentary
+近	附近之近	commentary
+籲	羊戍反	commentary
+忱	市林反	commentary
+鞠	居六反	commentary
+臭	徐尺售反	commentary
+載	如字又在代反	source
+屬	音燭注同馬云獨也	commentary
+沈	直林反	source
+瘳	勑留反	commentary
+穢	於廢反	source
+倚	於綺反徐於奇反	source
+迂	音于	source
+僻	匹亦反	commentary
+迓	五駕反	commentary
+畜	許竹反下同	commentary
+脅	虛業反	commentary
+勞	力報反又如字注同	commentary
+重	直勇反又直恭反	commentary
+戕	在良反又七良反	commentary
+之行	下孟反	commentary
+斷	丁緩反	source
+治	直吏反	commentary
+盡	子忍反	commentary
+乃告	工號反	commentary
+我髙后	本又作乃祖乃父	commentary
+易	以豉反注同	commentary
+遠	于萬反又如字注同	_
+汝分	扶問反又如字注同	source
+暫	才淡反	commentary
+隕	于敏反	commentary
+劓	魚器反徐吾氣反	source
+殄	徒典反	commentary
+易	如字又以豉反注同	commentary
+長	丁丈反下遺長同	commentary

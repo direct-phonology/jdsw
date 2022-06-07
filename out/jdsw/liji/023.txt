@@ -1,77 +1,77 @@
-祭法第二十三	鄭云以其記有虞氏至周天子以下所祭祀羣神之數也
-卷之十四禘黃帝	大計反
-嚳	口毒反
-顓	音專
-頊	許玊反
-鯀	本又作􁉽古本反篇末皆同
-冥	莫經反
-祖契	息列反下同
-圜丘	音圎
-大昊	音泰下大廟大祖大昊同昊亦作皡胡老反下放此
-句	古侯反
-芒	音亡
-夏曰	戸嫁反後夏曰皆同
-少昊	詩召反下放此
-蓐收	音辱本亦音辱
-以上	時掌反下上去以上同
-之殺	色界反徐所例反
-燔柴	音煩爾雅云祭天曰燔柴
-泰壇	大丹反下同
-瘞	於滯反
-埋	武皆反爾雅云祭地曰瘞埋
-泰折	之設反注同舊音逝又音制
-用騂	私營反字林云火營反
-祭處	昌慮反
-言坦	吐但反
-炤	本又作昭同章遥反又之召反
-晢	之設反一音制
-用􁇠	於糾反
-相近	依注讀為禳如羊反下音巨依反王肅作祖迎也
-於坎	苦感反
-幽宗雩宗	宗依注並讀為禜榮敬反王如字
-見怪	賢遍反注同
-亡其	如字無也一音無
-吁嗟	許于反
-癘疫	音役
-大凡	如字徐音泰
-腐為	音輔
-更立	古衡反
-通數	色主反下同
-設廟	本亦作庿古字
-墠	音善
-有禱	丁老反一音丁報反
-適士	丁歴反篇內同
-顯考無廟	顯音皇出注
-大夫采	七代反
-昭穆	上遙反
-不腆	他典反
-祫乃	音洽
-魯煬	餘讓反徐音傷
-王為	于偽反下皆同注為社事亦同
-霤	力又反
-作譴	棄戰反
-此與	音餘
-脾	婢支反
-肺	芳廢反
-肝	音干
-腎	上忍反
-使者	色吏反
-惡言	烏路反
-繆乎	音謬
-祭殤	音傷
-之奧	烏報反
-隂厭	於艷反下同
-能禦	魚呂反
-菑	音哉下同下文或作災注作烖並同
-能扞	胡旦反
-厲山	力世反左傳作列山
-共工	音恭下及注同
-鄣鴻	音章
-而殛	紀力反注同尚書云殛鯀于羽山又云鯀則殛死
-顓頊能脩之	本或作顓頊脩黃帝之功
-以文治	直吏反
-去民	起吕反
-及夫	音扶
-陵	此古丘字
-而王	于況反
-蒼梧	音吾
+祭法第二十三	鄭云以其記有虞氏至周天子以下所祭祀羣神之數也	source
+卷之十四禘黃帝	大計反	_
+嚳	口毒反	source
+顓	音專	source
+頊	許玊反	source
+鯀	本又作􁉽古本反篇末皆同	commentary
+冥	莫經反	source
+祖契	息列反下同	commentary
+圜丘	音圎	commentary
+大昊	音泰下大廟大祖大昊同昊亦作皡胡老反下放此	source
+句	古侯反	commentary
+芒	音亡	source
+夏曰	戸嫁反後夏曰皆同	commentary
+少昊	詩召反下放此	commentary
+蓐收	音辱本亦音辱	_
+以上	時掌反下上去以上同	commentary
+之殺	色界反徐所例反	commentary
+燔柴	音煩爾雅云祭天曰燔柴	commentary
+泰壇	大丹反下同	commentary
+瘞	於滯反	commentary
+埋	武皆反爾雅云祭地曰瘞埋	commentary
+泰折	之設反注同舊音逝又音制	_
+用騂	私營反字林云火營反	commentary
+祭處	昌慮反	commentary
+言坦	吐但反	commentary
+炤	本又作昭同章遥反又之召反	commentary
+晢	之設反一音制	commentary
+用􁇠	於糾反	commentary
+相近	依注讀為禳如羊反下音巨依反王肅作祖迎也	commentary
+於坎	苦感反	commentary
+幽宗雩宗	宗依注並讀為禜榮敬反王如字	commentary
+見怪	賢遍反注同	_
+亡其	如字無也一音無	_
+吁嗟	許于反	source
+癘疫	音役	commentary
+大凡	如字徐音泰	commentary
+腐為	音輔	_
+更立	古衡反	commentary
+通數	色主反下同	_
+設廟	本亦作庿古字	commentary
+墠	音善	commentary
+有禱	丁老反一音丁報反	commentary
+適士	丁歴反篇內同	source
+顯考無廟	顯音皇出注	commentary
+大夫采	七代反	_
+昭穆	上遙反	commentary
+不腆	他典反	commentary
+祫乃	音洽	source
+魯煬	餘讓反徐音傷	commentary
+王為	于偽反下皆同注為社事亦同	_
+霤	力又反	commentary
+作譴	棄戰反	commentary
+此與	音餘	commentary
+脾	婢支反	commentary
+肺	芳廢反	commentary
+肝	音干	source
+腎	上忍反	commentary
+使者	色吏反	commentary
+惡言	烏路反	commentary
+繆乎	音謬	_
+祭殤	音傷	commentary
+之奧	烏報反	_
+隂厭	於艷反下同	source
+能禦	魚呂反	source
+菑	音哉下同下文或作災注作烖並同	source
+能扞	胡旦反	_
+厲山	力世反左傳作列山	commentary
+共工	音恭下及注同	commentary
+鄣鴻	音章	commentary
+而殛	紀力反注同尚書云殛鯀于羽山又云鯀則殛死	commentary
+顓頊能脩之	本或作顓頊脩黃帝之功	commentary
+以文治	直吏反	commentary
+去民	起吕反	commentary
+及夫	音扶	commentary
+陵	此古丘字	commentary
+而王	于況反	commentary
+蒼梧	音吾	commentary

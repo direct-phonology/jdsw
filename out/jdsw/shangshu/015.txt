@@ -1,15 +1,15 @@
-太甲中第六闋	苦穴反
-冕	音免
-胥	息餘反
-疆	居良反
-厎	之履反
-敗	必邁反徐甫邁反
-縱	子用反
-戾	郎計反
-孽	魚列反
-逭	胡亂反
-背	音佩徐扶代反
-徯	胡啓反
-懋	音茂
-斁	音亦
-厭	於豔反
+太甲中第六闋	苦穴反	_
+冕	音免	source
+胥	息餘反	commentary
+疆	居良反	commentary
+厎	之履反	_
+敗	必邁反徐甫邁反	commentary
+縱	子用反	commentary
+戾	郎計反	commentary
+孽	魚列反	commentary
+逭	胡亂反	commentary
+背	音佩徐扶代反	commentary
+徯	胡啓反	commentary
+懋	音茂	commentary
+斁	音亦	commentary
+厭	於豔反	commentary

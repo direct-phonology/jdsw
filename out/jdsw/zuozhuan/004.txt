@@ -1,120 +1,120 @@
-閔公	名啓方莊公之子母叔姜史記云名開諡法在國遭難曰閔
-第四杜氏盡二年經元年出疆	居良反
-省難	乃旦反下及傳同
-傳元年豺	仕皆反
-狼	音郎
-可厭	於鹽反
-諸夏	戸雅反注同
-親暱	女乙反近也
-宴安	於見反本又作晏音同一音烏諫反
-酖毒	直䕃反
-勞來	力報反下力代反
-仲孫湫	子小反
-不去	起吕反下同
-自斃	婢世反
-踣	蒲北反
-間攜	間廁之閒注同
-覆昬	芳服反注同
-霸王	于況反注同
-見莊	賢遍反
-公將	子匠反下及注同
-趙衰	初危反
-魏犫	尺由反
-滅耿	古幸反國名
-還爲	于僞反
-又焉	於虔反
-大伯	音泰注同
-適子	丁歷反本又作嫡
-且諺	音彦
-若祚	在路反
-遇屯	張倫反
-之比	毗志反注及下同
-辛廖	力彫反
-蕃昌	音煩
-兄長	丁丈反
-經二年吉禘	大計反
-入祧	他彫反
-昭穆	上饒反
-未闋	苦穴反
-大廟	音泰
-孫于	音遜注同
-美稱	尺證反
-見惡	烏路反
-師潰	戸内反
-傳二年渭汭	如銳反
-隈曲	烏回反
-舟之僑	音喬
-卜齮	魚綺反
-共仲	音恭
-武闈	音韋一音暉
-費縣	音秘又扶味反
-乃縊	一賜反
-與知	音預
-故孫	音遜
-亳社	歩各反
-好鶴	呼報反下戸各反
-乗軒	許言反大夫車也
-余焉	於䖍反
-玦	古穴反
-使守	手又反下告守及注同
-決斷	丁亂反
-禦難	乃旦反
-孔嬰齊殿	丁見反
-熒澤	戸扄反
-無復	扶又反下復逐同
-爲之	于僞反下文爲衞同
-不去	起吕反藏也一云除也
-華龍	戸化反
-大史	音泰
-故恐	丘勇反
-也少	詩照反
-烝於	之承反
-強之	其丈反
-共滕	音恭
-以廬	力居反舎也
-于曹	詩作漕音同
-歸唁	音彦
-無虧	去危反
-三百乗	繩證反下及注同
-別見	賢遍反
-五稱	尺證反
-雞狗	音苟
-歸遺	于季反
-單複	音丹下方服反
-人惡	烏路反注同
-好利	呼報反
-能逺	于萬反
-爲之	于僞反
-皐落	古刀反
-別種	章勇反
-粢盛	音咨下音成
-朝夕	如字又張遥反
-君膳	市戰反
-則守	手又反下同
-則從	才用反下同
-監國	古銜反
-嗣適	丁歷反本又作嫡下配適同
-將焉	於䖍反
-謂將	子匠反下將上軍並同
-不共	音恭本又作供
-於難	乃旦反下同
-公衣之偏	於旣反下衣身之偏衣之純衣之尨服注衣之同
-叔向	許丈反
-無慝	他得反
-逺災	于萬反注及下同
-衷	音忠
-旗也	音其
-閟其	音秘
-尨服	莫江反
-受脤	市軫反祭社之肉
-盛以	音成
-阻之	莊吕反疑也
-盡敵	子忍反下盡敵同
-諗周	音審告也說文云深謀
-之繇	直救反
-而屬	章欲反
-衞文公大布之衣	本或作衣大布之衣誤
-厚繒	疾陵反
-諒闇	音良又音亮
-三十乗	繩證反下同
-迸散	檗諍反
+閔公	名啓方莊公之子母叔姜史記云名開諡法在國遭難曰閔	source
+第四杜氏盡二年經元年出疆	居良反	_
+省難	乃旦反下及傳同	commentary
+傳元年豺	仕皆反	_
+狼	音郎	commentary
+可厭	於鹽反	commentary
+諸夏	戸雅反注同	commentary
+親暱	女乙反近也	commentary
+宴安	於見反本又作晏音同一音烏諫反	commentary
+酖毒	直䕃反	commentary
+勞來	力報反下力代反	source
+仲孫湫	子小反	source
+不去	起吕反下同	source
+自斃	婢世反	commentary
+踣	蒲北反	source
+間攜	間廁之閒注同	source
+覆昬	芳服反注同	_
+霸王	于況反注同	commentary
+見莊	賢遍反	commentary
+公將	子匠反下及注同	commentary
+趙衰	初危反	source
+魏犫	尺由反	source
+滅耿	古幸反國名	source
+還爲	于僞反	source
+又焉	於虔反	commentary
+大伯	音泰注同	commentary
+適子	丁歷反本又作嫡	source
+且諺	音彦	source
+若祚	在路反	source
+遇屯	張倫反	source
+之比	毗志反注及下同	commentary
+辛廖	力彫反	commentary
+蕃昌	音煩	source
+兄長	丁丈反	source
+經二年吉禘	大計反	_
+入祧	他彫反	commentary
+昭穆	上饒反	source
+未闋	苦穴反	commentary
+大廟	音泰	_
+孫于	音遜注同	commentary
+美稱	尺證反	source
+見惡	烏路反	commentary
+師潰	戸内反	source
+傳二年渭汭	如銳反	_
+隈曲	烏回反	commentary
+舟之僑	音喬	source
+卜齮	魚綺反	commentary
+共仲	音恭	commentary
+武闈	音韋一音暉	commentary
+費縣	音秘又扶味反	commentary
+乃縊	一賜反	source
+與知	音預	source
+故孫	音遜	commentary
+亳社	歩各反	commentary
+好鶴	呼報反下戸各反	source
+乗軒	許言反大夫車也	commentary
+余焉	於䖍反	commentary
+玦	古穴反	commentary
+使守	手又反下告守及注同	commentary
+決斷	丁亂反	source
+禦難	乃旦反	source
+孔嬰齊殿	丁見反	source
+熒澤	戸扄反	source
+無復	扶又反下復逐同	source
+爲之	于僞反下文爲衞同	commentary
+不去	起吕反藏也一云除也	source
+華龍	戸化反	commentary
+大史	音泰	source
+故恐	丘勇反	commentary
+也少	詩照反	commentary
+烝於	之承反	commentary
+強之	其丈反	commentary
+共滕	音恭	commentary
+以廬	力居反舎也	commentary
+于曹	詩作漕音同	commentary
+歸唁	音彦	commentary
+無虧	去危反	commentary
+三百乗	繩證反下及注同	commentary
+別見	賢遍反	_
+五稱	尺證反	source
+雞狗	音苟	commentary
+歸遺	于季反	commentary
+單複	音丹下方服反	source
+人惡	烏路反注同	source
+好利	呼報反	commentary
+能逺	于萬反	source
+爲之	于僞反	source
+皐落	古刀反	_
+別種	章勇反	_
+粢盛	音咨下音成	commentary
+朝夕	如字又張遥反	commentary
+君膳	市戰反	commentary
+則守	手又反下同	source
+則從	才用反下同	commentary
+監國	古銜反	source
+嗣適	丁歷反本又作嫡下配適同	commentary
+將焉	於䖍反	source
+謂將	子匠反下將上軍並同	source
+不共	音恭本又作供	source
+於難	乃旦反下同	source
+公衣之偏	於旣反下衣身之偏衣之純衣之尨服注衣之同	commentary
+叔向	許丈反	source
+無慝	他得反	source
+逺災	于萬反注及下同	source
+衷	音忠	commentary
+旗也	音其	commentary
+閟其	音秘	source
+尨服	莫江反	source
+受脤	市軫反祭社之肉	commentary
+盛以	音成	commentary
+阻之	莊吕反疑也	source
+盡敵	子忍反下盡敵同	source
+諗周	音審告也說文云深謀	commentary
+之繇	直救反	commentary
+而屬	章欲反	commentary
+衞文公大布之衣	本或作衣大布之衣誤	_
+厚繒	疾陵反	source
+諒闇	音良又音亮	commentary
+三十乗	繩證反下同	commentary
+迸散	檗諍反	source

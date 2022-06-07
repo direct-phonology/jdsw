@@ -1,21 +1,21 @@
-說命中第十三緫	音揔
-宿	音秀
-后王	于方反
-長	丁丈反
-治	直吏反下同
-豫	羊慮反
-從	才容反
-胄	直又反
-鎧	苦代反
-兜	丁侯反
-鍪	莫侯反
-易	以豉反
-笥	息嗣反
-省	息井反一本作眚
-昵	女乙反
-喪	息浪反
-醇	音純
-粹	雖遂反
-黷	徒木反
-數	色角反
-忱	市林反
+說命中第十三緫	音揔	_
+宿	音秀	commentary
+后王	于方反	source
+長	丁丈反	commentary
+治	直吏反下同	commentary
+豫	羊慮反	commentary
+從	才容反	commentary
+胄	直又反	source
+鎧	苦代反	commentary
+兜	丁侯反	_
+鍪	莫侯反	source
+易	以豉反	commentary
+笥	息嗣反	source
+省	息井反一本作眚	commentary
+昵	女乙反	commentary
+喪	息浪反	_
+醇	音純	commentary
+粹	雖遂反	commentary
+黷	徒木反	commentary
+數	色角反	commentary
+忱	市林反	commentary

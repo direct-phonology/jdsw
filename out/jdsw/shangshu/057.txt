@@ -1,44 +1,44 @@
-費誓第三十一伯禽	魯侯名
-不開	舊讀皆作開馬本作闢
-費	音秘
-譁	戶𤓰反
-監	工銜反
-敹	了彫反
-敿	居表反
-弔	音的
-鎧	苦代反
-兜	丁侯反
-鍪	音矛
-楯	常準反又音允
-紛	芳云反
-不令	力呈反
-鍛	丁亂反
-礪	力世反
-鍊	來見反
-牿	工毒反
-杜	本又作𢾅
-擭	華化反徐户覆反
-敜	徐乃協反又乃結反
-穽	在性反
-檻	戶減反
-窒	珍栗反
-畜	許六反又丑六反
-逋	布吳反
-佚	音逸
-商	如字徐音章
-賚	力代反徐音來
-度	待洛反
-攘	如羊反
-垣	音袁
-峙	直里反爾雅云具也
-糗	去九反一音昌紹反
-糧	音良
-糒	音備
-楨	徐音貞
-榦	工翰反
-築	陟六反
-守	手又反
-堙	音因
-不供	音恭
-芻	初俱反
-茭	音交
+費誓第三十一伯禽	魯侯名	_
+不開	舊讀皆作開馬本作闢	source
+費	音秘	commentary
+譁	戶𤓰反	commentary
+監	工銜反	source
+敹	了彫反	_
+敿	居表反	commentary
+弔	音的	commentary
+鎧	苦代反	commentary
+兜	丁侯反	_
+鍪	音矛	commentary
+楯	常準反又音允	commentary
+紛	芳云反	commentary
+不令	力呈反	commentary
+鍛	丁亂反	_
+礪	力世反	commentary
+鍊	來見反	commentary
+牿	工毒反	commentary
+杜	本又作𢾅	commentary
+擭	華化反徐户覆反	source
+敜	徐乃協反又乃結反	commentary
+穽	在性反	commentary
+檻	戶減反	commentary
+窒	珍栗反	source
+畜	許六反又丑六反	commentary
+逋	布吳反	commentary
+佚	音逸	source
+商	如字徐音章	source
+賚	力代反徐音來	source
+度	待洛反	commentary
+攘	如羊反	source
+垣	音袁	commentary
+峙	直里反爾雅云具也	commentary
+糗	去九反一音昌紹反	commentary
+糧	音良	commentary
+糒	音備	commentary
+楨	徐音貞	source
+榦	工翰反	commentary
+築	陟六反	source
+守	手又反	commentary
+堙	音因	commentary
+不供	音恭	commentary
+芻	初俱反	commentary
+茭	音交	commentary

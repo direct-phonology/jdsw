@@ -1,42 +1,42 @@
-立政第二十一盡禮	上津忍反下同
-任	而鴆反
-準	之允反
-綴	徐丁衛反又丁劣反
-賁	音奔
-所長	丁丈反除篇末文注以長音直良反餘並同
-鮮	息淺反
-籲	音喻
-忱	市林反
-恂	音荀
-之行	如字徐下孟反
-釐	力之反
-耿	工逈反徐公穎反又公永反下同
-王天	上往況反下王有同
-見德	上賢遍反下注同
-受德	受德紂字馬云受所爲德也
-暋	眉謹反徐亡巾反一音閔
-爲作	上于僞反下爲之同
-自強	其丈反
-伻	普耕反徐敷耕反又甫耕反
-趣	七口反
-劵	音勸
-契	苦計反
-藏	才浪反
-阪	音反
-遠惡	上于萬反
-譽	音餘又如字
-敉	亡婢反
-傳之	上直專反
-俾	必爾反下同
-治	直吏反下同
-相我	上如字馬息亮反下勱相同
-閒	閒厠之間
-可復	扶又反
-話	戸快反
-稚	直吏反本亦作穉
-繹	音亦
-憸	息廉反徐七漸反本又作􁄼同憸利之人馬云憸利佞人也
-勱	音邁
-詰	起一反馬云實也
-之比	必二仄又如字
-愼行	如字
+立政第二十一盡禮	上津忍反下同	_
+任	而鴆反	source
+準	之允反	_
+綴	徐丁衛反又丁劣反	source
+賁	音奔	source
+所長	丁丈反除篇末文注以長音直良反餘並同	commentary
+鮮	息淺反	commentary
+籲	音喻	source
+忱	市林反	source
+恂	音荀	source
+之行	如字徐下孟反	source
+釐	力之反	commentary
+耿	工逈反徐公穎反又公永反下同	source
+王天	上往況反下王有同	commentary
+見德	上賢遍反下注同	source
+受德	受德紂字馬云受所爲德也	source
+暋	眉謹反徐亡巾反一音閔	source
+爲作	上于僞反下爲之同	commentary
+自強	其丈反	commentary
+伻	普耕反徐敷耕反又甫耕反	commentary
+趣	七口反	commentary
+劵	音勸	commentary
+契	苦計反	commentary
+藏	才浪反	commentary
+阪	音反	commentary
+遠惡	上于萬反	_
+譽	音餘又如字	commentary
+敉	亡婢反	source
+傳之	上直專反	commentary
+俾	必爾反下同	commentary
+治	直吏反下同	commentary
+相我	上如字馬息亮反下勱相同	commentary
+閒	閒厠之間	_
+可復	扶又反	commentary
+話	戸快反	commentary
+稚	直吏反本亦作穉	source
+繹	音亦	commentary
+憸	息廉反徐七漸反本又作􁄼同憸利之人馬云憸利佞人也	source
+勱	音邁	commentary
+詰	起一反馬云實也	commentary
+之比	必二仄又如字	commentary
+愼行	如字	commentary

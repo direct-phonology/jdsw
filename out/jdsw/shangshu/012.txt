@@ -1,26 +1,26 @@
-湯誥第三誕	音但
-告	工毒反
-罹	力之反本亦作羅洛何反
-荼	音徒
-冤	紆元反
-譴	遣戰反
-寤	五故反
-台	音怡
-牡	茂后反
-聿	允橘反述也
-勠	舊音六又力彫反說文力周反史記音力消反
-穢	於廢反
-僭	子念反忒也劉創林反
-賁	彼義反徐扶云反飾也
-煥	呼亂反
-樂	音洛
-俾	必爾反徐甫婢反使也
-輯	音集又七入反
-戾	力計反
-慄慄	音栗
-隕	于敏反
-彞	徐音夷
-慆	他刀反
-忱	市林反
-咎	其九反
-單	音善卷末並同
+湯誥第三誕	音但	_
+告	工毒反	commentary
+罹	力之反本亦作羅洛何反	source
+荼	音徒	commentary
+冤	紆元反	commentary
+譴	遣戰反	commentary
+寤	五故反	commentary
+台	音怡	commentary
+牡	茂后反	source
+聿	允橘反述也	source
+勠	舊音六又力彫反說文力周反史記音力消反	source
+穢	於廢反	source
+僭	子念反忒也劉創林反	commentary
+賁	彼義反徐扶云反飾也	source
+煥	呼亂反	commentary
+樂	音洛	commentary
+俾	必爾反徐甫婢反使也	commentary
+輯	音集又七入反	commentary
+戾	力計反	commentary
+慄慄	音栗	source
+隕	于敏反	commentary
+彞	徐音夷	source
+慆	他刀反	commentary
+忱	市林反	source
+咎	其九反	commentary
+單	音善卷末並同	source
