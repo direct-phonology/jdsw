@@ -1,3 +1,16 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 論語
+#+DATE: 2016-08-10 10:04:23
+#+PROPERTY: ID KR1h0004
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 3
+#+PROPERTY: JUAN 20
+#+PROPERTY: CAT 1pre-han,經學典籍,四書類
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H15-21-0081
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
 # src: LY 04.01; tr. CH
 <pb:KR1h0004_CHANT_004-1a>¶
 ** 4 《里仁篇第四》
@@ -182,3 +195,4 @@
 斯辱矣；¶
 朋友數，¶
 斯疏矣。」
+

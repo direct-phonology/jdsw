@@ -1,3 +1,18 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 論語
+#+DATE: 2016-08-10 10:04:23
+#+PROPERTY: ID KR1h0004
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 1
+#+PROPERTY: JUAN 20
+#+PROPERTY: CAT 1pre-han,經學典籍,四書類
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H15-21-0081
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
+# src: LY 02.01; tr. CH
+<pb:KR1h0004_CHANT_002-1a>¶
 ** 2 《為政篇第二》
 
 2.1子曰：¶
@@ -199,3 +214,4 @@
 「非其鬼而祭之，¶
 諂也。見義不為，¶
 無勇也。」
+

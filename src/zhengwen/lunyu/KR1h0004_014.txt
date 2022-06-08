@@ -1,3 +1,16 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 論語
+#+DATE: 2016-08-10 10:04:23
+#+PROPERTY: ID KR1h0004
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 13
+#+PROPERTY: JUAN 20
+#+PROPERTY: CAT 1pre-han,經學典籍,四書類
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H15-21-0081
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
 # src: LY 14.01:01; tr. CH
 <pb:KR1h0004_CHANT_014-1a>¶
 ** 14 《憲問篇第十四》
@@ -439,3 +452,4 @@
 見其與先生並行也。¶
 非求益者也，¶
 欲速成者也。」
+
