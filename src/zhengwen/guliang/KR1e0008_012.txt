@@ -1,4 +1,11 @@
-
+# -*- mode: mandoku-view -*-
+#+TITLE: 春秋穀梁傳
+#+DATE: 2016-08-10 10:16:33
+#+PROPERTY: ID KR1e0008
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 11
+#+PROPERTY: CAT 1pre-han,經學典籍,春秋類
+<pb:KR1e0008_tls_012-1a>¶
 ** 12 哀公
 
 12.1《哀公元年》
@@ -637,3 +644,4 @@
 不外麟於中國也。¶
 其不言有，¶
 不使麟不恆於中國也。
+

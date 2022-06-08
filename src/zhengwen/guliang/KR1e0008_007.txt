@@ -1,4 +1,11 @@
-
+# -*- mode: mandoku-view -*-
+#+TITLE: 春秋穀梁傳
+#+DATE: 2016-08-10 10:16:33
+#+PROPERTY: ID KR1e0008
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 6
+#+PROPERTY: CAT 1pre-han,經學典籍,春秋類
+<pb:KR1e0008_tls_007-1a>¶
 ** 7 宣公
 
 7.1《宣公元年》
@@ -973,3 +980,4 @@
 至檉，¶
 遂奔齊。¶
 遂、繼事也。
+

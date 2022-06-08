@@ -1,4 +1,11 @@
-
+# -*- mode: mandoku-view -*-
+#+TITLE: 春秋穀梁傳
+#+DATE: 2016-08-10 10:16:33
+#+PROPERTY: ID KR1e0008
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 10
+#+PROPERTY: CAT 1pre-han,經學典籍,春秋類
+<pb:KR1e0008_tls_011-1a>¶
 ** 11 定公
 
 11.1《定公元年》
@@ -974,3 +981,4 @@
 
 11.15.14冬，¶
 城漆。
+

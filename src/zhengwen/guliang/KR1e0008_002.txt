@@ -1,4 +1,10 @@
-
+# -*- mode: mandoku-view -*-
+#+TITLE: 春秋穀梁傳
+#+DATE: 2016-08-10 10:16:33
+#+PROPERTY: ID KR1e0008
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 1
+#+PROPERTY: CAT 1pre-han,經學典籍,春秋類
 
 # src: CQ GULIANG Huan 02.01.01; ssj: 1547; Zhong 1996: 71; tr. Malmqvist 1971: 94;
 # dating: 6200
@@ -1485,3 +1491,4 @@
 仁者守，¶
 有此三者備，¶
 然後可以會矣。
+
