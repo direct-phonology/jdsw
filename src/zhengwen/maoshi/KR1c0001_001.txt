@@ -1,3 +1,11 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 毛詩
+#+DATE: 2016-08-10 10:04:50
+#+PROPERTY: ID KR1c0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 0
+#+PROPERTY: CAT 1pre-han,經學典籍,詩經類
+<pb:KR1c0001_tls_001-1a>¶
 ** 1 國風周南第一
 
 1《關雎》
@@ -539,3 +547,6 @@
 周南之國十一篇，¶
 三十六章，¶
 百五十九句。
+
+
+

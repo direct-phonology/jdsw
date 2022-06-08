@@ -1,3 +1,11 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 毛詩
+#+DATE: 2016-08-10 10:04:50
+#+PROPERTY: ID KR1c0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 6
+#+PROPERTY: CAT 1pre-han,經學典籍,詩經類
+<pb:KR1c0001_tls_007-1a>¶
 ** 7 國風鄭風第七
 
 75《緇衣》
@@ -743,3 +751,4 @@
 鄭國二十一篇，¶
 五十三章，¶
 二百八十三句。
+

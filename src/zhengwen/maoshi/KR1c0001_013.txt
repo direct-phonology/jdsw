@@ -1,3 +1,11 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 毛詩
+#+DATE: 2016-08-10 10:04:50
+#+PROPERTY: ID KR1c0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 12
+#+PROPERTY: CAT 1pre-han,經學典籍,詩經類
+<pb:KR1c0001_tls_013-1a>¶
 ** 13 國風檜風第十三
 
 # src: SHI 146.1
@@ -141,3 +149,4 @@
 檜國四篇，¶
 十二章，¶
 四十五句。
+

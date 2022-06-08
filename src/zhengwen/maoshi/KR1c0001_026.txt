@@ -1,3 +1,11 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 毛詩
+#+DATE: 2016-08-10 10:04:50
+#+PROPERTY: ID KR1c0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 25
+#+PROPERTY: CAT 1pre-han,經學典籍,詩經類
+<pb:KR1c0001_tls_026-1a>¶
 ** 26 周頌清廟之什第一
 
 266《清廟》
@@ -284,3 +292,4 @@
 《清廟之什》十篇，¶
 十章，¶
 九十五句。
+

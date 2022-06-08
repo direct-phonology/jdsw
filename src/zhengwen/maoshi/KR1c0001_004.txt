@@ -1,3 +1,11 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 毛詩
+#+DATE: 2016-08-10 10:04:50
+#+PROPERTY: ID KR1c0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 3
+#+PROPERTY: CAT 1pre-han,經學典籍,詩經類
+<pb:KR1c0001_tls_004-1a>¶
 ** 4 國風鄘風第四
 
 45《柏舟》
@@ -437,3 +445,4 @@ O4騋牝三千！<pb:KR1c0001_tls_004-34a>¶
 鄘國十篇，¶
 三十章，¶
 百七十六句。
+
