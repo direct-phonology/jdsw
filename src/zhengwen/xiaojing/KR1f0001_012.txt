@@ -1,3 +1,14 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 孝經
+#+DATE: 2016-08-10 10:17:46
+#+PROPERTY: ID KR1f0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 11
+#+PROPERTY: CAT 1pre-han,經學典籍,孝經類
+
+# src: XIAOJING 12, ed. SSJZS p. 0113
+# dating: 6230
+<pb:KR1f0001_tls_012-1a>¶
 ** 12 《廣要道章》
 
 子曰：¶
@@ -22,3 +33,4 @@
 敬一人而千萬人悅。¶
 所敬者寡，而悅者眾，¶
 此之謂要道也。」
+
