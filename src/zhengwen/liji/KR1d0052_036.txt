@@ -1,129 +1,220 @@
-** 37 服問
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 35
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
 
-《傳》曰：¶
-「有從輕而重」，¶
-公子之妻為其皇姑。¶
-「有從重而輕」，¶
-為妻之父母。¶
-「有從無服而有服」，¶
-公子之妻為公子之外兄弟。¶
-
-# src: LIJI 36.01.02; Couvreur 2.561; Su1n Xïda4n 13.69; Jia1ng Yi4hua2 i27; Yishu 43:70.41a-41b; tr. Legge 2.3i1;
+# src: LIJI 35.01.01; Couvreur 2.552f; Su1n Xïda4n 13.62; Jia1ng Yi4hua2i21; Yishu 43:70.29a; tr. Legge 2.375;
 # dating: 8110
-「有從有服而無服」，¶
-公子為其妻之父母。¶
-《傳》曰：¶
-「母出，¶
-則為繼母之黨服；¶
-母死，¶
-則為其母之黨服。」¶
-為其母之黨服，¶
-則不為繼母之黨服。<pb:KR1d0052_tls_037-2a>¶
+<pb:KR1d0052_tls_036-1a>¶
+** 36 問喪
 
-# src: LIJI 36.01.03; Couvreur 2.562f; Su1n Xïda4n 13.69; Jia1ng Yi4hua2 i28; Yishu 43:70.42b; tr. Legge 2.3i1;
+親始死，¶
+雞斯，¶徒跣，¶
+扱上衽，¶
+交手哭。¶
+惻怛之心，¶
+痛疾之意，¶
+傷腎、¶乾肝、¶焦肺，¶
+水漿不入口，¶
+三日不舉火，¶
+故鄰里為之糜粥以飲食之。¶
+
+# src: LIJI 35.01.02; Couvreur 2.552f; Su1n Xïda4n 13.63; Jia1ng Yi4hua2 i21; Yishu 43:70.29a; tr. Legge 2.375;
 # dating: 8110
-三年之喪，¶
-既練矣，¶
-有期之喪，¶
-既葬矣，¶
-則帶其故葛帶，¶
-絰期之絰，¶
-服其功衰。¶
+夫悲哀在中，¶
+故形變於外也，¶
+痛疾在心，¶
+故口不甘味，¶
+身不安美也。<pb:KR1d0052_tls_036-2a>¶
 
-# src: LIJI 36.01.04; Couvreur 2.562f; Su1n Xïda4n 13.70f; Jia1ng Yi4hua2 i28; Yishu 43:70.47a-48b; tr. Legge 2.3i1;
+# src: LIJI 35.01.03; Couvreur 2.553f; Su1n Xïda4n 13.64; Jia1ng Yi4hua2 i22; Yishu 43:70.30b-31a; tr. Legge 2.375;
 # dating: 8110
-有大功之喪，¶
-亦如之。¶
-小功，¶
-無變也。<pb:KR1d0052_tls_037-3a>¶
+三日而斂，¶
+在床曰尸，¶
+在棺曰柩，¶
+動尸舉柩，¶
+哭踊無數。¶
+惻怛之心，¶
+痛疾之意，¶
+悲哀志懣氣盛，¶
+故袒而踊之，¶
+所以動體、¶安心、¶下氣也。¶
 
-# src: LIJI 36.01.05; Couvreur 2.563f; Su1n Xïda4n 13.71; Jia1ng Yi4hua2 i28; Yishu 43:70.49a; tr. Legge 2.3i2;
+# src: LIJI 35.01.04; Couvreur 2.553f; Su1n Xïda4n 13.64; Jia1ng Yi4hua2 i22; Yishu 43:70.31a; tr. Legge 2.375;
 # dating: 8110
-麻之有本者，¶
-變三年之葛。¶
+婦人不宜袒，¶
+故發胸、¶擊心、¶爵踊，¶
+殷殷田田，¶
+如壞牆然，¶
+悲哀痛疾之至也。¶
+故曰：¶
+「辟踊哭泣，¶哀以送之。¶
+送形而往，¶
+迎精而反也。」<pb:KR1d0052_tls_036-3a>¶
 
-# src: LIJI 36.01.06; Couvreur 2.563f; Su1n Xïda4n 13.71; Jia1ng Yi4hua2 i28; Yishu 43:70.50a; tr. Legge 2.3i2;
+# src: LIJI 35.01.05; Couvreur 2.554; Su1n Xïda4n 13.64; Jia1ng Yi4hua2 i22; Yishu 43:70.31a; tr. Legge 2.376;
 # dating: 8110
-既練，¶
-遇麻斷本者，¶
-於免，¶
-絰之；¶
-既免，¶
-去絰。¶
-每可以絰必絰；¶
-既絰，¶
-則去之。<pb:KR1d0052_tls_037-4a>¶
+其往送也，¶
+望望然、¶汲汲然、¶
+如有追而弗及也；¶
+其反哭也，¶
+皇皇然
+若有求而弗得也。¶
+故其往送也如慕，¶
+其反也如疑。<pb:KR1d0052_tls_036-4a>¶
 
-# src: LIJI 36.01.07; Couvreur 2.564f; Su1n Xïda4n 13.72; Jia1ng Yi4hua2 i28; Yishu 43:70.51a; tr. Legge 2.3i2;
+# src: LIJI 35.01.06; Couvreur 2.554f; Su1n Xïda4n 13.64; Jia1ng Yi4hua2 i22; Yishu 43:70.31a; tr. Legge 2.376;
 # dating: 8110
-小功不易喪之練冠，¶
-如免，¶
-則絰其緦小功之絰，¶
-因其初葛帶。¶
-緦之麻，¶
-不變小功之葛；¶
-小功之麻，¶
-不變大功之葛。¶
-以有本為稅。<pb:KR1d0052_tls_037-5a>¶
+求而無所得之也，¶
+入門而弗見也，¶
+上堂又弗見也，¶
+入室又弗見也。¶
+亡矣！¶
+喪矣！¶
+不可復見已矣！¶
 
-# src: LIJI 36.01.08; Couvreur 2.565; Su1n Xïda4n 13.72; Jia1ng Yi4hua2 i28; Yishu 43:70.53a; tr. Legge 2.3i2;
+# src: LIJI 35.01.07; Couvreur 2.554f; Su1n Xïda4n 13.64f; Jia1ng Yi4hua2 i22f; Yishu 43:70.31a-33a; tr. Legge 2.376;
 # dating: 8110
-殤：¶
-長、中，¶
-變三年之葛。¶
-終殤之月筭，¶
-而反三年之葛。¶
-是非重麻，¶
-為其無卒哭之稅。¶
-下殤則否。<pb:KR1d0052_tls_037-6a>¶
+故哭泣辟踊，¶
+盡哀而止矣。¶
+心悵焉、¶愴焉、¶
+惚焉、¶愾焉，¶
+心絕志悲而已矣。¶
+祭之宗廟，¶
+以鬼饗之，¶
+徼幸復反也。<pb:KR1d0052_tls_036-5a>¶
 
-# src: LIJI 36.01.09; Couvreur 2.566; Su1n Xïda4n 13.73f; Jia1ng Yi4hua2 i30; Yishu 43:70.54b-56b; tr. Legge 2.3i3;
+# src: LIJI 35.01.08; Couvreur 2.555f; Su1n Xïda4n 13.65; Jia1ng Yi4hua2 i23; Yishu 43:70.33a; tr. Legge 2.377;
 # dating: 8110
-君為天子三年，¶
-夫人如外宗之為君也。¶
-世子不為天子服。¶
-君所主：¶
-夫人妻、¶大子、¶適婦。¶
-大夫之適子為君、¶夫人、¶大子，¶
-如士服。<pb:KR1d0052_tls_037-7a>¶
+成壙而歸，¶
+不敢入處室，¶
+居於倚廬，¶
+哀親之在外也；¶
+寢苫枕塊，¶
+哀親之在土也。¶
 
-# src: LIJI 36.01.10; Couvreur 2.566f; Su1n Xïda4n 13.74; Jia1ng Yi4hua2 i30; Yishu 43:70.57a; tr. Legge 2.3i3;
+# src: LIJI 35.01.09; Couvreur 2.555f; Su1n Xïda4n 13.65; Jia1ng Yi4hua2 i23; Yishu 43:70.33a; tr. Legge 2.377;
 # dating: 8110
-君之母
-非夫人，¶
-則群臣無服。¶
-唯近臣及僕、¶驂乘從服，¶
-唯君所服，¶
-服也。¶
+故哭泣無時，¶
+服勤三年，¶
+思慕之心，¶
+孝子之志也，¶
+人情之實也。<pb:KR1d0052_tls_036-6a>¶
 
-# src: LIJI 36.01.11; Couvreur 2.566f; Su1n Xïda4n 13.75; Jia1ng Yi4hua2 i31; Yishu 43:70.59a; tr. Legge 2.3i3;
+# src: LIJI 35.01.10; Couvreur 2.556f; Su1n Xïda4n 13.65; Jia1ng Yi4hua2 i24; Yishu 43:70.34a; tr. Legge 2.377;
 # dating: 8110
-公為卿大夫錫衰以居，¶
-出亦如之。¶
-當事則弁絰。¶
-大夫相為，¶
-亦然。¶
-為其妻，¶
-往則服之，¶
-出則否。<pb:KR1d0052_tls_037-8a>¶
+或問曰：¶
+「死三日而后斂者
+何也？」¶
+曰：¶
+「孝子親死，¶
+悲哀志懣，¶
+故匍匐而哭之，¶
+若將復生然，¶
+安可得奪而斂之也。¶
 
-# src: LIJI 36.01.12; Couvreur 2.567f; Su1n Xïda4n 13.75; Jia1ng Yi4hua2 i31; Yishu 43:70.60b; tr. Legge 2.3i4;
+# src: LIJI 35.01.11; Couvreur 2.556f; Su1n Xïda4n 13.65; Jia1ng Yi4hua2 i24; Yishu 43:70.34a; tr. Legge 2.377;
 # dating: 8110
-凡見人無免絰，¶
-雖朝於君
-無免絰。¶
-唯公門有稅齊衰。¶
-《傳》曰：¶
-「君子不奪人之喪，¶
-亦不可奪喪也。」¶
+故曰：¶
+三日而后斂者，¶
+以俟其生也；¶
+三日而不生，¶
+亦不生矣。¶
+孝子之心亦益衰矣；¶
+家室之計，¶
+衣服之具，¶
+亦可以成矣；¶
+親戚之遠者，¶
+亦可以至矣。¶
 
-# src: LIJI 36.01.13; Couvreur 2.567f; Su1n Xïda4n 13.76; Jia1ng Yi4hua2 i31; Yishu 43:70.62a; tr. Legge 2.3i4;
+# src: LIJI 35.01.12; Couvreur 2.556f; Su1n Xïda4n 13.65; Jia1ng Yi4hua2 i24; Yishu 43:70.34a; tr. Legge 2.377;
 # dating: 8110
-《傳》曰：¶
-「罪多而刑五，¶
-喪多而服五，¶
-上附下附，¶
-列也。」
+是故聖人為之斷決，¶以三日為之禮制也。」<pb:KR1d0052_tls_036-7a>¶
 
+# src: LIJI 35.01.13; Couvreur 2.557f; Su1n Xïda4n 13.66; Jia1ng Yi4hua2 i24; Yishu 43:70.34b; tr. Legge 2.378;
+# dating: 8110
+或問曰：¶
+「冠者不肉袒
+何也？」¶
+曰：¶
+「冠、¶
+至尊也，¶
+不居肉袒之體也，¶
+故為之免以代之也。」<pb:KR1d0052_tls_036-8a>¶
 
+# src: LIJI 35.01.14; Couvreur 2.557f; Su1n Xïda4n 13.66; Jia1ng Yi4hua2 i24; Yishu 43:70.35b; tr. Legge 2.378;
+# dating: 8110
+「然則禿者不免，¶
+傴者不袒，¶
+跛者不踊，¶
+非不悲也；¶
+身有錮疾，¶
+不可以備禮也。¶
+
+# src: LIJI 35.01.15; Couvreur 2.557f; Su1n Xïda4n 13.66; Jia1ng Yi4hua2 i24; Yishu 43:70.35b; tr. Legge 2.378;
+# dating: 8110
+故曰：¶
+『喪禮唯哀為主』¶矣。
+女子哭泣悲哀，¶
+擊胸傷心；¶
+男子哭泣悲哀，¶
+稽顙觸地無容，¶
+哀之至也。」<pb:KR1d0052_tls_036-9a>¶
+
+# src: LIJI 35.01.16; Couvreur 2.558f; Su1n Xïda4n 13.67; Jia1ng Yi4hua2 i25; Yishu 43:70.35b; tr. Legge 2.378;
+# dating: 8110
+或問曰：¶
+「免者以何為也？」¶
+曰：¶
+「不冠者之所服也。¶
+《禮》曰：¶
+『童子不緦，¶
+唯當室緦。』¶
+緦者其免也，¶
+當室則免而杖矣。」<pb:KR1d0052_tls_036-10a>¶
+
+# src: LIJI 35.01.17; Couvreur 2.559; Su1n Xïda4n 13.67; Jia1ng Yi4hua2 i25; Yishu 43:70.37a; tr. Legge 2.378;
+# dating: 8110
+或問曰：¶
+「杖者何也？」¶
+曰：¶
+「竹、¶桐一也。¶
+故為父苴杖，¶
+苴杖，¶
+竹也；¶
+為母削杖，¶
+削杖，¶
+桐也。」<pb:KR1d0052_tls_036-11a>¶
+
+# src: LIJI 35.01.18; Couvreur 2.559f; Su1n Xïda4n 13.67; Jia1ng Yi4hua2 i26; Yishu 43:70.37b; tr. Legge 2.379;
+# dating: 8110
+或問曰：¶
+「杖者以何為也？」¶
+曰：¶
+「孝子喪親，¶
+哭泣無數，¶
+服勤三年，¶
+身病體羸，¶
+以杖扶病也。¶
+
+# src: LIJI 35.01.19; Couvreur 2.559f; Su1n Xïda4n 13.67; Jia1ng Yi4hua2 i26; Yishu 43:70.37b; tr. Legge 2.379;
+# dating: 8110
+則父在不敢杖矣，¶
+尊者在故也；¶
+堂上不杖，¶
+辟尊者之處也；¶
+堂上不趨，¶
+示不遽也。¶
+
+# src: LIJI 35.01.20; Couvreur 2.559f; Su1n Xïda4n 13.67; Jia1ng Yi4hua2 i26; Yishu 43:70.37b; tr. Legge 2.379;
+# dating: 8110
+此孝子之志也，¶
+人情之實也，¶
+禮義之經也，¶
+非從天降也，¶
+非從地出也，¶
+人情而已矣。」
 

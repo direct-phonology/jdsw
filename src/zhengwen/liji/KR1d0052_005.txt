@@ -1,3 +1,14 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 4
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 05.01.01; Couvreur 1.263f; Su1n Xïda4n 3.61; Jia1ng Yi4hua2 186; Yishu 11:15.5b-6a; tr. Legge 1.209;
+# dating: 8110
+<pb:KR1d0052_tls_005-1a>¶
 ** 5 王制
 
 5.1王者之制祿爵，¶
@@ -1294,3 +1305,4 @@
 飲食、¶衣服、¶
 事為、¶異別、¶
 度、量、¶數、制。
+

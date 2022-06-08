@@ -1,497 +1,800 @@
-** 34 緇衣
-34.1子言之曰：¶
-「為上易事也，¶
-為下易知也；¶
-則刑不煩矣。」<pb:KR1d0052_tls_034-2a>¶
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 32
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
 
-# src: LIJI 33.01.02; Couvreur 2.514f; Su1n Xïda4n 13.39; Jia1ng Yi4hua2 792; Yishu 43:69.2a; tr. Legge 2.352;
+# src: LIJI 32.01.01; Couvreur 2.480; Su1n Xïda4n 13.17; Jia1ng Yi4hua2 766; Yishu 42:68.1b; tr. Legge 2.330;
 # dating: 8110
-34.2子曰：¶
-「好賢如《緇衣》，¶
-惡惡如《巷伯》，¶
-則爵不瀆而民作愿，¶
-刑不試而民咸服。¶
-《大雅》曰：¶
-『儀刑文王，¶
-萬國作孚。』」<pb:KR1d0052_tls_034-3a>¶
+<pb:KR1d0052_tls_033-1a>¶
+** 33 表記
 
-# src: LIJI 33.01.03; Couvreur 2.515f; Su1n Xïda4n 13.39; Jia1ng Yi4hua2 792; Yishu 43:69.3a-3b; tr. Legge 2.352;
-# dating: 8110
-34.3子曰：¶
-「夫民，¶
-教之以德，¶
-齊之以禮，¶
-則民有格心；¶
-教之以政，¶
-齊之以刑，¶
-則民有遯心。¶
+33.1子言之：¶
+「歸乎！¶
+君子隱而顯，¶
+不矜而莊，¶
+不厲而威，¶
+不言而信。」<pb:KR1d0052_tls_033-2a>¶
 
-# src: LIJI 33.01.04; Couvreur 2.515f; Su1n Xïda4n 13.39; Jia1ng Yi4hua2 792; Yishu 43:69.3b; tr. Legge 2.352;
+# src: LIJI 32.01.02; Couvreur 2.480f; Su1n Xïda4n 13.17; Jia1ng Yi4hua2 766; Yishu 42:68.2b; tr. Legge 2.330;
 # dating: 8110
-故君民者，¶
-子以愛之，¶
-則民親之；¶
-信以結之，¶
-則民不倍；¶
-恭以涖之，¶
-則民有孫心。¶
-
-# src: LIJI 33.01.05; Couvreur 2.515f; Su1n Xïda4n 13.39; Jia1ng Yi4hua2 792; Yishu 43:69.3b; tr. Legge 2.352;
-# dating: 8110
+33.2子曰：¶
+「君子不失足於人，¶
+不失色於人，¶
+不失口於人，¶
+是故君子貌足畏也，¶
+色足憚也，¶
+言足信也。¶
 《甫刑》曰：¶
-『苗民匪用命，¶
-制以刑，¶
-惟作五虐之刑曰法。』¶
-是以民有惡德，¶
-而遂絕其世也。」<pb:KR1d0052_tls_034-4a>¶
+『敬忌
+而罔有擇言在躬。』」<pb:KR1d0052_tls_033-3a>¶
 
-# src: LIJI 33.01.06; Couvreur 2.516; Su1n Xïda4n 13.39; Jia1ng Yi4hua2 793; Yishu 43:69.4b-5a; tr. Legge 2.353; Guodian 8
+# src: LIJI 32.01.03; Couvreur 2.4i1; Su1n Xïda4n 13.17; Jia1ng Yi4hua2 766f; Yishu 42:68.3b-4a; tr. Legge 2.330;
 # dating: 8110
-34.4子曰：¶
-「下之事上也，¶
-不從其所令，¶
-從其所行。¶
-上好是物，¶
-下必有甚者矣。¶
-故上之所好惡，¶
-不可不慎也，¶
-是民之表也。」<pb:KR1d0052_tls_034-5a>¶
+33.3子曰：¶
+「裼、¶襲之不相因也，¶
+欲民之毋相瀆也。」¶
+子曰：¶
+「祭極敬，¶
+不繼之以樂；¶
+朝極辨，¶
+不繼之以倦。」<pb:KR1d0052_tls_033-4a>¶
 
-# src: LIJI 33.01.07; Couvreur 2.516f; Su1n Xïda4n 13.40; Jia1ng Yi4hua2 793; Yishu 43:69.5b; tr. Legge 2.353; Guodian 7
+# src: LIJI 32.01.04; Couvreur 2.4i2; Su1n Xïda4n 13.18; Jia1ng Yi4hua2 767f; Yishu 42:68.4b-5b; tr. Legge 2.331;
 # dating: 8110
-34.5子曰：¶
-「禹立三年，¶
-百姓以仁遂焉，¶
-豈必盡仁？¶
-《詩》云：¶
-『赫赫師尹，¶
-民具爾瞻』。¶
+33.4子曰：¶
+「君子慎以辟禍，¶
+篤以不揜，¶
+恭以遠恥。」<pb:KR1d0052_tls_033-5a>¶
+33.5子曰：¶
+「君子莊敬日強，¶
+安肆日偷。¶
+君子不以一日使其躬儳焉
+如不終日。」¶
 
-# src: LIJI 33.01.08; Couvreur 2.516f; Su1n Xïda4n 13.40; Jia1ng Yi4hua2 794; Yishu 43:69.5b; tr. Legge 2.353;
-# dating: 8110
-《甫刑》曰：¶
-『一人有慶，¶
-兆民賴之。』¶
-《大雅》曰：¶
-『成王之孚，¶
-下土之式。』」<pb:KR1d0052_tls_034-6a>¶
-
-# src: LIJI 33.01.09; Couvreur 2.517; Su1n Xïda4n 13.40; Jia1ng Yi4hua2 794; Yishu 43:69.6b-7a; tr. Legge 2.354; Guodian 6
-# dating: 8110
-34.6子曰：¶
-「上好仁，¶
-則下之為仁爭先人。¶
-故長民者
-章志、¶貞教，¶尊仁
-以子愛百姓；¶
-民致行己以說其上矣。¶
-《詩》云：¶
-『有梏德行，¶
-四國順之。』」<pb:KR1d0052_tls_034-7a>¶
-
-# src: LIJI 33.01.10; Couvreur 2.517f; Su1n Xïda4n 13.40; Jia1ng Yi4hua2 795; Yishu 43:69.7b; tr. Legge 2.354;
-# dating: 8110
-34.7子曰：¶
-「王言如絲，¶
-其出如綸；¶
-王言如綸，¶
-其出如綍。¶
-故大人不倡游言。¶
-可言也，¶
-不可行，¶
-君子弗言也；¶
-
-# src: LIJI 33.01.11; Couvreur 2.517f; Su1n Xïda4n 13.40; Jia1ng Yi4hua2 795; Yishu 43:69.7b-8a; tr. Legge 2.354;
-# dating: 8110
-可行也，¶
-不可言，¶
-君子弗行也。¶
-則民言不危行，¶
-而行不危言矣。¶
-《詩》云：¶
-『淑慎爾止，¶
-不諐于儀。』」<pb:KR1d0052_tls_034-8a>¶
-
-# src: LIJI 33.01.12; Couvreur 2.518f; Su1n Xïda4n 13.41; Jia1ng Yi4hua2 795; Yishu 43:69.9a-9b; tr. Legge 2.354;
-# dating: 8110
-34.8子曰：¶
-「君子道人以言，¶
-而禁人以行。¶
-故言必慮其所終，¶
-而行必稽其所敝；¶
-則民謹於言而慎於行。¶
-
-# src: LIJI 33.01.13; Couvreur 2.518f; Su1n Xïda4n 13.41; Jia1ng Yi4hua2 795; Yishu 43:69.9b; tr. Legge 2.354;
-# dating: 8110
-《詩》云：¶
-『慎爾出話，¶
-敬爾威儀。』¶
-《大雅》曰：¶
-『穆穆文王，¶
-於緝熙敬止。』」<pb:KR1d0052_tls_034-9a>¶
-
-# src: LIJI 33.01.14; Couvreur 2.519; Su1n Xïda4n 13.41; Jia1ng Yi4hua2 796; Yishu 43:69.10b; tr. Legge 2.355; Guodian 9
-# dating: 8110
-34.9子曰：¶
-「長民者，¶
-衣服不貣，¶
-從容有常，¶
-以齊其民，¶
-則民德壹。¶
-
-# src: LIJI 33.01.15; Couvreur 2.519; Su1n Xïda4n 13.41; Jia1ng Yi4hua2 796; Yishu 43:69.10b-11a; tr. Legge 2.355;
-# dating: 8110
-《詩》云：¶
-『彼都人士，¶
-狐裘黃黃，¶
-其容不改，¶
-出言有章，¶
-行歸于周，¶
-萬民所望。』」<pb:KR1d0052_tls_034-10a>¶
-
-# src: LIJI 33.01.16; Couvreur 2.519f; Su1n Xïda4n 13.41; Jia1ng Yi4hua2 796; Yishu 43:69.12a; tr. Legge 2.355; Guodian no. 3.1
-# dating: 8110
-34.10子曰：¶
-「為上可望而知也，¶
-為下可述而志也，¶
-則君不疑於其臣，¶
-而臣不惑於其君矣。¶
-
-# src: LIJI 33.01.17; Couvreur 2.519f; Su1n Xïda4n 13.41; Jia1ng Yi4hua2 796; Yishu 43:69.12a; tr. Legge 2.355;
-# dating: 8110
-尹吉曰：¶
-『惟尹躬及湯，¶
-咸有壹德。』¶
-《詩》云：¶
-『淑人君子，¶
-其儀不忒。』」<pb:KR1d0052_tls_034-11a>¶
-
-# src: LIJI 33.01.18; Couvreur 2.519f; Su1n Xïda4n 13.41; Jia1ng Yi4hua2 797; Yishu 43:69.13b; tr. Legge 2.355; Guodian 2
-# dating: 8110
-34.11子曰：¶
-「有國者
-章義𤺺惡，¶
-以示民厚，¶
-則民情不貳。¶
-《詩》云：¶
-『靖共爾位，¶
-好是正直。』」<pb:KR1d0052_tls_034-12a>¶
-
-# src: LIJI 33.01.19; Couvreur 2.521; Su1n Xïda4n 13.42; Jia1ng Yi4hua2 797; Yishu 43:69.14b; tr. Legge 2.356; Guodian 4.1
-# dating: 8110
-34.12子曰：¶
-「上人疑則百姓惑，¶
-下難知則君長勞。¶
-
-# src: LIJI 33.01.20; Couvreur 2.521; Su1n Xïda4n 13.42; Jia1ng Yi4hua2 797; Yishu 43:69.14b; tr. Legge 2.356; Guodian 4.2
-# dating: 8110
-故君民者，¶
-章好以示民俗，¶
-慎惡以御民之淫，¶
-則民不惑矣。¶
-臣儀行，¶
-不重辭，¶
-不援其所不及，¶
-不煩其所不知，¶
-則君不勞矣。¶
-
-# src: LIJI 33.01.21; Couvreur 2.521; Su1n Xïda4n 13.42; Jia1ng Yi4hua2 797; Yishu 43:69.14b; tr. Legge 2.356; Guodian 4.3
-# dating: 8110
-《詩》云：¶
-『上帝板板，¶
-下民卒𤺺。』¶
-《小雅》曰：¶
-『匪其止共，¶
-惟王之邛。』」<pb:KR1d0052_tls_034-13a>¶
-
-# src: LIJI 33.01.22; Couvreur 2.522; Su1n Xïda4n 13.42; Jia1ng Yi4hua2 798; Yishu 43:69.17b; tr. Legge 2.356;
-# dating: 8110
-34.13子曰：¶
-「政之不行也，¶
-教之不成也，¶
-爵祿不足勸也，¶
-刑罰不足恥也。¶
-故上不可以褻刑而輕爵。¶
-《康誥》曰：¶
-『敬明乃罰。』¶
-《甫刑》曰：¶
-『播刑之不迪。』」<pb:KR1d0052_tls_034-14a>¶
-
-# src: LIJI 33.01.23; Couvreur 2.522f; Su1n Xïda4n 13.43; Jia1ng Yi4hua2 799; Yishu 43:69.18b; tr. Legge 2.357;
-# dating: 8110
-34.14子曰：¶
-「大臣不親，¶
-百姓不寧，¶
-則忠敬不足，¶
-而富貴已過也；¶
-大臣不治而邇臣比矣。¶
-
-# src: LIJI 33.01.24; Couvreur 2.522f; Su1n Xïda4n 13.43; Jia1ng Yi4hua2 799; Yishu 43:69.18b-19a; tr. Legge 2.357;
-# dating: 8110
-故大臣不可不敬也，¶
-是民之表也；¶
-邇臣不可不慎也，¶
-是民之道也。¶
-君毋以小謀大，¶
-毋以遠言近，¶
-毋以內圖外，¶
-則大臣不怨，¶
-邇臣不疾，¶
-而遠臣不蔽矣。¶
-
-# src: LIJI 33.01.25; Couvreur 2.522f; Su1n Xïda4n 13.43; Jia1ng Yi4hua2 799; Yishu 43:69.19a; tr. Legge 2.357;
-# dating: 8110
-葉公之顧命曰：¶
-『毋以小謀敗大作，¶
-毋以嬖御人疾莊后，¶
-毋以嬖御士疾莊士
-大夫、¶卿、士。』」¶
-
-# src: LIJI 33.01.26; Couvreur 2.524f; Su1n Xïda4n 13.43; Jia1ng Yi4hua2 799; Yishu 43:69.22b; tr. Legge 2.358;
+# src: LIJI 32.01.05; Couvreur 2.4i2; Su1n Xïda4n 13.18; Jia1ng Yi4hua2 768; Yishu 42:68.7a-7b; tr. Legge 2.331;
 # dating: 8110
 子曰：¶
-「大人不親其所賢，¶
-而信其所賤；¶
-民是以親失，¶
-而教是以煩。¶
-
-# src: LIJI 33.01.27; Couvreur 2.524f; Su1n Xïda4n 13.43; Jia1ng Yi4hua2 799f; Yishu 43:69.22b-23a; tr. Legge 2.358;
-# dating: 8110
-《詩》云：¶
-『彼求我則，¶
-如不我得；¶
-執我仇仇，¶
-亦不我力。』¶
-《君陳》曰：¶
-『未見聖，¶
-若己弗克見；¶
-既見聖，¶
-亦不克由聖。』」<pb:KR1d0052_tls_034-15a>¶
-
-# src: LIJI 33.01.28; Couvreur 2.525f; Su1n Xïda4n 13.44; Jia1ng Yi4hua2 800; Yishu 43:69.24a; tr. Legge 2.358;
-# dating: 8110
-34.15子曰：¶
-「小人溺於水，¶
-君子溺於口，¶
-大人溺於民，¶
-皆在其所褻也。¶
-夫水近於人而溺人，¶
-德易狎而難親也，¶
-易以溺人；¶
-
-# src: LIJI 33.01.29; Couvreur 2.525f; Su1n Xïda4n 13.44; Jia1ng Yi4hua2 800; Yishu 43:69.24a; tr. Legge 2.358;
-# dating: 8110
-口費而煩，¶
-易出難悔，¶
-易以溺人；¶
-夫民閉於人，¶
-而有鄙心，¶
-可敬不可慢，¶
-易以溺人。¶
-故君子不可以不慎也。¶
-
-# src: LIJI 33.01.30; Couvreur 2.525f; Su1n Xïda4n 13.44; Jia1ng Yi4hua2 800; Yishu 43:69.24a-24b; tr. Legge 2.358;
-# dating: 8110
-《大甲》曰：¶
-『毋越厥命以自覆也。』¶
-『若虞機張，¶
-往省括于厥度則釋。』¶
-《兌命》曰：¶
-『惟口起羞，¶
-惟甲冑起兵，¶
-惟衣裳在笥，¶
-惟干戈省厥躬。』¶
-
-# src: LIJI 33.01.31; Couvreur 2.525f; Su1n Xïda4n 13.44; Jia1ng Yi4hua2 800; Yishu 43:69.24b; tr. Legge 2.358;
-# dating: 8110
-《大甲》曰：¶
-『天作孽，¶
-可違也；¶
-自作孽，¶
-不可以逭。』¶
-《尹吉》曰：¶
-『惟尹躬天，¶
-見于西邑
-夏，¶自周有終，¶
-相亦惟終。』」<pb:KR1d0052_tls_034-16a>¶
-
-# src: LIJI 33.01.32; Couvreur 2.527f; Su1n Xïda4n 13.44; Jia1ng Yi4hua2 802; Yishu 43:69.28a; tr. Legge 2.359; Guodian 5.1
-# dating: 8110
-34.16子曰：¶
-「民以君為心，¶
-君以民為體；¶
-心莊則體舒，¶
-心肅則容敬。¶
-
-# src: LIJI 33.01.33; Couvreur 2.527f; Su1n Xïda4n 13.44f; Jia1ng Yi4hua2 802; Yishu 43:69.28a; tr. Legge 2.359; Guodian 5.2
-# dating: 8110
-心好之，¶
-身必安之；¶
-君好之，¶
-民必欲之。¶
-心以體全，¶
-亦以體傷；¶
-君以民存，¶
-亦以民亡。¶
-
-# src: LIJI 33.01.34; Couvreur 2.527f; Su1n Xïda4n 13.45; Jia1ng Yi4hua2 802; Yishu 43:69.28a; tr. Legge 2.359; Guodian 5.2
-# dating: 8110
-《詩》云：¶
-『昔吾有先正，¶
-其言明且清，¶
-國家以寧，¶
-都邑以成，¶
-庶民以生；¶
-誰能秉國成，¶
-不自為正，¶
-卒勞百姓。』¶
-
-# src: LIJI 33.01.35; Couvreur 2.527f; Su1n Xïda4n 13.45; Jia1ng Yi4hua2 802; Yishu 43:69.28a; tr. Legge 2.359;
-# dating: 8110
-《君雅》曰：¶
-『夏日暑雨，¶
-小民惟曰怨，¶
-資冬祁寒，¶
-小民亦惟曰怨。』」<pb:KR1d0052_tls_034-17a>¶
-
-# src: LIJI 33.01.36; Couvreur 2.528f; Su1n Xïda4n 13.45; Jia1ng Yi4hua2 802; Yishu 43:69.30b; tr. Legge 2.360;
-# dating: 8110
-34.17子曰：¶
-「下之事上也，¶
-身不正，¶
-言不信，¶
-則義不壹，¶
-行無類也。」¶
-
-# src: LIJI 33.01.37; Couvreur 2.528f; Su1n Xïda4n 13.45; Jia1ng Yi4hua2 803; Yishu 43:69.31b; tr. Legge 2.360;
-# dating: 8110
+「齊戒以事鬼神，¶
+擇日月以見君，¶
+恐民之不敬也。」¶
 子曰：¶
-「言有物而行有格也；¶
-是以生則不可奪志，¶
-死則不可奪名。¶
-故君子多聞，¶
-質而守之；¶
-多志，¶
-質而親之；¶
-精知，¶
-略而行之。¶
+「狎侮，¶
+死焉而不畏也。」<pb:KR1d0052_tls_033-6a>¶
 
-# src: LIJI 33.01.38; Couvreur 2.528f; Su1n Xïda4n 13.45; Jia1ng Yi4hua2 803; Yishu 43:69.31b; tr. Legge 2.360;
+# src: LIJI 32.01.06; Couvreur 2.4i3; Su1n Xïda4n 13.18; Jia1ng Yi4hua2 768; Yishu 42:68.7b; tr. Legge 2.331;
 # dating: 8110
-《君陳》曰：¶
-『出入
-自爾師虞，¶
-庶言同。』¶
-《詩》云：¶
-『淑人君子，¶
-其儀一也。』」<pb:KR1d0052_tls_034-18a>¶
-
-# src: LIJI 33.01.39; Couvreur 2.529f; Su1n Xïda4n 13.46; Jia1ng Yi4hua2 803; Yishu 43:69.33b; tr. Legge 2.361;
-# dating: 8110
-34.18子曰：¶
-「唯君子能好其正，¶
-小人毒其正。¶
-故君子之朋友有鄉，¶
-其惡有方；¶
-是故邇者不惑，¶
-而遠者不疑也。¶
-《詩》云：¶
-『君子好仇。』」<pb:KR1d0052_tls_034-19a>¶
-
-# src: LIJI 33.01.40; Couvreur 2.529f; Su1n Xïda4n 13.46; Jia1ng Yi4hua2 804; Yishu 43:69.35a; tr. Legge 2.361;
-# dating: 8110
-34.19子曰：¶
-「輕絕貧賤，¶
-而重絕富貴，¶
-則好賢不堅，¶
-而惡惡不著也。¶
-人雖曰不利，¶
-吾不信也。¶
-《詩》云：¶
-『朋友攸攝，¶
-攝以威儀。』」<pb:KR1d0052_tls_034-20a>¶
-
-# src: LIJI 33.01.41; Couvreur 2.530f; Su1n Xïda4n 13.47; Jia1ng Yi4hua2 804; Yishu 43:69.36a; tr. Legge 2.361;
-# dating: 8110
-34.20子曰：¶
-「私惠不歸德，¶
-君子不自留焉。¶
-《詩》云：¶
-『人之好我，¶
-示我周行。』」<pb:KR1d0052_tls_034-21a>¶
-
-# src: LIJI 33.01.42; Couvreur 2.531; Su1n Xïda4n 13.47; Jia1ng Yi4hua2 805; Yishu 43:69.37b; tr. Legge 2.362;
-# dating: 8110
-34.21子曰：¶
-「苟有車，¶
-必見其軾；¶
-苟有衣，¶
-必見其敝；¶
-人苟或言之，¶
-必聞其聲；¶
-苟或行之，¶
-必見其成。¶
-
-# src: LIJI 33.01.43; Couvreur 2.531; Su1n Xïda4n 13.47; Jia1ng Yi4hua2 805; Yishu 43:69.37b; tr. Legge 2.362;
-# dating: 8110
-《葛覃》曰：¶
-『服之無射。』」<pb:KR1d0052_tls_034-22a>¶
-
-# src: LIJI 33.01.44; Couvreur 2.531f; Su1n Xïda4n 13.47; Jia1ng Yi4hua2 805; Yishu 43:69.38a-38b; tr. Legge 2.362;
-# dating: 8110
-34.22子曰：¶
-「言從而行之，¶
-則言不可飾也；¶
-行從而言之，¶
-則行不可飾也。¶
-故君子寡言
-而行，¶以成其信，¶
-則民不得大其美而小其惡。¶
-
-# src: LIJI 33.01.45; Couvreur 2.531f; Su1n Xïda4n 13.47; Jia1ng Yi4hua2 805; Yishu 43:69.38b; tr. Legge 2.362;
-# dating: 8110
-《詩》云：¶
-『白圭之玷，¶
-尚可磨也；¶
-斯言之玷，¶
-不可為也。』¶
-
-# src: LIJI 33.01.46; Couvreur 2.531f; Su1n Xïda4n 13.47; Jia1ng Yi4hua2 805; Yishu 43:69.38b; tr. Legge 2.362;
-# dating: 8110
-《小雅》曰：¶
-『允也君子，¶
-展也大成。』¶
-《君奭》曰：¶
-『昔在上帝，¶
-周田觀文王之德，¶
-其集大命于厥躬。』」<pb:KR1d0052_tls_034-23a>¶
-
-# src: LIJI 33.01.48; Couvreur 2.532f; Su1n Xïda4n 13.48; Jia1ng Yi4hua2 806; Yishu 43:69.41a; tr. Legge 2.363;
-# dating: 8110
-34.23子曰：¶
-「南人有言曰：¶
-『人而無恆，¶
-不可以為卜、¶
-筮』。¶
-古之遺言與？¶
-龜筮猶不能知也，¶
-而況於人乎？¶
-《詩》云：¶
-『我龜既厭，¶
-不我告猶。』¶
-《兌命》曰：¶
-『爵無及惡德，¶
-民立而正事。』¶
-『純而祭祀，¶
-是為不敬；¶
-事煩則亂，¶
-事神則難。』¶
-
-# src: LIJI 33.01.49; Couvreur 2.532f; Su1n Xïda4n 13.48; Jia1ng Yi4hua2 806; Yishu 43:69.41a; tr. Legge 2.363;
-# dating: 8110
+33.6子曰：¶
+「無辭不相接也，¶
+無禮不相見也；¶
+欲民之毋相褻也。¶
 《易》曰：¶
-『不恆其德，¶
-或承之羞。』¶
-『恆其德偵，¶
-婦人吉，¶
-夫子凶。』」
+『初筮告，¶
+再三瀆，』¶
+瀆則不告。」<pb:KR1d0052_tls_033-7a>¶
+
+# src: LIJI 32.01.07; Couvreur 2.4i3; Su1n Xïda4n 13.19; Jia1ng Yi4hua2 769; Yishu 42:68.9a; tr. Legge 2.332;
+# dating: 8110
+33.7子言之：¶
+「仁者，¶
+天下之表也；¶
+義者，¶
+天下之制也；¶
+報者，¶
+天下之利也。」¶
+
+# src: LIJI 32.01.08; Couvreur 2.4i3f; Su1n Xïda4n 13.19; Jia1ng Yi4hua2 769; Yishu 42:68.10a; tr. Legge 2.332;
+# dating: 8110
+子曰：¶
+「以德報德，¶
+則民有所勸；¶
+以怨報怨，¶
+則民有所懲。¶
+《詩》曰：¶
+『無言不讎，¶
+無德不報。』¶
+
+# src: LIJI 32.01.09; Couvreur 2.4i3f; Su1n Xïda4n 13.19; Jia1ng Yi4hua2 769; Yishu 42:68.10a; tr. Legge 2.332;
+# dating: 8110
+《大甲》曰：¶
+『民非后
+無能胥以寧；¶
+后非民
+無以辟四方。』」¶
+
+# src: LIJI 32.01.10; Couvreur 2.4i4; Su1n Xïda4n 13.19; Jia1ng Yi4hua2 769; Yishu 42:68.11a; tr. Legge 2.332;
+# dating: 8110
+子曰：¶
+「以德報怨，¶
+則寬身之仁也；¶
+以怨報德，¶
+則刑戮之民也。」¶
+
+# src: LIJI 32.01.11; Couvreur 2.4i4f; Su1n Xïda4n 13.20; Jia1ng Yi4hua2 770; Yishu 42:68.11b; tr. Legge 2.332;
+# dating: 8110
+子曰：¶
+「無欲而好仁者，¶
+無畏而惡不仁者，¶
+天下一人而已矣。¶
+是故君子議道自己，¶
+而置法以民。」¶
+
+# src: LIJI 32.01.12; Couvreur 2.485f; Su1n Xïda4n 13.20; Jia1ng Yi4hua2 770; Yishu 42:68.12b; tr. Legge 2.333;
+# dating: 8110
+子曰：¶
+「仁有三，¶
+與仁同功而異情。¶
+與仁同功，¶
+其仁未可知也；¶
+與仁同過，¶
+然後其仁可知也。¶
+仁者安仁，¶
+知者利仁，¶
+畏罪者強仁。¶
+
+# src: LIJI 32.01.13; Couvreur 2.485f; Su1n Xïda4n 13.21; Jia1ng Yi4hua2 770; Yishu 42:68.13b; tr. Legge 2.333;
+# dating: 8110
+仁者右也，¶
+道者左也。¶
+仁者人也，¶
+道者義也。¶
+厚於仁者薄於義，¶
+親而不尊；¶
+厚於義者薄於仁，¶
+尊而不親。¶
+
+# src: LIJI 32.01.14; Couvreur 2.485f; Su1n Xïda4n 13.21; Jia1ng Yi4hua2 770; Yishu 42:68.15a; tr. Legge 2.333;
+# dating: 8110
+道有至，¶
+義有考。¶
+至道以王，¶
+義道以霸，¶
+考道以為無失。」<pb:KR1d0052_tls_033-8a>¶
+
+# src: LIJI 32.01.15; Couvreur 2.487; Su1n Xïda4n 13.21; Jia1ng Yi4hua2 771; Yishu 42:68.16b; tr. Legge 2.334;
+# dating: 8110
+33.8子言之：¶
+「仁有數，¶
+義有長短小大。¶
+中心憯怛，¶
+愛人之仁也；¶
+率法而強之，¶
+資仁者也。¶
+
+# src: LIJI 32.01.16; Couvreur 2.487; Su1n Xïda4n 13.21; Jia1ng Yi4hua2 771; Yishu 42:68.16b; tr. Legge 2.334;
+# dating: 8110
+《詩》云：¶
+『豐水有芑，¶
+武王豈不仕，¶
+詒厥孫謀，¶
+以燕翼子，¶
+武王烝哉。』¶
+數世之仁也。¶
+
+# src: LIJI 32.01.17; Couvreur 2.487; Su1n Xïda4n 13.21; Jia1ng Yi4hua2 771; Yishu 42:68.16b; tr. Legge 2.334;
+# dating: 8110
+《國風》曰：¶
+『我今不閱，¶
+皇恤我後。』¶
+終身之仁也。」<pb:KR1d0052_tls_033-9a>¶
+
+# src: LIJI 32.01.18; Couvreur 2.487f; Su1n Xïda4n 13.22; Jia1ng Yi4hua2 772; Yishu 42:68.19a; tr. Legge 2.334;
+# dating: 8110
+33.9子曰：¶
+「仁之為器重，¶
+其為道遠，¶
+舉者莫能勝也，¶
+行者莫能致也，¶
+取數多者仁也；¶
+夫勉於仁者，¶
+不亦難乎？¶
+
+# src: LIJI 32.01.19; Couvreur 2.487f; Su1n Xïda4n 13.22; Jia1ng Yi4hua2 772; Yishu 42:68.19a; tr. Legge 2.334;
+# dating: 8110
+是故君子以義度人，¶
+則難為人；¶
+以人望人，¶
+則賢者可知已矣。」¶
+
+# src: LIJI 32.01.20; Couvreur 2.488f; Su1n Xïda4n 13.22; Jia1ng Yi4hua2 773; Yishu 42:68.20a; tr. Legge 2.335;
+# dating: 8110
+子曰：¶
+「中心安仁者，¶
+天下一人而已矣。¶
+《大雅》曰：¶
+『德輶如毛，¶
+民鮮克舉之；¶
+我儀圖之，¶
+惟仲山甫舉之，¶
+愛莫助之。』」¶
+
+# src: LIJI 32.01.21; Couvreur 2.489; Su1n Xïda4n 13.23; Jia1ng Yi4hua2 773; Yishu 42:68.20a; tr. Legge 2.335;
+# dating: 8110
+《小雅》曰：¶
+『高山仰止，¶
+景行行止。』¶
+
+# src: LIJI 32.01.22; Couvreur 2.489; Su1n Xïda4n 13.23; Jia1ng Yi4hua2 773; Yishu 42:68.20a; tr. Legge 2.335;
+# dating: 8110
+子曰：¶
+「《詩》之好仁如此；¶
+鄉道而行，¶
+中道而廢，¶
+忘身之老也，¶
+不知年數之不足
+也，¶
+俛焉日有孳孳，¶
+斃而后已。」¶
+
+# src: LIJI 32.01.23; Couvreur 2.489f; Su1n Xïda4n 13.23; Jia1ng Yi4hua2 773; Yishu 42:68.21b; tr. Legge 2.335;
+# dating: 8110
+子曰：¶
+「仁之難成久矣！¶
+人人失其所好；¶
+故仁者之過易辭也。」¶
+
+# src: LIJI 32.01.24; Couvreur 2.489f; Su1n Xïda4n 13.23; Jia1ng Yi4hua2 774; Yishu 42:68.22b; tr. Legge 2.336;
+# dating: 8110
+子曰：¶
+「恭近禮，¶
+儉近仁，¶
+信近情，¶
+敬讓以行，¶
+此雖有過，¶
+其不甚矣。¶
+
+# src: LIJI 32.01.25; Couvreur 2.489f; Su1n Xïda4n 13.23; Jia1ng Yi4hua2 774; Yishu 42:68.22b; tr. Legge 2.336;
+# dating: 8110
+夫恭寡過，¶
+情可信，¶
+儉易容也；¶
+以此失之者，¶
+不亦鮮乎？¶
+《詩》曰：¶
+『溫溫恭人，¶
+惟德之基。』」¶
+
+# src: LIJI 32.01.26; Couvreur 2.490f; Su1n Xïda4n 13.24; Jia1ng Yi4hua2 774; Yishu 42:68.24a; tr. Legge 2.336;
+# dating: 8110
+子曰：¶
+「仁之難成久矣，¶
+惟君子能之。¶
+是故君子不以其所能者病人，¶
+不以人之所不能者愧人。¶
+是故聖人之制行也，¶
+不制以己，¶
+使民有所勸勉愧恥，¶
+以行其言。¶
+
+# src: LIJI 32.01.27; Couvreur 2.490f; Su1n Xïda4n 13.24; Jia1ng Yi4hua2 774; Yishu 42:68.24a; tr. Legge 2.336;
+# dating: 8110
+禮以節之，¶
+信以結之，¶
+容貌以文之，¶
+衣服以移之，¶
+朋友以極之，¶
+欲民之有壹也。¶
+《小雅》曰：¶
+『不愧于人，¶
+不畏于天。』¶
+
+# src: LIJI 32.01.28; Couvreur 2.490f; Su1n Xïda4n 13.24; Jia1ng Yi4hua2 774; Yishu 42:68.27a; tr. Legge 2.337;
+# dating: 8110
+是故君子服其服，¶
+則文以君子之容；¶
+有其容，¶
+則文以君子之辭；¶
+遂其辭，¶
+則實以君子之德。¶
+是故君子恥服其服而無其容，¶
+恥有其容而無其辭，¶
+恥有其辭而無其德，¶
+恥有其德而無其行。¶
+
+# src: LIJI 32.01.29; Couvreur 2.490f; Su1n Xïda4n 13.24; Jia1ng Yi4hua2 774f; Yishu 42:68.27b; tr. Legge 2.337;
+# dating: 8110
+是故君子衰絰則有哀色；¶
+端冕則有敬色；¶
+甲冑則有不可辱之色。¶
+《詩》云：¶
+『惟鵜在梁，¶
+不濡其翼；¶
+彼記之子，¶
+不稱其服。』」<pb:KR1d0052_tls_033-10a>¶
+
+# src: LIJI 32.01.30; Couvreur 2.493; Su1n Xïda4n 13.25; Jia1ng Yi4hua2 776; Yishu 42:68.28b; tr. Legge 2.338;
+# dating: 8110
+33.10子言之：¶
+「君子之所謂義者，¶
+貴賤皆有事於天下；¶
+天子親耕，¶
+粢盛、¶秬鬯以事上帝，¶
+故諸侯勤以輔事於天子。」¶
+
+# src: LIJI 32.01.31; Couvreur 2.493f; Su1n Xïda4n 13.25; Jia1ng Yi4hua2 776; Yishu 42:68.29a; tr. Legge 2.338;
+# dating: 8110
+子曰：¶
+「下之事上也，¶
+雖有庇民之大德，¶
+不敢有君民之心，¶
+仁之厚也。¶
+是故君子恭儉以求役仁，¶
+信讓以求役禮，¶
+
+# src: LIJI 32.01.32; Couvreur 2.493f; Su1n Xïda4n 13.25; Jia1ng Yi4hua2 776; Yishu 42:68.29b; tr. Legge 2.338;
+# dating: 8110
+不自尚其事，¶
+不自尊其身，¶
+儉於位而寡於欲，¶
+讓於賢，¶
+卑己而尊人，¶
+小心而畏義，¶
+求以事君，¶
+得之自是，¶
+不得自是，¶
+以聽天命。¶
+
+# src: LIJI 32.01.33; Couvreur 2.493f; Su1n Xïda4n 13.25; Jia1ng Yi4hua2 776; Yishu 42:68.29b; tr. Legge 2.338;
+# dating: 8110
+《詩》云：¶
+『莫莫葛藟，¶
+施于條枚；¶
+凱弟君子，¶
+求福不回。』¶
+其舜、¶禹、文王、¶
+周公之謂與！¶
+有君民之大德，¶
+有事君之小心。¶
+
+# src: LIJI 32.01.34; Couvreur 2.493f; Su1n Xïda4n 13.25; Jia1ng Yi4hua2 776; Yishu 42:68.29b; tr. Legge 2.338;
+# dating: 8110
+《詩》云：¶
+『惟此文王，¶
+小心翼翼，¶
+昭事上帝，¶
+聿懷多福，¶
+厥德不回，¶
+以受方國。』」¶
+
+# src: LIJI 32.01.35; Couvreur 2.495; Su1n Xïda4n 13.26; Jia1ng Yi4hua2 777; Yishu 42:68.32b; tr. Legge 2.339;
+# dating: 8110
+子曰：¶
+「先王謚以尊名，¶
+節以壹惠，¶
+恥名之浮於行也。¶
+
+# src: LIJI 32.01.36; Couvreur 2.495; Su1n Xïda4n 13.26; Jia1ng Yi4hua2 777; Yishu 42:68.32b; tr. Legge 2.339;
+# dating: 8110
+是故君子不自大其事，¶
+不自尚其功，¶
+以求處情；¶
+過行弗率，¶
+以求處厚；¶
+彰人之善
+而美人之功，¶
+以求下賢。¶
+是故君子雖自卑，¶
+而民敬尊之。」¶
+
+# src: LIJI 32.01.37; Couvreur 2.496; Su1n Xïda4n 13.26; Jia1ng Yi4hua2 778; Yishu 42:68.34a; tr. Legge 2.340;
+# dating: 8110
+子曰：¶
+「后稷，¶
+天下之為烈也，¶
+豈一手一足哉！¶
+唯欲行之浮於名也，¶
+故自謂便人。」<pb:KR1d0052_tls_033-11a>¶
+
+# src: LIJI 32.01.38; Couvreur 2.496f; Su1n Xïda4n 13.27; Jia1ng Yi4hua2 778; Yishu 42:68.34b; tr. Legge 2.340;
+# dating: 8110
+33.11子言之：¶
+「君子之所謂仁者，¶
+其難乎！¶
+《詩》云：¶
+『凱弟君子，¶
+民之父母。』¶
+凱以強教之；¶
+弟以說安之。¶
+
+# src: LIJI 32.01.39; Couvreur 2.496f; Su1n Xïda4n 13.27; Jia1ng Yi4hua2 778; Yishu 42:68.35a; tr. Legge 2.340;
+# dating: 8110
+樂而毋荒；¶
+有禮而親；¶
+威莊而安；¶
+孝慈而敬。¶
+使民有父之尊，¶
+有母之親。¶
+如此而后可以為民父母矣；¶
+非至德其孰能如此乎？¶
+
+# src: LIJI 32.01.40; Couvreur 2.496f; Su1n Xïda4n 13.27; Jia1ng Yi4hua2 778; Yishu 42:68.36a; tr. Legge 2.341;
+# dating: 8110
+今父之親子也，¶
+親賢而下無能；¶
+母之親子也，¶
+賢則親之，¶
+無能則憐之。¶
+母、
+親而不尊，¶
+父、
+尊而不親。¶
+
+# src: LIJI 32.01.41; Couvreur 2.496f; Su1n Xïda4n 13.27; Jia1ng Yi4hua2 778; Yishu 42:68.36a; tr. Legge 2.341;
+# dating: 8110
+水之於民也，¶
+親而不尊；¶
+火、
+尊而不親。¶
+土之於民也，¶
+親而不尊；¶
+天、
+尊而不親。¶
+
+# src: LIJI 32.01.42; Couvreur 2.496f; Su1n Xïda4n 13.27; Jia1ng Yi4hua2 778; Yishu 42:68.36a; tr. Legge 2.341;
+# dating: 8110
+命之於民也，¶
+親而不尊，¶
+鬼、
+尊而不親。」<pb:KR1d0052_tls_033-12a>¶
+
+# src: LIJI 32.01.43; Couvreur 2.498f; Su1n Xïda4n 13.27; Jia1ng Yi4hua2 779; Yishu 42:68.37a; tr. Legge 2.341;
+# dating: 8110
+33.12子曰：¶
+「夏道尊命，¶
+事鬼敬神而遠之，¶
+近人而忠焉，¶
+先祿而後威，¶
+先賞而後罰，¶
+親而不尊；¶
+
+# src: LIJI 32.01.44; Couvreur 2.498f; Su1n Xïda4n 13.27f; Jia1ng Yi4hua2 779; Yishu 42:68.37a; tr. Legge 2.341;
+# dating: 8110
+其民之敝：¶
+憃而愚，¶
+喬而野，¶
+朴而不文。」<pb:KR1d0052_tls_033-13a>¶¶
+33.13「殷人尊神，¶
+率民以事神，¶
+先鬼而後禮，¶
+先罰而後賞，¶
+尊而不親；¶
+
+# src: LIJI 32.01.45; Couvreur 2.498f; Su1n Xïda4n 13.28; Jia1ng Yi4hua2 779; Yishu 42:68.37b; tr. Legge 2.341;
+# dating: 8110
+其民之敝：¶
+蕩而不靜，¶
+勝而無恥。¶
+周人尊禮尚施，¶
+事鬼敬神而遠之，¶
+近人而忠焉，¶
+其賞罰用爵列，¶
+親而不尊；¶
+
+# src: LIJI 32.01.46; Couvreur 2.498f; Su1n Xïda4n 13.28; Jia1ng Yi4hua2 779; Yishu 42:68.37b; tr. Legge 2.341;
+# dating: 8110
+其民之敝：¶
+利而巧，¶
+文而不慚，¶
+賊而蔽。」<pb:KR1d0052_tls_033-14a>¶
+
+# src: LIJI 32.01.47; Couvreur 2.499f; Su1n Xïda4n 13.29; Jia1ng Yi4hua2 780; Yishu 42:68.41a; tr. Legge 2.342;
+# dating: 8110
+33.14子曰：¶
+「夏道未瀆辭，¶
+不求備，¶
+不大望於民，¶
+民未厭其親；¶
+殷人未瀆禮，¶
+而求備於民；¶
+周人強民，¶
+未瀆神，¶
+而賞爵、¶刑罰窮矣。」<pb:KR1d0052_tls_033-15a>¶
+
+# src: LIJI 32.01.48; Couvreur 2.499f; Su1n Xïda4n 13.29; Jia1ng Yi4hua2 7i1; Yishu 42:68.43b; tr. Legge 2.343;
+# dating: 8110
+33.15子曰：¶
+「虞、¶夏之道，¶
+寡怨於民；¶
+殷、周之道，¶
+不勝其敝。」¶
+
+# src: LIJI 32.01.49; Couvreur 2.500; Su1n Xïda4n 13.29; Jia1ng Yi4hua2 7i1; Yishu 42:68.45a; tr. Legge 2.343;
+# dating: 8110
+子曰：¶
+「虞、¶夏之質，¶
+殷、周之文，¶
+至矣。¶
+虞、夏之文不勝其質；¶
+殷、周之質不勝其文。」¶
+
+# src: LIJI 32.01.50; Couvreur 2.500f; Su1n Xïda4n 13.30; Jia1ng Yi4hua2 7i1; Yishu 42:68.45b; tr. Legge 2.343;
+# dating: 8110
+子言之曰：¶
+「後世雖有作者，¶
+虞帝弗可及也已矣；¶
+君天下，¶
+生無私，¶
+死不厚其子；¶
+子民如父母，¶
+有憯怛之愛，¶
+有忠利之教；¶
+
+# src: LIJI 32.01.51; Couvreur 2.500f; Su1n Xïda4n 13.30; Jia1ng Yi4hua2 7i1; Yishu 42:68.45b; tr. Legge 2.343;
+# dating: 8110
+親而尊，¶
+安而敬，¶
+威而愛，¶
+富而有禮，¶
+惠而能散；¶
+
+# src: LIJI 32.01.52; Couvreur 2.500f; Su1n Xïda4n 13.30; Jia1ng Yi4hua2 7i1; Yishu 42:68.45b; tr. Legge 2.343;
+# dating: 8110
+其君子尊仁畏義，¶
+恥費輕實，¶
+忠而不犯，¶
+義而順，¶
+文而靜，¶
+寬而有辨。¶
+《甫刑》曰：¶
+『德威惟威，¶
+德明惟明。』¶
+非虞帝其孰能如此乎？」<pb:KR1d0052_tls_033-16a>¶
+
+# src: LIJI 32.01.53; Couvreur 2.502; Su1n Xïda4n 13.30; Jia1ng Yi4hua2 7i2; Yishu 42:68.48b; tr. Legge 2.344;
+# dating: 8110
+33.16子言之：¶
+「事君先資其言，¶
+拜自獻其身，¶
+以成其信。¶
+是故君有責於其臣，¶
+臣有死於其言。¶
+故其受祿不誣，¶
+其受罪益寡。」<pb:KR1d0052_tls_033-17a>¶
+
+# src: LIJI 32.01.54; Couvreur 2.502f; Su1n Xïda4n 13.31; Jia1ng Yi4hua2 7i2; Yishu 42:68.50b; tr. Legge 2.345;
+# dating: 8110
+33.17子曰：¶
+「事君大言入則望大利，¶
+小言入則望小利；¶
+故君子不以小言受大祿，¶
+不以大言受小祿。¶
+《易》曰：¶
+『不家食
+吉。』」<pb:KR1d0052_tls_033-18a>¶
+
+# src: LIJI 32.01.55; Couvreur 2.503; Su1n Xïda4n 13.31; Jia1ng Yi4hua2 7i3; Yishu 42:68.52b; tr. Legge 2.345;
+# dating: 8110
+33.18子曰：¶
+「事君不下達，¶
+不尚辭，¶
+非其人弗自。¶
+《小雅》曰：¶
+『靖共爾位，¶
+正直是與，¶
+神之聽之，¶
+式穀以女。』」<pb:KR1d0052_tls_033-19a>¶
+
+# src: LIJI 32.01.56; Couvreur 2.503f; Su1n Xïda4n 13.31f; Jia1ng Yi4hua2 7i3; Yishu 42:68.53b-54b; tr. Legge 2.345;
+# dating: 8110
+33.19子曰：¶
+「事君遠而諫，¶
+則讇也；¶
+近而不諫，¶
+則尸利也。」¶
+子曰：¶
+「邇臣守和，¶
+宰正百官，¶
+大臣慮四方。」¶
+
+# src: LIJI 32.01.57; Couvreur 2.504; Su1n Xïda4n 13.32; Jia1ng Yi4hua2 7i3f; Yishu 42:68.55b; tr. Legge 2.346;
+# dating: 8110
+子曰：¶
+「事君欲諫不欲陳。¶
+《詩》云：¶
+『心乎愛矣，¶
+瑕不謂矣；¶
+中心藏之，¶
+何日忘之。』」<pb:KR1d0052_tls_033-20a>¶
+
+# src: LIJI 32.01.58; Couvreur 2.504f; Su1n Xïda4n 13.32; Jia1ng Yi4hua2 7i4; Yishu 42:68.56a; tr. Legge 2.346;
+# dating: 8110
+33.20子曰：¶
+「事君難進而易退，¶
+則位有序；¶
+易進而難退，¶
+則亂也。¶
+故君子三揖而進，¶
+一辭而退，¶
+以遠亂也。」¶
+
+# src: LIJI 32.01.59; Couvreur 2.504f; Su1n Xïda4n 13.32; Jia1ng Yi4hua2 7i4; Yishu 42:68.57a; tr. Legge 2.346;
+# dating: 8110
+子曰：¶
+「事君三違而不出竟，¶
+則利祿也：¶
+人雖曰不要，¶
+吾弗信也。」¶
+
+# src: LIJI 32.01.60; Couvreur 2.505f; Su1n Xïda4n 13.33; Jia1ng Yi4hua2 7i4; Yishu 42:68.57b; tr. Legge 2.346;
+# dating: 8110
+子曰：¶
+「事君慎始而敬終。」¶
+子曰：¶
+「事君可貴可賤，¶
+可富可貧，¶
+可生可殺，¶
+而不可使為亂。」<pb:KR1d0052_tls_033-21a>¶
+
+# src: LIJI 32.01.61; Couvreur 2.506; Su1n Xïda4n 13.33; Jia1ng Yi4hua2 785; Yishu 42:68.58a; tr. Legge 2.347;
+# dating: 8110
+33.21子曰：¶
+「事君，¶
+軍旅不辟難，¶
+朝廷不辭賤；¶
+處其位而不履其事，¶
+則亂也。¶
+
+# src: LIJI 32.01.62; Couvreur 2.506; Su1n Xïda4n 13.33; Jia1ng Yi4hua2 785; Yishu 42:68.58a; tr. Legge 2.347;
+# dating: 8110
+故君使其臣，¶得志
+則慎慮而從之；¶
+否，
+則孰慮而從之，¶
+終事而退，¶
+臣之厚也。¶
+《易》曰：¶
+『不事王侯，¶
+高尚其事。』」<pb:KR1d0052_tls_033-22a>¶
+
+# src: LIJI 32.01.63; Couvreur 2.507; Su1n Xïda4n 13.34; Jia1ng Yi4hua2 786; Yishu 42:68.60b; tr. Legge 2.347;
+# dating: 8110
+33.22子曰：¶
+「唯天子受命于天，¶
+士受命于君。¶
+故君命順則臣有順命；¶
+君命逆則臣有逆命。¶
+《詩》曰：¶
+『鵲之姜姜，¶
+鶉之賁賁；¶
+人之無良，¶
+我以為君。』」<pb:KR1d0052_tls_033-23a>¶
+
+# src: LIJI 32.01.64; Couvreur 2.507f; Su1n Xïda4n 13.34; Jia1ng Yi4hua2 786; Yishu 42:68.62a; tr. Legge 2.347;
+# dating: 8110
+33.23子曰：¶
+「君子不以辭盡人。¶
+故天下有道，¶
+則行有枝葉；¶
+天下無道，¶
+則辭有枝葉。¶
+
+# src: LIJI 32.01.65; Couvreur 2.507f; Su1n Xïda4n 13.34; Jia1ng Yi4hua2 786; Yishu 42:68.62a; tr. Legge 2.347;
+# dating: 8110
+是故君子於有喪者之側，¶
+不能賻焉，¶
+則不問其所費；¶
+於有病者之側，¶
+不能饋焉，¶
+則不問其所欲；¶
+有客，¶
+不能館，¶
+則不問其所舍。¶
+
+# src: LIJI 32.01.66; Couvreur 2.507f; Su1n Xïda4n 13.34; Jia1ng Yi4hua2 786; Yishu 42:68.62a; tr. Legge 2.347;
+# dating: 8110
+故君子之接如水；¶
+小人之接如醴。¶
+君子淡以成；¶
+小人甘以壞。¶
+《小雅》曰：¶
+『盜言孔甘，¶
+亂是用餤。』」<pb:KR1d0052_tls_033-24a>¶
+
+# src: LIJI 32.01.67; Couvreur 2.508f; Su1n Xïda4n 13.35; Jia1ng Yi4hua2 787; Yishu 42:68.64a; tr. Legge 2.348;
+# dating: 8110
+33.24子曰：¶
+「君子不以口譽人，¶
+則民作忠。¶
+故君子問人之寒，¶
+則衣之；¶
+問人之飢，¶
+則食之；¶
+稱人之美，¶
+則爵之。¶
+
+# src: LIJI 32.01.68; Couvreur 2.508f; Su1n Xïda4n 13.35; Jia1ng Yi4hua2 787; Yishu 42:68.64a; tr. Legge 2.348;
+# dating: 8110
+《國風》曰：¶
+『心之憂矣，¶
+於我歸說。』」<pb:KR1d0052_tls_033-25a>¶
+
+# src: LIJI 32.01.69; Couvreur 2.509; Su1n Xïda4n 13.35; Jia1ng Yi4hua2 787; Yishu 42:68.64b; tr. Legge 2.349;
+# dating: 8110
+33.25子曰：¶
+「口惠而實不至，¶
+怨菑及其身。¶
+是故君子與其有諾責也，¶
+寧有已怨。¶
+
+# src: LIJI 32.01.70; Couvreur 2.509; Su1n Xïda4n 13.35; Jia1ng Yi4hua2 787; Yishu 42:68.65a; tr. Legge 2.349;
+# dating: 8110
+《國風》曰：¶
+『言笑晏晏，¶
+信誓旦旦，¶
+不思其反；¶
+反是不思，¶
+亦已焉哉！』」<pb:KR1d0052_tls_033-26a>¶
+
+# src: LIJI 32.01.71; Couvreur 2.510; Su1n Xïda4n 13.35f; Jia1ng Yi4hua2 788; Yishu 42:68.66a-66b; tr. Legge 2.349;
+# dating: 8110
+33.26子曰：¶
+「君子不以色親人；¶
+情疏而貌親，¶
+在小人則穿窬之盜也與？」¶
+子曰：¶
+「情欲信，¶
+辭欲巧。」<pb:KR1d0052_tls_033-27a>¶
+
+# src: LIJI 32.01.72; Couvreur 2.510f; Su1n Xïda4n 13.36; Jia1ng Yi4hua2 788; Yishu 42:68.67a; tr. Legge 2.349;
+# dating: 8110
+33.27子言之：¶
+「昔三代明王
+皆事天地之神明，¶
+無非卜、¶筮之用，¶
+不敢以其私
+褻事上帝。¶
+是故不犯日月，¶
+不違卜、¶筮。
+卜、¶筮不相襲也。¶
+
+# src: LIJI 32.01.73; Couvreur 2.510f; Su1n Xïda4n 13.36f; Jia1ng Yi4hua2 788; Yishu 42:68.69a; tr. Legge 2.350;
+# dating: 8110
+大事有時日；¶
+小事無時日，¶
+有筮。¶
+外事用剛日，¶
+內事用柔日。¶
+不違龜筮。」¶
+
+# src: LIJI 32.01.74; Couvreur 2.511; Su1n Xïda4n 13.37; Jia1ng Yi4hua2 789; Yishu 42:68.70a; tr. Legge 2.350;
+# dating: 8110
+子曰：¶
+「牲牷、¶禮樂、¶齊盛，¶
+是以無害乎鬼神，¶
+無怨乎百姓。」<pb:KR1d0052_tls_033-28a>¶
+
+# src: LIJI 32.01.75; Couvreur 2.511f; Su1n Xïda4n 13.37; Jia1ng Yi4hua2 789; Yishu 42:68.70b; tr. Legge 2.350;
+# dating: 8110
+33.28子曰：¶
+「后稷之祀易富也；¶
+其辭恭，¶
+其欲儉，¶
+其祿及子孫。¶
+《詩》曰：¶
+『后稷兆祀，¶
+庶無罪悔，¶
+以迄于今。』」<pb:KR1d0052_tls_033-29a>¶
+
+# src: LIJI 32.01.76; Couvreur 2.512; Su1n Xïda4n 13.37; Jia1ng Yi4hua2 790; Yishu 42:68.72a; tr. Legge 2.350;
+# dating: 8110
+33.29子曰：¶
+「大人之器威敬。¶
+天子無筮；¶
+諸侯有守筮。¶
+天子道以筮；¶
+諸侯非其國不以筮。¶
+卜宅寢室。¶
+天子不卜處大廟。」¶
+
+# src: LIJI 32.01.77; Couvreur 2.513; Su1n Xïda4n 13.38; Jia1ng Yi4hua2 790; Yishu 42:68.75a; tr. Legge 2.351;
+# dating: 8110
+子曰：¶
+「君子敬則用祭器。¶
+是以不廢日月，¶
+不違龜筮，¶
+以敬事其君長。¶
+是以上不瀆於民，¶
+下不褻於上。」
+

@@ -1,3 +1,14 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 12
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 13.01.01; Couvreur 1.677f; Su1n Xïda4n 8.20f; Jia1ng Yi4hua2 407; Yishu 25:41.2b-9a; tr. Legge 2.1;
+# dating: 8110
+<pb:KR1d0052_tls_013-1a>¶
 ** 13 玉藻
 
 13.1天子玉藻，¶
@@ -856,3 +867,4 @@
 「寡君之老」。¶
 大夫有所往，¶
 必與公士為賓也。
+

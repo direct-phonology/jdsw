@@ -1,3 +1,14 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 13
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 14.01.01; Couvreur 1.725f; Su1n Xïda4n 9.1f; Jia1ng Yi4hua2 431f; Yishu 26:44.7b-10b; tr. Legge 2.29;
+# dating: 8110
+<pb:KR1d0052_tls_014-1a>¶
 ** 14 明堂位
 
 14.1昔者周公朝諸侯于明堂之位：¶
@@ -350,3 +361,4 @@
 天下以為有道之國。¶
 是故
 天下資禮樂焉。
+

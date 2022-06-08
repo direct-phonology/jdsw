@@ -1,3 +1,14 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 8
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 09.01.01; Couvreur 1.496f; Su1n Xïda4n 6.29; Jia1ng Yi4hua2 325; Yishu 19:30.2b; tr. Legge 1.364;
+# dating: 8110
+<pb:KR1d0052_tls_009-1a>¶
 ** 9 禮運
 
 9.1昔者仲尼與於蜡賓，¶
@@ -817,9 +828,4 @@
 先王能脩禮以達義，¶
 體信以達順故，¶
 此順之實也。」
-
-
-
-
-
 

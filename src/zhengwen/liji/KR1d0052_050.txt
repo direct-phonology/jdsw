@@ -1,0 +1,213 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 49
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 49.01.01; Couvreur 2.697f; Su1n Xïda4n 14.63; Jia1ng Yi4hua2 933; Yi4 Shu1 47:77.1b; tr. Legge 2.465;
+# dating: 8110
+<pb:KR1d0052_tls_050-1a>¶
+** 50 喪服四制
+
+50.1凡禮之大體，¶
+體天地，¶
+法四時，¶
+則陰陽，¶
+順人情，¶
+故謂之禮。¶
+訾之者，¶
+是不知禮之所由生也。<pb:KR1d0052_tls_050-2a>¶
+
+# src: LIJI 49.01.02; Couvreur 2.697f; Su1n Xïda4n 14.63; Jia1ng Yi4hua2 933; Yi4 Shu1 47:77.2b-3a; tr. Legge 2.465;
+# dating: 8110
+50.2夫禮、¶
+吉凶異道，¶
+不得相干，¶
+取之陰陽也。¶
+喪有四制，¶
+變而從宜，¶
+取之四時也。¶
+
+# src: LIJI 49.01.03; Couvreur 2.697f; Su1n Xïda4n 14.63; Jia1ng Yi4hua2 933; Yi4 Shu1 47:77.3a; tr. Legge 2.465;
+# dating: 8110
+有恩有理，¶
+有節有權，¶
+取之人情也。¶
+恩者仁也，¶
+理者義也，¶
+節者禮也，¶
+權者知也。¶
+仁義禮智，¶
+人道具矣。<pb:KR1d0052_tls_050-3a>¶
+
+# src: LIJI 49.01.04; Couvreur 2.700f; Su1n Xïda4n 14.64; Jia1ng Yi4hua2 934; Yi4 Shu1 47:77.4a; tr. Legge 2.466;
+# dating: 8110
+50.3其恩厚者，¶
+其服重；¶
+故為父斬衰三年，¶
+以恩制者也。<pb:KR1d0052_tls_050-4a>¶
+
+# src: LIJI 49.01.05; Couvreur 2.700f; Su1n Xïda4n 14.64; Jia1ng Yi4hua2 934; Yi4 Shu1 47:77.4b; tr. Legge 2.466;
+# dating: 8110
+50.4門內之治，¶
+恩揜義；¶
+門外之治，¶
+義斷恩。¶
+資於事父以事君，¶
+而敬同，¶
+貴貴尊尊，¶
+義之大者也。¶
+故為君亦斬衰三年，¶
+以義制者也。<pb:KR1d0052_tls_050-5a>¶
+
+# src: LIJI 49.01.06; Couvreur 2.701f; Su1n Xïda4n 14.64; Jia1ng Yi4hua2 935; Yi4 Shu1 47:77.5b; tr. Legge 2.466;
+# dating: 8110
+50.5三日而食，¶
+三月而沐，¶
+期而練，¶
+毀不滅性，¶
+不以死傷生也。¶
+
+# src: LIJI 49.01.07; Couvreur 2.701f; Su1n Xïda4n 14.64f; Jia1ng Yi4hua2 935; Yi4 Shu1 47:77.5b; tr. Legge 2.466;
+# dating: 8110
+喪不過三年，¶
+苴衰不補，¶
+墳墓不培；¶
+祥之日，¶
+鼓素琴，¶
+告民有終也；¶
+以節制者也。¶
+資於事父以事母，¶
+而愛同。¶
+
+# src: LIJI 49.01.08; Couvreur 2.701f; Su1n Xïda4n 14.65; Jia1ng Yi4hua2 935; Yi4 Shu1 47:77.5b; tr. Legge 2.466;
+# dating: 8110
+天無二日，¶
+土無二王，¶
+國無二君，¶
+家無二尊，¶
+以一治之也。¶
+故父在
+為母齊衰期者，¶
+見無二尊也。<pb:KR1d0052_tls_050-6a>¶
+
+# src: LIJI 49.01.09; Couvreur 2.703f; Su1n Xïda4n 14.65; Jia1ng Yi4hua2 935; Yi4 Shu1 47:77.8b; tr. Legge 2.467;
+# dating: 8110
+50.6杖者何也？¶
+爵也。¶
+三日授子杖，¶
+五日授大夫杖，¶
+七日授士杖。¶
+或曰¶「擔主」；¶
+或曰¶「輔病」，¶
+婦人童子不杖，¶
+不能病也。¶
+
+# src: LIJI 49.01.10; Couvreur 2.703f; Su1n Xïda4n 14.65; Jia1ng Yi4hua2 935; Yi4 Shu1 47:77.9a; tr. Legge 2.467;
+# dating: 8110
+百官備，¶
+百物具，¶
+不言而事行者，¶
+扶而起；¶
+言而后事行者，¶
+杖而起；¶
+身自執事而后行者，¶
+面垢而已。¶
+
+# src: LIJI 49.01.11; Couvreur 2.703f; Su1n Xïda4n 14.65; Jia1ng Yi4hua2 935; Yi4 Shu1 47:77.9a; tr. Legge 2.467;
+# dating: 8110
+禿者不髽，¶
+傴者不袒，¶
+跛者不踊，¶
+老病不止酒肉。¶
+凡此八者，¶
+以權制者也。<pb:KR1d0052_tls_050-7a>¶
+
+# src: LIJI 49.01.12; Couvreur 2.704f; Su1n Xïda4n 14.66; Jia1ng Yi4hua2 936; Yi4 Shu1 47:77.13a; tr. Legge 2.468;
+# dating: 8110
+50.7始死，¶
+三日不怠，¶
+三月不解，¶
+期悲哀，¶
+三年憂；¶
+恩之殺也。¶
+聖人因殺以制節，¶
+
+# src: LIJI 49.01.13; Couvreur 2.704f; Su1n Xïda4n 14.66f; Jia1ng Yi4hua2 936; Yi4 Shu1 47:77.13b; tr. Legge 2.468;
+# dating: 8110
+此喪之所以三年。¶
+賢者不得過，¶
+不肖者不得不及，¶
+此喪之中庸也；¶
+王者之所常行也。¶
+
+# src: LIJI 49.01.14; Couvreur 2.705f; Su1n Xïda4n 14.67; Jia1ng Yi4hua2 937; Yi4 Shu1 47:77.14a; tr. Legge 2.468;
+# dating: 8110
+《書》曰：¶
+「高宗諒闇，¶
+三年不言」，¶
+善之也；¶
+王者莫不行此禮。¶
+何以獨善之也？¶
+曰：
+高宗者武丁。¶
+武丁者，¶
+殷之賢王也。¶
+
+# src: LIJI 49.01.15; Couvreur 2.705f; Su1n Xïda4n 14.67; Jia1ng Yi4hua2 937; Yi4 Shu1 47:77.14a; tr. Legge 2.468;
+# dating: 8110
+繼世即位而慈良於喪，¶
+當此之時，¶
+殷衰而復興，¶
+禮廢而復起，¶
+故善之。¶
+善之，¶
+故載之《書》中而高之，¶
+故謂之高宗。¶
+
+# src: LIJI 49.01.16; Couvreur 2.705f; Su1n Xïda4n 14.67; Jia1ng Yi4hua2 937; Yi4 Shu1 47:77.14a; tr. Legge 2.468;
+# dating: 8110
+三年之喪，¶
+君不言，¶
+《書》云：¶
+「高宗諒闇，¶
+三年不言」，¶
+此之謂也。¶
+然而曰：¶
+「言不文」¶者，
+謂臣下也。¶
+
+# src: LIJI 49.01.17; Couvreur 2.706f; Su1n Xïda4n 14.67; Jia1ng Yi4hua2 937; Yi4 Shu1 47:77.15a; tr. Legge 2.469;
+# dating: 8110
+禮：
+斬衰之喪，¶
+唯而不對；¶
+齊衰之喪，¶
+對而不言；¶
+大功之喪，¶
+言而不議；¶
+緦、小功之喪，¶
+議而不及樂。¶
+
+# src: LIJI 49.01.18; Couvreur 2.707; Su1n Xïda4n 14.68; Jia1ng Yi4hua2 938; Yi4 Shu1 47:77.16a; tr. Legge 2.469;
+# dating: 8110
+父母之喪，¶
+衰冠、¶繩纓、¶菅屨，¶
+三日而食粥，¶
+三月而沐，¶
+期十三月而練冠，¶
+三年而祥。<pb:KR1d0052_tls_050-8a>¶
+
+# src: LIJI 49.01.19; Couvreur 2.707f; Su1n Xïda4n 14.68; Jia1ng Yi4hua2 938; Yi4 Shu1 47:77.16a; tr. Legge 2.469;
+# dating: 8110
+50.8比終茲三節者，¶
+仁者可以觀其愛焉，¶
+知者可以觀其理焉，¶
+強者可以觀其志焉。¶
+禮以治之，¶
+義以正之，¶
+孝子、¶弟弟、¶貞婦
+皆可得而察焉。
+

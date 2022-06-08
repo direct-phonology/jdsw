@@ -1,3 +1,14 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 2
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 03.01.01; Couvreur 1.107f; Su1n Xïda4n 2.54; Jia1ng Yi4hua2 69; Yishu 7:9.1b; tr. Legge 1.120;
+# dating: 8110
+<pb:KR1d0052_tls_003-1a>¶
 ** 3 檀弓上
 
 3.1公儀仲子之喪，¶
@@ -1691,3 +1702,4 @@
 是月禫，¶
 徙月樂。<pb:KR1d0052_tls_003-113a>¶
 3.113君於士有賜帟。
+

@@ -1,3 +1,14 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 18
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 19.01.01; Couvreur 2.45f; Su1n Xïda4n 10.18; Jia1ng Yi4hua2 513; Yishu 30:50.3a-3b; tr. Legge 2.92;
+# dating: 8110
+<pb:KR1d0052_tls_019-1a>¶
 ** 19 樂記
 
 19.1凡音之起，¶
@@ -1487,3 +1498,4 @@
 故不知手之舞之，¶
 足之蹈之也。」¶
 子貢問樂。
+

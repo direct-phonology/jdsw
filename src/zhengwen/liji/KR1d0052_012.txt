@@ -1,3 +1,14 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 11
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 12.01.01; Couvreur 1.620f; Su1n Xïda4n 7.73; Jia1ng Yi4hua2 3i3; Yishu 24:39.2a-3a; tr. Legge 1.449;
+# dating: 8110
+<pb:KR1d0052_tls_012-1a>¶
 ** 12 內則
 
 12.1后王命冢宰
@@ -1206,3 +1217,4 @@
 奔則為妾。¶
 凡女拜，¶
 尚右手。
+

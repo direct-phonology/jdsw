@@ -1,3 +1,14 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 9
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 10.01.01; Couvreur 1.538f; Su1n Xïda4n 6.68; Jia1ng Yi4hua2 345; Yishu 21:34.1b; tr. Legge 1.394;
+# dating: 8110
+<pb:KR1d0052_tls_010-1a>¶
 ** 10 禮器
 
 10.1禮器，¶
@@ -713,3 +724,4 @@
 晏朝而退。¶
 孔子聞之，¶曰：¶
 「誰謂由也而不知禮乎？」
+
