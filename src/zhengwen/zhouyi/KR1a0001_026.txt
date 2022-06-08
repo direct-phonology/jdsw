@@ -1,3 +1,11 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 周易
+#+DATE: 2016-08-10 10:17:03
+#+PROPERTY: ID KR1a0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 25
+#+PROPERTY: CAT 1pre-han,經學典籍,易經類
+<pb:KR1a0001_tls_026-1a>¶
 ** 《大畜第二十六》
 
 ䷙乾下艮上
@@ -88,3 +96,4 @@
 《象》曰：¶
 「何天之衢」、¶
 道大行也。
+

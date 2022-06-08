@@ -1,3 +1,11 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 周易
+#+DATE: 2016-08-10 10:17:03
+#+PROPERTY: ID KR1a0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 29
+#+PROPERTY: CAT 1pre-han,經學典籍,易經類
+<pb:KR1a0001_tls_030-1a>¶
 ** 《離第三十》
 
 ䷝離下離上
@@ -98,3 +106,4 @@
 《象》曰：¶
 「王用出征」、¶
 以正邦也。
+

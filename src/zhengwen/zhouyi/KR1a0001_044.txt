@@ -1,3 +1,11 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 周易
+#+DATE: 2016-08-10 10:17:03
+#+PROPERTY: ID KR1a0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 43
+#+PROPERTY: CAT 1pre-han,經學典籍,易經類
+<pb:KR1a0001_tls_044-1a>¶
 ** 《姤第四十四》
 
 ䷫巽下乾上
@@ -99,3 +107,4 @@
 上窮¶
 「吝」¶
 也。
+

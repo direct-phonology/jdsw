@@ -1,3 +1,11 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 周易
+#+DATE: 2016-08-10 10:17:03
+#+PROPERTY: ID KR1a0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 22
+#+PROPERTY: CAT 1pre-han,經學典籍,易經類
+<pb:KR1a0001_tls_023-1a>¶
 ** 《剝第二十三》
 
 ䷖坤下艮上
@@ -84,3 +92,4 @@
 民所載也，¶
 「小人剝廬」、¶
 終不可用也。
+

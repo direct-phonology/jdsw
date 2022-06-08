@@ -1,3 +1,11 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 周易
+#+DATE: 2016-08-10 10:17:03
+#+PROPERTY: ID KR1a0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 18
+#+PROPERTY: CAT 1pre-han,經學典籍,易經類
+<pb:KR1a0001_tls_019-1a>¶
 ** 《臨第十九》
 
 ䷒兌下坤上
@@ -94,3 +102,4 @@
 之¶
 「吉」、¶
 志在內也。
+

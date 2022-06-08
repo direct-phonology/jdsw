@@ -1,3 +1,11 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 周易
+#+DATE: 2016-08-10 10:17:03
+#+PROPERTY: ID KR1a0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 41
+#+PROPERTY: CAT 1pre-han,經學典籍,易經類
+<pb:KR1a0001_tls_042-1a>¶
 ** 《益第四十二》
 
 ䷩震下巽上
@@ -105,3 +113,4 @@
 偏辭也，¶
 「或擊之」、¶
 自外來也。
+

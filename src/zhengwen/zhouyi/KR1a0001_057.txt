@@ -1,3 +1,11 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 周易
+#+DATE: 2016-08-10 10:17:03
+#+PROPERTY: ID KR1a0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 56
+#+PROPERTY: CAT 1pre-han,經學典籍,易經類
+<pb:KR1a0001_tls_057-1a>¶
 ** 《巽第五十七》
 
 ䷸巽下巽上
@@ -103,3 +111,4 @@
 正乎¶
 「凶」¶
 也。
+
