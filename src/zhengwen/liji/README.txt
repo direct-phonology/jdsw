@@ -1,7 +1,0 @@
-#+SOURCE: https://github.com/kanripo/KR1d0052/
-#+TITLE: 禮記
-#+DATE: 2016-08-10 10:15:48
-#+PROPERTY: ID KR1d0052
-#+PROPERTY: BASEEDITION tls
-#+PROPERTY: JUAN 0
-#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
