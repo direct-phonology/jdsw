@@ -1,3 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 莊子
+#+DATE: 2016-08-10 10:04:30
+#+PROPERTY: ID KR5c0126
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 15
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H11-06-0033
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
+# src: ZHUANG 16.1.1 Guo Qingfan 547; Wang Shumin 565; Fang Yong 420; Chen Guying 402
+# dating: 8110
+<pb:KR5c0126_CHANT_016-1a>¶
 ** 16 繕性第十六
 
 繕性於俗，俗學
@@ -178,3 +194,4 @@
 喪己於物，¶
 失性於俗者，¶
 謂之倒置之民。
+

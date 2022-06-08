@@ -1,3 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 莊子
+#+DATE: 2016-08-10 10:04:30
+#+PROPERTY: ID KR5c0126
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 9
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H11-06-0033
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
+# src: ZHUANG 10.1.1 Guo Qingfan 342; Wang Shumin 345; Fang Yong 258; Chen Guying 252
+# dating: 8110
+<pb:KR5c0126_CHANT_010-1a>¶
 ** 10 胠篋第十
 
 將為胠篋探囊發匱之盜而為守備，¶
@@ -294,3 +310,4 @@
 舍夫種種之民，而悅夫役役之佞，¶
 釋夫恬淡无為而悅夫啍啍之意，¶
 啍啍已亂天下矣！
+

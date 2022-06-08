@@ -1,3 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 莊子
+#+DATE: 2016-08-10 10:04:30
+#+PROPERTY: ID KR5c0126
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 31
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H11-06-0033
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
+# src: ZHUANG 32.1.1 Guo Qingfan 1036; Wang Shumin 1252; Fang Yong 851; Chen Guying i29
+# dating: 8110
+<pb:KR5c0126_CHANT_032-1a>¶
 ** 32 列御寇第三十二
 
 列御寇之齊，¶
@@ -464,3 +480,4 @@
 而愚者恃其所見入於人，¶
 其功外也，¶
 不亦悲乎！
+

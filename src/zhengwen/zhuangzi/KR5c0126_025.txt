@@ -1,3 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 莊子
+#+DATE: 2016-08-10 10:04:30
+#+PROPERTY: ID KR5c0126
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 24
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H11-06-0033
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
+# src: ZHUANG 25.1.1 Guo Qingfan 876; Wang Shumin 997 ; Fang Yong 699; Chen Guying 668
+# dating: 8110
+<pb:KR5c0126_CHANT_025-1a>¶
 ** 25 則陽第二十五
 
 則陽遊於楚，¶
@@ -735,3 +751,4 @@
 言默不足以載；¶
 非言非默，¶
 議有所極。」
+

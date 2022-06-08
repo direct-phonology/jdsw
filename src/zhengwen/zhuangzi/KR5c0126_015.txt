@@ -1,3 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 莊子
+#+DATE: 2016-08-10 10:04:30
+#+PROPERTY: ID KR5c0126
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 14
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H11-06-0033
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
+# src: ZHUANG 15.1.1 Guo Qingfan 535; Wang Shumin 551; Fang Yong 411; Chen Guying 393
+# dating: 8110
+<pb:KR5c0126_CHANT_015-1a>¶
 ** 15 刻意第十五
 
 刻意尚行，¶
@@ -193,3 +209,4 @@
 謂其不虧其神也。¶
 能體純素，¶
 謂之真人。
+

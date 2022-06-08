@@ -1,3 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 莊子
+#+DATE: 2016-08-10 10:04:30
+#+PROPERTY: ID KR5c0126
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 27
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H11-06-0033
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
+# src: ZHUANG 28.1.1 Guo Qingfan 965; Wang Shumin 1117; Fang Yong 778; Chen Guying 744
+# dating: 8110
+<pb:KR5c0126_CHANT_028-1a>¶
 ** 28 讓王第二十八
 
 堯以天下讓許由，¶
@@ -745,3 +761,4 @@
 獨樂其志，¶
 不事於世，¶
 此二士之節也。
+

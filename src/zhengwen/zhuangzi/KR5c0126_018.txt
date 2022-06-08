@@ -1,3 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 莊子
+#+DATE: 2016-08-10 10:04:30
+#+PROPERTY: ID KR5c0126
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 17
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H11-06-0033
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
+# src: ZHUANG 18.1.1 Guo Qingfan 608; Wang Shumin 639; Fang Yong 464; Chen Guying 446
+# dating: 8110
+<pb:KR5c0126_CHANT_018-1a>¶
 ** 18 至樂第十八
 
 天下有至樂无有哉？¶
@@ -363,3 +379,4 @@
 人又反入於機。¶
 萬物皆出於機，¶
 皆入於機。
+

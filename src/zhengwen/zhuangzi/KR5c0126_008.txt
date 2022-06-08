@@ -1,3 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 莊子
+#+DATE: 2016-08-10 10:04:30
+#+PROPERTY: ID KR5c0126
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 7
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H11-06-0033
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
+# src: ZHUANG 8.1.1 Guo Qingfan 311; Wang Shumin 308; Fang Yong 233; Chen Guying 231
+# dating: 8110
+<pb:KR5c0126_CHANT_008-1a>¶
 ** 8 駢拇第八
 
 駢拇枝指，¶
@@ -232,3 +248,4 @@
 余愧乎道德，¶
 是以上不敢為仁義之操，¶
 而下不敢為淫僻之行也。
+

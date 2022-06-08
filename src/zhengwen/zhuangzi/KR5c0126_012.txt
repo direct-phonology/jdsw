@@ -1,3 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 莊子
+#+DATE: 2016-08-10 10:04:30
+#+PROPERTY: ID KR5c0126
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 11
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H11-06-0033
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
+# src: ZHUANG 12.1.1 Guo Qingfan 403; Wang Shumin 413; Fang Yong 303; Chen Guying 295
+# dating: 8110
+<pb:KR5c0126_CHANT_012-1a>¶
 ** 12 天地第十二
 
 天地雖大，¶
@@ -903,3 +919,4 @@
 則是罪人交臂歷指，¶
 而虎豹在於囊檻，¶
 亦可以為得矣。
+

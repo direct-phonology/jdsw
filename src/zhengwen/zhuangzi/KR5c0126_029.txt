@@ -1,3 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 莊子
+#+DATE: 2016-08-10 10:04:30
+#+PROPERTY: ID KR5c0126
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 28
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H11-06-0033
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
+# src: ZHUANG 29.1.1 Guo Qingfan 990; Wang Shumin 1171; Fang Yong 808; Chen Guying 776
+# dating: 8110
+<pb:KR5c0126_CHANT_029-1a>¶
 ** 29 盜跖第二十九
 
 孔子與柳下季為友，¶
@@ -823,3 +839,4 @@
 求之利則不得，¶
 繚意絕體而爭此，¶
 不亦惑乎！」
+

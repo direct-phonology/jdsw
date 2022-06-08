@@ -1,3 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 莊子
+#+DATE: 2016-08-10 10:04:30
+#+PROPERTY: ID KR5c0126
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 22
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H11-06-0033
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
+# src: ZHUANG 23.1.1 Guo Qingfan 769; Wang Shumin 855; Fang Yong 623; Chen Guying 592
+# dating: 8110
+<pb:KR5c0126_CHANT_023-1a>¶
 ** 23 庚桑楚第二十三
 
 老聃之役有庚桑楚者，¶
@@ -678,3 +694,4 @@
 欲當則緣於不得已，¶
 不得已之類，¶
 聖人之道。
+

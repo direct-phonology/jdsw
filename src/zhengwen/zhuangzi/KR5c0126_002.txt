@@ -1,3 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 莊子
+#+DATE: 2016-08-10 10:04:30
+#+PROPERTY: ID KR5c0126
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 1
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H11-06-0033
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
+# src: ZHUANG 2.1.1; Guo Qingfan 43; Wang Shumin 40; Fang Yong 34; Chen Guying 33; A.C. Graham 1981: 48
+# dating: 8110
+<pb:KR5c0126_CHANT_002-1a>¶
 ** 2 齊物論第二
 
 南郭子綦隱几而坐，¶
@@ -802,3 +818,4 @@
 周與胡蝶，¶
 則必有分矣。¶
 此之謂物化。
+

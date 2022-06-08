@@ -1,3 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 莊子
+#+DATE: 2016-08-10 10:04:30
+#+PROPERTY: ID KR5c0126
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 3
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H11-06-0033
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
+# src: ZHUANG 4.1.1; Guo Qingfan 131; Wang Shumin 117; Fang Yong 109; Chen Guying 107
+# dating: 8110
+<pb:KR5c0126_CHANT_004-1a>¶
 ** 4 人間世第四
 
 顏回見仲尼，¶
@@ -764,3 +780,4 @@
 故割之。¶
 人皆知有用之用，¶
 而莫知无用之用也。
+

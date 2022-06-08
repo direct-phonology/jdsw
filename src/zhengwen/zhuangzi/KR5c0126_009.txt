@@ -1,3 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 莊子
+#+DATE: 2016-08-10 10:04:30
+#+PROPERTY: ID KR5c0126
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 8
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H11-06-0033
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
+# src: ZHUANG 9.1.1 Guo Qingfan 330; Wang Shumin 329; Fang Yong 248; Chen Guying 244
+# dating: 8110
+<pb:KR5c0126_CHANT_009-1a>¶
 ** 9 馬蹄第九
 
 馬，¶蹄可以踐霜雪，¶
@@ -158,3 +174,4 @@
 爭歸於利，¶
 不可止也。¶
 此亦聖人之過也。
+

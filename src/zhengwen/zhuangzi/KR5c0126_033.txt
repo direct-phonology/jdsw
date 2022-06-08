@@ -1,3 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 莊子
+#+DATE: 2016-08-10 10:04:30
+#+PROPERTY: ID KR5c0126
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 32
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H11-06-0033
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
+# src: ZHUANG 33.1.1 Guo Qingfan 1065; Wang Shumin 1293; Fang Yong 877; Chen Guying 855
+# dating: 8110
+<pb:KR5c0126_CHANT_033-1a>¶
 ** 33 天下第三十三
 
 天下之治方術者多矣，¶
@@ -722,3 +738,4 @@
 是窮響以聲，¶
 形與影競走也。¶
 悲夫！
+

@@ -1,3 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 莊子
+#+DATE: 2016-08-10 10:04:30
+#+PROPERTY: ID KR5c0126
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 18
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H11-06-0033
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
+# src: ZHUANG 19.1.1 Guo Qingfan 630; Wang Shumin 667; Fang Yong 485; Chen Guying 465
+# dating: 8110
+<pb:KR5c0126_CHANT_019-1a>¶
 ** 19 達生第十九
 
 達生之情者，¶
@@ -686,3 +702,4 @@
 譬之若載鼷以車馬，¶
 樂鴳以鍾鼓也。¶
 彼又惡能无驚乎哉！」
+

@@ -1,3 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 莊子
+#+DATE: 2016-08-10 10:04:30
+#+PROPERTY: ID KR5c0126
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 6
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H11-06-0033
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+
+# src: ZHUANG 7.1.1 Guo Qingfan 287; Wang Shumin 275; Fang Yong 212; Chen Guying 211
+# dating: 8110
+<pb:KR5c0126_CHANT_007-1a>¶
 ** 7 應帝王第七
 
 齧缺問於王倪，¶
@@ -299,5 +315,4 @@
 嘗試鑿之。」¶
 日鑿一竅，¶
 七日而渾沌死。
-
 

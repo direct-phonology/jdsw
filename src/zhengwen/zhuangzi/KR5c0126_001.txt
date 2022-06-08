@@ -1,3 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 莊子
+#+DATE: 2016-08-10 10:04:30
+#+PROPERTY: ID KR5c0126
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: JUAN 0
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: ID H11-06-0033
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+# src: ZHUANG 1.1.1; Guo Qingfan 4; Wang Shumin 6; Fang Yong 4; Chen Guying:3
+# dating: 8110
+
+<pb:KR5c0126_CHANT_001-1a>¶
 ** 1 逍遙遊第一
 
 北冥有魚，¶
@@ -375,8 +391,4 @@
 物無害者，¶
 無所可用，¶
 安所困苦哉！」
-
-
-
-
 
