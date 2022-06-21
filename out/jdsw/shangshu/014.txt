@@ -1,27 +1,27 @@
-太甲上第五朝政	上直遥反
-倚	於綺反
-顧	音故
-諟	音是說文理也
-祇	巨支反
-遠	于萬反
-監	工暫反
-辟	必亦反徐甫亦反
-丕	普悲反徐甫眉反
-先見	並如字注同
-相亦	上息亮反
-昧	音妹
-俊	本亦作畯
-迪	大歷反
-越	于月反本又作粤
-覆	芳服反注同
-省	息井反
-括	故活反注同
-度	如字
-虞度	待洛反
-則中	丁仲反
-懌	音亦
-輕	遣政反
-義	本亦作誼
-俾	必爾反後篇同
-近	附近之近
-令太甲	令力呈反
+太甲上第五朝政	上直遥反	_
+倚	於綺反	commentary
+顧	音故	commentary
+諟	音是說文理也	commentary
+祇	巨支反	source
+遠	于萬反	_
+監	工暫反	commentary
+辟	必亦反徐甫亦反	commentary
+丕	普悲反徐甫眉反	commentary
+先見	並如字注同	source
+相亦	上息亮反	commentary
+昧	音妹	commentary
+俊	本亦作畯	commentary
+迪	大歷反	commentary
+越	于月反本又作粤	commentary
+覆	芳服反注同	commentary
+省	息井反	commentary
+括	故活反注同	commentary
+度	如字	commentary
+虞度	待洛反	source
+則中	丁仲反	commentary
+懌	音亦	source
+輕	遣政反	commentary
+義	本亦作誼	source
+俾	必爾反後篇同	commentary
+近	附近之近	source
+令太甲	令力呈反	commentary

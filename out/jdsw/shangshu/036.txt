@@ -1,13 +1,13 @@
-微子之命第十正朔	上音政
-裔	以制反
-令聞	如字又音問
-篤	本又作竺東谷反
-歆	許今反
-蕃	方元反本亦作藩
-毗	房脂反
-俾	必爾反
-斁	音亦
-好	呼報反
-猒	於豔反
-穎	役領反
-穗	似醉反本亦作穟
+微子之命第十正朔	上音政	_
+裔	以制反	source
+令聞	如字又音問	commentary
+篤	本又作竺東谷反	source
+歆	許今反	commentary
+蕃	方元反本亦作藩	source
+毗	房脂反	source
+俾	必爾反	commentary
+斁	音亦	commentary
+好	呼報反	commentary
+猒	於豔反	_
+穎	役領反	_
+穗	似醉反本亦作穟	commentary

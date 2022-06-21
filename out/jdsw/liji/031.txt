@@ -1,149 +1,297 @@
-坊記第三十	坊音防徐扶訪反經文皆同鄭云名坊記者以其記六藝之義所以坊人之失也
-辟則	匹亦反注同舊芳益反徐又音譬
-坊與	音餘
-邪	似嗟反
-侈	昌氏反又尺氏反
-斯喬	音驕本亦作驕下同
-不慊	口簟反恨不滿之貌
-之級	音給
-而好	呼報反下同
-樂	音洛又音岳
-其幾	居豈反又音譏
-荼毒	音徒
-之行	下孟反
-惡之	烏路反下猶惡皆同
-千乗	繩證反下注同
-髙一	古報反
-長三	直亮反下同
-別微	彼列反下同
-朝廷	直遥反下皆同
-僭號	子念反下同
-辟其	音避下同
-皆爲	于僞反
-相彼	息亮反
-盍旦	音渴徐苦蓋反注同
-以殺	音試本又作弑
-子云	自此以下本或作子曰
-則近	附近之近
-觴酒	音傷
-衽席	而審反又而鴆反
-以上	時掌反
-好得	呼報反
-不偝	音佩下及注同
-不愉	音偷本亦作偷
-以畜	計六反注同毛詩作朂
-定姜之詩	此是魯詩毛詩爲莊姜
-子衎	苦旦反
-而號	戸羔反注同
-稱冤	於袁反
-尚技	其綺反注同
-不吝	力刄反又力鎭反
-往行	下孟反
-以畜	勑六反
-上施	始豉反注同
-以莅	音利又音類
-其難	乃旦反
-詢于	音荀
-芻	初俱反
-蕘	如遥反
-不爭	爭鬪之爭
-履無	如字毛詩作體
-爾女	音汝下及下文皆同
-嚮卜	許亮反本亦作郷
-度是	徒洛反注同毛詩作宅
-鎬京	胡老反
-於乎	音烏下火吳反注同
-大誓	音泰本亦作泰注同
-弛其	式氏反注同弃也
-駮親	邦角反
-乃讙	音觀火官反
-喜樂	音洛
-鄂鄂	五各反本又作諤
-說則	音恱
-復諫	扶又反
-不匱	其媿反
-綽綽	昌灼反
-有裕	羊樹反
-爲瘉	羊主反病也
-猶更	古衡反
-以衣	於旣反
-差逺	初賣反
-能養	羊尚反
-爲其	于僞反下專爲同
-相褻	息列反
-厥辟不辟	並必亦反君也注同
-􁅈子	而注反
-長民	丁丈反注及下事長同
-簋	音軌
-鈃	音刑
-饗食	音嗣下文食禮同
-盤	歩于反
-盂	音于
-以菲	芳鬼反薄也
-去禮	起吕反
-親饋	其位反
-禴祭	音藥
-寔受	時力反易作實
-豕與	音餘
-酒肴	戸交反
-三日齊	側皆反注同
-散齊	悉但反
-醍酒	音體
-羣昭	常遥反
-卒度	如字法度也徐徒洛反
-中霤	力救反
-飯於	扶晚反
-牖下	音酉
-於壙	苦晃反
-不爭	爭鬪之爭下民爭同
-殺其	音試注及下同一音如字
-君卓	勑角反注同
-弟以	音悌
-鄭段	徒亂反本亦云鄭叔段也
-遟	直志反
-而爲	于僞反
-貳圉	魚吕反晉惠公太子懷公名
-饋獻	本又作餽音同
-之贄	音至
-以見	賢遍反
-脩好	呼報反
-饋遺	于季反下遺民同
-不内	音納又如字
-耕穫	戸郭反
-不葘	側其反田一歳也
-畬凶	音餘田二歳也
-賤行	下孟反注同
-歛穧	子賜反又才計反
-捃	君運反
-拾	音十
-采葑	芳容反
-采菲	芳尾反
-蔓	音萬徐音蠻
-菁	音精又子丁反
-葍	音富又音福
-則并	必政反又如字下同
-不離	力智反
-與女	音汝
-無媒	音梅注同
-伐柯	古何反斧柄
-取妻	七樹反後皆同
-橫從	子容反注同
-橫行治其田也	本亦作遊行治其田
-易治	以豉反
-不取同姓	如字又七樹反
-猶去	起吕反注同
-大伯	音泰
-猶殺	音試注同一音如字
-繆侯	音穆
-來朝	直遥切
-有見	賢遍反注及下同
-以辟	音避
-逺	于萬反下逺色同
-好德	呼報反下及注同
-猶捕	蒲布反
-中網	丁仲反
-以篚	音匪
-淫泆	音逸本又作佚同
-妃匹	音配一音如字
-親迎	魚敬反
-行父	音甫
+中庸第三十一	鄭云以其記中和之爲用也庸用也孔子之孫子思作之以昭明聖祖之德也	source
+卷之十六率性	所律反循也	_
+則知	音智下知者大知皆同	commentary
+人放	方往反	commentary
+傚之	胡教反	_
+離也	力智反下及注同	commentary
+惡乎	音烏	source
+不睹	丁古反	commentary
+恐懼	匡勇反注同	source
+閒居	音閑下同	commentary
+莫見	賢遍反注顯見同一音如字	_
+有佔	勑廉反	_
+哀樂	音洛注同	_
+中節	丁仲反下注爲之中同	_
+長也	丁丈反	commentary
+小人之中庸也	王肅本作小人之反中庸也	_
+忌憚	徒旦反忌畏也憚難也	_
+畏難	乃旦反	_
+常行	下孟反	commentary
+中庸其至矣乎	一本作中庸之爲德其至矣乎	source
+民鮮	息淺反下及注同罕也	commentary
+罕也	呼坦反希也少也	source
+知者	音智下文大知也予知注有知皆同	commentary
+不肖	音笑下同	source
+矣夫	音扶	source
+也與	音餘下強與皆同	commentary
+舜好	呼報反下同	source
+易以	以豉反	commentary
+罟	音古罔之緫名	source
+擭	胡化反尚書傳云捕獸機檻	commentary
+陷	陷沒之陷	_
+阱	才性反本或作穽同阱穿地陷獸也說文云穽或爲阱字也	commentary
+知辟	音避注知辟辟害皆同	source
+期月	音基	commentary
+拳拳	音權又起阮反徐羌權反奉持之貌	commentary
+服膺	徐音應又於陵反	commentary
+奉持	芳勇反	commentary
+可蹈	音悼又徒報反	commentary
+問強	其良反下同	commentary
+所好	呼報反	commentary
+言女	音汝下抑女同	commentary
+不校	交孝反報也	source
+衽金	而審反又而鴆反	_
+不厭	於豔反	commentary
+哉矯	居表反下同	commentary
+不倚	依彼反徐其蟻反	commentary
+所傃	音素	source
+猶郷	本又作嚮許亮反下皆同	commentary
+行佹	久委反下同	_
+譎	音決	commentary
+汲汲	音急	source
+隱行	下孟反	commentary
+遯世	本又作遁同徒頓反	_
+費而	本又作拂同扶弗反猶佹也徐音弗注同	commentary
+以與	音預注皆與之與以其與同	commentary
+舜好	呼報反	source
+故與	音餘	commentary
+所憾	本又作感胡暗反恨也注同	commentary
+鳶飛	恱專反字又作䳒	commentary
+戾	力計吕結二反	commentary
+魚躍	羊灼反	commentary
+猶著	張慮反下同	commentary
+道造	在老反	commentary
+伐柯	古何反	commentary
+睨而	徐音詣睥睨也	commentary
+言顧行行顧言	皆下孟反注聖人之行同或一讀皆如字	commentary
+慥慥	七到反守實貌	source
+言行	下孟反	source
+相應	於陵反舊音應對之應	source
+患難	乃旦反下同	commentary
+不援	音園注同牽持也	commentary
+己	音紀	source
+無怨	於願反又於元反下及注並同	_
+居易	以豉反注同平安也	_
+徼幸	古堯反	_
+正	音征注同	commentary
+鵠	古毒反注同正鵠皆鳥名也一曰正正也鵠直也大射則張皮侯而棲鵠賔射張布侯而設正也	source
+棲皮	細兮反	commentary
+辟如	音譬下同	commentary
+自邇	音爾近也	commentary
+自卑	音婢又如字注同	commentary
+好合	呼報反	source
+旣翕	許急反合也	source
+和樂	音洛下及注同	source
+且耽	丁南反	source
+妻帑	音奴子孫也本又作孥同尚書傳毛詩箋並云子也杜預注左傳云妻子也	source
+相應	應對之應	commentary
+和	胡臥反	commentary
+齊明	側皆反本亦作齋	commentary
+洋洋	音羊	commentary
+其傍	皇薄剛反謂左右也徐方岡反	source
+僾	徐於愷反又音愛	commentary
+之格	古百反來也	source
+不可度	待洛反注同	commentary
+思矧	詩忍反況也注同	source
+可射	音亦厭也	commentary
+厭也	於豔反字又作猒下同	source
+盡敬	子忍反	commentary
+不可揜	音掩於檢反	commentary
+此夫	音扶	commentary
+而著	張慮反	commentary
+也與	音餘	source
+令聞	音問下令聞同	commentary
+故栽	依注音災將才反注同植也	source
+培之	蒲回反益也	commentary
+覆	芳伏反	commentary
+初載之載	並音災本或作哉同	_
+嘉樂	戸嫁反詩本作假音同假嘉也皇音加善也	commentary
+憲憲	音顯注同興盛貌一音如字	commentary
+保佑	音佑助也下注同	commentary
+纉	徐音纂哉管反繼也	commentary
+大王	音泰下及注大王皆同	commentary
+壹戎衣	依注衣作殷於巾反戎兵也謂一用兵伐殷也尚書依字讀謂一著戎衣而天下大定	commentary
+胄與	直救反下音餘	commentary
+武王末	亡遏反老也	source
+追王	于況反注追王同	commentary
+期之	音基注同	source
+組	音祖	commentary
+紺	古闇反組紺大王之父也亦曰諸盩盩音置留反	source
+以上	時掌反	commentary
+不爲服	于僞反	commentary
+埽	悉報反	_
+糞	弗運反本亦作􁇗亦作拚同	source
+昭穆	常遥反穆又作繆音同	source
+以遝	本又作逮同音代	_
+燕毛	於見反注並同	commentary
+別所	彼列反	_
+共雞	音恭	source
+饋食	其位反	commentary
+舉觶	音至	source
+於其長	丁丈反下謂長同	commentary
+省文	色領反	commentary
+示諸	依注音寘之豉反置也	source
+易爲	以豉反	source
+知力	音智本亦無力字	commentary
+治之要也	治音直吏反一本作治國之要治則如字	_
+方筴	初革反方版也筴簡也	_
+方版	音板本亦作板	commentary
+蒲盧	並如字爾雅云蜾臝蒲盧即今之細腰蜂也一名蠮螉	commentary
+蜾	音果	commentary
+螺	力果反本亦作蠃音同	commentary
+土蜂	芳封反字亦作蠭同	source
+螟	莫瓶反	commentary
+蛉	音零螟蛉桑蟲也	source
+爲己	音紀	_
+之殺	色界反徐所例反	source
+而治	直吏反一音如字	commentary
+脫誤	音奪	source
+重在	直用反	commentary
+知仁	音智下近乎知注言有知皆同	commentary
+長	丁丈反	source
+己臨之	音紀	_
+勉強	其兩反注同	commentary
+好學	呼報反	commentary
+近乎	附近之近下同	commentary
+力行	皇如字徐下孟反	commentary
+子庶民	如字徐將吏反愛也下句放此	commentary
+蕃國	方元反	commentary
+不眩	玄遍反	commentary
+齊明	側皆反	source
+去䜛	起吕反	commentary
+逺色	于萬反	source
+好惡	呼報反下烏路反又並如字注同	source
+薄斂	力驗反	_
+旣	依注音餼許氣反	source
+稟	彼錦反一本又力錦反旣稟謂稍食也	_
+稱事	尺證反	source
+朝聘	直遥反	source
+槀人	苦報反一音古老反	commentary
+以下上	時掌反	commentary
+不跲	其劫反皇音跲躓也	commentary
+行前	下孟反	source
+不疚	音救病也	commentary
+躓也	徐音致	source
+而中	丁仲反又如字下中道同	source
+從容	上七容反	commentary
+弗措	七路反下及注皆同置也	commentary
+必強	其良反	source
+大平	音泰	commentary
+禎祥	音貞	commentary
+妖	於驕反左傳云地反物爲妖說文作䄏云衣服歌謡草木之怪謂之䄏	source
+孽	魚列反說文作蠥云禽獸蟲蝗之怪謂之蠥	commentary
+見乎	賢遍反下不見注著見同一本乎作於	source
+蓍龜	音尸注同	source
+皆爲	于僞反	source
+自道	音導注自道同	source
+知也	音智注同	commentary
+無疆	居良反	commentary
+不貳	本亦作㒃音二	commentary
+今夫	音扶下同	commentary
+昭昭	章遥反注同本亦作炤同猶耿耿小明也	commentary
+一撮	七活反	commentary
+華嶽	戸化戸瓜二反本亦作山嶽	commentary
+不泄	息列反	_
+一卷	李音權又羌權反范羌阮反猶區也注同	source
+寳藏	才浪反	commentary
+一勺	徐市若反	source
+黿	音元	commentary
+鼉	徒河反一音直丹反	source
+鮫龍	音交本又作蛟	_
+鼈	必列反	commentary
+耿耿	公迥反又公頂反舊音孔頂反	commentary
+猶區	羌俱反	commentary
+於穆	上音烏下於乎亦同	commentary
+於乎	好奴反	commentary
+愼德	如字一本又作順	_
+是與	音餘	commentary
+洋洋	音羊	commentary
+峻極	思閏反髙大也	commentary
+優優	於求反倡優也	source
+不凝	本又作疑魚澄反成也	commentary
+如燖	音尋	commentary
+不驕	本亦作喬音嬌	commentary
+不倍	音佩	commentary
+其黙	亡北反	commentary
+且哲	陟列反徐本作知音智	source
+謂與	音餘	commentary
+而好	呼報反下同	commentary
+烖及	音災	commentary
+行同倫	下孟反	commentary
+杞不	音起	_
+王天下	于況反又如字	commentary
+不繆	音謬	commentary
+不悖	布内反後同	commentary
+逺之	如字又于萬反	commentary
+近之	如字又附近之近	commentary
+不厭	於豔反後皆同	source
+無射	音亦注同	source
+而蚤	音早	commentary
+行在	下孟反	commentary
+而斷	丁亂反	_
+曷爲	于僞反又如字	source
+撥亂	半末反	commentary
+莫近	附近之近又如字	source
+道與	音餘	commentary
+編年	必緜反又甫連反	commentary
+辟如	音譬下同	commentary
+覆幬	徒報反	commentary
+之錯	七各反	commentary
+當焉	丁浪反又丁郎反	commentary
+浸潤	子鴆反	commentary
+作燾	徒報反	commentary
+明叡	音銳	commentary
+知	音智下聖知同	commentary
+齊莊	側皆反	commentary
+有別	彼列反	_
+溥博	音普	commentary
+普徧	音遍	commentary
+思慮	息嗣反又如字	commentary
+見而	賢遍反	commentary
+不說	音恱	source
+施及	以豉反	commentary
+蠻貉	本又作貊武伯反說文云北方人也	_
+所隊	直類反	source
+能經論	本又作綸同音倫	_
+夫焉	於䖍反	commentary
+所倚	依綺於寄二反注同	source
+肫肫	依注音之淳反懇誠貌	commentary
+浩浩	胡老反	source
+被德	皮義反	_
+偏頗	破河反	source
+懇誠	口很反	commentary
+純純	音淳又之淳反	source
+尚絅	本又作顈詩作褧同口迥反徐口定反一音口穎反	source
+惡其	烏路反	source
+之著	張慮反	source
+闇然	於感反又如字	source
+而日	而一反下同	source
+的然	丁曆反	source
+易知	以豉反下易舉同	source
+襌爲	音丹	_
+爲其	于僞反	commentary
+露見	賢遍反	source
+淡而	徒暫反又大敢反下注同	commentary
+不厭	於豔反	source
+其睹	音覩	source
+探端	音貪	source
+之昭	本又作炤同之召反又章遥反	source
+不疚	九又反	commentary
+隱遯	大困反本又作遁字亦同	_
+無愆	起䖍反	commentary
+相在	息亮反注同	source
+不愧	本又作媿同九位反	commentary
+視女	音汝	source
+奏	如字詩作􁈻子公反	commentary
+假	古雅反大也	commentary
+有爭	爭鬪之爭注同	commentary
+大平	音泰	_
+鈇	方于反又音斧	commentary
+鉞	音越	commentary
+百辟	音璧君也注同	commentary
+末也	亡曷反	_
+德輶	音酉一音由注同	commentary
+易	以豉反	commentary
+之載	依注讀曰烖音災生也詩音再	commentary
+猶比	必履反下同或音毗志反又必利反皆非也	commentary
+有重	直勇反又直容反	commentary

@@ -1,97 +1,97 @@
-大禹謨第三卷之二	徐云本虞書緫爲一卷凡十二卷今依七志七録爲十三卷
-皐	音髙
-陶	音遥
-矢	本又作
-謨	字又作謩
-申重	直用反下同
-文命	孔云文德敎命也先儒云文命禹名
-易	以豉反
-治	直吏反
-俞	羊朱反
-攸	音由徐以帚反
-寧	安也說文安寧如此願辭也
-舎	音捨
-告	故毒反
-矜	居陵反
-眷	俱倦反
-奄	於簡反
-迪	徒歷反
-響	許丈反
-應	應對之應下應風同
-吁	況俱反
-度	徒布反注守度同
-虞度	下徒洛反後億度同
-樂	音洛
-去	起吕反
-熙	火其反
-咈	扶弗反
-戾	連弟反
-怠	音待
-惰	徒卧反
-曰於	音烏
-歌樂	下音洛
-俾	必爾反
-壞	乎怪反
-治	直吏反
-格	庚白反
-朕	直錦反
-耄	莫報反
-倦	其眷反
-期頤	以之反期要頤養也
-厭	於豔反
-懈	于賣反
-種	章用反
-降	江巷反
-治	直吏反注下同
-當	丁浪反又如字
-懋	音茂
-愆	起䖍反
-宥	音又
-辜	音孤
-好生	上呼報反
-儆	居領反
-重	直用反
-假	工雅反
-盡	津忍反
-爲民	于僞反
-丕	普悲反大也徐甫眉反
-聽	徐天定反
-出	如字徐尺遂反
-好	如字徐許到反
-枚	音梅
-蔽	必世反徐甫世反
-斷	丁亂反
-僉	七潛反
-禁	今鴆反又音金
-正月	音政徐音征
-數	音朔
-濟濟	子禮反
-蠢	春允反
-侮	亡甫反
-慢	亡諫反
-咎	其九反
-誥	古報反
-憚	徒旦反一音丹末反
-脅	許業反
-弗届	下音戒
-田	本或作畋
-號	亡髙反
-旻	武巾反
-慝	他側反
-載見	賢遍反
-瞽	音古
-瞍	素后反
-夔夔	求龜反
-齊	側皆反
-諴	音咸
-矧	失忍反
-易	以豉反
-當	丁浪反下同
-還	經典皆音旋
-誕	音但
-階	徐音皆
-楯	食允反
-翳	於計反
-闡	尺善反
-洞	徒弄反
-蠡	音禮
+大禹謨第三卷之二	徐云本虞書緫爲一卷凡十二卷今依七志七録爲十三卷	_
+皐	音髙	source
+陶	音遥	source
+矢	本又作	source
+謨	字又作謩	source
+申重	直用反下同	source
+文命	孔云文德敎命也先儒云文命禹名	commentary
+易	以豉反	commentary
+治	直吏反	source
+俞	羊朱反	source
+攸	音由徐以帚反	commentary
+寧	安也說文安寧如此願辭也	_
+舎	音捨	commentary
+告	故毒反	source
+矜	居陵反	commentary
+眷	俱倦反	commentary
+奄	於簡反	commentary
+迪	徒歷反	source
+響	許丈反	commentary
+應	應對之應下應風同	source
+吁	況俱反	commentary
+度	徒布反注守度同	source
+虞度	下徒洛反後億度同	commentary
+樂	音洛	commentary
+去	起吕反	source
+熙	火其反	_
+咈	扶弗反	commentary
+戾	連弟反	commentary
+怠	音待	commentary
+惰	徒卧反	commentary
+曰於	音烏	commentary
+歌樂	下音洛	source
+俾	必爾反	commentary
+壞	乎怪反	_
+治	直吏反	commentary
+格	庚白反	commentary
+朕	直錦反	commentary
+耄	莫報反	_
+倦	其眷反	commentary
+期頤	以之反期要頤養也	_
+厭	於豔反	_
+懈	于賣反	_
+種	章用反	commentary
+降	江巷反	commentary
+治	直吏反注下同	commentary
+當	丁浪反又如字	source
+懋	音茂	commentary
+愆	起䖍反	commentary
+宥	音又	commentary
+辜	音孤	commentary
+好生	上呼報反	commentary
+儆	居領反	commentary
+重	直用反	commentary
+假	工雅反	commentary
+盡	津忍反	commentary
+爲民	于僞反	commentary
+丕	普悲反大也徐甫眉反	commentary
+聽	徐天定反	source
+出	如字徐尺遂反	commentary
+好	如字徐許到反	commentary
+枚	音梅	source
+蔽	必世反徐甫世反	source
+斷	丁亂反	source
+僉	七潛反	commentary
+禁	今鴆反又音金	commentary
+正月	音政徐音征	source
+數	音朔	commentary
+濟濟	子禮反	source
+蠢	春允反	commentary
+侮	亡甫反	commentary
+慢	亡諫反	commentary
+咎	其九反	commentary
+誥	古報反	commentary
+憚	徒旦反一音丹末反	commentary
+脅	許業反	commentary
+弗届	下音戒	commentary
+田	本或作畋	commentary
+號	亡髙反	commentary
+旻	武巾反	commentary
+慝	他側反	_
+載見	賢遍反	_
+瞽	音古	_
+瞍	素后反	_
+夔夔	求龜反	_
+齊	側皆反	_
+諴	音咸	_
+矧	失忍反	_
+易	以豉反	_
+當	丁浪反下同	commentary
+還	經典皆音旋	_
+誕	音但	_
+階	徐音皆	_
+楯	食允反	_
+翳	於計反	_
+闡	尺善反	_
+洞	徒弄反	_
+蠡	音禮	_

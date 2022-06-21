@@ -1,29 +1,29 @@
-文侯之命第三十卷之十三平王	馬本無平字
-錫	星歷反馬本作賜
-秬	音巨
-鬯	勑亮反
-瓉	才但反
-杓	上灼反
-柄	彼病反
-義	本亦作誼
-和	馬云能以義和諸侯
-別	彼列反
-敷聞	音問
-以王	于況反
-辟	必亦反
-閔予	如字又音與
-愆	去䖍反
-隤	杜回反
-隕	于敏反
-殄	大見反
-重稱	上直用反
-乃辟	扶亦反
-扞	下旦反注同
-遣令	力呈反
-賚	力代反
-卣	音酉又音由
-釀	女亮反
-彤	徒冬反
-馬供	音恭
-核	戸革反
-治	直吏反
+文侯之命第三十卷之十三平王	馬本無平字	_
+錫	星歷反馬本作賜	source
+秬	音巨	source
+鬯	勑亮反	source
+瓉	才但反	source
+杓	上灼反	source
+柄	彼病反	source
+義	本亦作誼	commentary
+和	馬云能以義和諸侯	source
+別	彼列反	commentary
+敷聞	音問	commentary
+以王	于況反	commentary
+辟	必亦反	source
+閔予	如字又音與	source
+愆	去䖍反	commentary
+隤	杜回反	commentary
+隕	于敏反	commentary
+殄	大見反	commentary
+重稱	上直用反	commentary
+乃辟	扶亦反	commentary
+扞	下旦反注同	commentary
+遣令	力呈反	commentary
+賚	力代反	source
+卣	音酉又音由	commentary
+釀	女亮反	source
+彤	徒冬反	commentary
+馬供	音恭	commentary
+核	戸革反	commentary
+治	直吏反	commentary

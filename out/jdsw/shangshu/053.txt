@@ -1,13 +1,13 @@
-君牙第二十七穆王	名滿
-君牙	或作君雅
-畫	胡卦反
-蹈	徒報反
-噬	市制反
-陷	陷没之陷
-膂	音旅
-累	劣僞反
-令有	上力呈反
-其易	以豉反
-缺	苦穴反
-治	直吏反下注同
-辟	必亦反
+君牙第二十七穆王	名滿	_
+君牙	或作君雅	source
+畫	胡卦反	commentary
+蹈	徒報反	commentary
+噬	市制反	source
+陷	陷没之陷	_
+膂	音旅	commentary
+累	劣僞反	commentary
+令有	上力呈反	source
+其易	以豉反	source
+缺	苦穴反	commentary
+治	直吏反下注同	source
+辟	必亦反	commentary

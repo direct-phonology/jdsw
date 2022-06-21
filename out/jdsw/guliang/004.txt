@@ -1,31 +1,31 @@
-閔公	名開惠王十六年即位
-第四范甯集解元年繼弑	音試
-洛姑	一本作路姑
-美稱	尺證反
-出使	所吏反
-齊仲孫	慶父也左氏以爲齊大夫
-以累	劣僞反
-二年吉禘	徒帝反
-大祖	音泰下大廟同
-昭穆	上饒反
-未闋	苦穴反
-君弑	申志反下同
-孫于	音遜本或作遜
-與弑	音豫
-不復	扶又反
-見矣	賢徧反
-弟御	魚吕反下同
-重罹	直用反
-屈完	君勿反
-髙傒	音奚
-其使	所吏反下同
-爲賢	于僞反下同
-攘夷	如羊反
-惡其	烏路反注同
-長也	丁丈反注同
-兼不反	戸謙反又如字
-好利	呼報反
-而逺	于萬反
-克將	子匠反下同
-于竟	音境
-翶翔	五羔反
+閔公	名開惠王十六年即位	source
+第四范甯集解元年繼弑	音試	_
+洛姑	一本作路姑	source
+美稱	尺證反	commentary
+出使	所吏反	commentary
+齊仲孫	慶父也左氏以爲齊大夫	source
+以累	劣僞反	commentary
+二年吉禘	徒帝反	_
+大祖	音泰下大廟同	commentary
+昭穆	上饒反	commentary
+未闋	苦穴反	commentary
+君弑	申志反下同	commentary
+孫于	音遜本或作遜	commentary
+與弑	音豫	source
+不復	扶又反	source
+見矣	賢徧反	source
+弟御	魚吕反下同	_
+重罹	直用反	commentary
+屈完	君勿反	source
+髙傒	音奚	commentary
+其使	所吏反下同	commentary
+爲賢	于僞反下同	source
+攘夷	如羊反	source
+惡其	烏路反注同	source
+長也	丁丈反注同	source
+兼不反	戸謙反又如字	source
+好利	呼報反	commentary
+而逺	于萬反	source
+克將	子匠反下同	commentary
+于竟	音境	source
+翶翔	五羔反	commentary

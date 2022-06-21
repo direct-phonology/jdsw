@@ -1,37 +1,37 @@
-畢命第二十六卷之十二別	彼列反
-朏	普忽反徐芳尾反又芳憒反
-王朝	陟遥反
-鎬	戸老反
-釐	力之反
-治正	上直吏反一本作治政則依字讀
-令得	上力呈反
-大師	上音泰
-毖	音秘
-密近	女字又附近之近
-度	待洛反舊作待路反
-有上	時掌反
-更	古衡反
-懋	音茂
-拱	九勇反
-仰	如字徐五亮反
-治	直吏反
-別	彼列反
-癉	丁但反
-俾	必爾反
-沮	辭汝反又慈吕反
-守	徐始救反
-重	直用反
-好	呼報反
-覆	芳服反
-鮮	息淺反
-悖	布内反
-敝	步寐反
-怙	音户
-侉	苦瓜反
-壓	於葉反又於甲反又於豔反
-政治	直吏反
-施	始銳反
-浸	子鴆反
-衽	而甚反又而鴆反
-爲周	上于僞反
-人少	詩照反
+畢命第二十六卷之十二別	彼列反	_
+朏	普忽反徐芳尾反又芳憒反	source
+王朝	陟遥反	commentary
+鎬	戸老反	source
+釐	力之反	commentary
+治正	上直吏反一本作治政則依字讀	commentary
+令得	上力呈反	commentary
+大師	上音泰	commentary
+毖	音秘	commentary
+密近	女字又附近之近	commentary
+度	待洛反舊作待路反	commentary
+有上	時掌反	commentary
+更	古衡反	commentary
+懋	音茂	commentary
+拱	九勇反	commentary
+仰	如字徐五亮反	commentary
+治	直吏反	source
+別	彼列反	_
+癉	丁但反	commentary
+俾	必爾反	commentary
+沮	辭汝反又慈吕反	source
+守	徐始救反	commentary
+重	直用反	source
+好	呼報反	commentary
+覆	芳服反	source
+鮮	息淺反	commentary
+悖	布内反	source
+敝	步寐反	commentary
+怙	音户	commentary
+侉	苦瓜反	commentary
+壓	於葉反又於甲反又於豔反	source
+政治	直吏反	commentary
+施	始銳反	commentary
+浸	子鴆反	commentary
+衽	而甚反又而鴆反	commentary
+爲周	上于僞反	commentary
+人少	詩照反	commentary
