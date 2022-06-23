@@ -60,35 +60,56 @@ MODE_HEADER = re.compile(r"^# -\*- mode: .+;? -\*-$", re.MULTILINE)
 
 # indicators of page breaks in the text, ex.:
 # "<pb:KR1d0001_tls_001-1a>¶"
-PAGE_BREAK = re.compile(r"^<pb:(?:.+)>¶?$", re.MULTILINE)
+PAGE_BREAK = re.compile(r"<pb:(?:.+)>¶?")
 
 # org-mode headers in key:value format, ex.:
 # "#+TITLE: 周禮"
 # "#+PROPERTY: BASEEDITION tls"
-META_HEADER = re.compile(r"""
+META_HEADER = re.compile(
+    r"""
     ^\#\+
     (?P<key>\w+):\s
     (?P<value>.+)
     $
-""", re.VERBOSE | re.MULTILINE)
+""",
+    re.VERBOSE | re.MULTILINE,
+)
 
 # headers within a file that indicate the current chapter, ex.:
 # "** 1 天官冢宰"
 # "** 19 《子張篇第十九》"
-CHAPTER_HEADER = re.compile(r"""
+CHAPTER_HEADER = re.compile(
+    r"""
     ^[*]{2}\s               
     (?P<number>\d+)\s
     《?(?P<title>.+)》?    # strips 《》
     $
-""", re.VERBOSE | re.MULTILINE)
+""",
+    re.VERBOSE | re.MULTILINE,
+)
 
 # in-text numbers in a file that identify the current paragraph, ex.:
 # "1.46.內小臣掌王后之命，¶"
-PARAGRAPH_NUMBER = re.compile(r"""
-    ^(?P<number>    # always at start of a line
-    \d+(?:\.\d+)+   # 1, 1.2, 10.8.4, etc.
-    ).?             # ignore trailing period
-""", re.VERBOSE | re.MULTILINE)
+PARAGRAPH_NUMBER = re.compile(
+    r"""
+    ^(?P<number>        # always at start of a line
+    \d+(?:[.．]\d+)+    # 1, 1.2, 10.8.4, etc.
+    ).?                 # ignore trailing period
+""",
+    re.VERBOSE | re.MULTILINE,
+)
+
+# comments on provenance, dating, etc. ex.:
+# "# dating: 6200"
+COMMENT = re.compile(
+    r"""
+    ^\#\s
+    (?P<key>\w+):\s     # dating:, src:, etc.
+    (?P<vals>.+)        # can be semicolon-separated, multiple values
+    $
+""",
+    re.VERBOSE | re.MULTILINE,
+)
 
 # a sequence of lines terminating in a full stop, ex.:
 # "賊器不入宮，¶
