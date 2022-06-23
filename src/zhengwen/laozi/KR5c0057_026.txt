@@ -1,0 +1,24 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 25
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 26.1; tr. D.C. Lau 19i2: 39; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_026-1a>¶
+** 26 第二十六章
+
+重為輕根，¶
+靜為躁君。¶
+是以聖人終日行，¶
+不離輜重。¶
+雖有榮觀，¶
+燕處超然。¶
+奈何萬乘之主
+而以身輕天下？¶
+輕則失本。¶
+躁則失君。
+

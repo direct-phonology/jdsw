@@ -1,0 +1,48 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 63
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 64.1; tr. D.C. Lau 19i2: 93; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_064-1a>¶
+** 64 第六十四章
+
+其安易持，¶
+其未兆易謀，¶
+其脆易泮，¶
+其微易散。¶
+為之於其未有，¶
+治之於其未亂。¶
+
+# src: LAO 64.2; tr. D.C. Lau 19i2: 93; here tr. Karlgren 1975
+# dating: 8120
+合抱之木
+生於毫末，¶
+九層之臺
+起於累土，¶
+千里之行
+始於足下。¶
+為者敗之，¶
+執者失之。¶
+是以聖人無為也，¶
+故無敗；¶
+無執也，¶
+故無失也。¶
+民之從事也，¶
+恒於幾成而敗之。¶
+
+# src: LAO 64.3; tr. D.C. Lau 19i2: 93; here tr. Karlgren 1975
+# dating: 8120
+故慎終如始，¶
+則無敗事。¶
+是以聖人欲不欲，¶
+而不貴難得之貨；¶
+學不學，¶
+而復眾人之所過。¶
+以輔萬物之自然，¶
+而弗敢為。
+

@@ -1,0 +1,34 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 58
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 59.1; tr. D.C. Lau 19i2: 87; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_059-1a>¶
+** 59 第五十九章
+
+治人事天，¶
+莫若嗇。¶
+夫唯嗇，¶
+是謂早服。¶
+早服
+謂之重積德。¶
+重積德
+則無不克，¶
+無不克
+則莫知其極。¶
+莫知其極，¶
+可以有國。¶
+有國之母，¶
+可以長久。¶
+
+# src: LAO 59.2; tr. D.C. Lau 19i2: 87; here tr. Karlgren 1975
+# dating: 8120
+是謂深根固柢、¶
+長生久視之道也。
+
+

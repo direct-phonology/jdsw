@@ -1,0 +1,28 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 80
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO i1.1; tr. D.C. Lau 19i2: 117; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_081-1a>¶
+** 81 第八十一章
+
+信言不美，¶
+美言不信。¶
+善者不辯，¶
+辯者不善，¶
+知者不博，¶
+博者不知。¶
+
+# src: LAO i1.2; tr. D.C. Lau 19i2: 117; here tr. Karlgren 1975
+# dating: 8120
+聖人不積，¶
+既以為人己愈有，¶
+既以與人己愈多。¶
+故天之道、利而不害，¶
+聖人之道、¶為而弗爭。
+

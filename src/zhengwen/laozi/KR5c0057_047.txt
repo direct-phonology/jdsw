@@ -1,0 +1,23 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 46
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 47.1; tr. D.C. Lau 19i2: 69; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_047-1a>¶
+** 47 第四十七章
+
+不出戶，¶
+知天下。¶
+不闚牖，¶
+見天道。¶
+其出彌遠，¶
+其知彌少。¶
+是以聖人不行而知，¶
+不見而名，¶
+弗為而成。
+

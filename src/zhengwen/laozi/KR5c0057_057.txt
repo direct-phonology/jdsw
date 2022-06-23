@@ -1,0 +1,42 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 56
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 57.1; tr. D.C. Lau 19i2: 83; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_057-1a>¶
+** 57 第五十七章
+
+以正治邦，¶
+以奇用兵，¶
+以無事取天下。¶
+吾何以知其然也哉？¶
+以此。¶
+
+# src: LAO 57.2; tr. D.C. Lau 19i2: 83; here tr. Karlgren 1975
+# dating: 8120
+夫天下多忌諱，¶
+而民彌貧；¶
+民多利器，¶
+而邦家滋昏。¶
+人多伎巧，¶
+而奇物滋起。¶
+法令滋彰，¶
+而盜賊多有。¶
+
+# src: LAO 57.3; tr. D.C. Lau 19i2: 83; here tr. Karlgren 1975
+# dating: 8120
+故聖人云：¶
+我無為
+而民自化，¶
+我好靜
+而民自正，¶
+我無事
+而民自富，¶
+我無欲
+而民自樸。
+

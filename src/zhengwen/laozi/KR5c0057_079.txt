@@ -1,0 +1,23 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 78
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 79.1; tr. D.C. Lau 19i2: 113; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_079-1a>¶
+** 79 第七十九章
+
+和大怨，¶
+必有餘怨，¶
+安可以為善？¶
+是以聖人執左契
+而不責於人。¶
+故有德司契，¶
+無德司徹。¶
+夫天道無親，¶
+恒與善人。
+

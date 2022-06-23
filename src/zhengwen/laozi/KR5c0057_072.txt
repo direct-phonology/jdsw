@@ -1,0 +1,25 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 71
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 72.1; tr. D.C. Lau 19i2: 105; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_072-1a>¶
+** 72 第七十二章
+
+民之不畏威，¶
+則大威將至矣。¶
+無狎其所居，¶
+無厭其所生。¶
+夫唯弗厭，¶
+是以不厭。¶
+是以聖人自知
+而不自見也，¶
+自愛
+而不自貴也。¶
+故去彼取此。
+

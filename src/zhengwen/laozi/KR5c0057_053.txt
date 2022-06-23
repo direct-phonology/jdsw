@@ -1,0 +1,32 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 52
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 53.1; tr. D.C. Lau 19i2: 77; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_053-1a>¶
+** 53 第五十三章
+
+使我介然有知也，¶
+行於大道，¶
+唯施是畏，¶
+大道甚夷
+而民好徑。¶
+
+# src: LAO 53.2; tr. D.C. Lau 19i2: 77; here tr. Karlgren 1975
+# dating: 8120
+朝甚除，¶
+田甚蕪，¶
+倉甚虛，¶
+服文綵，¶
+帶利劍，¶
+厭飲食，¶
+財貨有餘，¶
+是謂盜夸。¶
+盜夸、¶
+非道也哉！
+

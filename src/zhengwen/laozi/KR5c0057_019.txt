@@ -1,0 +1,25 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 18
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 19.1; tr. D.C. Lau 19i2: 27; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_019-1a>¶
+** 19 第十九章
+
+絕聖棄智，¶
+民利百倍；¶
+絕仁棄義，¶
+民復孝慈；¶
+絕巧棄利，¶
+盜賊無有。¶
+此三者，¶
+以為文不足；¶
+故令之有所屬：¶
+見素抱樸，¶
+少私寡欲。
+

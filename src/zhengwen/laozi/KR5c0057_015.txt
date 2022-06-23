@@ -1,0 +1,36 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 14
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 15.1; tr. D.C. Lau 19i2: 21; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_015-1a>¶
+** 15 第十五章
+
+古之善為道者，¶
+微妙玄通，¶
+深不可識。¶
+夫唯不可識，¶
+故強為之容。¶
+豫兮其若冬涉川，¶
+猶兮其若畏四鄰，¶
+儼兮其若客，¶
+渙兮其若冰之將釋。¶
+敦兮其若樸，¶
+曠兮其若谷，¶
+混兮其若濁，¶
+
+# src: LAO 15.2; tr. D.C. Lau 19i2: 21; here tr. Karlgren 1975
+# dating: 8120
+孰能濁以靜之徐清？¶
+孰能安以動之徐生？¶
+保此道者
+不欲盈。¶
+夫唯不欲盈，¶
+故能蔽而新成。¶
+
+

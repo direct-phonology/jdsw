@@ -1,0 +1,33 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 22
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 23.1; tr. D.C. Lau 19i2: 35; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_023-1a>¶
+** 23 第二十三章
+
+希言
+自然。¶
+故飄風不終朝，¶
+驟雨不終日。¶
+孰為此者？¶
+天地。¶
+天地尚弗能久，¶
+而況於人乎？¶
+
+# src: LAO 23.2; tr. D.C. Lau 19i2: 35; here tr. Karlgren 1975
+# dating: 8120
+故從事於道者，道者、¶
+同於道，¶
+德者、同於德，¶
+失者、同於失。¶
+同於道者、道亦樂得之，¶
+同於德者、德亦樂得之，¶
+同於失者、失亦樂得之。¶
+信不足，¶焉有不信（焉）。
+
