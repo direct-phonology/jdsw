@@ -6,10 +6,6 @@
 #+PROPERTY: JUAN 0
 #+PROPERTY: JUAN 20
 #+PROPERTY: CAT 1pre-han,經學典籍,四書類
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: ID H15-21-0081
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
 <pb:KR1h0004_CHANT_001-1a>¶
 ** 1 《學而篇第一》
 
@@ -161,4 +157,3 @@
 1.16子曰：¶
 「不患人之不己知，¶
 患不知人也。」
-

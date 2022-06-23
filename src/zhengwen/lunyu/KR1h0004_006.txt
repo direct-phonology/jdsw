@@ -6,10 +6,6 @@
 #+PROPERTY: JUAN 5
 #+PROPERTY: JUAN 20
 #+PROPERTY: CAT 1pre-han,經學典籍,四書類
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: ID H15-21-0081
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
 
 # src: LY 06.01; tr. CH
 <pb:KR1h0004_CHANT_006-1a>¶
@@ -275,4 +271,3 @@
 己欲達而達人。¶
 能近取譬，¶
 可謂仁之方也已。」
-

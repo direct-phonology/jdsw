@@ -7,9 +7,6 @@
 #+PROPERTY: JUAN 33
 #+PROPERTY: CAT 1pre-han,哲學思想,道家
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: ID H11-06-0033
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
 
 # src: ZHUANG 12.1.1 Guo Qingfan 403; Wang Shumin 413; Fang Yong 303; Chen Guying 295
 # dating: 8110
@@ -919,4 +916,3 @@
 則是罪人交臂歷指，¶
 而虎豹在於囊檻，¶
 亦可以為得矣。
-

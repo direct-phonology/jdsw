@@ -7,9 +7,6 @@
 #+PROPERTY: JUAN 33
 #+PROPERTY: CAT 1pre-han,哲學思想,道家
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: ID H11-06-0033
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
 
 # src: ZHUANG 30.1.1 Guo Qingfan 1016; Wang Shumin 1215; Fang Yong i33; Chen Guying 806
 # dating: 8110
@@ -292,4 +289,3 @@
 # dating: 8110
 於是文王不出宮三月，¶
 劍士皆服斃其處也。
-

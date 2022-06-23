@@ -7,9 +7,6 @@
 #+PROPERTY: JUAN 33
 #+PROPERTY: CAT 1pre-han,哲學思想,道家
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: ID H11-06-0033
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
 
 # src: ZHUANG 19.1.1 Guo Qingfan 630; Wang Shumin 667; Fang Yong 485; Chen Guying 465
 # dating: 8110
@@ -702,4 +699,3 @@
 譬之若載鼷以車馬，¶
 樂鴳以鍾鼓也。¶
 彼又惡能无驚乎哉！」
-

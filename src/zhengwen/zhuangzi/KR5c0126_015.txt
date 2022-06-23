@@ -7,9 +7,6 @@
 #+PROPERTY: JUAN 33
 #+PROPERTY: CAT 1pre-han,哲學思想,道家
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: ID H11-06-0033
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
 
 # src: ZHUANG 15.1.1 Guo Qingfan 535; Wang Shumin 551; Fang Yong 411; Chen Guying 393
 # dating: 8110
@@ -209,4 +206,3 @@
 謂其不虧其神也。¶
 能體純素，¶
 謂之真人。
-

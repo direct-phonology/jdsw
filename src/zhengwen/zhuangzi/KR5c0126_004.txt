@@ -7,9 +7,6 @@
 #+PROPERTY: JUAN 33
 #+PROPERTY: CAT 1pre-han,哲學思想,道家
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: ID H11-06-0033
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
 
 # src: ZHUANG 4.1.1; Guo Qingfan 131; Wang Shumin 117; Fang Yong 109; Chen Guying 107
 # dating: 8110
@@ -780,4 +777,3 @@
 故割之。¶
 人皆知有用之用，¶
 而莫知无用之用也。
-

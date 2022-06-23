@@ -7,9 +7,6 @@
 #+PROPERTY: JUAN 33
 #+PROPERTY: CAT 1pre-han,哲學思想,道家
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: ID H11-06-0033
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
 
 # src: ZHUANG 14.1.1 Guo Qingfan 493; Wang Shumin 505; Fang Yong 372; Chen Guying 360
 # dating: 8110
@@ -741,4 +738,3 @@
 老子曰：¶
 「可。¶
 丘得之矣！」
-

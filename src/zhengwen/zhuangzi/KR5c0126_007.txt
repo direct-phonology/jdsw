@@ -7,9 +7,6 @@
 #+PROPERTY: JUAN 33
 #+PROPERTY: CAT 1pre-han,哲學思想,道家
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: ID H11-06-0033
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
 
 # src: ZHUANG 7.1.1 Guo Qingfan 287; Wang Shumin 275; Fang Yong 212; Chen Guying 211
 # dating: 8110
@@ -315,4 +312,3 @@
 嘗試鑿之。」¶
 日鑿一竅，¶
 七日而渾沌死。
-

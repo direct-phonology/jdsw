@@ -6,10 +6,6 @@
 #+PROPERTY: JUAN 4
 #+PROPERTY: JUAN 20
 #+PROPERTY: CAT 1pre-han,經學典籍,四書類
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: ID H15-21-0081
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
 
 # src: LY 05.01; tr. CH
 <pb:KR1h0004_CHANT_005-1a>¶
@@ -305,4 +301,3 @@
 「十室之邑，¶
 必有忠信如丘者焉，¶
 不如丘之好學也。」
-

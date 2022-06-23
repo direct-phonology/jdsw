@@ -7,9 +7,6 @@
 #+PROPERTY: JUAN 33
 #+PROPERTY: CAT 1pre-han,哲學思想,道家
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: ID H11-06-0033
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
 
 # src: ZHUANG 5.1.1 Guo Qingfan 187; Wang Shumin 171; Fang Yong 147; Chen Guying 144
 # dating: 8110
@@ -480,4 +477,3 @@
 據槁梧而瞑。¶
 天選子之形，¶
 子以堅白鳴！」
-

@@ -7,9 +7,6 @@
 #+PROPERTY: JUAN 33
 #+PROPERTY: CAT 1pre-han,哲學思想,道家
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: ID H11-06-0033
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
 
 # src: ZHUANG 6.1.1 Guo Qingfan 224; Wang Shumin 205; Fang Yong 172; Chen Guying 168
 # dating: 8110
@@ -812,4 +809,3 @@
 而不得也。¶
 然而至此極者，¶
 命也夫！」
-

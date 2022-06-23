@@ -7,9 +7,6 @@
 #+PROPERTY: JUAN 33
 #+PROPERTY: CAT 1pre-han,哲學思想,道家
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: ID H11-06-0033
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
 
 # src: ZHUANG 20.1.1 Guo Qingfan 667; Wang Shumin 719; Fang Yong 519; Chen Guying 498
 # dating: 8110
@@ -650,4 +647,3 @@
 「弟子記之！¶
 行賢而去自賢之行，¶
 安往而不愛哉！」
-

@@ -7,9 +7,6 @@
 #+PROPERTY: JUAN 33
 #+PROPERTY: CAT 1pre-han,哲學思想,道家
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: ID H11-06-0033
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
 
 # src: ZHUANG 16.1.1 Guo Qingfan 547; Wang Shumin 565; Fang Yong 420; Chen Guying 402
 # dating: 8110
@@ -194,4 +191,3 @@
 喪己於物，¶
 失性於俗者，¶
 謂之倒置之民。
-

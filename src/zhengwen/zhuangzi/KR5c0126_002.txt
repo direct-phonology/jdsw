@@ -7,9 +7,6 @@
 #+PROPERTY: JUAN 33
 #+PROPERTY: CAT 1pre-han,哲學思想,道家
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: ID H11-06-0033
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
 
 # src: ZHUANG 2.1.1; Guo Qingfan 43; Wang Shumin 40; Fang Yong 34; Chen Guying 33; A.C. Graham 1981: 48
 # dating: 8110
@@ -818,4 +815,3 @@
 周與胡蝶，¶
 則必有分矣。¶
 此之謂物化。
-

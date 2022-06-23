@@ -7,9 +7,6 @@
 #+PROPERTY: JUAN 33
 #+PROPERTY: CAT 1pre-han,哲學思想,道家
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: ID H11-06-0033
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
 
 # src: ZHUANG 13.1.1 Guo Qingfan 457; Wang Shumin 471; Fang Yong 345; Chen Guying 336
 # dating: 8110
@@ -708,4 +705,3 @@
 古之人與其不可傳也死矣，¶
 然則君之所讀者，¶
 古人之糟魄已夫！」
-

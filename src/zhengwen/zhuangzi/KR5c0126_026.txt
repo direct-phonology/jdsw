@@ -7,9 +7,6 @@
 #+PROPERTY: JUAN 33
 #+PROPERTY: CAT 1pre-han,哲學思想,道家
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: ID H11-06-0033
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
 
 # src: ZHUANG 26.1.1 Guo Qingfan 920; Wang Shumin 1043 ; Fang Yong 734; Chen Guying 702
 # dating: 8110
@@ -439,4 +436,3 @@
 得意而忘言。¶
 吾安得夫忘言之人
 而與之言哉！」
-

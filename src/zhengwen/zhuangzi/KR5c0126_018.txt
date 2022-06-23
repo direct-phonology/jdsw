@@ -7,9 +7,6 @@
 #+PROPERTY: JUAN 33
 #+PROPERTY: CAT 1pre-han,哲學思想,道家
 #+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: ID H11-06-0033
-#+PROPERTY: BASEEDITION CHANT
-#+PROPERTY: WITNESS chant
 
 # src: ZHUANG 18.1.1 Guo Qingfan 608; Wang Shumin 639; Fang Yong 464; Chen Guying 446
 # dating: 8110
@@ -379,4 +376,3 @@
 人又反入於機。¶
 萬物皆出於機，¶
 皆入於機。
-
