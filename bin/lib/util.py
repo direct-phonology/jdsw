@@ -1,9 +1,9 @@
 import re
-from typing import Callable
 from pathlib import Path
 
 import pandas as pd
 from cihai.core import Cihai
+import spacy
 
 from .patterns import (
     BLANK,
@@ -15,12 +15,16 @@ from .patterns import (
     META_HEADER,
     PAGE_BREAK,
     ANNOTATION,
+    COMMENT
 )
 from .phonology import Reconstruction, NoReadingError, MultipleReadingsError
 
 KR_UNICODE = pd.read_csv(Path("data/kr-unicode.csv"))
 MC_BAXTER = Reconstruction(pd.read_csv(Path("data/GDR-SBGY-FULL.csv")))
 OC_BAXTER = NotImplementedError("TODO")
+
+NLP = spacy.blank("och")
+NLP.add_pipe("sentencizer")
 
 
 def get_org_metadata(text: str) -> dict:
@@ -41,11 +45,15 @@ def clean_org_text(text: str) -> str:
     text = MODE_HEADER.sub("", text)
     text = META_HEADER.sub("", text)
     text = PAGE_BREAK.sub("", text)
+    text = COMMENT.sub("", text)
     return text
 
 
 def clean_sbck_text(text: str) -> str:
     """Clean an SBCK text"""
+    # remove pilcrows
+    text = text.replace("¶", "")
+
     # remove line breaks
     text = "".join(text.strip().splitlines())
 
@@ -140,6 +148,22 @@ def align_refs(text: str, rc: Reconstruction, lookahead: int = 2) -> str:
 
     # re-join lines and return
     return "\n".join(["\t".join(line) for line in output])
+
+
+def split_sentences(text: str) -> list:
+    """Split a text into sentences."""
+
+    # use spacy's sentencizer
+    doc = NLP(text)
+    return [sent.text for sent in doc.sents]
+
+
+def strip_punctuation(text: str) -> str:
+    """Remove punctuation from a text."""
+
+    # use the spacy model to detect punctuation
+    doc = NLP(text)
+    return "".join([token.text for token in doc if not token.is_punct])
 
 
 def convert_fanqie(text: str, rc: Reconstruction, stats: dict) -> str:
