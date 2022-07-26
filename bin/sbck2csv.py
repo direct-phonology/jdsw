@@ -27,11 +27,11 @@ def main(file: pathlib.Path, headers: bool=False) -> None:
     text = clean_sbck_text(text)
 
     # split into comma-separated source:annotation lines
-    text = split_text(text, by_char=False)
+    text = split_text(text, sep=",", by_char=False)
 
     # write to stdout
     if headers:
-        typer.echo("target,annotation,location")
+        typer.echo("source,commentary")
     typer.echo(text.strip())
 
 

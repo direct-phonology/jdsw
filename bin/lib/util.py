@@ -15,7 +15,7 @@ from .patterns import (
     META_HEADER,
     PAGE_BREAK,
     ANNOTATION,
-    COMMENT
+    COMMENT,
 )
 from .phonology import Reconstruction, NoReadingError, MultipleReadingsError
 
@@ -89,16 +89,16 @@ def convert_krp_entities(text: str) -> str:
     return KR_ENTITY.sub(krp_entity_unicode, text)
 
 
-def split_text(text: str, by_char=True) -> str:
+def split_text(text: str, sep: str = "\t", by_char: bool = True) -> str:
     """
-    Reformat a text into a comma-separated form with annotations opposite text.
+    Reformat a text into a tabular form with annotations opposite text.
 
     If by_char is True (the default), each character will get its own line,
     similar to ConLL-2002 format, and the annotation will be opposite the
-    last character in each sequence.
+    last character in each sequence. Otherwise, each line will be a sequence of characters, with the corresponding annotation opposite it.
 
-    If by_char is False, each line will be a sequence of characters, with
-    the corresponding annotation opposite it.
+    Sep is set to the tab character by default to produce CoNLL-2002 output, but
+    can be changed to a comma to produce .csv output.
     """
 
     # split text by annotations; alternating char sequence with annotation
@@ -106,16 +106,18 @@ def split_text(text: str, by_char=True) -> str:
     chars, annos = chunks[::2], chunks[1::2]
 
     # all characters in sequence correspond to blanks except last, which matches
-    # the annotation. each character on a new line, separated by tab
+    # the annotation. each character on a new line, separated by separator
     fmt_chunks = zip(
-        [f",{BLANK}\n".join(char) for char in chars] if by_char else chars,
-        [",{}\n".format(anno) for anno in annos],
+        [f"{sep}{BLANK}\n".join(char) for char in chars] if by_char else chars,
+        [f"{sep}{anno}\n" for anno in annos],
     )
     output = "".join(["".join(chunk) for chunk in fmt_chunks])
 
     # handle case where there's extra text after the last annotation
-    if len(chars) > len(annos):
-        output += "".join([f"{char},{BLANK}\n" for char in chars[-1]])
+    if len(chars) > len(annos) and chars[-1]:
+        output += "".join(
+            [f"{char}{sep}{BLANK}\n" for char in chars[-1]] if by_char else f"{chars[-1]}{sep}"
+        )
 
     return output
 
