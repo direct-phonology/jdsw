@@ -19,8 +19,8 @@ from .patterns import (
 )
 from .phonology import Reconstruction, NoReadingError, MultipleReadingsError
 
-KR_UNICODE = pd.read_csv(Path("data/kr-unicode.csv"))
-MC_BAXTER = Reconstruction(pd.read_csv(Path("data/GDR-SBGY-FULL.csv")))
+KR_UNICODE = pd.read_csv(Path("jdsw/data/kr-unicode.csv"))
+MC_BAXTER = Reconstruction(pd.read_csv(Path("jdsw/data/GDR-SBGY-FULL.csv")))
 OC_BAXTER = NotImplementedError("TODO")
 
 NLP = spacy.blank("och")
