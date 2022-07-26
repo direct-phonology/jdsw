@@ -7,13 +7,15 @@ import typer
 from lib.util import clean_sbck_text, clean_org_text, split_text, convert_krp_entities
 
 
-def main(file: pathlib.Path) -> None:
+def main(file: pathlib.Path, headers: bool=False) -> None:
     """
     Parse a SBCK edition text into base text and annotations/commentary.
 
-    Outputs a .conll-like representation to stdout, where each unbroken
-    sequence of characters is separated by a tab from its annotation or
-    commentary, one pair per line.
+    Outputs a .csv representation to stdout, where each unbroken sequence of 
+    characters is separated by a comma from its annotation or commentary, one 
+    pair per line.
+
+    If headers is True, the first line will be a header with the column names.
     """
 
     # read input file
@@ -24,10 +26,12 @@ def main(file: pathlib.Path) -> None:
     text = clean_org_text(text)
     text = clean_sbck_text(text)
 
-    # split into tab-separated source:annotation lines
+    # split into comma-separated source:annotation lines
     text = split_text(text, by_char=False)
 
     # write to stdout
+    if headers:
+        typer.echo("target,annotation,location")
     typer.echo(text.strip())
 
 
