@@ -4,7 +4,7 @@ from pathlib import Path
 
 import typer
 
-from ..lib.patterns import BLANK
+from lib.patterns import BLANK
 
 
 def main(jdsw_file: Path, sbck_file: Path, overwrite: bool = False) -> None:

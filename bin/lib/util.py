@@ -19,8 +19,8 @@ from .patterns import (
 )
 from .phonology import Reconstruction, NoReadingError, MultipleReadingsError
 
-KR_UNICODE = pd.read_csv(Path("jdsw/data/kr-unicode.csv"))
-MC_BAXTER = Reconstruction(pd.read_csv(Path("jdsw/data/GDR-SBGY-FULL.csv")))
+KR_UNICODE = pd.read_csv(Path("data/kr-unicode.csv"))
+MC_BAXTER = Reconstruction(pd.read_csv(Path("data/GDR-SBGY-FULL.csv")))
 OC_BAXTER = NotImplementedError("TODO")
 
 NLP = spacy.blank("och")
@@ -91,7 +91,7 @@ def convert_krp_entities(text: str) -> str:
 
 def split_text(text: str, by_char=True) -> str:
     """
-    Reformat a text into a CoNLL-like format with annotations opposite text.
+    Reformat a text into a comma-separated form with annotations opposite text.
 
     If by_char is True (the default), each character will get its own line,
     similar to ConLL-2002 format, and the annotation will be opposite the
@@ -108,14 +108,14 @@ def split_text(text: str, by_char=True) -> str:
     # all characters in sequence correspond to blanks except last, which matches
     # the annotation. each character on a new line, separated by tab
     fmt_chunks = zip(
-        [f"\t{BLANK}\n".join(char) for char in chars] if by_char else chars,
-        ["\t{}\n".format(anno) for anno in annos],
+        [f",{BLANK}\n".join(char) for char in chars] if by_char else chars,
+        [",{}\n".format(anno) for anno in annos],
     )
     output = "".join(["".join(chunk) for chunk in fmt_chunks])
 
     # handle case where there's extra text after the last annotation
     if len(chars) > len(annos):
-        output += "".join([f"{char}\t{BLANK}\n" for char in chars[-1]])
+        output += "".join([f"{char},{BLANK}\n" for char in chars[-1]])
 
     return output
 
