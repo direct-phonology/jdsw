@@ -23,7 +23,7 @@ def main(in_dir: Path, out_dir: Path) -> None:
 
             # call bin/sbck2csv and append headers
             subprocess.run(
-                [Path("jdsw/bin/sbck2csv.py"), file, "--headers"],
+                [Path("bin/sbck2csv.py"), file, "--headers"],
                 stdout=out_file.open("w", encoding="utf-8"),
             )
 
