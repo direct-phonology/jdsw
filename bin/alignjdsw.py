@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+import csv
+import sys
 from pathlib import Path
 
 import typer
@@ -14,56 +16,70 @@ def main(jdsw_file: Path, sbck_file: Path, overwrite: bool = False) -> None:
     Annotations in the JDSW edition that correspond to the source text in the
     SBCK edition are noted as 'source', while those that correspond to the
     commentary are noted as 'commentary' in a new column. Annotations that don't
-    appear to map  onto anywhere in the SBCK edition will have a blank. Output
+    appear to map onto anywhere in the SBCK edition will have a blank. Output
     is written to stdout or, optionally, to overwrite the JDSW input file.
 
-    $ alignjdsw jdsw/gongyang/001.txt sbck/gongyang/001.txt --overwrite
+    $ alignjdsw jdsw/gongyang/001.csv sbck/gongyang/001.csv --overwrite
     """
 
     # read JDSW edition into list of target:annotation tuples
-    jdsw_text = jdsw_file.open("r", encoding="utf-8").read()
-    jdsw = [line.split("\t") for line in jdsw_text.splitlines()]
+    with open(jdsw_file, encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        jdsw = [tuple(row.values()) for row in reader]
 
-    # read SBCK edition into list of source:commentary tuples
-    sbck_text = sbck_file.open("r", encoding="utf-8").read()
-    sbck = [line.split("\t") for line in sbck_text.splitlines()]
+    # read SBCK edition into list of source:commentary tuples and original text
+    with open(sbck_file, encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        sbck = [tuple(row.values()) for row in reader]
+        sbck_text = "".join(["".join(row[:2]) for row in sbck])
 
     # construct a map of the SBCK edition where each character index is mapped
     # to a boolean indicating whether that character is in the source text
     sbck_map = []
-    sbck_chars = sbck_text.replace("\t", "").replace("\n", "")
-    for source, commentary in sbck:
-        sbck_map += [True for i in range(len(source))]
-        sbck_map += [False for i in range(len(commentary))]
-    assert len(sbck_map) == len(sbck_chars)
+    for source, commentary, *extra in sbck:
+        sbck_map += [True for c in source]
+        sbck_map += [False for c in commentary]
+    assert len(sbck_map) == len(sbck_text)
 
     # use a pointer into the full SBCK text to find the next possible place an
     # annotation from the JDSW could apply. if the annotation target is in the
     # source text, we advance the pointer and keep that annotation. if the
     # annotation target is in the commentary, we advance the pointer and
     # ignore the annotation. if the target isn't found, log it.
-    output: list[tuple[str, str, str]] = []
+    output: list[dict[str, str]] = []
     pointer = 0
     for target, annotation, *extra in jdsw:
-        remaining = sbck_chars[pointer:]
+        remaining = sbck_text[pointer:]
         location = remaining.find(target)
         if location == -1:
-            output.append((target, annotation, BLANK))
+            output.append({
+                "source": target,
+                "commentary": annotation,
+                "location": BLANK,
+            })
         else:
             pointer = location
             if sbck_map[location] is True:
-                output.append((target, annotation, "source"))
+                output.append({
+                    "source": target,
+                    "commentary": annotation,
+                    "location": "source",
+                })
             else:
-                output.append((target, annotation, "commentary"))
-
-    # rejoin output lines into a single string
-    output_text = "\n".join(["\t".join(line) for line in output])
+                output.append({
+                    "source": target,
+                    "commentary": annotation,
+                    "location": "commentary",
+                })
 
     # overwrite input JDSW file if requested, otherwise write to stdout
     if overwrite:
-        jdsw_file.open("w", encoding="utf-8").write(output_text)
+        with open(jdsw_file, "w", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=["source", "commentary", "location"])
     else:
-        typer.echo(output_text)
+        writer = csv.DictWriter(sys.stdout, fieldnames=["source", "commentary", "location"])
+    writer.writeheader()
+    writer.writerows(output)
 
 
 if __name__ == "__main__":
