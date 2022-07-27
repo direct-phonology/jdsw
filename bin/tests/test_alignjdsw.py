@@ -1,27 +1,42 @@
 import csv
-import subprocess
 import pathlib
+import subprocess
+import unittest
 
-# create temporary output file for test
-tmp_file = pathlib.Path("tmp", "test.csv")
-tmp_file.parent.mkdir(parents=True, exist_ok=True)
+FIXTURE_PATH = "bin/tests/fixtures/lunyu_001.csv"
 
-# run alignjdsw on the first chapter of the lunyu and output to temp file
-with tmp_file.open("w", encoding="utf-8") as fh:
-  subprocess.run(
-    [
-      pathlib.Path("bin/alignjdsw.py"),
-      pathlib.Path("src/jdsw/lunyu/001.txt"),
-      pathlib.Path("src/sbck/lunyu/001.txt"),
-    ],
-    stdout=fh
-  )
 
-# compare the actual output to the expected output
-expected = csv.DictReader(open("bin/tests/fixtures/lunyu_001.csv", encoding="utf-8"))
-actual = csv.DictReader(open(tmp_file, encoding="utf-8"))
-for expected_row, actual_row in zip(expected, actual):
-  assert actual_row["location"] == expected_row["location"]
+class TestAlignJDSW(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        # create temporary output file for test
+        cls.tmp_file = pathlib.Path("tmp", "test.csv")
+        cls.tmp_file.parent.mkdir(parents=True, exist_ok=True)
 
-# delete temporary file when done
-tmp_file.unlink()
+        # run alignjdsw on the first chapter of the lunyu and output to temp file
+        with cls.tmp_file.open("w", encoding="utf-8") as fh:
+            subprocess.run(
+                [
+                    pathlib.Path("bin/alignjdsw.py"),
+                    pathlib.Path("out/csv/jdsw/lunyu/001.csv"),
+                    pathlib.Path("out/csv/sbck/lunyu/001.csv"),
+                ],
+                stdout=fh,
+            )
+
+    def test_locations(self):
+        # compare the actual output to the expected output
+        expected = csv.DictReader(open(FIXTURE_PATH, encoding="utf-8"))
+        actual = csv.DictReader(open(self.tmp_file, encoding="utf-8"))
+        for exp, act in zip(expected, actual):
+            with self.subTest(text=exp["source"]):
+                self.assertEqual(
+                    act["location"],
+                    exp["location"],
+                    msg=f"expected {exp['location']}, got {act['location']}",
+                )
+
+    @classmethod
+    def tearDownClass(cls):
+        # delete temporary file when done
+        cls.tmp_file.unlink()
