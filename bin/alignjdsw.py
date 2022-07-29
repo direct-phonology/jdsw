@@ -6,8 +6,6 @@ from pathlib import Path
 
 import typer
 
-from lib.patterns import BLANK
-
 
 def main(jdsw_file: Path, sbck_file: Path, overwrite: bool = False) -> None:
     """
@@ -42,42 +40,48 @@ def main(jdsw_file: Path, sbck_file: Path, overwrite: bool = False) -> None:
     assert len(sbck_map) == len(sbck_text)
 
     # use a pointer into the full SBCK text to find the next possible place an
-    # annotation from the JDSW could apply. if the annotation target is in the
-    # source text, we advance the pointer and keep that annotation. if the
-    # annotation target is in the commentary, we advance the pointer and
-    # ignore the annotation. if the target isn't found, log it.
+    # annotation from the JDSW could apply. note whether it appears in the
+    # source, commentary, or isn't found at all.
     output: list[dict[str, str]] = []
     pointer = 0
     for target, annotation, *extra in jdsw:
         remaining = sbck_text[pointer:]
         location = remaining.find(target)
-        if location == -1:
-            output.append({
-                "source": target,
-                "commentary": annotation,
-                "location": BLANK,
-            })
+        if location == -1:  # not found
+            output.append(
+                {
+                    "source": target,
+                    "commentary": annotation,
+                    "location": "unknown",
+                }
+            )
         else:
-            pointer = location
-            if sbck_map[location] is True:
-                output.append({
-                    "source": target,
-                    "commentary": annotation,
-                    "location": "source",
-                })
-            else:
-                output.append({
-                    "source": target,
-                    "commentary": annotation,
-                    "location": "commentary",
-                })
+            if sbck_map[pointer + location] is True:  # in source
+                output.append(
+                    {
+                        "source": target,
+                        "commentary": annotation,
+                        "location": "source",
+                    }
+                )
+            else:  # in commentary
+                output.append(
+                    {
+                        "source": target,
+                        "commentary": annotation,
+                        "location": "commentary",
+                    }
+                )
+            pointer = pointer + location + len(target)
 
     # overwrite input JDSW file if requested, otherwise write to stdout
     if overwrite:
         with open(jdsw_file, "w", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=["source", "commentary", "location"])
     else:
-        writer = csv.DictWriter(sys.stdout, fieldnames=["source", "commentary", "location"])
+        writer = csv.DictWriter(
+            sys.stdout, fieldnames=["source", "commentary", "location"]
+        )
     writer.writeheader()
     writer.writerows(output)
 
