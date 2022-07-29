@@ -29,11 +29,11 @@ class TestAlignJDSW(unittest.TestCase):
         expected = csv.DictReader(open(FIXTURE_PATH, encoding="utf-8"))
         actual = csv.DictReader(open(self.tmp_file, encoding="utf-8"))
         for exp, act in zip(expected, actual):
-            with self.subTest(text=exp["source"]):
+            with self.subTest(text=exp["source"], note=exp["note"]):
                 self.assertEqual(
                     act["location"],
                     exp["location"],
-                    msg=f"expected {exp['location']}, got {act['location']}",
+                    msg=f"expected {exp['source']} in {exp['location']}, got {act['location']}",
                 )
 
     @classmethod
