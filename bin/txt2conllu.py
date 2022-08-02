@@ -28,7 +28,7 @@ def main() -> None:
     text = clean_org_text(text)
 
     # remove pilcrows
-    text = text.replace("¶", "")
+    text = text.replace("¶", "").strip()
 
     # generate doc and doc identifier
     doc = []
