@@ -41,10 +41,15 @@ def main() -> None:
         chapter_id = f"{doc_id}.{i+1}"
 
         # extract paragraphs (split on PARAGARAPH_NUMBER)
-        for j, paragraph in enumerate(PARAGRAPH_NUMBER.split(chapter)[::2][1:]):
+        paragraphs = PARAGRAPH_NUMBER.split(chapter)[::2][1:]
+        if not paragraphs:
+            fallback_para_counter = 1
+            paragraphs = [chapter]
+
+        for j, paragraph in enumerate(paragraphs):
 
             # generate paragraph and its id
-            paragraph_id = f"{chapter_id}.{j+1}"
+            paragraph_id = f"{chapter_id}.{fallback_para_counter or j+1}"
             sentences = []
 
             # extract sentences from each paragraph
@@ -82,6 +87,9 @@ def main() -> None:
 
                 # append all sentences to the doc
                 doc += sentences
+
+                if fallback_para_counter:
+                    fallback_para_counter += 1
 
     # set the doc id for the first sentence in the doc
     doc[0] = f"# newdoc id = {doc_id}\n{doc[0]}"
