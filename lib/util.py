@@ -20,7 +20,7 @@ from .patterns import (
 from .phonology import Reconstruction, NoReadingError, MultipleReadingsError
 
 KR_UNICODE = pd.read_csv(Path("data/kr-unicode.csv"))
-MC_BAXTER = Reconstruction(pd.read_csv(Path("data/GDR-SBGY-FULL.csv")))
+MC_BAXTER = Reconstruction(pd.read_csv(Path("data/GDR-SBGY-full.csv")))
 OC_BAXTER = NotImplementedError("TODO")
 VARIANT_TABLE = str.maketrans(json.loads(Path("data/variants.json").read_text()))
 
