@@ -34,11 +34,11 @@ def main() -> None:
     doc = []
     doc_id = metadata["id"]
 
-    # extract chapters (split on CHAPTER_NUMBER)
-    for i, chapter in zip(
+    # extract chapters (split on CHAPTER_HEADER)
+    for i, (_, chapter) in enumerate(zip(
         CHAPTER_HEADER.split(text)[1::3], CHAPTER_HEADER.split(text)[::3][1:]
-    ):
-        chapter_id = f"{doc_id}.{i}"
+    )):
+        chapter_id = f"{doc_id}.{i+1}"
 
         # extract paragraphs (split on PARAGARAPH_NUMBER)
         for j, paragraph in enumerate(PARAGRAPH_NUMBER.split(chapter)[::2][1:]):
