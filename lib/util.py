@@ -3,7 +3,6 @@ from pathlib import Path
 import json
 
 import pandas as pd
-from cihai.core import Cihai
 import spacy
 
 from .patterns import (
