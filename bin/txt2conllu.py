@@ -42,6 +42,7 @@ def main() -> None:
 
         # extract paragraphs (split on PARAGARAPH_NUMBER)
         paragraphs = PARAGRAPH_NUMBER.split(chapter)[::2][1:]
+        fallback_para_counter = None
         if not paragraphs:
             fallback_para_counter = 1
             paragraphs = [chapter]
