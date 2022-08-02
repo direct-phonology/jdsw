@@ -116,7 +116,9 @@ def split_text(text: str, sep: str = "\t", by_char: bool = True) -> str:
     # handle case where there's extra text after the last annotation
     if len(chars) > len(annos) and chars[-1]:
         output += "".join(
-            [f"{char}{sep}{BLANK}\n" for char in chars[-1]] if by_char else f"{chars[-1]}{sep}"
+            [f"{char}{sep}{BLANK}\n" for char in chars[-1]]
+            if by_char
+            else f"{chars[-1]}{sep}"
         )
 
     return output
