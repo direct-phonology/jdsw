@@ -1,5 +1,6 @@
 import re
 from pathlib import Path
+import json
 
 import pandas as pd
 from cihai.core import Cihai
@@ -22,6 +23,7 @@ from .phonology import Reconstruction, NoReadingError, MultipleReadingsError
 KR_UNICODE = pd.read_csv(Path("data/kr-unicode.csv"))
 MC_BAXTER = Reconstruction(pd.read_csv(Path("data/GDR-SBGY-FULL.csv")))
 OC_BAXTER = NotImplementedError("TODO")
+VARIANT_TABLE = str.maketrans(json.loads(Path("data/variants.json").read_text()))
 
 NLP = spacy.blank("och")
 NLP.add_pipe("sentencizer")
@@ -214,6 +216,12 @@ def augment_annotations(text: str, rc: Reconstruction, stats: dict) -> str:
     return EMPTY_ANNO.sub(_convert, text)
 
 
-def get_variant(char: str, rc: Reconstruction, c: Cihai) -> str:
-    """Find a variant for a character with reconstructed data."""
-    pass
+def fuzzy_find(phrase: str, text: str) -> int:
+    """True if phrase is found in text, ignoring variant characters."""
+
+    # collapse variants into a single character
+    # TODO: use levenshtein for distance matching
+    text_norm = text.translate(VARIANT_TABLE)
+    phrase_norm = phrase.translate(VARIANT_TABLE)
+
+    return text_norm.find(phrase_norm)
