@@ -32351,8 +32351,8 @@
 17	之	_	_	_	_	_	_	_	SpaceAfter=No
 18	慶	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.2
-# sent_id = KR1b0001.59.2.1
+# newpar id = KR1b0001.59.1
+# sent_id = KR1b0001.59.1.1
 # text = 九共予辯下土使民平平使民無敖
 1	九	_	_	_	_	_	_	_	SpaceAfter=No
 2	共	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32369,8 +32369,8 @@
 13	無	_	_	_	_	_	_	_	SpaceAfter=No
 14	敖	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.3
-# sent_id = KR1b0001.59.3.1
+# newpar id = KR1b0001.59.2
+# sent_id = KR1b0001.59.2.1
 # text = 五子之歌啟乃淫逸康樂野于飲食將將銘莧磬以力湛濁于酒渝食于野
 1	五	_	_	_	_	_	_	_	SpaceAfter=No
 2	子	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32402,7 +32402,7 @@
 28	于	_	_	_	_	_	_	_	SpaceAfter=No
 29	野	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.3.2
+# sent_id = KR1b0001.59.2.2
 # text = 萬舞翼翼章聞于天天用弗式
 1	萬	_	_	_	_	_	_	_	SpaceAfter=No
 2	舞	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32417,8 +32417,8 @@
 11	弗	_	_	_	_	_	_	_	SpaceAfter=No
 12	式	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.4
-# sent_id = KR1b0001.59.4.1
+# newpar id = KR1b0001.59.3
+# sent_id = KR1b0001.59.3.1
 # text = 胤征厥匪玄黃昭我周王
 1	胤	_	_	_	_	_	_	_	SpaceAfter=No
 2	征	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32431,8 +32431,8 @@
 9	周	_	_	_	_	_	_	_	SpaceAfter=No
 10	王	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.5
-# sent_id = KR1b0001.59.5.1
+# newpar id = KR1b0001.59.4
+# sent_id = KR1b0001.59.4.1
 # text = 帝告施章乃服明上下
 1	帝	_	_	_	_	_	_	_	SpaceAfter=No
 2	告	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32444,8 +32444,8 @@
 8	上	_	_	_	_	_	_	_	SpaceAfter=No
 9	下	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.6
-# sent_id = KR1b0001.59.6.1
+# newpar id = KR1b0001.59.5
+# sent_id = KR1b0001.59.5.1
 # text = 湯征湯曰予有言人視水見形視民知治不
 1	湯	_	_	_	_	_	_	_	SpaceAfter=No
 2	征	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32465,7 +32465,7 @@
 16	治	_	_	_	_	_	_	_	SpaceAfter=No
 17	不	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.6.2
+# sent_id = KR1b0001.59.5.2
 # text = 伊尹曰明哉言
 1	伊	_	_	_	_	_	_	_	SpaceAfter=No
 2	尹	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32474,7 +32474,7 @@
 5	哉	_	_	_	_	_	_	_	SpaceAfter=No
 6	言	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.6.3
+# sent_id = KR1b0001.59.5.3
 # text = 能聽道乃進君國子民為善者皆在王官勉哉勉哉
 1	能	_	_	_	_	_	_	_	SpaceAfter=No
 2	聽	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32497,7 +32497,7 @@
 19	勉	_	_	_	_	_	_	_	SpaceAfter=No
 20	哉	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.6.4
+# sent_id = KR1b0001.59.5.4
 # text = 湯曰汝不能敬命予大罰殛之無有攸赦
 1	湯	_	_	_	_	_	_	_	SpaceAfter=No
 2	曰	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32516,14 +32516,14 @@
 15	攸	_	_	_	_	_	_	_	SpaceAfter=No
 16	赦	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.6.5
+# sent_id = KR1b0001.59.5.5
 # text = 葛伯仇餉
 1	葛	_	_	_	_	_	_	_	SpaceAfter=No
 2	伯	_	_	_	_	_	_	_	SpaceAfter=No
 3	仇	_	_	_	_	_	_	_	SpaceAfter=No
 4	餉	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.6.6
+# sent_id = KR1b0001.59.5.6
 # text = 湯一征自葛始天下信之
 1	湯	_	_	_	_	_	_	_	SpaceAfter=No
 2	一	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32536,7 +32536,7 @@
 9	信	_	_	_	_	_	_	_	SpaceAfter=No
 10	之	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.6.7
+# sent_id = KR1b0001.59.5.7
 # text = 東面而征西夷怨南面而征北狄怨
 1	東	_	_	_	_	_	_	_	SpaceAfter=No
 2	面	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32553,7 +32553,7 @@
 13	狄	_	_	_	_	_	_	_	SpaceAfter=No
 14	怨	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.6.8
+# sent_id = KR1b0001.59.5.8
 # text = 曰奚為後我
 1	曰	_	_	_	_	_	_	_	SpaceAfter=No
 2	奚	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32561,7 +32561,7 @@
 4	後	_	_	_	_	_	_	_	SpaceAfter=No
 5	我	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.6.9
+# sent_id = KR1b0001.59.5.9
 # text = 徯我后后來其蘇
 1	徯	_	_	_	_	_	_	_	SpaceAfter=No
 2	我	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32571,8 +32571,8 @@
 6	其	_	_	_	_	_	_	_	SpaceAfter=No
 7	蘇	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.7
-# sent_id = KR1b0001.59.7.1
+# newpar id = KR1b0001.59.6
+# sent_id = KR1b0001.59.6.1
 # text = 湯誓聿求元聖與之戮力同心以治天下
 1	湯	_	_	_	_	_	_	_	SpaceAfter=No
 2	誓	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32591,7 +32591,7 @@
 15	天	_	_	_	_	_	_	_	SpaceAfter=No
 16	下	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.7.2
+# sent_id = KR1b0001.59.6.2
 # text = 予小子履敢用玄牡敢昭告于皇皇后帝有罪不敢赦帝臣不蔽簡在帝心
 1	予	_	_	_	_	_	_	_	SpaceAfter=No
 2	小	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32623,7 +32623,7 @@
 28	帝	_	_	_	_	_	_	_	SpaceAfter=No
 29	心	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.7.3
+# sent_id = KR1b0001.59.6.3
 # text = 朕躬有罪無以萬方萬方有罪罪在朕躬
 1	朕	_	_	_	_	_	_	_	SpaceAfter=No
 2	躬	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32642,8 +32642,8 @@
 15	朕	_	_	_	_	_	_	_	SpaceAfter=No
 16	躬	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.8
-# sent_id = KR1b0001.59.8.1
+# newpar id = KR1b0001.59.7
+# sent_id = KR1b0001.59.7.1
 # text = 仲虺之誥我聞有夏人矯天命于下帝式是增用爽厥師
 1	仲	_	_	_	_	_	_	_	SpaceAfter=No
 2	虺	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32668,7 +32668,7 @@
 21	厥	_	_	_	_	_	_	_	SpaceAfter=No
 22	師	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.8.2
+# sent_id = KR1b0001.59.7.2
 # text = 諸侯自為得師者王得友者霸得疑者存自為謀而莫己若者亡
 1	諸	_	_	_	_	_	_	_	SpaceAfter=No
 2	侯	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32696,7 +32696,7 @@
 24	者	_	_	_	_	_	_	_	SpaceAfter=No
 25	亡	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.8.3
+# sent_id = KR1b0001.59.7.3
 # text = 亂者取之亡者侮之
 1	亂	_	_	_	_	_	_	_	SpaceAfter=No
 2	者	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32707,8 +32707,8 @@
 7	侮	_	_	_	_	_	_	_	SpaceAfter=No
 8	之	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.9
-# sent_id = KR1b0001.59.9.1
+# newpar id = KR1b0001.59.8
+# sent_id = KR1b0001.59.8.1
 # text = 湯誥維三月王自至於東郊告諸侯群后毋不有功於民勤力迺事予乃大罰殛女毋予怨
 1	湯	_	_	_	_	_	_	_	SpaceAfter=No
 2	誥	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32746,7 +32746,7 @@
 34	予	_	_	_	_	_	_	_	SpaceAfter=No
 35	怨	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.9.2
+# sent_id = KR1b0001.59.8.2
 # text = 曰古禹皋陶久勞于外其有功乎民民乃有安
 1	曰	_	_	_	_	_	_	_	SpaceAfter=No
 2	古	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32767,7 +32767,7 @@
 17	有	_	_	_	_	_	_	_	SpaceAfter=No
 18	安	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.9.3
+# sent_id = KR1b0001.59.8.3
 # text = 東為江北為濟西為河南為淮四瀆已脩萬民乃有居
 1	東	_	_	_	_	_	_	_	SpaceAfter=No
 2	為	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32791,7 +32791,7 @@
 20	有	_	_	_	_	_	_	_	SpaceAfter=No
 21	居	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.9.4
+# sent_id = KR1b0001.59.8.4
 # text = 后稷降播農殖百穀
 1	后	_	_	_	_	_	_	_	SpaceAfter=No
 2	稷	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32802,7 +32802,7 @@
 7	百	_	_	_	_	_	_	_	SpaceAfter=No
 8	穀	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.9.5
+# sent_id = KR1b0001.59.8.5
 # text = 三公咸有功于民故后有立
 1	三	_	_	_	_	_	_	_	SpaceAfter=No
 2	公	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32816,7 +32816,7 @@
 10	有	_	_	_	_	_	_	_	SpaceAfter=No
 11	立	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.9.6
+# sent_id = KR1b0001.59.8.6
 # text = 昔蚩尤與其大夫作亂百姓帝乃弗予有狀
 1	昔	_	_	_	_	_	_	_	SpaceAfter=No
 2	蚩	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32836,7 +32836,7 @@
 16	有	_	_	_	_	_	_	_	SpaceAfter=No
 17	狀	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.9.7
+# sent_id = KR1b0001.59.8.7
 # text = 先王言不可不勉曰不道毋之在國
 1	先	_	_	_	_	_	_	_	SpaceAfter=No
 2	王	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32853,15 +32853,15 @@
 13	在	_	_	_	_	_	_	_	SpaceAfter=No
 14	國	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.9.8
+# sent_id = KR1b0001.59.8.8
 # text = 女毋我怨
 1	女	_	_	_	_	_	_	_	SpaceAfter=No
 2	毋	_	_	_	_	_	_	_	SpaceAfter=No
 3	我	_	_	_	_	_	_	_	SpaceAfter=No
 4	怨	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.10
-# sent_id = KR1b0001.59.10.1
+# newpar id = KR1b0001.59.9
+# sent_id = KR1b0001.59.9.1
 # text = 咸有壹德惟尹躬及湯咸有壹德
 1	咸	_	_	_	_	_	_	_	SpaceAfter=No
 2	有	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32877,7 +32877,7 @@
 12	壹	_	_	_	_	_	_	_	SpaceAfter=No
 13	德	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.10.2
+# sent_id = KR1b0001.59.9.2
 # text = 惟尹躬天見于西邑夏自周有終相亦惟終
 1	惟	_	_	_	_	_	_	_	SpaceAfter=No
 2	尹	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32897,8 +32897,8 @@
 16	惟	_	_	_	_	_	_	_	SpaceAfter=No
 17	終	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.11
-# sent_id = KR1b0001.59.11.1
+# newpar id = KR1b0001.59.10
+# sent_id = KR1b0001.59.10.1
 # text = 伊訓惟太甲元年十有二月乙丑朔伊尹祀于先王誕資有牧方明
 1	伊	_	_	_	_	_	_	_	SpaceAfter=No
 2	訓	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32927,7 +32927,7 @@
 25	方	_	_	_	_	_	_	_	SpaceAfter=No
 26	明	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.11.2
+# sent_id = KR1b0001.59.10.2
 # text = 天誅造攻自牧宮朕載自亳
 1	天	_	_	_	_	_	_	_	SpaceAfter=No
 2	誅	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32941,7 +32941,7 @@
 10	自	_	_	_	_	_	_	_	SpaceAfter=No
 11	亳	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.11.3
+# sent_id = KR1b0001.59.10.3
 # text = 載孚在亳征是三朡
 1	載	_	_	_	_	_	_	_	SpaceAfter=No
 2	孚	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32952,8 +32952,8 @@
 7	三	_	_	_	_	_	_	_	SpaceAfter=No
 8	朡	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.12
-# sent_id = KR1b0001.59.12.1
+# newpar id = KR1b0001.59.11
+# sent_id = KR1b0001.59.11.1
 # text = 太甲民非后無能胥以寧后非民無以辟四方
 1	太	_	_	_	_	_	_	_	SpaceAfter=No
 2	甲	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32974,7 +32974,7 @@
 17	四	_	_	_	_	_	_	_	SpaceAfter=No
 18	方	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.12.2
+# sent_id = KR1b0001.59.11.2
 # text = 毋越厥命以自覆也若虞機張往省括于厥度則釋
 1	毋	_	_	_	_	_	_	_	SpaceAfter=No
 2	越	_	_	_	_	_	_	_	SpaceAfter=No
@@ -32997,7 +32997,7 @@
 19	則	_	_	_	_	_	_	_	SpaceAfter=No
 20	釋	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.12.3
+# sent_id = KR1b0001.59.11.3
 # text = 天作孽猶可違自作孽不可活
 1	天	_	_	_	_	_	_	_	SpaceAfter=No
 2	作	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33012,7 +33012,7 @@
 11	可	_	_	_	_	_	_	_	SpaceAfter=No
 12	活	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.12.4
+# sent_id = KR1b0001.59.11.4
 # text = 顧諟天之明命
 1	顧	_	_	_	_	_	_	_	SpaceAfter=No
 2	諟	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33021,8 +33021,8 @@
 5	明	_	_	_	_	_	_	_	SpaceAfter=No
 6	命	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.13
-# sent_id = KR1b0001.59.13.1
+# newpar id = KR1b0001.59.12
+# sent_id = KR1b0001.59.12.1
 # text = 說命曰以余正四方余恐德之不類茲故不言
 1	說	_	_	_	_	_	_	_	SpaceAfter=No
 2	命	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33043,7 +33043,7 @@
 17	不	_	_	_	_	_	_	_	SpaceAfter=No
 18	言	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.13.2
+# sent_id = KR1b0001.59.12.2
 # text = 曰若金用女作礪若津水用女作舟若天旱用女作霖雨
 1	曰	_	_	_	_	_	_	_	SpaceAfter=No
 2	若	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33068,7 +33068,7 @@
 21	霖	_	_	_	_	_	_	_	SpaceAfter=No
 22	雨	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.13.3
+# sent_id = KR1b0001.59.12.3
 # text = 啟乃心沃朕心
 1	啟	_	_	_	_	_	_	_	SpaceAfter=No
 2	乃	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33077,7 +33077,7 @@
 5	朕	_	_	_	_	_	_	_	SpaceAfter=No
 6	心	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.13.4
+# sent_id = KR1b0001.59.12.4
 # text = 若藥不瞑眩厥疾不瘳若跣不視地厥足用傷
 1	若	_	_	_	_	_	_	_	SpaceAfter=No
 2	藥	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33098,7 +33098,7 @@
 17	用	_	_	_	_	_	_	_	SpaceAfter=No
 18	傷	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.13.5
+# sent_id = KR1b0001.59.12.5
 # text = 念終始典于學
 1	念	_	_	_	_	_	_	_	SpaceAfter=No
 2	終	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33107,13 +33107,13 @@
 5	于	_	_	_	_	_	_	_	SpaceAfter=No
 6	學	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.13.6
+# sent_id = KR1b0001.59.12.6
 # text = 學學半
 1	學	_	_	_	_	_	_	_	SpaceAfter=No
 2	學	_	_	_	_	_	_	_	SpaceAfter=No
 3	半	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.13.7
+# sent_id = KR1b0001.59.12.7
 # text = 敬孫務時敏厥脩乃來
 1	敬	_	_	_	_	_	_	_	SpaceAfter=No
 2	孫	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33125,7 +33125,7 @@
 8	乃	_	_	_	_	_	_	_	SpaceAfter=No
 9	來	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.13.8
+# sent_id = KR1b0001.59.12.8
 # text = 惟口起羞惟甲冑起兵惟衣裳在笥惟干戈省厥躬
 1	惟	_	_	_	_	_	_	_	SpaceAfter=No
 2	口	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33148,7 +33148,7 @@
 19	厥	_	_	_	_	_	_	_	SpaceAfter=No
 20	躬	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.13.9
+# sent_id = KR1b0001.59.12.9
 # text = 爵無及惡德民立而正事純而祭祀是為不敬
 1	爵	_	_	_	_	_	_	_	SpaceAfter=No
 2	無	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33169,7 +33169,7 @@
 17	不	_	_	_	_	_	_	_	SpaceAfter=No
 18	敬	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.13.10
+# sent_id = KR1b0001.59.12.10
 # text = 事煩則亂事神則難
 1	事	_	_	_	_	_	_	_	SpaceAfter=No
 2	煩	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33180,8 +33180,8 @@
 7	則	_	_	_	_	_	_	_	SpaceAfter=No
 8	難	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.14
-# sent_id = KR1b0001.59.14.1
+# newpar id = KR1b0001.59.13
+# sent_id = KR1b0001.59.13.1
 # text = 高宗之訓三年其惟不言言乃讙
 1	高	_	_	_	_	_	_	_	SpaceAfter=No
 2	宗	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33197,8 +33197,8 @@
 12	乃	_	_	_	_	_	_	_	SpaceAfter=No
 13	讙	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.15
-# sent_id = KR1b0001.59.15.1
+# newpar id = KR1b0001.59.14
+# sent_id = KR1b0001.59.14.1
 # text = 大誓紂夷之居而不肯事上帝棄闕其先神而不祀也
 1	大	_	_	_	_	_	_	_	SpaceAfter=No
 2	誓	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33222,7 +33222,7 @@
 20	祀	_	_	_	_	_	_	_	SpaceAfter=No
 21	也	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.15.2
+# sent_id = KR1b0001.59.14.2
 # text = 曰我民有命毋僇其務天不亦棄縱而不葆
 1	曰	_	_	_	_	_	_	_	SpaceAfter=No
 2	我	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33242,7 +33242,7 @@
 16	不	_	_	_	_	_	_	_	SpaceAfter=No
 17	葆	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.15.3
+# sent_id = KR1b0001.59.14.3
 # text = 小人見姦巧乃聞不言也發罪鈞
 1	小	_	_	_	_	_	_	_	SpaceAfter=No
 2	人	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33258,7 +33258,7 @@
 12	罪	_	_	_	_	_	_	_	SpaceAfter=No
 13	鈞	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.15.4
+# sent_id = KR1b0001.59.14.4
 # text = 紂有億兆夷人亦有離德余有亂臣十人同心同德
 1	紂	_	_	_	_	_	_	_	SpaceAfter=No
 2	有	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33281,7 +33281,7 @@
 19	同	_	_	_	_	_	_	_	SpaceAfter=No
 20	德	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.15.5
+# sent_id = KR1b0001.59.14.5
 # text = 紂有臣億萬人亦有億萬之心武王有臣三千而一心
 1	紂	_	_	_	_	_	_	_	SpaceAfter=No
 2	有	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33305,7 +33305,7 @@
 20	一	_	_	_	_	_	_	_	SpaceAfter=No
 21	心	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.15.6
+# sent_id = KR1b0001.59.14.6
 # text = 天視自我民視天聽自我民聽
 1	天	_	_	_	_	_	_	_	SpaceAfter=No
 2	視	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33320,7 +33320,7 @@
 11	民	_	_	_	_	_	_	_	SpaceAfter=No
 12	聽	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.15.7
+# sent_id = KR1b0001.59.14.7
 # text = 民之所欲天必從之
 1	民	_	_	_	_	_	_	_	SpaceAfter=No
 2	之	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33331,7 +33331,7 @@
 7	從	_	_	_	_	_	_	_	SpaceAfter=No
 8	之	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.15.8
+# sent_id = KR1b0001.59.14.8
 # text = 朕夢協朕卜襲于休祥戎商必克
 1	朕	_	_	_	_	_	_	_	SpaceAfter=No
 2	夢	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33347,7 +33347,7 @@
 12	必	_	_	_	_	_	_	_	SpaceAfter=No
 13	克	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.15.9
+# sent_id = KR1b0001.59.14.9
 # text = 文王若日若月乍照光于四方于西土
 1	文	_	_	_	_	_	_	_	SpaceAfter=No
 2	王	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33365,7 +33365,7 @@
 14	西	_	_	_	_	_	_	_	SpaceAfter=No
 15	土	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.15.10
+# sent_id = KR1b0001.59.14.10
 # text = 予克紂非予武惟朕文考無罪
 1	予	_	_	_	_	_	_	_	SpaceAfter=No
 2	克	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33380,7 +33380,7 @@
 11	無	_	_	_	_	_	_	_	SpaceAfter=No
 12	罪	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.15.11
+# sent_id = KR1b0001.59.14.11
 # text = 紂克予非朕文考有罪惟予小子無良
 1	紂	_	_	_	_	_	_	_	SpaceAfter=No
 2	克	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33398,7 +33398,7 @@
 14	無	_	_	_	_	_	_	_	SpaceAfter=No
 15	良	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.15.12
+# sent_id = KR1b0001.59.14.12
 # text = 惡乎君子天有顯德其行甚章為鑑不遠在彼殷王
 1	惡	_	_	_	_	_	_	_	SpaceAfter=No
 2	乎	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33421,7 +33421,7 @@
 19	殷	_	_	_	_	_	_	_	SpaceAfter=No
 20	王	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.15.13
+# sent_id = KR1b0001.59.14.13
 # text = 謂人有命謂敬不可行謂祭無益謂暴無傷
 1	謂	_	_	_	_	_	_	_	SpaceAfter=No
 2	人	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33441,7 +33441,7 @@
 16	無	_	_	_	_	_	_	_	SpaceAfter=No
 17	傷	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.15.14
+# sent_id = KR1b0001.59.14.14
 # text = 上帝不常九有以亡
 1	上	_	_	_	_	_	_	_	SpaceAfter=No
 2	帝	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33452,7 +33452,7 @@
 7	以	_	_	_	_	_	_	_	SpaceAfter=No
 8	亡	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.15.15
+# sent_id = KR1b0001.59.14.15
 # text = 上帝不順祝降其喪
 1	上	_	_	_	_	_	_	_	SpaceAfter=No
 2	帝	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33463,7 +33463,7 @@
 7	其	_	_	_	_	_	_	_	SpaceAfter=No
 8	喪	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.15.16
+# sent_id = KR1b0001.59.14.16
 # text = 惟我有周受之大帝
 1	惟	_	_	_	_	_	_	_	SpaceAfter=No
 2	我	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33474,13 +33474,13 @@
 7	大	_	_	_	_	_	_	_	SpaceAfter=No
 8	帝	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.15.17
+# sent_id = KR1b0001.59.14.17
 # text = 獨夫紂
 1	獨	_	_	_	_	_	_	_	SpaceAfter=No
 2	夫	_	_	_	_	_	_	_	SpaceAfter=No
 3	紂	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.15.18
+# sent_id = KR1b0001.59.14.18
 # text = 我武惟揚侵于之疆則取于殘殺伐用張于湯有光
 1	我	_	_	_	_	_	_	_	SpaceAfter=No
 2	武	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33503,8 +33503,8 @@
 19	有	_	_	_	_	_	_	_	SpaceAfter=No
 20	光	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.16
-# sent_id = KR1b0001.59.16.1
+# newpar id = KR1b0001.59.15
+# sent_id = KR1b0001.59.15.1
 # text = 武成維一月壬辰旁死霸若翌日癸巳武王乃朝步自周于征伐紂
 1	武	_	_	_	_	_	_	_	SpaceAfter=No
 2	成	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33533,7 +33533,7 @@
 25	伐	_	_	_	_	_	_	_	SpaceAfter=No
 26	紂	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.16.2
+# sent_id = KR1b0001.59.15.2
 # text = 粵若來三月既死霸粵五日甲子咸劉商王紂
 1	粵	_	_	_	_	_	_	_	SpaceAfter=No
 2	若	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33554,7 +33554,7 @@
 17	王	_	_	_	_	_	_	_	SpaceAfter=No
 18	紂	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.16.3
+# sent_id = KR1b0001.59.15.3
 # text = 惟四月既旁生霸粵六日庚戌武王燎于周廟翌日辛亥祀于天位粵五日乙卯乃以庶國祀馘于周廟
 1	惟	_	_	_	_	_	_	_	SpaceAfter=No
 2	四	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33597,15 +33597,15 @@
 39	周	_	_	_	_	_	_	_	SpaceAfter=No
 40	廟	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.16.4
+# sent_id = KR1b0001.59.15.4
 # text = 血流浮杵
 1	血	_	_	_	_	_	_	_	SpaceAfter=No
 2	流	_	_	_	_	_	_	_	SpaceAfter=No
 3	浮	_	_	_	_	_	_	_	SpaceAfter=No
 4	杵	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.17
-# sent_id = KR1b0001.59.17.1
+# newpar id = KR1b0001.59.16
+# sent_id = KR1b0001.59.16.1
 # text = 嘉禾周公奉鬯立于阼階延登
 1	嘉	_	_	_	_	_	_	_	SpaceAfter=No
 2	禾	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33620,7 +33620,7 @@
 11	延	_	_	_	_	_	_	_	SpaceAfter=No
 12	登	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.17.2
+# sent_id = KR1b0001.59.16.2
 # text = 贊曰假王莅政勤和天下
 1	贊	_	_	_	_	_	_	_	SpaceAfter=No
 2	曰	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33633,7 +33633,7 @@
 9	天	_	_	_	_	_	_	_	SpaceAfter=No
 10	下	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.17.3
+# sent_id = KR1b0001.59.16.3
 # text = 父不慈子不祗兄不友弟不共不相及也
 1	父	_	_	_	_	_	_	_	SpaceAfter=No
 2	不	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33652,8 +33652,8 @@
 15	及	_	_	_	_	_	_	_	SpaceAfter=No
 16	也	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.18
-# sent_id = KR1b0001.59.18.1
+# newpar id = KR1b0001.59.17
+# sent_id = KR1b0001.59.17.1
 # text = 周官立太師太傅太保茲惟三公
 1	周	_	_	_	_	_	_	_	SpaceAfter=No
 2	官	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33669,8 +33669,8 @@
 12	三	_	_	_	_	_	_	_	SpaceAfter=No
 13	公	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.19
-# sent_id = KR1b0001.59.19.1
+# newpar id = KR1b0001.59.18
+# sent_id = KR1b0001.59.18.1
 # text = 君陳爾有嘉謀嘉猷入告爾君于內女乃順之于外曰此謀此猷惟我君之德
 1	君	_	_	_	_	_	_	_	SpaceAfter=No
 2	陳	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33703,12 +33703,12 @@
 29	之	_	_	_	_	_	_	_	SpaceAfter=No
 30	德	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.19.2
+# sent_id = KR1b0001.59.18.2
 # text = 於乎
 1	於	_	_	_	_	_	_	_	SpaceAfter=No
 2	乎	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.19.3
+# sent_id = KR1b0001.59.18.3
 # text = 是惟良顯哉
 1	是	_	_	_	_	_	_	_	SpaceAfter=No
 2	惟	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33716,7 +33716,7 @@
 4	顯	_	_	_	_	_	_	_	SpaceAfter=No
 5	哉	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.19.4
+# sent_id = KR1b0001.59.18.4
 # text = 未見聖若己弗克見既見聖亦不克由聖
 1	未	_	_	_	_	_	_	_	SpaceAfter=No
 2	見	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33735,7 +33735,7 @@
 15	由	_	_	_	_	_	_	_	SpaceAfter=No
 16	聖	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.19.5
+# sent_id = KR1b0001.59.18.5
 # text = 出入自爾師虞庶言同
 1	出	_	_	_	_	_	_	_	SpaceAfter=No
 2	入	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33747,8 +33747,8 @@
 8	言	_	_	_	_	_	_	_	SpaceAfter=No
 9	同	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.20
-# sent_id = KR1b0001.59.20.1
+# newpar id = KR1b0001.59.19
+# sent_id = KR1b0001.59.19.1
 # text = 畢命惟十有二年六月庚午朏王命作策豐刑
 1	畢	_	_	_	_	_	_	_	SpaceAfter=No
 2	命	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33769,8 +33769,8 @@
 17	豐	_	_	_	_	_	_	_	SpaceAfter=No
 18	刑	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.21
-# sent_id = KR1b0001.59.21.1
+# newpar id = KR1b0001.59.20
+# sent_id = KR1b0001.59.20.1
 # text = 君牙夏日暑雨小民惟曰怨資冬祁寒小民亦惟曰怨
 1	君	_	_	_	_	_	_	_	SpaceAfter=No
 2	牙	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33794,8 +33794,8 @@
 20	曰	_	_	_	_	_	_	_	SpaceAfter=No
 21	怨	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.22
-# sent_id = KR1b0001.59.22.1
+# newpar id = KR1b0001.59.21
+# sent_id = KR1b0001.59.21.1
 # text = 蔡仲之命王曰胡無若爾考之違王命也
 1	蔡	_	_	_	_	_	_	_	SpaceAfter=No
 2	仲	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33814,8 +33814,8 @@
 15	命	_	_	_	_	_	_	_	SpaceAfter=No
 16	也	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.23
-# sent_id = KR1b0001.59.23.1
+# newpar id = KR1b0001.59.22
+# sent_id = KR1b0001.59.22.1
 # text = 虞夏書祇載見瞽瞍夔夔齋栗
 1	虞	_	_	_	_	_	_	_	SpaceAfter=No
 2	夏	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33830,7 +33830,7 @@
 11	齋	_	_	_	_	_	_	_	SpaceAfter=No
 12	栗	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.2
+# sent_id = KR1b0001.59.22.2
 # text = 瞽瞍亦允若
 1	瞽	_	_	_	_	_	_	_	SpaceAfter=No
 2	瞍	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33838,7 +33838,7 @@
 4	允	_	_	_	_	_	_	_	SpaceAfter=No
 5	若	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.3
+# sent_id = KR1b0001.59.22.3
 # text = 堯子不肖舜使居丹淵為諸侯故號曰丹朱
 1	堯	_	_	_	_	_	_	_	SpaceAfter=No
 2	子	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33858,21 +33858,21 @@
 16	丹	_	_	_	_	_	_	_	SpaceAfter=No
 17	朱	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.4
+# sent_id = KR1b0001.59.22.4
 # text = 洚水警余
 1	洚	_	_	_	_	_	_	_	SpaceAfter=No
 2	水	_	_	_	_	_	_	_	SpaceAfter=No
 3	警	_	_	_	_	_	_	_	SpaceAfter=No
 4	余	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.5
+# sent_id = KR1b0001.59.22.5
 # text = 禹七年水
 1	禹	_	_	_	_	_	_	_	SpaceAfter=No
 2	七	_	_	_	_	_	_	_	SpaceAfter=No
 3	年	_	_	_	_	_	_	_	SpaceAfter=No
 4	水	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.6
+# sent_id = KR1b0001.59.22.6
 # text = 禹抑鴻水十三年過家不入門
 1	禹	_	_	_	_	_	_	_	SpaceAfter=No
 2	抑	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33887,7 +33887,7 @@
 11	入	_	_	_	_	_	_	_	SpaceAfter=No
 12	門	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.7
+# sent_id = KR1b0001.59.22.7
 # text = 陸行乘車水行載舟泥行蹈毳山行即橋
 1	陸	_	_	_	_	_	_	_	SpaceAfter=No
 2	行	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33906,7 +33906,7 @@
 15	即	_	_	_	_	_	_	_	SpaceAfter=No
 16	橋	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.8
+# sent_id = KR1b0001.59.22.8
 # text = 皋陶邁種德
 1	皋	_	_	_	_	_	_	_	SpaceAfter=No
 2	陶	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33914,14 +33914,14 @@
 4	種	_	_	_	_	_	_	_	SpaceAfter=No
 5	德	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.9
+# sent_id = KR1b0001.59.22.9
 # text = 昏墨賊殺
 1	昏	_	_	_	_	_	_	_	SpaceAfter=No
 2	墨	_	_	_	_	_	_	_	SpaceAfter=No
 3	賊	_	_	_	_	_	_	_	SpaceAfter=No
 4	殺	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.10
+# sent_id = KR1b0001.59.22.10
 # text = 天子之德廣運乃神乃武乃文
 1	天	_	_	_	_	_	_	_	SpaceAfter=No
 2	子	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33936,14 +33936,14 @@
 11	乃	_	_	_	_	_	_	_	SpaceAfter=No
 12	文	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.11
+# sent_id = KR1b0001.59.22.11
 # text = 地平天成
 1	地	_	_	_	_	_	_	_	SpaceAfter=No
 2	平	_	_	_	_	_	_	_	SpaceAfter=No
 3	天	_	_	_	_	_	_	_	SpaceAfter=No
 4	成	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.12
+# sent_id = KR1b0001.59.22.12
 # text = 與其殺不辜寧失不經
 1	與	_	_	_	_	_	_	_	SpaceAfter=No
 2	其	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33955,7 +33955,7 @@
 8	不	_	_	_	_	_	_	_	SpaceAfter=No
 9	經	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.13
+# sent_id = KR1b0001.59.22.13
 # text = 念茲在茲釋茲在茲名言茲在茲允出茲在茲
 1	念	_	_	_	_	_	_	_	SpaceAfter=No
 2	茲	_	_	_	_	_	_	_	SpaceAfter=No
@@ -33976,21 +33976,21 @@
 17	在	_	_	_	_	_	_	_	SpaceAfter=No
 18	茲	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.14
+# sent_id = KR1b0001.59.22.14
 # text = 惟帝念功
 1	惟	_	_	_	_	_	_	_	SpaceAfter=No
 2	帝	_	_	_	_	_	_	_	SpaceAfter=No
 3	念	_	_	_	_	_	_	_	SpaceAfter=No
 4	功	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.15
+# sent_id = KR1b0001.59.22.15
 # text = 成允成功
 1	成	_	_	_	_	_	_	_	SpaceAfter=No
 2	允	_	_	_	_	_	_	_	SpaceAfter=No
 3	成	_	_	_	_	_	_	_	SpaceAfter=No
 4	功	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.16
+# sent_id = KR1b0001.59.22.16
 # text = 戒之用休董之用威勸之以九歌勿使壞
 1	戒	_	_	_	_	_	_	_	SpaceAfter=No
 2	之	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34009,7 +34009,7 @@
 15	使	_	_	_	_	_	_	_	SpaceAfter=No
 16	壞	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.17
+# sent_id = KR1b0001.59.22.17
 # text = 官占唯能蔽志昆命于元龜
 1	官	_	_	_	_	_	_	_	SpaceAfter=No
 2	占	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34023,7 +34023,7 @@
 10	元	_	_	_	_	_	_	_	SpaceAfter=No
 11	龜	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.18
+# sent_id = KR1b0001.59.22.18
 # text = 眾非元后何戴
 1	眾	_	_	_	_	_	_	_	SpaceAfter=No
 2	非	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34032,7 +34032,7 @@
 5	何	_	_	_	_	_	_	_	SpaceAfter=No
 6	戴	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.19
+# sent_id = KR1b0001.59.22.19
 # text = 后非眾無與守邦
 1	后	_	_	_	_	_	_	_	SpaceAfter=No
 2	非	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34042,7 +34042,7 @@
 6	守	_	_	_	_	_	_	_	SpaceAfter=No
 7	邦	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.20
+# sent_id = KR1b0001.59.22.20
 # text = 一人三失怨豈在明
 1	一	_	_	_	_	_	_	_	SpaceAfter=No
 2	人	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34053,14 +34053,14 @@
 7	在	_	_	_	_	_	_	_	SpaceAfter=No
 8	明	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.21
+# sent_id = KR1b0001.59.22.21
 # text = 不見是圖
 1	不	_	_	_	_	_	_	_	SpaceAfter=No
 2	見	_	_	_	_	_	_	_	SpaceAfter=No
 3	是	_	_	_	_	_	_	_	SpaceAfter=No
 4	圖	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.22
+# sent_id = KR1b0001.59.22.22
 # text = 關石和鈞王府則有
 1	關	_	_	_	_	_	_	_	SpaceAfter=No
 2	石	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34071,7 +34071,7 @@
 7	則	_	_	_	_	_	_	_	SpaceAfter=No
 8	有	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.23
+# sent_id = KR1b0001.59.22.23
 # text = 遒人以木鐸徇于路官師相規工執藝事以諫
 1	遒	_	_	_	_	_	_	_	SpaceAfter=No
 2	人	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34092,7 +34092,7 @@
 17	以	_	_	_	_	_	_	_	SpaceAfter=No
 18	諫	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.24
+# sent_id = KR1b0001.59.22.24
 # text = 辰不集于房瞽奏鼓嗇夫馳庶人走
 1	辰	_	_	_	_	_	_	_	SpaceAfter=No
 2	不	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34109,7 +34109,7 @@
 13	人	_	_	_	_	_	_	_	SpaceAfter=No
 14	走	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.25
+# sent_id = KR1b0001.59.22.25
 # text = 惟彼陶唐帥彼天常有此冀方
 1	惟	_	_	_	_	_	_	_	SpaceAfter=No
 2	彼	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34124,7 +34124,7 @@
 11	冀	_	_	_	_	_	_	_	SpaceAfter=No
 12	方	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.26
+# sent_id = KR1b0001.59.22.26
 # text = 今失其行亂其紀綱乃滅而亡
 1	今	_	_	_	_	_	_	_	SpaceAfter=No
 2	失	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34139,15 +34139,15 @@
 11	而	_	_	_	_	_	_	_	SpaceAfter=No
 12	亡	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.23.27
+# sent_id = KR1b0001.59.22.27
 # text = 有窮后羿
 1	有	_	_	_	_	_	_	_	SpaceAfter=No
 2	窮	_	_	_	_	_	_	_	SpaceAfter=No
 3	后	_	_	_	_	_	_	_	SpaceAfter=No
 4	羿	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.24
-# sent_id = KR1b0001.59.24.1
+# newpar id = KR1b0001.59.23
+# sent_id = KR1b0001.59.23.1
 # text = 商書從命而不拂微諫而不倦為上則明為下則遜
 1	商	_	_	_	_	_	_	_	SpaceAfter=No
 2	書	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34170,12 +34170,12 @@
 19	則	_	_	_	_	_	_	_	SpaceAfter=No
 20	遜	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.24.2
+# sent_id = KR1b0001.59.23.2
 # text = 嗚呼
 1	嗚	_	_	_	_	_	_	_	SpaceAfter=No
 2	呼	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.24.3
+# sent_id = KR1b0001.59.23.3
 # text = 古者有夏方未有禍之時百獸貞蟲允及飛鳥莫不比方矧住人面胡敢異心
 1	古	_	_	_	_	_	_	_	SpaceAfter=No
 2	者	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34208,7 +34208,7 @@
 29	異	_	_	_	_	_	_	_	SpaceAfter=No
 30	心	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.24.4
+# sent_id = KR1b0001.59.23.4
 # text = 山川鬼神亦莫敢不寧若能共允住天下之合下土之葆
 1	山	_	_	_	_	_	_	_	SpaceAfter=No
 2	川	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34233,14 +34233,14 @@
 21	之	_	_	_	_	_	_	_	SpaceAfter=No
 22	葆	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.24.5
+# sent_id = KR1b0001.59.23.5
 # text = 湯五年旱
 1	湯	_	_	_	_	_	_	_	SpaceAfter=No
 2	五	_	_	_	_	_	_	_	SpaceAfter=No
 3	年	_	_	_	_	_	_	_	SpaceAfter=No
 4	旱	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.24.6
+# sent_id = KR1b0001.59.23.6
 # text = 刑三百罪莫重於不孝
 1	刑	_	_	_	_	_	_	_	SpaceAfter=No
 2	三	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34252,7 +34252,7 @@
 8	不	_	_	_	_	_	_	_	SpaceAfter=No
 9	孝	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.24.7
+# sent_id = KR1b0001.59.23.7
 # text = 五世之廟可以觀怪萬夫之長可以生謀
 1	五	_	_	_	_	_	_	_	SpaceAfter=No
 2	世	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34271,15 +34271,15 @@
 15	生	_	_	_	_	_	_	_	SpaceAfter=No
 16	謀	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.24.8
+# sent_id = KR1b0001.59.23.8
 # text = 以相陵懱
 1	以	_	_	_	_	_	_	_	SpaceAfter=No
 2	相	_	_	_	_	_	_	_	SpaceAfter=No
 3	陵	_	_	_	_	_	_	_	SpaceAfter=No
 4	懱	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.25
-# sent_id = KR1b0001.59.25.1
+# newpar id = KR1b0001.59.24
+# sent_id = KR1b0001.59.24.1
 # text = 周書雖有周親不如仁人
 1	周	_	_	_	_	_	_	_	SpaceAfter=No
 2	書	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34292,7 +34292,7 @@
 9	仁	_	_	_	_	_	_	_	SpaceAfter=No
 10	人	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.2
+# sent_id = KR1b0001.59.24.2
 # text = 百姓有過在予一人
 1	百	_	_	_	_	_	_	_	SpaceAfter=No
 2	姓	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34303,7 +34303,7 @@
 7	一	_	_	_	_	_	_	_	SpaceAfter=No
 8	人	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.3
+# sent_id = KR1b0001.59.24.3
 # text = 天降下民作之君作之師惟曰其助上帝寵之四方
 1	天	_	_	_	_	_	_	_	SpaceAfter=No
 2	降	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34326,7 +34326,7 @@
 19	四	_	_	_	_	_	_	_	SpaceAfter=No
 20	方	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.4
+# sent_id = KR1b0001.59.24.4
 # text = 有罪無罪惟我在天下曷敢有越厥志
 1	有	_	_	_	_	_	_	_	SpaceAfter=No
 2	罪	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34344,7 +34344,7 @@
 14	厥	_	_	_	_	_	_	_	SpaceAfter=No
 15	志	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.5
+# sent_id = KR1b0001.59.24.5
 # text = 大國畏其力小國懷其德
 1	大	_	_	_	_	_	_	_	SpaceAfter=No
 2	國	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34357,7 +34357,7 @@
 9	其	_	_	_	_	_	_	_	SpaceAfter=No
 10	德	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.6
+# sent_id = KR1b0001.59.24.6
 # text = 皇天無親惟德是輔
 1	皇	_	_	_	_	_	_	_	SpaceAfter=No
 2	天	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34368,7 +34368,7 @@
 7	是	_	_	_	_	_	_	_	SpaceAfter=No
 8	輔	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.7
+# sent_id = KR1b0001.59.24.7
 # text = 黍稷非馨明德惟馨
 1	黍	_	_	_	_	_	_	_	SpaceAfter=No
 2	稷	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34379,7 +34379,7 @@
 7	惟	_	_	_	_	_	_	_	SpaceAfter=No
 8	馨	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.8
+# sent_id = KR1b0001.59.24.8
 # text = 民不易物惟德繄物
 1	民	_	_	_	_	_	_	_	SpaceAfter=No
 2	不	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34390,7 +34390,7 @@
 7	繄	_	_	_	_	_	_	_	SpaceAfter=No
 8	物	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.9
+# sent_id = KR1b0001.59.24.9
 # text = 粵三日丁亥
 1	粵	_	_	_	_	_	_	_	SpaceAfter=No
 2	三	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34398,7 +34398,7 @@
 4	丁	_	_	_	_	_	_	_	SpaceAfter=No
 5	亥	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.10
+# sent_id = KR1b0001.59.24.10
 # text = 宮中之冘食
 1	宮	_	_	_	_	_	_	_	SpaceAfter=No
 2	中	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34406,7 +34406,7 @@
 4	冘	_	_	_	_	_	_	_	SpaceAfter=No
 5	食	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.11
+# sent_id = KR1b0001.59.24.11
 # text = 我有𢧸于西
 1	我	_	_	_	_	_	_	_	SpaceAfter=No
 2	有	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34414,14 +34414,14 @@
 4	于	_	_	_	_	_	_	_	SpaceAfter=No
 5	西	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.12
+# sent_id = KR1b0001.59.24.12
 # text = 來就惎惎
 1	來	_	_	_	_	_	_	_	SpaceAfter=No
 2	就	_	_	_	_	_	_	_	SpaceAfter=No
 3	惎	_	_	_	_	_	_	_	SpaceAfter=No
 4	惎	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.13
+# sent_id = KR1b0001.59.24.13
 # text = 國無三年之食者國非其國也家無三年之食者子非其子也
 1	國	_	_	_	_	_	_	_	SpaceAfter=No
 2	無	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34448,7 +34448,7 @@
 23	子	_	_	_	_	_	_	_	SpaceAfter=No
 24	也	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.14
+# sent_id = KR1b0001.59.24.14
 # text = 將欲敗之必姑輔之將欲取之必姑予之
 1	將	_	_	_	_	_	_	_	SpaceAfter=No
 2	欲	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34467,7 +34467,7 @@
 15	予	_	_	_	_	_	_	_	SpaceAfter=No
 16	之	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.15
+# sent_id = KR1b0001.59.24.15
 # text = 往者不可及來者不可待賢明其世謂之天子
 1	往	_	_	_	_	_	_	_	SpaceAfter=No
 2	者	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34488,7 +34488,7 @@
 17	天	_	_	_	_	_	_	_	SpaceAfter=No
 18	子	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.16
+# sent_id = KR1b0001.59.24.16
 # text = 民善之則畜也不善則讎也
 1	民	_	_	_	_	_	_	_	SpaceAfter=No
 2	善	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34502,7 +34502,7 @@
 10	讎	_	_	_	_	_	_	_	SpaceAfter=No
 11	也	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.17
+# sent_id = KR1b0001.59.24.17
 # text = 若臨深淵若履薄冰
 1	若	_	_	_	_	_	_	_	SpaceAfter=No
 2	臨	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34513,14 +34513,14 @@
 7	薄	_	_	_	_	_	_	_	SpaceAfter=No
 8	冰	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.18
+# sent_id = KR1b0001.59.24.18
 # text = 允哉允哉
 1	允	_	_	_	_	_	_	_	SpaceAfter=No
 2	哉	_	_	_	_	_	_	_	SpaceAfter=No
 3	允	_	_	_	_	_	_	_	SpaceAfter=No
 4	哉	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.19
+# sent_id = KR1b0001.59.24.19
 # text = 掩雉不得更順其風
 1	掩	_	_	_	_	_	_	_	SpaceAfter=No
 2	雉	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34531,7 +34531,7 @@
 7	其	_	_	_	_	_	_	_	SpaceAfter=No
 8	風	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.20
+# sent_id = KR1b0001.59.24.20
 # text = 上言者下用也下言者上用也
 1	上	_	_	_	_	_	_	_	SpaceAfter=No
 2	言	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34546,7 +34546,7 @@
 11	用	_	_	_	_	_	_	_	SpaceAfter=No
 12	也	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.21
+# sent_id = KR1b0001.59.24.21
 # text = 必參而伍之
 1	必	_	_	_	_	_	_	_	SpaceAfter=No
 2	參	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34554,7 +34554,7 @@
 4	伍	_	_	_	_	_	_	_	SpaceAfter=No
 5	之	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.22
+# sent_id = KR1b0001.59.24.22
 # text = 農不出則乏其食工不出則乏其事商不出則三寶絕虞不出則財匱少
 1	農	_	_	_	_	_	_	_	SpaceAfter=No
 2	不	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34585,14 +34585,14 @@
 27	匱	_	_	_	_	_	_	_	SpaceAfter=No
 28	少	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.23
+# sent_id = KR1b0001.59.24.23
 # text = 欲起無先
 1	欲	_	_	_	_	_	_	_	SpaceAfter=No
 2	起	_	_	_	_	_	_	_	SpaceAfter=No
 3	無	_	_	_	_	_	_	_	SpaceAfter=No
 4	先	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.24
+# sent_id = KR1b0001.59.24.24
 # text = 前車覆後車戒
 1	前	_	_	_	_	_	_	_	SpaceAfter=No
 2	車	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34601,7 +34601,7 @@
 5	車	_	_	_	_	_	_	_	SpaceAfter=No
 6	戒	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.25
+# sent_id = KR1b0001.59.24.25
 # text = 以左道事君者誅
 1	以	_	_	_	_	_	_	_	SpaceAfter=No
 2	左	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34611,7 +34611,7 @@
 6	者	_	_	_	_	_	_	_	SpaceAfter=No
 7	誅	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.26
+# sent_id = KR1b0001.59.24.26
 # text = 記人之功忘人之過宜為君者也
 1	記	_	_	_	_	_	_	_	SpaceAfter=No
 2	人	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34627,7 +34627,7 @@
 12	者	_	_	_	_	_	_	_	SpaceAfter=No
 13	也	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.25.27
+# sent_id = KR1b0001.59.24.27
 # text = 天子見怪則修德諸侯見怪則修政卿大夫見怪則修職士庶人見怪則修身
 1	天	_	_	_	_	_	_	_	SpaceAfter=No
 2	子	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34660,20 +34660,21 @@
 29	修	_	_	_	_	_	_	_	SpaceAfter=No
 30	身	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.26
-# sent_id = KR1b0001.59.26.1
-# text = 詳時代逸書居安思危
-1	詳	_	_	_	_	_	_	_	SpaceAfter=No
-2	時	_	_	_	_	_	_	_	SpaceAfter=No
-3	代	_	_	_	_	_	_	_	SpaceAfter=No
-4	逸	_	_	_	_	_	_	_	SpaceAfter=No
-5	書	_	_	_	_	_	_	_	SpaceAfter=No
-6	居	_	_	_	_	_	_	_	SpaceAfter=No
-7	安	_	_	_	_	_	_	_	SpaceAfter=No
-8	思	_	_	_	_	_	_	_	SpaceAfter=No
-9	危	_	_	_	_	_	_	_	SpaceAfter=No
+# newpar id = KR1b0001.59.25
+# sent_id = KR1b0001.59.25.1
+# text = 未詳時代逸書居安思危
+1	未	_	_	_	_	_	_	_	SpaceAfter=No
+2	詳	_	_	_	_	_	_	_	SpaceAfter=No
+3	時	_	_	_	_	_	_	_	SpaceAfter=No
+4	代	_	_	_	_	_	_	_	SpaceAfter=No
+5	逸	_	_	_	_	_	_	_	SpaceAfter=No
+6	書	_	_	_	_	_	_	_	SpaceAfter=No
+7	居	_	_	_	_	_	_	_	SpaceAfter=No
+8	安	_	_	_	_	_	_	_	SpaceAfter=No
+9	思	_	_	_	_	_	_	_	SpaceAfter=No
+10	危	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.2
+# sent_id = KR1b0001.59.25.2
 # text = 聖有謨勳明徵定保
 1	聖	_	_	_	_	_	_	_	SpaceAfter=No
 2	有	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34684,13 +34685,13 @@
 7	定	_	_	_	_	_	_	_	SpaceAfter=No
 8	保	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.3
+# sent_id = KR1b0001.59.25.3
 # text = 聖作則
 1	聖	_	_	_	_	_	_	_	SpaceAfter=No
 2	作	_	_	_	_	_	_	_	SpaceAfter=No
 3	則	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.4
+# sent_id = KR1b0001.59.25.4
 # text = 欲敗度縱敗禮
 1	欲	_	_	_	_	_	_	_	SpaceAfter=No
 2	敗	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34699,7 +34700,7 @@
 5	敗	_	_	_	_	_	_	_	SpaceAfter=No
 6	禮	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.5
+# sent_id = KR1b0001.59.25.5
 # text = 孝乎惟孝友于兄弟施於有政
 1	孝	_	_	_	_	_	_	_	SpaceAfter=No
 2	乎	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34714,7 +34715,7 @@
 11	有	_	_	_	_	_	_	_	SpaceAfter=No
 12	政	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.6
+# sent_id = KR1b0001.59.25.6
 # text = 厥辟不辟忝厥祖
 1	厥	_	_	_	_	_	_	_	SpaceAfter=No
 2	辟	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34724,7 +34725,7 @@
 6	厥	_	_	_	_	_	_	_	SpaceAfter=No
 7	祖	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.7
+# sent_id = KR1b0001.59.25.7
 # text = 丕顯哉文王謨
 1	丕	_	_	_	_	_	_	_	SpaceAfter=No
 2	顯	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34733,7 +34734,7 @@
 5	王	_	_	_	_	_	_	_	SpaceAfter=No
 6	謨	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.8
+# sent_id = KR1b0001.59.25.8
 # text = 丕承哉武王烈
 1	丕	_	_	_	_	_	_	_	SpaceAfter=No
 2	承	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34742,7 +34743,7 @@
 5	王	_	_	_	_	_	_	_	SpaceAfter=No
 6	烈	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.9
+# sent_id = KR1b0001.59.25.9
 # text = 佑啟我後人咸以正無缺
 1	佑	_	_	_	_	_	_	_	SpaceAfter=No
 2	啟	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34755,7 +34756,7 @@
 9	無	_	_	_	_	_	_	_	SpaceAfter=No
 10	缺	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.10
+# sent_id = KR1b0001.59.25.10
 # text = 有攸不惟臣東征綏厥士女篚厥玄黃紹我周王見休惟臣附于大邑周
 1	有	_	_	_	_	_	_	_	SpaceAfter=No
 2	攸	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34786,7 +34787,7 @@
 27	邑	_	_	_	_	_	_	_	SpaceAfter=No
 28	周	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.11
+# sent_id = KR1b0001.59.25.11
 # text = 必有忍也若能有濟也
 1	必	_	_	_	_	_	_	_	SpaceAfter=No
 2	有	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34798,7 +34799,7 @@
 8	濟	_	_	_	_	_	_	_	SpaceAfter=No
 9	也	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.12
+# sent_id = KR1b0001.59.25.12
 # text = 民可近也而不可上也
 1	民	_	_	_	_	_	_	_	SpaceAfter=No
 2	可	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34810,7 +34811,7 @@
 8	上	_	_	_	_	_	_	_	SpaceAfter=No
 9	也	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.13
+# sent_id = KR1b0001.59.25.13
 # text = 先時者殺無赦不逮時者殺無赦
 1	先	_	_	_	_	_	_	_	SpaceAfter=No
 2	時	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34826,21 +34827,21 @@
 12	無	_	_	_	_	_	_	_	SpaceAfter=No
 13	赦	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.14
+# sent_id = KR1b0001.59.25.14
 # text = 德幾無小
 1	德	_	_	_	_	_	_	_	SpaceAfter=No
 2	幾	_	_	_	_	_	_	_	SpaceAfter=No
 3	無	_	_	_	_	_	_	_	SpaceAfter=No
 4	小	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.15
+# sent_id = KR1b0001.59.25.15
 # text = 紳之束之
 1	紳	_	_	_	_	_	_	_	SpaceAfter=No
 2	之	_	_	_	_	_	_	_	SpaceAfter=No
 3	束	_	_	_	_	_	_	_	SpaceAfter=No
 4	之	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.16
+# sent_id = KR1b0001.59.25.16
 # text = 既雕既琢還歸其樸
 1	既	_	_	_	_	_	_	_	SpaceAfter=No
 2	雕	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34851,7 +34852,7 @@
 7	其	_	_	_	_	_	_	_	SpaceAfter=No
 8	樸	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.17
+# sent_id = KR1b0001.59.25.17
 # text = 樹德莫如滋除害莫如盡
 1	樹	_	_	_	_	_	_	_	SpaceAfter=No
 2	德	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34864,7 +34865,7 @@
 9	如	_	_	_	_	_	_	_	SpaceAfter=No
 10	盡	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.18
+# sent_id = KR1b0001.59.25.18
 # text = 去邪無疑任賢無貳
 1	去	_	_	_	_	_	_	_	SpaceAfter=No
 2	邪	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34875,7 +34876,7 @@
 7	無	_	_	_	_	_	_	_	SpaceAfter=No
 8	貳	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.19
+# sent_id = KR1b0001.59.25.19
 # text = 成功之下不可久處
 1	成	_	_	_	_	_	_	_	SpaceAfter=No
 2	功	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34886,7 +34887,7 @@
 7	久	_	_	_	_	_	_	_	SpaceAfter=No
 8	處	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.20
+# sent_id = KR1b0001.59.25.20
 # text = 恃德者昌恃力者亡
 1	恃	_	_	_	_	_	_	_	SpaceAfter=No
 2	德	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34897,13 +34898,13 @@
 7	者	_	_	_	_	_	_	_	SpaceAfter=No
 8	亡	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.21
+# sent_id = KR1b0001.59.25.21
 # text = 裕汝眾
 1	裕	_	_	_	_	_	_	_	SpaceAfter=No
 2	汝	_	_	_	_	_	_	_	SpaceAfter=No
 3	眾	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.22
+# sent_id = KR1b0001.59.25.22
 # text = 太社唯松東社唯柏南社唯梓西社唯栗北社唯槐
 1	太	_	_	_	_	_	_	_	SpaceAfter=No
 2	社	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34926,7 +34927,7 @@
 19	唯	_	_	_	_	_	_	_	SpaceAfter=No
 20	槐	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.23
+# sent_id = KR1b0001.59.25.23
 # text = 三年一考少黜以地
 1	三	_	_	_	_	_	_	_	SpaceAfter=No
 2	年	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34937,13 +34938,13 @@
 7	以	_	_	_	_	_	_	_	SpaceAfter=No
 8	地	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.24
+# sent_id = KR1b0001.59.25.24
 # text = 咨爾伯
 1	咨	_	_	_	_	_	_	_	SpaceAfter=No
 2	爾	_	_	_	_	_	_	_	SpaceAfter=No
 3	伯	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.25
+# sent_id = KR1b0001.59.25.25
 # text = 黼黻衣黃朱紼
 1	黼	_	_	_	_	_	_	_	SpaceAfter=No
 2	黻	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34952,7 +34953,7 @@
 5	朱	_	_	_	_	_	_	_	SpaceAfter=No
 6	紼	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.26.26
+# sent_id = KR1b0001.59.25.26
 # text = 慎始而敬終終以不困
 1	慎	_	_	_	_	_	_	_	SpaceAfter=No
 2	始	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34964,18 +34965,19 @@
 8	不	_	_	_	_	_	_	_	SpaceAfter=No
 9	困	_	_	_	_	_	_	_	SpaceAfter=No
 
-# newpar id = KR1b0001.59.27
-# sent_id = KR1b0001.59.27.1
-# text = 逸書堯曰咨爾舜
-1	逸	_	_	_	_	_	_	_	SpaceAfter=No
-2	書	_	_	_	_	_	_	_	SpaceAfter=No
-3	堯	_	_	_	_	_	_	_	SpaceAfter=No
-4	曰	_	_	_	_	_	_	_	SpaceAfter=No
-5	咨	_	_	_	_	_	_	_	SpaceAfter=No
-6	爾	_	_	_	_	_	_	_	SpaceAfter=No
-7	舜	_	_	_	_	_	_	_	SpaceAfter=No
+# newpar id = KR1b0001.59.26
+# sent_id = KR1b0001.59.26.1
+# text = 疑逸書堯曰咨爾舜
+1	疑	_	_	_	_	_	_	_	SpaceAfter=No
+2	逸	_	_	_	_	_	_	_	SpaceAfter=No
+3	書	_	_	_	_	_	_	_	SpaceAfter=No
+4	堯	_	_	_	_	_	_	_	SpaceAfter=No
+5	曰	_	_	_	_	_	_	_	SpaceAfter=No
+6	咨	_	_	_	_	_	_	_	SpaceAfter=No
+7	爾	_	_	_	_	_	_	_	SpaceAfter=No
+8	舜	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.2
+# sent_id = KR1b0001.59.26.2
 # text = 天之歷數在爾躬允執其中
 1	天	_	_	_	_	_	_	_	SpaceAfter=No
 2	之	_	_	_	_	_	_	_	SpaceAfter=No
@@ -34989,7 +34991,7 @@
 10	其	_	_	_	_	_	_	_	SpaceAfter=No
 11	中	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.3
+# sent_id = KR1b0001.59.26.3
 # text = 四海困窮天祿永終
 1	四	_	_	_	_	_	_	_	SpaceAfter=No
 2	海	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35000,7 +35002,7 @@
 7	永	_	_	_	_	_	_	_	SpaceAfter=No
 8	終	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.4
+# sent_id = KR1b0001.59.26.4
 # text = 放勳曰勞之來之匡之直之輔之翼之使自得之又從而振德之
 1	放	_	_	_	_	_	_	_	SpaceAfter=No
 2	勳	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35028,7 +35030,7 @@
 24	德	_	_	_	_	_	_	_	SpaceAfter=No
 25	之	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.5
+# sent_id = KR1b0001.59.26.5
 # text = 舜往于田號泣于旻天
 1	舜	_	_	_	_	_	_	_	SpaceAfter=No
 2	往	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35040,7 +35042,7 @@
 8	旻	_	_	_	_	_	_	_	SpaceAfter=No
 9	天	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.6
+# sent_id = KR1b0001.59.26.6
 # text = 帝使其子九男二女百官牛羊倉廩備以事舜於畎畝之中
 1	帝	_	_	_	_	_	_	_	SpaceAfter=No
 2	使	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35066,7 +35068,7 @@
 22	之	_	_	_	_	_	_	_	SpaceAfter=No
 23	中	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.7
+# sent_id = KR1b0001.59.26.7
 # text = 父母使舜完廩捐階瞽瞍焚廩
 1	父	_	_	_	_	_	_	_	SpaceAfter=No
 2	母	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35081,7 +35083,7 @@
 11	焚	_	_	_	_	_	_	_	SpaceAfter=No
 12	廩	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.8
+# sent_id = KR1b0001.59.26.8
 # text = 使浚井出從而揜之
 1	使	_	_	_	_	_	_	_	SpaceAfter=No
 2	浚	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35092,7 +35094,7 @@
 7	揜	_	_	_	_	_	_	_	SpaceAfter=No
 8	之	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.9
+# sent_id = KR1b0001.59.26.9
 # text = 象曰謨蓋都君咸我績
 1	象	_	_	_	_	_	_	_	SpaceAfter=No
 2	曰	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35104,7 +35106,7 @@
 8	我	_	_	_	_	_	_	_	SpaceAfter=No
 9	績	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.10
+# sent_id = KR1b0001.59.26.10
 # text = 牛羊父母倉廩父母干戈朕琴朕弤朕二嫂使治朕棲
 1	牛	_	_	_	_	_	_	_	SpaceAfter=No
 2	羊	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35128,7 +35130,7 @@
 20	朕	_	_	_	_	_	_	_	SpaceAfter=No
 21	棲	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.11
+# sent_id = KR1b0001.59.26.11
 # text = 象往入舜宮舜在床琴
 1	象	_	_	_	_	_	_	_	SpaceAfter=No
 2	往	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35140,7 +35142,7 @@
 8	床	_	_	_	_	_	_	_	SpaceAfter=No
 9	琴	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.12
+# sent_id = KR1b0001.59.26.12
 # text = 象曰鬱陶思君爾
 1	象	_	_	_	_	_	_	_	SpaceAfter=No
 2	曰	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35150,12 +35152,12 @@
 6	君	_	_	_	_	_	_	_	SpaceAfter=No
 7	爾	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.13
+# sent_id = KR1b0001.59.26.13
 # text = 忸怩
 1	忸	_	_	_	_	_	_	_	SpaceAfter=No
 2	怩	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.14
+# sent_id = KR1b0001.59.26.14
 # text = 舜曰惟茲臣庶汝其于予治
 1	舜	_	_	_	_	_	_	_	SpaceAfter=No
 2	曰	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35169,7 +35171,7 @@
 10	予	_	_	_	_	_	_	_	SpaceAfter=No
 11	治	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.15
+# sent_id = KR1b0001.59.26.15
 # text = 欲常常而見之故源源而來不及貢以政接于有庳
 1	欲	_	_	_	_	_	_	_	SpaceAfter=No
 2	常	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35192,7 +35194,7 @@
 19	有	_	_	_	_	_	_	_	SpaceAfter=No
 20	庳	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.16
+# sent_id = KR1b0001.59.26.16
 # text = 伊尹曰予不狎于不順
 1	伊	_	_	_	_	_	_	_	SpaceAfter=No
 2	尹	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35204,14 +35206,14 @@
 8	不	_	_	_	_	_	_	_	SpaceAfter=No
 9	順	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.17
+# sent_id = KR1b0001.59.26.17
 # text = 王曰無畏
 1	王	_	_	_	_	_	_	_	SpaceAfter=No
 2	曰	_	_	_	_	_	_	_	SpaceAfter=No
 3	無	_	_	_	_	_	_	_	SpaceAfter=No
 4	畏	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.18
+# sent_id = KR1b0001.59.26.18
 # text = 寧爾也非敵百姓也
 1	寧	_	_	_	_	_	_	_	SpaceAfter=No
 2	爾	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35222,7 +35224,7 @@
 7	姓	_	_	_	_	_	_	_	SpaceAfter=No
 8	也	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.19
+# sent_id = KR1b0001.59.26.19
 # text = 若崩厥角稽首
 1	若	_	_	_	_	_	_	_	SpaceAfter=No
 2	崩	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35231,7 +35233,7 @@
 5	稽	_	_	_	_	_	_	_	SpaceAfter=No
 6	首	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.20
+# sent_id = KR1b0001.59.26.20
 # text = 禹曰濟濟有眾咸聽朕言
 1	禹	_	_	_	_	_	_	_	SpaceAfter=No
 2	曰	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35244,7 +35246,7 @@
 9	朕	_	_	_	_	_	_	_	SpaceAfter=No
 10	言	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.21
+# sent_id = KR1b0001.59.26.21
 # text = 非惟小子敢行稱亂蠢茲有苗用天之罰
 1	非	_	_	_	_	_	_	_	SpaceAfter=No
 2	惟	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35263,7 +35265,7 @@
 15	之	_	_	_	_	_	_	_	SpaceAfter=No
 16	罰	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.22
+# sent_id = KR1b0001.59.26.22
 # text = 若予既率爾群對諸群以征有苗
 1	若	_	_	_	_	_	_	_	SpaceAfter=No
 2	予	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35279,7 +35281,7 @@
 12	有	_	_	_	_	_	_	_	SpaceAfter=No
 13	苗	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.23
+# sent_id = KR1b0001.59.26.23
 # text = 允不著惟天民不而葆
 1	允	_	_	_	_	_	_	_	SpaceAfter=No
 2	不	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35291,7 +35293,7 @@
 8	而	_	_	_	_	_	_	_	SpaceAfter=No
 9	葆	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.24
+# sent_id = KR1b0001.59.26.24
 # text = 既防凶心天加之咎
 1	既	_	_	_	_	_	_	_	SpaceAfter=No
 2	防	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35302,7 +35304,7 @@
 7	之	_	_	_	_	_	_	_	SpaceAfter=No
 8	咎	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.25
+# sent_id = KR1b0001.59.26.25
 # text = 不慎厥德天命焉葆
 1	不	_	_	_	_	_	_	_	SpaceAfter=No
 2	慎	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35313,7 +35315,7 @@
 7	焉	_	_	_	_	_	_	_	SpaceAfter=No
 8	葆	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.26
+# sent_id = KR1b0001.59.26.26
 # text = 其恆舞於宮是謂巫風
 1	其	_	_	_	_	_	_	_	SpaceAfter=No
 2	恆	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35325,7 +35327,7 @@
 8	巫	_	_	_	_	_	_	_	SpaceAfter=No
 9	風	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.27
+# sent_id = KR1b0001.59.26.27
 # text = 其刑君子出絲二衛小人否
 1	其	_	_	_	_	_	_	_	SpaceAfter=No
 2	刑	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35339,7 +35341,7 @@
 10	人	_	_	_	_	_	_	_	SpaceAfter=No
 11	否	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.28
+# sent_id = KR1b0001.59.26.28
 # text = 似二伯黃徑
 1	似	_	_	_	_	_	_	_	SpaceAfter=No
 2	二	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35347,7 +35349,7 @@
 4	黃	_	_	_	_	_	_	_	SpaceAfter=No
 5	徑	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.29
+# sent_id = KR1b0001.59.26.29
 # text = 乃言曰嗚呼
 1	乃	_	_	_	_	_	_	_	SpaceAfter=No
 2	言	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35355,7 +35357,7 @@
 4	嗚	_	_	_	_	_	_	_	SpaceAfter=No
 5	呼	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.30
+# sent_id = KR1b0001.59.26.30
 # text = 舞佯佯黃言孔章
 1	舞	_	_	_	_	_	_	_	SpaceAfter=No
 2	佯	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35365,7 +35367,7 @@
 6	孔	_	_	_	_	_	_	_	SpaceAfter=No
 7	章	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.31
+# sent_id = KR1b0001.59.26.31
 # text = 上帝弗常九有以亡
 1	上	_	_	_	_	_	_	_	SpaceAfter=No
 2	帝	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35376,7 +35378,7 @@
 7	以	_	_	_	_	_	_	_	SpaceAfter=No
 8	亡	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.32
+# sent_id = KR1b0001.59.26.32
 # text = 上帝不順降之百𦍲其家必壞喪
 1	上	_	_	_	_	_	_	_	SpaceAfter=No
 2	帝	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35392,7 +35394,7 @@
 12	壞	_	_	_	_	_	_	_	SpaceAfter=No
 13	喪	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.33
+# sent_id = KR1b0001.59.26.33
 # text = 晞夫聖武知人以屏輔而身
 1	晞	_	_	_	_	_	_	_	SpaceAfter=No
 2	夫	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35406,7 +35408,7 @@
 10	而	_	_	_	_	_	_	_	SpaceAfter=No
 11	身	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.34
+# sent_id = KR1b0001.59.26.34
 # text = 夫建國設都乃作后王君公否用泰也
 1	夫	_	_	_	_	_	_	_	SpaceAfter=No
 2	建	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35424,7 +35426,7 @@
 14	泰	_	_	_	_	_	_	_	SpaceAfter=No
 15	也	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.35
+# sent_id = KR1b0001.59.26.35
 # text = 輕大夫師長否用佚也
 1	輕	_	_	_	_	_	_	_	SpaceAfter=No
 2	大	_	_	_	_	_	_	_	SpaceAfter=No
@@ -35436,7 +35438,7 @@
 8	佚	_	_	_	_	_	_	_	SpaceAfter=No
 9	也	_	_	_	_	_	_	_	SpaceAfter=No
 
-# sent_id = KR1b0001.59.27.36
+# sent_id = KR1b0001.59.26.36
 # text = 維辯使治天均
 1	維	_	_	_	_	_	_	_	SpaceAfter=No
 2	辯	_	_	_	_	_	_	_	SpaceAfter=No

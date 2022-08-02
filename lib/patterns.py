@@ -95,7 +95,7 @@ PARAGRAPH_NUMBER = re.compile(
     r"""
     ^(?P<number>        # always at start of a line
     \d+(?:[.．]\d+)+    # 1, 1.2, 10.8.4, etc.
-    ).?                 # ignore trailing period
+    )\.?                # ignore trailing period
 """,
     re.VERBOSE | re.MULTILINE,
 )
