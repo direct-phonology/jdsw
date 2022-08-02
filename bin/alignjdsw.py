@@ -5,85 +5,59 @@ import sys
 from pathlib import Path
 
 import typer
+import pyconll
+
+from lib.util import fuzzy_find
 
 
-def main(jdsw_file: Path, sbck_file: Path, overwrite: bool = False) -> None:
+def main(zhengwen_file: Path, jdsw_file: Path, overwrite: bool = False) -> None:
     """
-    Compare the JDSW edition of a text with the SBCK edition of the same text.
-
-    Annotations in the JDSW edition that correspond to the source text in the
-    SBCK edition are noted as 'source', while those that correspond to the
-    commentary are noted as 'commentary' in a new column. Annotations that don't
-    appear to map onto anywhere in the SBCK edition will have a blank. Output
-    is written to stdout or, optionally, to overwrite the JDSW input file.
+    TODO: write this
 
     $ alignjdsw jdsw/gongyang/001.csv sbck/gongyang/001.csv --overwrite
     """
+
+    MAX_STACK_DEPTH = 5
+
+    zhengwen = pyconll.load_from_file(zhengwen_file)
 
     # read JDSW edition into list of target:annotation tuples
     with open(jdsw_file, encoding="utf-8") as f:
         reader = csv.DictReader(f)
         jdsw = [tuple(row.values()) for row in reader]
 
-    # read SBCK edition into list of source:commentary tuples and original text
-    with open(sbck_file, encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        sbck = [tuple(row.values()) for row in reader]
-        sbck_text = "".join(["".join(row[:2]) for row in sbck])
 
-    # construct a map of the SBCK edition where each character index is mapped
-    # to a boolean indicating whether that character is in the source text
-    sbck_map = []
-    for source, commentary, *extra in sbck:
-        sbck_map += [True for c in source]
-        sbck_map += [False for c in commentary]
-    assert len(sbck_map) == len(sbck_text)
+    phrase_ptr = 0
+    sentence_ptr = 0
+    text_ptr = 0
+    min_sentence_ptr = 0
 
-    # use a pointer into the full SBCK text to find the next possible place an
-    # annotation from the JDSW could apply. note whether it appears in the
-    # source, commentary, or isn't found at all.
-    output: list[dict[str, str]] = []
-    pointer = 0
-    for target, annotation, *extra in jdsw:
-        remaining = sbck_text[pointer:]
-        location = remaining.find(target)
-        if location == -1:  # not found
-            output.append(
-                {
-                    "source": target,
-                    "commentary": annotation,
-                    "location": "unknown",
-                }
-            )
-        else:
-            if sbck_map[pointer + location] is True:  # in source
-                output.append(
-                    {
-                        "source": target,
-                        "commentary": annotation,
-                        "location": "source",
-                    }
-                )
-            else:  # in commentary
-                output.append(
-                    {
-                        "source": target,
-                        "commentary": annotation,
-                        "location": "commentary",
-                    }
-                )
-            pointer = pointer + location + len(target)
+    # FIXME we're advancing the phrase pointer 
+    while phrase_ptr < len(jdsw):
+        phrase, annotation, *extra = jdsw[phrase_ptr]
+        found = False
+        sentence = zhengwen[sentence_ptr]
+        while int(sentence.id.split(".")[1]) == 1:
+            sentence = zhengwen[sentence_ptr]
+            while text_ptr < len(sentence.text):
+                loc = fuzzy_find(phrase, sentence.text[text_ptr:])
+                if loc == -1:
+                    sentence_ptr += 1
+                    break
+                else:
+                    found = True
+                    print(f"found {phrase}: in {sentence.text} ({sentence.id}.{text_ptr + loc}-{text_ptr + loc + len(phrase)})")
+                    text_ptr += (loc + len(phrase))
+                    phrase_ptr += 1
+                    phrase, annotation, *extra = jdsw[phrase_ptr]
+                    min_sentence_ptr = sentence_ptr
+            text_ptr = 0
+        sentence_ptr = min_sentence_ptr
+        if not found:
+            phrase_ptr += 1
+            print(f"{phrase} not found")
 
-    # overwrite input JDSW file if requested, otherwise write to stdout
-    if overwrite:
-        with open(jdsw_file, "w", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=["source", "commentary", "location"])
-    else:
-        writer = csv.DictWriter(
-            sys.stdout, fieldnames=["source", "commentary", "location"]
-        )
-    writer.writeheader()
-    writer.writerows(output)
+    return zhengwen
 
 
 if __name__ == "__main__":
