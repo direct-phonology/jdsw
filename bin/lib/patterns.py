@@ -78,11 +78,12 @@ META_HEADER = re.compile(
 # headers within a file that indicate the current chapter, ex.:
 # "** 1 天官冢宰"
 # "** 19 《子張篇第十九》"
+# "** 《乾第一》"
 CHAPTER_HEADER = re.compile(
     r"""
     ^[*]{2}\s               
-    (?P<number>\d+)\s
-    《?(?P<title>.+)》?    # strips 《》
+    (?:(?P<number>\d+)\s)?  # optional chapter number
+    《?(?P<title>.+)》?      # strips 《》 around chapter title
     $
 """,
     re.VERBOSE | re.MULTILINE,
