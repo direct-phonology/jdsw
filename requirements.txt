@@ -3,3 +3,4 @@ typer
 tqdm
 spacy
 spacy-och
+fastcore
