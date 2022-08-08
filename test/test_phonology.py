@@ -107,7 +107,7 @@ class TestReconstruction(TestCase):
         )
         self.assertEqual(rc.initial_for("東"), "t")
 
-    def test_initial_for_rhmying_polyphone(self):
+    def test_initial_for_rhyming_polyphone(self):
         """returns the initial for a character with multiple rimes"""
         rc = Reconstruction(
             pd.DataFrame.from_dict(
