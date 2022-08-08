@@ -23,8 +23,8 @@ FANQIE = re.compile(r"""
     $
 """, re.VERBOSE | re.MULTILINE)
 
-# "yin" annotations (character that reads the same as another character)
-YIN = re.compile(r"""
+# duruo annotations (character that reads the same as another character)
+DURUO = re.compile(r"""
     ^
     (?P<char>.)             # character being annotated
     \t
@@ -49,7 +49,7 @@ KR_ENTITY = re.compile(r"""
 EMPTY_ANNO = re.compile(r"^(?P<char>.)\t_$", re.MULTILINE)
 
 # types of annotations we're able to transform automatically
-WHITELIST = (FANQIE, YIN)
+WHITELIST = (FANQIE, DURUO)
 
 # indicator for missing data/annotation
 BLANK = "_"

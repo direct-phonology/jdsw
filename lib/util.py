@@ -9,7 +9,7 @@ from .patterns import (
     BLANK,
     EMPTY_ANNO,
     FANQIE,
-    YIN,
+    DURUO,
     KR_ENTITY,
     MODE_HEADER,
     META_HEADER,
@@ -187,8 +187,8 @@ def convert_fanqie(text: str, rc: Reconstruction, stats: dict) -> str:
     return FANQIE.sub(_convert, text)
 
 
-def convert_yin(text: str, rc: Reconstruction, stats: dict) -> str:
-    """Convert yin annotations into Middle Chinese transcriptions."""
+def convert_duruo(text: str, rc: Reconstruction, stats: dict) -> str:
+    """Convert duruo annotations into Middle Chinese transcriptions."""
 
     def _convert(annotation: re.Match) -> str:
         try:
@@ -198,7 +198,7 @@ def convert_yin(text: str, rc: Reconstruction, stats: dict) -> str:
             stats["errors"][str(e)] += 1
             return f"{annotation.group('char')}\t{BLANK}"
 
-    return YIN.sub(_convert, text)
+    return DURUO.sub(_convert, text)
 
 
 def augment_annotations(text: str, rc: Reconstruction, stats: dict) -> str:
