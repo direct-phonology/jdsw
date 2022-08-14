@@ -1,3 +1,14 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 春秋左傳
+#+DATE: 2016-08-10 10:06:43
+#+PROPERTY: ID KR1e0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 3
+#+PROPERTY: CAT 1pre-han,經學典籍,春秋類
+
+# src: ZUO Min 1.1 (661 B.C.); Ya2ng Bo2ju4n 256; Wa2ng Sho3uqia1n et al. 175; tr. Legge 124
+# dating: 8120
+<pb:KR1e0001_tls_004-1a>¶
 ** 4 閔公
 
 A4.1《閔公元年經》
@@ -651,3 +662,4 @@ B4.2.10衛文公大布之衣、¶
 革車三十乘；¶
 季年，¶
 乃三百乘。
+

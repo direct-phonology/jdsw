@@ -1,3 +1,14 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 春秋左傳
+#+DATE: 2016-08-10 10:06:43
+#+PROPERTY: ID KR1e0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 1
+#+PROPERTY: CAT 1pre-han,經學典籍,春秋類
+
+# src: ZUO Huan 1.1 (711 B.C.); Y.i2; Wa2ng Sho3uqia1n et al. 57; tr. Legge 36
+# dating: 8120
+<pb:KR1e0001_tls_002-1a>¶
 ** 2 桓公
 
 A2.1《桓公元年經》
@@ -2219,3 +2230,4 @@ B2.18.3周公欲弒莊王
 亂之本也。」¶
 周公弗從，¶
 故及。
+

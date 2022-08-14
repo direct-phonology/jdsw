@@ -1,3 +1,14 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 春秋左傳
+#+DATE: 2016-08-10 10:06:43
+#+PROPERTY: ID KR1e0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 2
+#+PROPERTY: CAT 1pre-han,經學典籍,春秋類
+
+# src: ZUO Zhuang 1.1 (693 B.C.); Ya2ng Bo2ju4n 157; Wa2ng Sho3uqia1n et al. 111; tr. Legge 73
+# dating: 8120
+<pb:KR1e0001_tls_003-1a>¶
 ** 3 莊公
 
 A3.1《莊公元年經》
@@ -2851,3 +2862,4 @@ B3.32.5八月癸亥，¶
 使圉人犖
 賊子般于黨氏。¶
 成季奔陳。立閔公。
+
