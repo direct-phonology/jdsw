@@ -37,6 +37,11 @@ def smooth_annotations(text: str) -> str:
     return text.replace(")(", "").replace("/", "")
 
 
+@Transform
+def remove_xml_tags(xml: ET.Element) -> str:
+    return ET.tostring(xml, encoding="unicode", method="text")
+
+
 class KanripoUnicode(Transform):
     def __init__(self) -> None:
         reader = csv.DictReader(open("data/kr-unicode.csv", encoding="utf-8"))
@@ -52,26 +57,6 @@ class KanripoUnicode(Transform):
     def _encode(self, match: re.Match) -> str:
         text = match.group(1) or match.group(2)
         return self.encoder.get(text, text)
-
-
-class KanripoTeiXml(Transform):
-    ns = {
-        "tei": "http://www.tei-c.org/ns/1.0",
-        "xml": "http://www.w3.org/XML/1998/namespace",
-    }
-
-    def __init__(self, header: bool = False) -> None:
-        self.header = header
-
-    def encodes(self, text: str) -> str:
-        tei = ET.fromstring(text)
-        if self.header:
-            return ET.tostring(tei, encoding="unicode", method="text")
-        else:
-            body = tei.find("./tei:text/tei:body", self.ns)
-            if not body:
-                raise ValueError("No <body> found in TEI XML")
-            return ET.tostring(body, encoding="unicode", method="text")
 
 
 class SplitAnnotations(Transform):
