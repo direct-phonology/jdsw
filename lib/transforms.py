@@ -37,7 +37,7 @@ def smooth_annotations(text: str) -> str:
 
 
 class KanripoUnicode(Transform):
-    def setups(self, _context: dict = {}) -> None:
+    def __init__(self) -> None:
         reader = csv.DictReader(open("data/kr-unicode.csv", encoding="utf-8"))
         self.encoder = dict(((row["form"], row["unicode"]) for row in reader))
         self.decoder = str.maketrans(dict(((v, k) for k, v in self.encoder.items())))
@@ -63,8 +63,10 @@ class SplitAnnotations(Transform):
 
 
 class SplitSentences(Transform):
-    def setups(self, context: dict = {}) -> None:
-        self.nlp = context.get("model", spacy.blank("och"))
+    def __init__(self, nlp: spacy.Language, lang: str = None) -> None:
+        if not nlp and not lang:
+            raise ValueError("A model or language code must be provided")
+        self.nlp = nlp or spacy.blank(lang)  # type: ignore
 
     def encodes(self, text: str) -> list:
         return [sent.text for sent in self.nlp(text).sents]
@@ -74,8 +76,10 @@ class SplitSentences(Transform):
 
 
 class RemovePunctuation(Transform):
-    def setups(self, context: dict = {}) -> None:
-        self.nlp = context.get("model", spacy.blank("och"))
+    def __init__(self, nlp: spacy.Language, lang: str = None) -> None:
+        if not nlp and not lang:
+            raise ValueError("A model or language code must be provided")
+        self.nlp = nlp or spacy.blank(lang)  # type: ignore
 
     def encodes(self, text: str) -> str:
         return "".join([tok.text for tok in self.nlp(text) if not tok.is_punct])
