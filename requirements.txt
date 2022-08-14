@@ -4,3 +4,4 @@ tqdm
 spacy
 spacy-och
 fastcore
+torch
