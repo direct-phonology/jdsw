@@ -1,91 +1,88 @@
 import csv
-import itertools
 import re
-from xml.etree import ElementTree as ET
 
-import spacy
 from fastcore.transform import Transform
 
-
-@Transform
-def remove_comments(text: str) -> str:
-    return re.sub(r"^#.+", "", text, flags=re.MULTILINE)
+from lib.documents import KanripoDoc
 
 
-@Transform
-def remove_page_breaks(text: str) -> str:
-    return re.sub(r"<pb:(?:.+)>", "", text)
+class DocTextTransform(Transform):
+    def encodes(self, doc: KanripoDoc) -> KanripoDoc:
+        doc.text = self.encodes(doc.text)  # type: ignore[assignment,arg-type]
+        return doc
 
 
-@Transform
-def remove_pilcrows(text: str) -> str:
-    return text.replace("¶", "")
+class DocMetaTransform(Transform):
+    key: str
+
+    def encodes(self, doc: KanripoDoc) -> KanripoDoc:
+        text, value = self.encodes(doc.text)  # type: ignore[assignment,arg-type]
+        doc.text = text
+        doc.meta[self.key] = value
+        return doc
 
 
-@Transform
-def remove_empty_lines(text: str) -> str:
-    return re.sub(r"\n{2,}", "\n", text).strip()
+class RemoveComments(DocTextTransform):
+    comment_re = re.compile(r"^#.+", flags=re.MULTILINE)
+
+    def encodes(self, text: str) -> str:  # type: ignore[override]
+        return self.comment_re.sub("", text)
 
 
-@Transform
-def remove_whitespace(text: str) -> str:
-    return "".join(text.split())
+class RemovePageBreaks(DocTextTransform):
+    pb_re = re.compile(r"<pb:(?:.+)>")
+
+    def encodes(self, text: str) -> str:  # type: ignore[override]
+        return self.pb_re.sub("", text)
 
 
-@Transform
-def smooth_annotations(text: str) -> str:
-    return text.replace(")(", "").replace("/", "")
+class RemoveWhitespace(DocTextTransform):
+    def encodes(self, text: str) -> str:  # type: ignore[override]
+        return "".join(text.split())
 
 
-@Transform
-def remove_xml_tags(xml: ET.Element) -> str:
-    return ET.tostring(xml, encoding="unicode", method="text")
+class RemoveChars(DocTextTransform):
+    def __init__(self, chars: str) -> None:
+        self.encoder = str.maketrans(dict((c, "") for c in chars))
+
+    def encodes(self, text: str) -> str:  # type: ignore[override]
+        return str.translate(text, self.encoder)
 
 
-class KanripoUnicode(Transform):
+class HealAnnotations(DocTextTransform):
+    def encodes(self, text: str) -> str:  # type: ignore[override]
+        return text.replace(")(", "").replace("/", "")
+
+
+class KanripoUnicode(DocTextTransform):
+    entity_re = re.compile(r"&(KR\d+);|(\[.+?\])")
+
     def __init__(self) -> None:
         reader = csv.DictReader(open("data/kr-unicode.csv", encoding="utf-8"))
         self.encoder = dict(((row["form"], row["unicode"]) for row in reader))
-        self.decoder = str.maketrans(dict(((v, k) for k, v in self.encoder.items())))
 
-    def encodes(self, text: str) -> str:
-        return re.sub(r"&(KR\d+);|(\[.+?\])", self._encode, text)
+    def encodes(self, text: str) -> str:  # type: ignore[override]
+        return self.entity_re.sub(self._encode_one, text)
 
-    def decodes(self, text: str) -> str:
-        return str.translate(text, self.decoder)
-
-    def _encode(self, match: re.Match) -> str:
+    def _encode_one(self, match: re.Match) -> str:
         text = match.group(1) or match.group(2)
         return self.encoder.get(text, text)
 
 
-class SplitAnnotations(Transform):
-    def encodes(self, text: str) -> list:
-        parts = re.split(r"(.+?)\(.+?\)", text)
-        return list(itertools.zip_longest(parts[::2], parts[1::2], fillvalue=""))
+class ExtractTitle(DocMetaTransform):
+    key = "title"
 
-    def decodes(self, pairs: list) -> str:
-        return "".join(f"{text}{note}" for text, note in pairs)
+    def encodes(self, text: str) -> str:  # type: ignore[override]
+        pass
 
 
-class SplitSentences(Transform):
-    def __init__(self, nlp: spacy.Language, lang: str = None) -> None:
-        if not nlp and not lang:
-            raise ValueError("A model or language code must be provided")
-        self.nlp = nlp or spacy.blank(lang)  # type: ignore
+class ExtractAnnotations(DocMetaTransform):
+    key = "annotations"
+    anno_re = re.compile(r"\((.+?)\)")
 
-    def encodes(self, text: str) -> list:
-        return [sent.text for sent in self.nlp(text).sents]
-
-    def decodes(self, sentences: list) -> str:
-        return "".join(sentences)
-
-
-class RemovePunctuation(Transform):
-    def __init__(self, nlp: spacy.Language, lang: str = None) -> None:
-        if not nlp and not lang:
-            raise ValueError("A model or language code must be provided")
-        self.nlp = nlp or spacy.blank(lang)  # type: ignore
-
-    def encodes(self, text: str) -> str:
-        return "".join([tok.text for tok in self.nlp(text) if not tok.is_punct])
+    def encodes(self, text: str) -> tuple[str, dict]:  # type: ignore[override]
+        annotations = {}
+        while match := self.anno_re.search(text):
+            text = text[: match.start()] + text[match.end() :]
+            annotations[match.start() - 1] = match.group(1)
+        return text, annotations
