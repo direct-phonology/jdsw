@@ -1,7 +1,5 @@
-pandas
 typer
-tqdm
 spacy
-spacy-och
 fastcore
 torch
+lingpy
