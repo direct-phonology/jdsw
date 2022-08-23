@@ -8,7 +8,11 @@ from torch.utils.data import IterableDataset
 from lib.documents import KanripoDoc
 
 
-class KanripoTxtDataset(IterableDataset):
+class KanripoDataset(IterableDataset):
+    doc_id_re = re.compile(r"(?:KR|CH)\d\w\d{4}")
+
+
+class KanripoTxtDataset(KanripoDataset):
     """
     Dataset of plaintext files from the Kanseki repository.
 
@@ -16,22 +20,19 @@ class KanripoTxtDataset(IterableDataset):
     provided path for .txt files that include a Kanripo ID in their filename.
     """
 
-    doc_id_re = re.compile(r"((?:KR|CH)\d\w\d{4})_(\d{3})")
-
     def __init__(self, path: str) -> None:
         self.path = Path(path)
 
     def __iter__(self) -> Iterator[KanripoDoc]:
         for file in self.path.glob("**/*.txt"):
-            doc_id = self.doc_id_re.match(file.stem)
-            if doc_id:
+            if self.doc_id_re.match(file.stem):
                 yield KanripoDoc(
-                    id=doc_id.group(0),
+                    id=file.stem,
                     text=file.read_text(encoding="utf-8"),
                 )
 
 
-class KanripoXmlDataset(IterableDataset):
+class KanripoXmlDataset(KanripoDataset):
     """
     Dataset of TEI-XML files from the Kanseki repository.
 
@@ -39,7 +40,6 @@ class KanripoXmlDataset(IterableDataset):
     provided path for .xml files that include a Kanripo ID in their filename.
     """
 
-    doc_id_re = re.compile(r"((?:KR|CH)\d\w\d{4})")
     xmlns = {
         "tei": "http://www.tei-c.org/ns/1.0",
         "xml": "http://www.w3.org/XML/1998/namespace",
