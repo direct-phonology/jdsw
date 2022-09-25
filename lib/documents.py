@@ -1,4 +1,6 @@
-from typing import Iterator
+from typing import Iterator, Dict, Any
+
+DocMeta = Dict[str, Any]
 
 
 class KanripoDoc:
@@ -11,8 +13,10 @@ class KanripoDoc:
     at doc.meta.
     """
 
-    def __init__(self, id: str, text: str, meta={}) -> None:
-        self.id, self.text, self.meta = id, text, meta
+    def __init__(self, id: str, text: str, meta: DocMeta = {}) -> None:
+        self.id = id
+        self.text = text
+        self.meta = meta.copy()
 
     def __repr__(self) -> str:
         return f'KanripoDoc(id="{self.id}", text="{self.text}")'
