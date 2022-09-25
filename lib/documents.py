@@ -38,3 +38,28 @@ class KanripoDoc:
 
     def __lt__(self, other: "KanripoDoc") -> bool:
         return self.id < other.id
+
+
+def merge_docs(*docs: KanripoDoc, meta: DocMeta = {}) -> KanripoDoc:
+    """
+    Merge multiple documents into a single document.
+
+    An identifier is generated for the new document by concatenating the first
+    and last identifiers of the documents being merged. The text of all documents
+    are merged together. Metadata is not merged; instead, it can be provided
+    when merging as with a single document.
+    """
+
+    # ensure they're ordered by id
+    _docs = list(sorted(docs))
+
+    # bail out if there's nothing to merge
+    if len(_docs) < 1:
+        raise ValueError("Must provide at least one document to merge")
+
+    # generate a new id and merge the text
+    return KanripoDoc(
+        id=f"{_docs[0].id}-{_docs[-1].id}",
+        text="".join(doc.text for doc in _docs),
+        meta=meta.copy(),
+    )
