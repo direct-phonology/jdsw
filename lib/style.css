@@ -1,0 +1,16 @@
+.doc {
+  font-family: "Kaiti SC", serif;
+  writing-mode: vertical-rl;
+}
+
+.anno {
+  color: red;
+  font-size: .5rem;
+  width: 1rem;
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.col {
+  width: .5rem;
+}
