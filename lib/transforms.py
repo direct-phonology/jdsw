@@ -78,11 +78,13 @@ class ExtractTitle(DocMetaTransform):
 
 class ExtractAnnotations(DocMetaTransform):
     key = "annotations"
-    anno_re = re.compile(r"\((.+?)\)")
+    anno_re = re.compile(r"(?P<headword>.+?)\((?P<annotation>.+?)\)")
 
     def encodes(self, text: str) -> tuple[str, dict]:  # type: ignore[override]
         annotations = {}
-        while match := self.anno_re.search(text):
-            text = text[: match.start()] + text[match.end() :]
-            annotations[match.start() - 1] = match.group(1)
-        return text, annotations
+        cleaned_text = ""
+        for headword, annotation in self.anno_re.findall(text):
+            bounds = (len(cleaned_text), len(cleaned_text) + len(headword))
+            annotations[bounds] = annotation
+            cleaned_text += headword
+        return cleaned_text, annotations
