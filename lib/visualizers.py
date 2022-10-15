@@ -78,21 +78,28 @@ class AnnotationRenderer:
         return markup
 
     def render_doc(
-        self, text: str, annotations: Dict[int, str], title: Optional[str]
+        self, text: str, annotations: Dict[tuple[int, int], str], title: Optional[str]
     ) -> str:
         output = ""
+        anno_ends = [span[1] for span in annotations.keys()]
+        anno_texts = list(annotations.values())
         for i, char in enumerate(text):
-            output += TPL_CHAR.format(content=char, cls="")
-            if i in annotations:
-                output += self.render_annotation(annotations[i])
+            if i in anno_ends:
+                output += self.render_annotation(anno_texts.pop(0))
+            output += TPL_CHAR.format(content=char)
         return TPL_DOC.format(content=output, title=title)
 
     def render_annotation(self, annotation: str) -> str:
+        return TPL_ANNOTATION.format(
+            content="".join([TPL_CHAR.format(content=char) for char in annotation])
+        )
+
+    def render_annotation_cols(self, annotation: str) -> str:
         middle = len(annotation) // 2 + (len(annotation) % 2)
         right, left = annotation[:middle], annotation[middle:]
         fmt_right = "".join([TPL_CHAR.format(content=char) for char in right])
         fmt_left = "".join([TPL_CHAR.format(content=char) for char in left])
-        return TPL_ANNOTATION.format(right=fmt_right, left=fmt_left)
+        return TPL_ANNOTATION_COL.format(right=fmt_right, left=fmt_left)
 
 
 TPL_PAGE = """
@@ -115,6 +122,10 @@ TPL_DOC = """
 """.strip()
 
 TPL_ANNOTATION = """
+<span class="anno">{content}</span>
+""".strip()
+
+TPL_ANNOTATION_COL = """
 <span class="anno">
     <span class="col">{right}</span>
     <span class="col">{left}</span>
