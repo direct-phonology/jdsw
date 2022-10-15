@@ -3,3 +3,4 @@ spacy
 fastcore
 torch
 lingpy
+pandas
