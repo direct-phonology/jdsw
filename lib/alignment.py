@@ -51,8 +51,9 @@ class Alignment:
         self.x.meta["annotations"] = {}
 
         # map all metadata values in y with corresponding locations in x to x
-        for y_idx, value in self.y.meta["annotations"].items():
-            if map_to := y_to_x.get(y_idx):
-                self.x.meta["annotations"][map_to] = value
+        for (y_start, y_end), annotation in self.y.meta["annotations"].items():
+            if (x_start := y_to_x.get(y_start)) is not None:
+                x_end = y_to_x.get(y_end - 1, x_start + (y_end - y_start) - 1) + 1
+                self.x.meta["annotations"][(x_start, x_end)] = annotation
 
         return self
