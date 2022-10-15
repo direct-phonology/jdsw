@@ -4,3 +4,4 @@ fastcore
 torch
 lingpy
 pandas
+spacy-och
