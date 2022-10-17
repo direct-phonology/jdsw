@@ -2,8 +2,8 @@ from unittest import TestCase
 
 import pandas as pd
 
-from lib.phonology import Reconstruction
-from lib.util import align_refs, split_sentences
+from scripts.lib.phonology import Reconstruction
+from scripts.lib.util import align_refs, split_sentences
 
 
 class TestAlignRefs(TestCase):

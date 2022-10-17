@@ -3,10 +3,10 @@ import csv
 
 import typer
 from fastcore.transform import Pipeline
-from lib.alignment import Alignment
-from lib.documents import KanripoDoc, merge_docs
-from lib.loaders import KanripoTxtDataset, KanripoXmlDataset
-from lib.transforms import (
+from scripts.lib.alignment import Alignment
+from scripts.lib.documents import KanripoDoc, merge_docs
+from scripts.lib.loaders import KanripoTxtDataset, KanripoXmlDataset
+from scripts.lib.transforms import (
     KanripoUnicode,
     RemoveComments,
     RemovePageBreaks,
@@ -17,7 +17,7 @@ from lib.transforms import (
 )
 
 
-def main(doc_id: str) -> None:
+def main() -> None:
     zhengwen_txt = KanripoTxtDataset("txt/zhengwen")
     zhengwen_xml = KanripoXmlDataset("txt/zhengwen")
     jdsw_txt = KanripoTxtDataset("txt/jdsw")
@@ -74,14 +74,11 @@ def main(doc_id: str) -> None:
     for alignment in alignments:
         alignment.align_annotations()
 
-    # visualize the desired doc
-    the_doc = next(alm for alm in alignments if alm.y.id == doc_id).y
-    from lib.visualizers import serve
+    # visualize some of the docs with their annotations
+    one_doc = alignments[0].x
+    from scripts.lib.visualizers import serve
 
-    serve(the_doc, page=True, options={
-        "rtl": False,
-        "columnar_annotations": False
-    })
+    serve(one_doc, page=True)
 
 
 if __name__ == "__main__":

@@ -4,7 +4,7 @@ import pathlib
 
 import typer
 
-from lib.util import clean_sbck_text, clean_org_text, split_text, convert_krp_entities
+from scripts.lib.util import clean_sbck_text, clean_org_text, split_text, convert_krp_entities
 
 
 def main(file: pathlib.Path, headers: bool=False) -> None:

@@ -2,8 +2,8 @@ import re
 
 from unittest import TestCase
 
-from lib.documents import KanripoDoc
-from lib.visualizers import AnnotationRenderer
+from scripts.lib.documents import KanripoDoc
+from scripts.lib.visualizers import AnnotationRenderer
 
 
 def split_html(html: str) -> list[str]:

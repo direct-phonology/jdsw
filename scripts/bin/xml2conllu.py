@@ -5,8 +5,8 @@ from xml.etree import ElementTree as ET
 
 import typer
 
-from lib.patterns import PARAGRAPH_NUMBER
-from lib.util import split_sentences, strip_punctuation
+from scripts.lib.patterns import PARAGRAPH_NUMBER
+from scripts.lib.util import split_sentences, strip_punctuation
 
 # namespace helper
 NS = {

@@ -1,7 +1,7 @@
 import unittest
 
-from lib.alignment import Alignment
-from lib.documents import KanripoDoc
+from scripts.lib.alignment import Alignment
+from scripts.lib.documents import KanripoDoc
 
 class TestAlignAnnotations(unittest.TestCase):
     def test_headgraphs(self):
