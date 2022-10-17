@@ -111,6 +111,31 @@ class AnnotationRenderer:
         return TPL_ANNOTATION_COL.format(right=fmt_right, left=fmt_left)
 
 
+class TharsenNotationRenderer:
+    """Render a Doc using Tharsen's notational system for the JDSW."""
+
+    style = "tharsen"
+
+    def __init__(self, options: Dict[str, Any] = {}) -> None:
+        pass
+
+    def render(self, doc: KanripoDoc, page: bool = False, minify: bool = False) -> str:
+        rendered = self.render_doc(doc)
+        if page:
+            markup = TPL_PAGE.format(style=_css, content="".join(rendered))
+        else:
+            markup = "".join(rendered)
+        if minify:
+            return minify_html(markup)
+        return markup
+
+    def render_doc(self, doc: KanripoDoc) -> str:
+        output = ""
+        for i, char in enumerate(doc.text):
+            output += TPL_CHAR.format(content=char)
+        return TPL_DOC.format(content=output, title=doc.meta.get("title", doc.id))
+
+
 TPL_PAGE = """
 <!DOCTYPE html>
 <html lang="zh">
