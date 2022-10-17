@@ -1,0 +1,216 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 44
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 44.01.01; Couvreur 2.641f; Su1n Xïda4n 14.17; Jia1ng Yi4hua2 889; Yi4 Shu1 46:74.15a; tr. Legge 2.428;
+# dating: 8110
+<pb:KR1d0052_tls_045-1a>¶
+** 45 昏義
+
+45.1昏禮者，¶
+將合二姓之好，¶
+上以事宗廟，¶
+而下以繼後世也。¶
+故君子重之。¶
+
+# src: LIJI 44.01.02; Couvreur 2.641f; Su1n Xïda4n 14.18; Jia1ng Yi4hua2 889; Yi4 Shu1 46:74.15a; tr. Legge 2.428;
+# dating: 8110
+是以昏禮納采、¶
+問名、¶
+納吉、¶
+納徵、¶
+請期，¶
+皆主人筵几於廟，¶
+而拜迎於門外，¶
+入，
+揖讓而升，¶
+聽命於廟，¶
+所以敬慎重正昏禮也。<pb:KR1d0052_tls_045-2a>¶
+
+# src: LIJI 44.01.03; Couvreur 2.642f; Su1n Xïda4n 14.18; Jia1ng Yi4hua2 890; Yi4 Shu1 46:74.20a; tr. Legge 2.429;
+# dating: 8110
+45.2父親醮子，¶
+而命之迎，¶
+男先於女也。¶
+子承命以迎，¶
+主人筵几於廟，¶
+而拜迎于門外。¶
+壻執鴈入，¶
+揖讓升堂，¶
+再拜奠鴈，¶
+蓋親受之於父母也。¶
+
+# src: LIJI 44.01.04; Couvreur 2.642f; Su1n Xïda4n 14.18f; Jia1ng Yi4hua2 890; Yi4 Shu1 46:74.20b; tr. Legge 2.429;
+# dating: 8110
+降
+出，¶
+御婦車，¶
+而壻授綏，¶
+御輪三周。¶
+先俟于門外，¶
+婦至，¶
+壻揖婦以入，¶
+共牢而食，¶
+合卺而酳，¶
+所以合體、¶
+同尊卑以親之也。<pb:KR1d0052_tls_045-3a>¶
+
+# src: LIJI 44.01.05; Couvreur 2.644; Su1n Xïda4n 14.19; Jia1ng Yi4hua2 891; Yi4 Shu1 46:74.24a; tr. Legge 2.430;
+# dating: 8110
+45.3敬慎重正而后親之，¶
+禮之大體，¶
+而所以成男女之別，¶
+而立夫婦之義也。¶
+男女有別，¶
+而后夫婦有義；¶
+夫婦有義，¶
+而后父子有親；¶
+父子有親，¶
+而后君臣有正。¶
+
+# src: LIJI 44.01.06; Couvreur 2.644; Su1n Xïda4n 14.19; Jia1ng Yi4hua2 891; Yi4 Shu1 46:74.24a; tr. Legge 2.430;
+# dating: 8110
+故曰：¶
+「昏禮者，¶
+禮之本也。」<pb:KR1d0052_tls_045-4a>¶
+
+# src: LIJI 44.01.07; Couvreur 2.644f; Su1n Xïda4n 14.20; Jia1ng Yi4hua2 891; Yi4 Shu1 46:74.24b; tr. Legge 2.430;
+# dating: 8110
+45.4夫禮始於冠，¶
+本於昏，¶
+重於喪、¶祭，
+尊於朝、¶聘，
+和於射、
+鄉，此禮之大體也。<pb:KR1d0052_tls_045-5a>¶
+
+# src: LIJI 44.01.08; Couvreur 2.645f; Su1n Xïda4n 14.20; Jia1ng Yi4hua2 891f; Yi4 Shu1 46:74.25b; tr. Legge 2.430;
+# dating: 8110
+45.5夙興，¶
+婦沐浴以俟見；¶
+質明，¶
+贊見婦於舅姑，¶
+執笲、¶棗、栗、¶段脩以見，¶
+贊醴婦，¶
+婦祭脯、¶醢，
+祭醴，¶
+成婦禮也。¶
+
+# src: LIJI 44.01.09; Couvreur 2.645f; Su1n Xïda4n 14.20f; Jia1ng Yi4hua2 892; Yi4 Shu1 46:74.27a-28a; tr. Legge 2.431;
+# dating: 8110
+舅姑入室，¶
+婦以特豚饋，¶
+明婦順也。¶
+厥明，¶
+舅姑共饗婦以一獻之禮，¶
+奠酬。¶
+舅姑先降自西階，¶
+婦降自阼階，¶
+以著代也。<pb:KR1d0052_tls_045-6a>¶
+
+# src: LIJI 44.01.10; Couvreur 2.646f; Su1n Xïda4n 14.21; Jia1ng Yi4hua2 892; Yi4 Shu1 46:74.32a; tr. Legge 2.431;
+# dating: 8110
+45.6成婦禮，¶
+明婦順，¶
+又申之以著代，¶
+所以重責婦順焉也。¶
+婦順者，¶
+順於舅姑，¶
+和於室人；¶
+而后當於夫，¶
+以成絲麻、¶布帛之事，¶
+以審守委積、¶蓋藏。¶
+
+# src: LIJI 44.01.11; Couvreur 2.646f; Su1n Xïda4n 14.21; Jia1ng Yi4hua2 892; Yi4 Shu1 46:74.33b; tr. Legge 2.431;
+# dating: 8110
+是故婦順備而后內和理；¶
+內和理而后家可長久也；¶
+故聖王重之。<pb:KR1d0052_tls_045-7a>¶
+
+# src: LIJI 44.01.12; Couvreur 2.647f; Su1n Xïda4n 14.22; Jia1ng Yi4hua2 893; Yi4 Shu1 46:74.33a; tr. Legge 2.432;
+# dating: 8110
+45.7是以古者婦人先嫁三月，¶
+祖禰未毀，¶
+教于公宮，¶
+祖禰既毀，¶
+教于宗室，¶
+教以婦德、¶婦言、¶婦容、¶婦功。¶
+教成祭之，¶
+牲用魚，¶
+芼之以蘋藻，¶
+所以成婦順也。<pb:KR1d0052_tls_045-8a>¶
+
+# src: LIJI 44.01.13; Couvreur 2.648f; Su1n Xïda4n 14.23; Jia1ng Yi4hua2 893f; Yi4 Shu1 46:74.35b; tr. Legge 2.432;
+# dating: 8110
+45.8古者天子后立六宮、¶
+三夫人、¶九嬪、¶二十七世婦、¶
+八十一御妻，¶
+以聽天下之內治，¶
+以明章婦順；¶
+故天下內和而家理。¶
+
+# src: LIJI 44.01.14; Couvreur 2.648f; Su1n Xïda4n 14.23; Jia1ng Yi4hua2 894; Yi4 Shu1 46:74.35b; tr. Legge 2.432;
+# dating: 8110
+天子立六官、¶
+三公、¶九卿、¶二十七大夫、¶
+八十一元士，¶
+以聽天下之外治，¶
+以明章天下之男教；¶
+故外和而國治。¶
+故曰：¶
+「天子聽男教，¶
+后聽女順；¶
+
+# src: LIJI 44.01.15; Couvreur 2.648f; Su1n Xïda4n 14.23; Jia1ng Yi4hua2 894; Yi4 Shu1 46:74.36a; tr. Legge 2.432;
+# dating: 8110
+天子理陽道，¶
+后治陰德；¶
+天子聽外治，¶
+后聽內職。¶
+教順成俗，¶
+外內和順，¶
+國家理治，¶
+此之謂盛德。」<pb:KR1d0052_tls_045-9a>¶
+
+# src: LIJI 44.01.16; Couvreur 2.650f; Su1n Xïda4n 14.24; Jia1ng Yi4hua2 894; Yi4 Shu1 46:74.39a; tr. Legge 2.433;
+# dating: 8110
+45.9是故男教不脩，¶
+陽事不得，¶
+適見於天，¶
+日為之食；¶
+婦順不脩，¶
+陰事不得，¶
+適見於天，¶
+月為之食。¶
+
+# src: LIJI 44.01.17; Couvreur 2.650f; Su1n Xïda4n 14.24; Jia1ng Yi4hua2 894; Yi4 Shu1 46:74.39a; tr. Legge 2.433;
+# dating: 8110
+是故日食則天子素服而脩六官之職，¶
+蕩天下之陽事；¶
+月食則后素服而脩六宮之職，¶
+蕩天下之陰事。¶
+故天子之與后，¶
+猶日之與月，¶
+陰之與陽，¶
+相須而后成者也。¶
+
+# src: LIJI 44.01.18; Couvreur 2.650f; Su1n Xïda4n 14.24; Jia1ng Yi4hua2 894f; Yi4 Shu1 46:74.40b; tr. Legge 2.434;
+# dating: 8110
+天子脩男教，¶
+父道也；¶
+后脩女順，¶
+母道也。¶
+
+# src: LIJI 44.01.19; Couvreur 2.650f; Su1n Xïda4n 14.24; Jia1ng Yi4hua2 895; Yi4 Shu1 46:74.40b; tr. Legge 2.434;
+# dating: 8110
+故曰：¶
+「天子之與后，¶
+猶父之與母也。」¶
+故為天王服斬衰，¶
+服父之義也；¶
+為后服資衰，¶
+服母之義也。
+

@@ -1,0 +1,44 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 孝經
+#+DATE: 2016-08-10 10:17:46
+#+PROPERTY: ID KR1f0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 7
+#+PROPERTY: CAT 1pre-han,經學典籍,孝經類
+
+# src: XIAOJING 8, ed. SSJZS p. 00i3
+# dating: 6230
+<pb:KR1f0001_tls_008-1a>¶
+** 8 《孝治章》
+
+子曰：¶
+「昔者明王之以孝治天下也，¶
+不敢遺小國之臣，¶
+而況於公侯伯子男乎？¶
+故得萬國之懽心，¶
+以事其先王。¶
+
+# src: XIAOJING 8, ed. SSJZS p. 0085
+# dating: 6230
+治國者不敢侮於鰥寡，¶
+而況於士民乎？¶
+故得百姓之懽心，¶
+以事其先君。¶
+治家者不敢失於臣妾，¶
+而況於妻子乎？¶
+故得人之懽心，¶
+以事其親。¶
+
+# src: XIAOJING 8, ed. SSJZS p. 0086
+# dating: 6230
+夫然，¶
+故生則親安之，¶
+祭則鬼享之，¶
+是以天下和平，¶
+災害不生，¶
+禍亂不作。¶
+故明王之以孝治天下也如此。¶
+《詩》云：¶
+『有覺德行，¶
+四國順之。』」
+

@@ -1,0 +1,22 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 67
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 68.1; tr. D.C. Lau 19i2: 101; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_068-1a>¶
+** 68 第六十八章
+
+善為士者不武，¶
+善戰者不怒，¶
+善勝敵者弗與，¶
+善用人者為之下，¶
+是謂不爭之德，¶
+是謂用人之力，¶
+是謂配天古之極也。
+
+

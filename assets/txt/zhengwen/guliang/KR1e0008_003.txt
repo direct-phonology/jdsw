@@ -1,0 +1,2580 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 春秋穀梁傳
+#+DATE: 2016-08-10 10:16:33
+#+PROPERTY: ID KR1e0008
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 2
+#+PROPERTY: CAT 1pre-han,經學典籍,春秋類
+
+# src: CQ GULIANG Zhuang 03.01.01; ssj: 1561; Zhong 1996: 133; tr. Malmqvist 1971: 117;
+# dating: 6200
+<pb:KR1e0008_tls_003-1a>¶
+** 3 莊公
+
+3.1《莊公元年》
+
+<pb:KR1e0008_tls_003-2a>3.1.1元年
+春
+王正月。¶
+
+# src: CQ GULIANG Zhuang 03.01.02; ssj: 1761; Zhong 1996: 133; tr. Malmqvist 1971: 117;
+# dating: 6200
+繼弒君，不言即位，¶
+正也。¶
+繼弒君不言即位之為正，¶
+何也？¶
+曰：
+先君不以其道終，¶
+則子不忍即位也。
+
+# src: CQ GULIANG Zhuang 03.01.03; ssj: 1561; Zhong 1996: 134; tr. Malmqvist 1971: 117;
+# dating: 6200
+<pb:KR1e0008_tls_003-3a>¶
+3.1.2三月，¶
+夫人孫于齊。¶
+
+# src: CQ GULIANG Zhuang 03.01.04; ssj: 1761; Zhong 1996: 134; tr. Malmqvist 1971: 117;
+# dating: 6200
+孫之為言猶孫也，¶
+諱奔也。¶
+接練時，¶
+錄母之變，¶
+始人之也。¶
+不言氏姓，¶
+貶之也。¶
+人之於天也，¶
+以道受命，¶
+
+# src: CQ GULIANG Zhuang 03.01.05; ssj: 1761; Zhong 1996: 139; tr. Malmqvist 1971: 117;
+# dating: 6200
+於人也，¶
+以言受命。¶
+不若於道者，¶
+天絕之也，¶
+不若於言者，¶
+人絕之也。¶
+臣子大受命。
+
+# src: CQ GULIANG Zhuang 03.01.06; ssj: 1561; Zhong 1996: 140; tr. Malmqvist 1971: 117;
+# dating: 6200
+<pb:KR1e0008_tls_003-4a>¶
+3.1.3夏，¶
+單伯逆王姬。¶
+
+# src: CQ GULIANG Zhuang 03.01.07; ssj: 1761; Zhong 1996: 140; tr. Malmqvist 1971: 118;
+# dating: 6200
+單伯者何？¶
+吾大夫之命乎天子者也。¶
+命大夫，¶
+故不名也。¶
+其不言如
+何也？¶
+其義不可受於京師也。¶
+
+# src: CQ GULIANG Zhuang 03.01.08; ssj: 1761; Zhong 1996: 140; tr. Malmqvist 1971: 118;
+# dating: 6200
+其義不可受於京師何也？¶
+曰
+君躬弒於齊，¶
+使之主婚姻，¶
+與齊為禮，¶
+其義固不可受也。
+
+# src: CQ GULIANG Zhuang 03.01.09; ssj: 1561; Zhong 1996: 141; tr. Malmqvist 1971: 118;
+# dating: 6200
+<pb:KR1e0008_tls_003-5a>¶
+3.1.4秋，¶
+築王姬之館于外。¶
+
+# src: CQ GULIANG Zhuang 03.01.10; ssj: 1761; Zhong 1996: 141; tr. Malmqvist 1971: 118;
+# dating: 6200
+築、
+禮也，¶
+于外、¶
+非禮也。¶
+築之為禮何也？¶
+主王姬者，¶
+必自公門出，¶
+於廟則已尊，¶
+於寢則已卑，¶
+
+# src: CQ GULIANG Zhuang 03.01.11; ssj: 1761; Zhong 1996: 141; tr. Malmqvist 1971: 118;
+# dating: 6200
+為之築，¶
+節矣。¶
+築之外，¶
+變之正也。¶
+築之外，¶
+變之為正，¶
+何也？¶
+仇讎之人、非所以接婚姻也，¶
+衰麻、非所以接弁冕也。¶
+
+# src: CQ GULIANG Zhuang 03.01.12; ssj: 1761; Zhong 1996: 142; tr. Malmqvist 1971: 118;
+# dating: 6200
+其不言齊侯之來逆，¶何也？¶
+不使齊侯得與吾為禮也。
+
+# src: CQ GULIANG Zhuang 03.01.13; ssj: 1562; Zhong 1996: 142; tr. Malmqvist 1971: 119;
+# dating: 6200
+<pb:KR1e0008_tls_003-6a>¶
+3.1.5冬
+十月
+乙亥，¶
+陳侯林卒。¶
+
+# src: CQ GULIANG Zhuang 03.01.14; ssj: 1762; Zhong 1996: 142; tr. Malmqvist 1971: 119;
+# dating: 6200
+諸侯日卒，¶
+正也。
+
+# src: CQ GULIANG Zhuang 03.01.15; ssj: 1562; Zhong 1996: 142; tr. Malmqvist 1971: 119;
+# dating: 6200
+<pb:KR1e0008_tls_003-7a>¶
+3.1.6王使榮叔來錫桓公命。¶
+
+# src: CQ GULIANG Zhuang 03.01.16; ssj: 1762; Zhong 1996: 143; tr. Malmqvist 1971: 119;
+# dating: 6200
+禮、有受命，¶
+無來錫命，¶
+錫命非正也。¶
+生服之，¶
+死行之，¶
+禮也；¶
+生不服，¶
+死追錫之，¶
+不正甚矣。
+
+# src: CQ GULIANG Zhuang 03.01.17; ssj: 1562; Zhong 1996: 144; tr. Malmqvist 1971: 119;
+# dating: 6200
+<pb:KR1e0008_tls_003-8a>¶
+3.1.7王姬歸于齊。¶
+
+# src: CQ GULIANG Zhuang 03.01.18; ssj: 1762; Zhong 1996: 144; tr. Malmqvist 1971: 119;
+# dating: 6200
+為之中者，歸之也。
+
+# src: CQ GULIANG Zhuang 03.01.19; ssj: 1562; Zhong 1996: 144; tr. Malmqvist 1971: 119;
+# dating: 6200
+<pb:KR1e0008_tls_003-9a>¶
+3.1.8齊師遷紀、¶郱、鄑、郚。
+
+# src: CQ GULIANG Zhuang 03.01.20; ssj: 1762; Zhong 1996: 144; tr. Malmqvist 1971: 119;
+# dating: 6200
+紀、¶
+國也，¶
+郱、鄑、郚、
+國也。¶
+或曰：¶遷紀于郱、鄑、郚。
+
+# src: CQ GULIANG Zhuang 03.02.01; ssj: 1562; Zhong 1996: 145; tr. Malmqvist 1971: 119;
+# dating: 6200
+<pb:KR1e0008_tls_003-10a>¶
+3.2《莊公二年》
+
+<pb:KR1e0008_tls_003-11a>3.2.1二年
+春
+王二月，¶
+葬陳莊公。
+
+# src: CQ GULIANG Zhuang 03.02.02; ssj: 1562; Zhong 1996: 145; tr. Malmqvist 1971: 119;
+# dating: 6200
+<pb:KR1e0008_tls_003-12a>¶
+3.2.2夏，¶
+公子慶父帥師伐於餘丘。¶
+
+# src: CQ GULIANG Zhuang 03.02.03; ssj: 1762; Zhong 1996: 145; tr. Malmqvist 1971: 119;
+# dating: 6200
+國而曰伐。¶
+於餘丘、¶
+邾之邑也。¶
+其曰伐何也？¶
+公子貴矣，¶
+師重矣，¶
+而敵人之邑，¶
+公子病矣。¶
+病公子，¶
+所以譏乎公也。¶
+
+# src: CQ GULIANG Zhuang 03.02.04; ssj: 1762; Zhong 1996: 145; tr. Malmqvist 1971: 119;
+# dating: 6200
+其一曰：君在而重之也。
+
+# src: CQ GULIANG Zhuang 03.02.05; ssj: 1562; Zhong 1996: 145; tr. Malmqvist 1971: 119;
+# dating: 6200
+<pb:KR1e0008_tls_003-13a>¶
+3.2.3秋
+七月，¶
+齊王姬卒。¶
+
+# src: CQ GULIANG Zhuang 03.02.06; ssj: 1762; Zhong 1996: 145; tr. Malmqvist 1971: 120;
+# dating: 6200
+為之主者
+卒之也。
+
+# src: CQ GULIANG Zhuang 03.02.07; ssj: 1562; Zhong 1996: 146; tr. Malmqvist 1971: 120;
+# dating: 6200
+<pb:KR1e0008_tls_003-14a>¶
+3.2.4冬
+十有二月，¶
+夫人姜氏會齊侯于禚。¶
+
+# src: CQ GULIANG Zhuang 03.02.08; ssj: 1762; Zhong 1996: 146; tr. Malmqvist 1971: 120;
+# dating: 6200
+婦人既嫁，不踰竟，¶
+踰竟非正也；¶
+婦人不言會，¶
+言會非正也。¶
+饗甚矣。
+
+# src: CQ GULIANG Zhuang 03.02.09; ssj: 1562; Zhong 1996: 146; tr. Malmqvist 1971: 120;
+# dating: 6200
+<pb:KR1e0008_tls_003-15a>¶
+3.2.5乙酉，¶
+宋公馮卒。
+
+# src: CQ GULIANG Zhuang 03.03.01; ssj: 1563; Zhong 1996: 146; tr. Malmqvist 1971: 120;
+# dating: 6200
+<pb:KR1e0008_tls_003-16a>¶
+3.3《莊公三年》
+
+<pb:KR1e0008_tls_003-17a>3.3.1三年
+春
+王正月，¶
+溺會齊師伐衛。¶
+
+# src: CQ GULIANG Zhuang 03.03.02; ssj: 1762; Zhong 1996: 146; tr. Malmqvist 1971: 120;
+# dating: 6200
+溺者何也？¶
+公子溺也。¶
+其不稱公子，¶何也？¶
+惡其會仇讎而伐同姓，¶
+故貶而名之也。
+
+# src: CQ GULIANG Zhuang 03.03.03; ssj: 1563; Zhong 1996: 147; tr. Malmqvist 1971: 120;
+# dating: 6200
+<pb:KR1e0008_tls_003-18a>¶
+3.3.2夏
+四月，¶
+葬宋莊公。¶
+
+# src: CQ GULIANG Zhuang 03.03.04; ssj: 1763; Zhong 1996: 147; tr. Malmqvist 1971: 120;
+# dating: 6200
+月葬
+故也。
+
+# src: CQ GULIANG Zhuang 03.03.05; ssj: 1563; Zhong 1996: 147; tr. Malmqvist 1971: 120;
+# dating: 6200
+<pb:KR1e0008_tls_003-19a>¶
+3.3.3五月，¶
+葬桓王。¶
+
+# src: CQ GULIANG Zhuang 03.03.06; ssj: 1763; Zhong 1996: 147; tr. Malmqvist 1971: 120;
+# dating: 6200
+《傳》曰：¶
+改葬也。¶
+改葬之禮緦，¶
+舉下
+緬也。¶
+或曰：郤尸以求諸侯，¶
+
+# src: CQ GULIANG Zhuang 03.03.07; ssj: 1763; Zhong 1996: 148; tr. Malmqvist 1971: 120;
+# dating: 6200
+天子志崩不志葬，¶
+必其時也。¶
+何必焉？¶
+舉天下而葬一人，¶
+其義不疑也。¶
+
+# src: CQ GULIANG Zhuang 03.03.08; ssj: 1763; Zhong 1996: 148; tr. Malmqvist 1971: 120;
+# dating: 6200
+志葬
+故也，¶
+危不得葬也。¶
+曰近不失崩，¶
+不志崩，¶
+失天下也。¶
+
+# src: CQ GULIANG Zhuang 03.03.09; ssj: 1763; Zhong 1996: 148; tr. Malmqvist 1971: 120;
+# dating: 6200
+獨陰不生，¶
+獨陽不生，¶
+獨天不生，¶
+三合然後生。¶
+
+# src: CQ GULIANG Zhuang 03.03.10; ssj: 1763; Zhong 1996: 149; tr. Malmqvist 1971: 120;
+# dating: 6200
+故曰
+母之子也可，¶
+天之子也可，¶
+尊者取尊稱焉，¶
+卑者取卑稱焉，¶
+其曰王者，¶
+民之所歸往也。
+
+# src: CQ GULIANG Zhuang 03.03.11; ssj: 1563; Zhong 1996: 149; tr. Malmqvist 1971: 121;
+# dating: 6200
+<pb:KR1e0008_tls_003-20a>¶
+3.3.4秋，¶
+紀季以酅入于齊。¶
+
+# src: CQ GULIANG Zhuang 03.03.12; ssj: 1763; Zhong 1996: 149; tr. Malmqvist 1971: 121;
+# dating: 6200
+酅、
+紀之邑也。¶
+入于齊者，¶
+以酅事齊也。¶
+入者、¶
+內弗受也。
+
+# src: CQ GULIANG Zhuang 03.03.13; ssj: 1563; Zhong 1996: 150; tr. Malmqvist 1971: 121;
+# dating: 6200
+<pb:KR1e0008_tls_003-21a>¶
+3.3.5冬，¶
+公次于郎。¶
+
+# src: CQ GULIANG Zhuang 03.03.14; ssj: 1763; Zhong 1996: 150; tr. Malmqvist 1971: 121;
+# dating: 6200
+次、
+止也，¶
+有畏也，¶
+欲救紀而不能也。
+
+# src: CQ GULIANG Zhuang 03.04.01; ssj: 1563; Zhong 1996: 151; tr. Malmqvist 1971: 121;
+# dating: 6200
+<pb:KR1e0008_tls_003-22a>¶
+3.4《莊公四年》
+
+<pb:KR1e0008_tls_003-23a>3.4.1四年
+春
+王二月，¶
+夫人姜氏饗齊侯于祝丘。¶
+
+# src: CQ GULIANG Zhuang 03.04.02; ssj: 1763; Zhong 1996: 151; tr. Malmqvist 1971: 121;
+# dating: 6200
+饗、
+甚矣，¶
+饗齊侯，¶
+所以病齊侯也。
+
+# src: CQ GULIANG Zhuang 03.04.03; ssj: 1563; Zhong 1996: 151; tr. Malmqvist 1971: 121;
+# dating: 6200
+<pb:KR1e0008_tls_003-24a>¶
+3.4.2三月，¶
+紀伯姬卒。¶
+
+# src: CQ GULIANG Zhuang 03.04.04; ssj: 1763; Zhong 1996: 152; tr. Malmqvist 1971: 121;
+# dating: 6200
+外夫人不卒，¶
+此其言卒，¶何也？¶
+吾女也。¶
+適諸侯，則尊同，¶
+以吾為之變，¶
+卒之也。
+
+# src: CQ GULIANG Zhuang 03.04.05; ssj: 1563; Zhong 1996: 152; tr. Malmqvist 1971: 121;
+# dating: 6200
+<pb:KR1e0008_tls_003-25a>¶
+3.4.3夏，¶
+齊侯、¶陳侯、鄭伯遇于垂。
+
+# src: CQ GULIANG Zhuang 03.04.06; ssj: 1563; Zhong 1996: 152; tr. Malmqvist 1971: 121;
+# dating: 6200
+<pb:KR1e0008_tls_003-26a>¶
+3.4.4紀侯大去其國。¶
+
+# src: CQ GULIANG Zhuang 03.04.07; ssj: 1763; Zhong 1996: 152; tr. Malmqvist 1971: 122;
+# dating: 6200
+大去者、¶
+不遺一人之辭也，¶
+言民之從者四年而後畢也。¶
+紀侯賢，而齊侯滅之，¶
+不言滅，¶
+而曰大去其國者，¶
+不使小人加乎君子。
+
+<pb:KR1e0008_tls_003-27a>
+3.4.5六月
+乙丑，¶
+齊侯葬紀伯姬。¶
+
+# src: CQ GULIANG Zhuang 03.04.09; ssj: 1763; Zhong 1996: 153; tr. Malmqvist 1971: 123;
+# dating: 6200
+外夫人不書葬，¶
+此其書葬何也？¶
+吾女也，¶
+失國，¶
+故隱而葬之。
+
+# src: CQ GULIANG Zhuang 03.04.10; ssj: 1564; Zhong 1996: 153; tr. Malmqvist 1971: 123;
+# dating: 6200
+<pb:KR1e0008_tls_003-28a>¶
+3.4.6秋
+七月。
+
+# src: CQ GULIANG Zhuang 03.04.11; ssj: 1564; Zhong 1996: 153; tr. Malmqvist 1971: 123;
+# dating: 6200
+<pb:KR1e0008_tls_003-29a>¶
+3.4.7冬，¶
+公及齊人狩于郜。¶
+
+# src: CQ GULIANG Zhuang 03.04.12; ssj: 1764; Zhong 1996: 153; tr. Malmqvist 1971: 123;
+# dating: 6200
+齊人者、¶
+齊侯也。¶
+其曰人何也？¶
+卑公之敵，¶
+所以卑公也。¶
+何為卑公也？¶
+不復讎
+而怨不釋，¶
+刺釋怨也。
+
+# src: CQ GULIANG Zhuang 03.05.01; ssj: 1565; Zhong 1996: 154; tr. Malmqvist 1971: 123;
+# dating: 6200
+<pb:KR1e0008_tls_003-30a>¶
+3.5《莊公五年》
+
+<pb:KR1e0008_tls_003-31a>3.5.1五年
+春
+王正月。
+
+# src: CQ GULIANG Zhuang 03.05.02; ssj: 1565; Zhong 1996: 154; tr. Malmqvist 1971: 123;
+# dating: 6200
+<pb:KR1e0008_tls_003-32a>¶
+3.5.2夏，¶
+夫人姜氏如齊師。¶
+
+# src: CQ GULIANG Zhuang 03.05.03; ssj: 1764; Zhong 1996: 154; tr. Malmqvist 1971: 123;
+# dating: 6200
+師而曰如，¶
+眾也。¶
+婦人既嫁不踰竟，¶
+踰竟非禮也。
+
+# src: CQ GULIANG Zhuang 03.05.04; ssj: 1565; Zhong 1996: 154; tr. Malmqvist 1971: 123;
+# dating: 6200
+<pb:KR1e0008_tls_003-33a>¶
+3.5.3秋，¶
+郳黎來來朝。¶
+
+# src: CQ GULIANG Zhuang 03.05.05; ssj: 1764; Zhong 1996: 155; tr. Malmqvist 1971: 124;
+# dating: 6200
+郳、
+國也，¶
+黎來、¶
+微國之君、¶
+未爵命者也。
+
+# src: CQ GULIANG Zhuang 03.05.06; ssj: 1565; Zhong 1996: 155; tr. Malmqvist 1971: 124;
+# dating: 6200
+<pb:KR1e0008_tls_003-34a>¶
+3.5.4冬，¶
+公會齊人、¶宋人、¶陳人、蔡人伐衛。¶
+
+# src: CQ GULIANG Zhuang 03.05.07; ssj: 1764; Zhong 1996: 155; tr. Malmqvist 1971: 124;
+# dating: 6200
+是齊侯、宋公也，¶
+其曰人何也？¶
+人諸侯、¶
+所以人公也。¶
+其人公何也？¶
+逆天王之命也。
+
+# src: CQ GULIANG Zhuang 03.06.01; ssj: 1565; Zhong 1996: 155; tr. Malmqvist 1971: 124;
+# dating: 6200
+<pb:KR1e0008_tls_003-35a>¶
+3.6《莊公六年》
+
+<pb:KR1e0008_tls_003-36a>3.6.1六年
+春
+王三月，¶
+王人子突救衛。¶
+
+# src: CQ GULIANG Zhuang 03.06.02; ssj: 1764; Zhong 1996: 155; tr. Malmqvist 1971: 124;
+# dating: 6200
+王人、¶
+卑者也。¶
+稱名、¶
+貴之也。¶
+善救衛也，¶
+救者善，¶
+則伐者不正矣。
+
+# src: CQ GULIANG Zhuang 03.06.03; ssj: 1565; Zhong 1996: 156; tr. Malmqvist 1971: 124;
+# dating: 6200
+<pb:KR1e0008_tls_003-37a>¶
+3.6.2夏
+六月，¶
+衛侯朔入于衛。¶
+
+# src: CQ GULIANG Zhuang 03.06.04; ssj: 1764; Zhong 1996: 156; tr. Malmqvist 1971: 124;
+# dating: 6200
+其不言伐衛納朔何也？¶
+不逆天王之命也。¶
+入者、¶
+內弗受也。¶
+何用弗受也？¶
+為以王命絕之也。¶
+
+# src: CQ GULIANG Zhuang 03.06.05; ssj: 1764; Zhong 1996: 157; tr. Malmqvist 1971: 124;
+# dating: 6200
+朔之名，惡也。¶
+朔入逆，¶
+則出順矣。¶
+朔出入名，¶
+以王命絕之也。
+
+# src: CQ GULIANG Zhuang 03.06.06; ssj: 1565; Zhong 1996: 157; tr. Malmqvist 1971: 124;
+# dating: 6200
+<pb:KR1e0008_tls_003-38a>¶
+3.6.3秋，¶
+公至自伐衛。¶
+
+# src: CQ GULIANG Zhuang 03.06.07; ssj: 1764; Zhong 1996: 157; tr. Malmqvist 1971: 125;
+# dating: 6200
+惡事不致，¶
+此其致
+何也？¶
+不致
+則無用見公之惡事之成也。
+
+# src: CQ GULIANG Zhuang 03.06.08; ssj: 1565; Zhong 1996: 157; tr. Malmqvist 1971: 125;
+# dating: 6200
+<pb:KR1e0008_tls_003-39a>¶
+3.6.4螟。
+
+# src: CQ GULIANG Zhuang 03.06.09; ssj: 1566; Zhong 1996: 157; tr. Malmqvist 1971: 125;
+# dating: 6200
+<pb:KR1e0008_tls_003-40a>¶
+3.6.5冬，¶
+齊人來歸衛寶。¶
+
+# src: CQ GULIANG Zhuang 03.06.10; ssj: 1764-1765; Zhong 1996: 158; tr. Malmqvist 1971: 125;
+# dating: 6200
+以齊首之，分惡於齊也。¶
+使之如下齊而來我然，¶
+惡戰則殺矣。
+
+# src: CQ GULIANG Zhuang 03.07.01; ssj: 1566; Zhong 1996: 158; tr. Malmqvist 1971: 125;
+# dating: 6200
+<pb:KR1e0008_tls_003-41a>¶
+3.7《莊公七年》
+
+<pb:KR1e0008_tls_003-42a>3.7.1七年
+春，¶
+夫人姜氏會齊侯于防。¶
+
+# src: CQ GULIANG Zhuang 03.07.02; ssj: 1765; Zhong 1996: 158; tr. Malmqvist 1971: 125;
+# dating: 6200
+婦人不會，¶
+會非正也。
+
+# src: CQ GULIANG Zhuang 03.07.03; ssj: 1566; Zhong 1996: 158; tr. Malmqvist 1971: 125;
+# dating: 6200
+<pb:KR1e0008_tls_003-43a>¶
+3.7.2夏
+四月
+辛卯昔，¶
+恆星不見。¶
+
+# src: CQ GULIANG Zhuang 03.07.04; ssj: 1765; Zhong 1996: 158; tr. Malmqvist 1971: 125;
+# dating: 6200
+恆星者、¶
+經星也。¶
+日入至於星出，謂之昔。¶
+不見者，¶
+可以見也。¶
+
+# src: CQ GULIANG Zhuang 03.07.05; ssj: 1566; Zhong 1996: 159; tr. Malmqvist 1971: 125;
+# dating: 6200
+夜中，星隕如雨。¶
+
+# src: CQ GULIANG Zhuang 03.07.06; ssj: 1765; Zhong 1996: 160; tr. Malmqvist 1971: 125;
+# dating: 6200
+其隕也如雨，¶
+是夜中與？¶
+《春秋》著以傳著，¶
+疑以傳疑。¶
+中之、¶
+幾也，¶
+而曰夜中，¶
+著焉爾。¶
+何用見其中也？¶
+失變而錄其時，¶
+
+# src: CQ GULIANG Zhuang 03.07.07; ssj: 1765; Zhong 1996: 160; tr. Malmqvist 1971: 126;
+# dating: 6200
+則夜中矣。¶
+其不曰恆星之隕何也？¶
+我知恆星之不見，¶
+而不知其隕也。¶
+我見其隕而接於地者，¶
+則是雨說也。¶
+
+# src: CQ GULIANG Zhuang 03.07.08; ssj: 1765; Zhong 1996: 161; tr. Malmqvist 1971: 126;
+# dating: 6200
+著於上、¶
+見於下
+謂之雨，¶
+著於下、¶
+不見於上
+謂之隕，¶
+豈雨說哉。
+
+# src: CQ GULIANG Zhuang 03.07.09; ssj: 1765; Zhong 1996: 162; tr. Malmqvist 1971: 126;
+# dating: 6200
+<pb:KR1e0008_tls_003-44a>¶
+3.7.3秋，¶
+大水。¶
+
+# src: CQ GULIANG Zhuang 03.07.10; ssj: 1765; Zhong 1996: 162; tr. Malmqvist 1971: 126;
+# dating: 6200
+高下有水災曰大水。
+
+# src: CQ GULIANG Zhuang 03.07.11; ssj: 1566; Zhong 1996: 162; tr. Malmqvist 1971: 126;
+# dating: 6200
+<pb:KR1e0008_tls_003-45a>¶
+3.7.4無麥、苗。
+
+# src: CQ GULIANG Zhuang 03.07.12; ssj: 1765; Zhong 1996: 162; tr. Malmqvist 1971: 126;
+# dating: 6200
+麥、¶苗同時也。
+
+# src: CQ GULIANG Zhuang 03.07.13; ssj: 1566; Zhong 1996: 162; tr. Malmqvist 1971: 126;
+# dating: 6200
+<pb:KR1e0008_tls_003-46a>¶
+3.7.5冬，¶
+夫人姜氏會齊侯于穀。¶
+
+# src: CQ GULIANG Zhuang 03.07.14; ssj: 1765; Zhong 1996: 162; tr. Malmqvist 1971: 126;
+# dating: 6200
+婦人不會，¶
+會非正也。
+
+# src: CQ GULIANG Zhuang 03.08.01; ssj: 1567; Zhong 1996: 163; tr. Malmqvist 1971: 126;
+# dating: 6200
+<pb:KR1e0008_tls_003-47a>¶
+3.8《莊公八年》
+
+<pb:KR1e0008_tls_003-48a>3.8.1八年春王正月，¶
+師次于郎，¶
+以俟陳人、¶
+蔡人。¶
+
+# src: CQ GULIANG Zhuang 03.08.02; ssj: 1765; Zhong 1996: 163; tr. Malmqvist 1971: 126;
+# dating: 6200
+次、
+止也，¶
+俟、
+待也。¶
+
+# src: CQ GULIANG Zhuang 03.08.03; ssj: 1567; Zhong 1996: 163; tr. Malmqvist 1971: 126;
+# dating: 6200
+甲午，¶
+治兵。¶
+
+# src: CQ GULIANG Zhuang 03.08.04; ssj: 1765; Zhong 1996: 163; tr. Malmqvist 1971: 126;
+# dating: 6200
+出曰治兵，¶
+習戰也；¶
+入曰振旅，¶
+習戰也。¶
+治兵而陳、蔡不至矣。¶
+兵事以嚴終，¶
+故曰：善陳者不戰，¶
+此之謂也。¶
+
+# src: CQ GULIANG Zhuang 03.08.05; ssj: 1765; Zhong 1996: 164; tr. Malmqvist 1971: 126;
+# dating: 6200
+善為國者不師，¶
+善師者不陳，¶
+善陳者不戰，¶
+善戰者不死，¶
+善死者不亡。
+
+# src: CQ GULIANG Zhuang 03.08.06; ssj: 1567; Zhong 1996: 165; tr. Malmqvist 1971: 127;
+# dating: 6200
+<pb:KR1e0008_tls_003-49a>¶
+3.8.2夏，¶
+師及齊師圍郕，¶
+郕降于齊師。¶
+
+# src: CQ GULIANG Zhuang 03.08.07; ssj: 1766; Zhong 1996: 165; tr. Malmqvist 1971: 127;
+# dating: 6200
+其曰降于齊師何？¶
+不使齊師加威於郕也。
+
+# src: CQ GULIANG Zhuang 03.08.08; ssj: 1567; Zhong 1996: 165; tr. Malmqvist 1971: 127;
+# dating: 6200
+<pb:KR1e0008_tls_003-50a>¶
+3.8.3秋，¶
+師還。¶
+
+# src: CQ GULIANG Zhuang 03.08.09; ssj: 1766; Zhong 1996: 165; tr. Malmqvist 1971: 127;
+# dating: 6200
+還者、¶
+事未畢也、¶
+遯也。
+
+# src: CQ GULIANG Zhuang 03.08.10; ssj: 1567; Zhong 1996: 166; tr. Malmqvist 1971: 127;
+# dating: 6200
+<pb:KR1e0008_tls_003-51a>¶
+3.8.4冬
+十有一月
+癸未，¶
+齊無知弒其君諸兒。¶
+
+# src: CQ GULIANG Zhuang 03.08.11; ssj: 1766; Zhong 1996: 166; tr. Malmqvist 1971: 127;
+# dating: 6200
+大夫弒其君，¶
+以國氏者、¶
+嫌也，¶
+弒而代之也。
+
+# src: CQ GULIANG Zhuang 03.09.01; ssj: 1567; Zhong 1996: 166; tr. Malmqvist 1971: 127;
+# dating: 6200
+<pb:KR1e0008_tls_003-52a>¶
+3.9《莊公九年》
+
+<pb:KR1e0008_tls_003-53a>3.9.1九年
+春，¶
+齊人殺無知。¶
+
+# src: CQ GULIANG Zhuang 03.09.02; ssj: 1766; Zhong 1996: 166; tr. Malmqvist 1971: 127;
+# dating: 6200
+無知之挈，¶
+失嫌也。¶
+稱人以殺（大夫），¶
+殺有罪也。
+
+# src: CQ GULIANG Zhuang 03.09.03; ssj: 1567; Zhong 1996: 167; tr. Malmqvist 1971: 127;
+# dating: 6200
+<pb:KR1e0008_tls_003-54a>¶
+3.9.2公及齊大夫盟于暨。¶
+
+# src: CQ GULIANG Zhuang 03.09.04; ssj: 1766; Zhong 1996: 167; tr. Malmqvist 1971: 127;
+# dating: 6200
+公不及大夫，¶
+大夫不名、¶
+無君也。¶
+盟、納子糾也。¶
+不日、¶
+其盟渝也。¶
+當齊無君，¶
+制在公矣。¶
+當可納而不納，¶
+故惡內也。
+
+# src: CQ GULIANG Zhuang 03.09.05; ssj: 1568; Zhong 1996: 167; tr. Malmqvist 1971: 127;
+# dating: 6200
+<pb:KR1e0008_tls_003-55a>¶
+3.9.3夏，¶
+公伐齊，納糾。¶
+
+# src: CQ GULIANG Zhuang 03.09.06; ssj: 1766; Zhong 1996: 168; tr. Malmqvist 1971: 128;
+# dating: 6200
+當可納而不納，¶
+齊變而後伐，¶
+故乾時之戰不諱敗，¶
+惡內也。
+
+# src: CQ GULIANG Zhuang 03.09.07; ssj: 1568; Zhong 1996: 169; tr. Malmqvist 1971: 128;
+# dating: 6200
+<pb:KR1e0008_tls_003-56a>¶
+3.9.4齊小白入于齊。¶
+
+# src: CQ GULIANG Zhuang 03.09.08; ssj: 1766; Zhong 1996: 169; tr. Malmqvist 1971: 128;
+# dating: 6200
+大夫出奔，反
+以好曰歸，¶
+以惡曰入。¶
+齊公孫無知弒襄公，¶
+公子糾、公子小白不能存，¶
+出亡，¶
+
+# src: CQ GULIANG Zhuang 03.09.09; ssj: 1766; Zhong 1996: 169; tr. Malmqvist 1971: 128;
+# dating: 6200
+齊人殺無知
+而迎公子糾於魯，¶
+公子小白不讓公子糾
+先入，¶
+又殺之于魯，¶
+故曰齊小白入于齊，¶
+惡之也。
+
+# src: CQ GULIANG Zhuang 03.09.10; ssj: 1568; Zhong 1996: 169; tr. Malmqvist 1971: 128;
+# dating: 6200
+<pb:KR1e0008_tls_003-57a>¶
+3.9.5秋
+七月
+丁酉，¶
+葬齊襄公。
+
+# src: CQ GULIANG Zhuang 03.09.11; ssj: 1568; Zhong 1996: 170; tr. Malmqvist 1971: 128;
+# dating: 6200
+<pb:KR1e0008_tls_003-58a>¶
+3.9.6八月
+庚申，¶
+及齊師戰于乾時，¶
+我師敗績。
+
+# src: CQ GULIANG Zhuang 03.09.12; ssj: 1568; Zhong 1996: 170; tr. Malmqvist 1971: 128;
+# dating: 6200
+<pb:KR1e0008_tls_003-59a>¶
+3.9.7九月，¶
+齊人取子糾殺之。¶
+
+# src: CQ GULIANG Zhuang 03.09.13; ssj: 1568; Zhong 1996: 170; tr. Malmqvist 1971: 128;
+# dating: 6200
+外不言取，¶
+言取、¶
+病內也。¶
+取、
+易辭也，¶
+猶曰取其子糾而殺之云爾。¶
+十室之邑，¶
+可以逃難，¶
+百室之邑，¶
+可以隱死，¶
+
+# src: CQ GULIANG Zhuang 03.09.14; ssj: 1568; Zhong 1996: 170; tr. Malmqvist 1971: 128;
+# dating: 6200
+以千乘之魯
+而不能存子糾，¶
+以公為病矣。
+
+# src: CQ GULIANG Zhuang 03.09.15; ssj: 1568; Zhong 1996: 171; tr. Malmqvist 1971: 129;
+# dating: 6200
+<pb:KR1e0008_tls_003-60a>¶
+3.9.8冬，¶
+浚洙。¶
+
+# src: CQ GULIANG Zhuang 03.09.16; ssj: 1766; Zhong 1996: 171; tr. Malmqvist 1971: 129;
+# dating: 6200
+浚洙者、¶
+深洙也，¶
+著力不足也。
+
+# src: CQ GULIANG Zhuang 03.10.01; ssj: 1568; Zhong 1996: 171; tr. Malmqvist 1971: 129;
+# dating: 6200
+<pb:KR1e0008_tls_003-61a>¶
+3.10《莊公十年》
+
+<pb:KR1e0008_tls_003-62a>3.10.1十年
+春
+王正月，¶
+公敗齊師于長勺。¶
+
+# src: CQ GULIANG Zhuang 03.10.02; ssj: 1767; Zhong 1996: 171; tr. Malmqvist 1971: 129;
+# dating: 6200
+不日、¶
+疑戰也。¶
+疑戰而曰敗，¶勝內也。
+
+# src: CQ GULIANG Zhuang 03.10.03; ssj: 1568; Zhong 1996: 171; tr. Malmqvist 1971: 129;
+# dating: 6200
+<pb:KR1e0008_tls_003-63a>3.10.2二月，¶
+公侵宋。¶
+
+# src: CQ GULIANG Zhuang 03.10.04; ssj: 1767; Zhong 1996: 171; tr. Malmqvist 1971: 129;
+# dating: 6200
+侵時，¶
+此其月何也？¶
+乃深其怨於齊，¶
+又退侵宋以眾其敵，¶
+惡之，¶
+故謹而月之。
+
+# src: CQ GULIANG Zhuang 03.10.05; ssj: 1569; Zhong 1996: 171; tr. Malmqvist 1971: 129;
+# dating: 6200
+<pb:KR1e0008_tls_003-64a>¶
+3.10.3三月，¶
+宋人遷宿。¶
+
+# src: CQ GULIANG Zhuang 03.10.06; ssj: 1767; Zhong 1996: 171; tr. Malmqvist 1971: 129;
+# dating: 6200
+遷、
+亡辭也。¶
+其不地、¶
+宿不復見也。¶
+遷者、¶
+猶未失其國家以往者也。
+
+# src: CQ GULIANG Zhuang 03.10.07; ssj: 1569; Zhong 1996: 172; tr. Malmqvist 1971: 129;
+# dating: 6200
+<pb:KR1e0008_tls_003-65a>¶
+3.10.4夏
+六月，¶
+齊師、宋師次于郎。¶
+
+# src: CQ GULIANG Zhuang 03.10.08; ssj: 1767; Zhong 1996: 172; tr. Malmqvist 1971: 129;
+# dating: 6200
+次、
+止也，¶
+畏我也。
+
+# src: CQ GULIANG Zhuang 03.10.09; ssj: 1569; Zhong 1996: 172; tr. Malmqvist 1971: 129;
+# dating: 6200
+<pb:KR1e0008_tls_003-66a>¶
+3.10.5公敗宋師于乘丘。¶
+
+# src: CQ GULIANG Zhuang 03.10.10; ssj: 1767; Zhong 1996: 172; tr. Malmqvist 1971: 130;
+# dating: 6200
+不日、¶
+疑戰也。¶
+疑戰而曰敗，¶
+勝內也。
+
+# src: CQ GULIANG Zhuang 03.10.11; ssj: 1767; Zhong 1996: 173; tr. Malmqvist 1971: 130;
+# dating: 6200
+<pb:KR1e0008_tls_003-67a>¶
+3.10.6秋
+九月，¶
+荊敗蔡師于莘，¶
+以蔡侯獻武歸。¶
+
+# src: CQ GULIANG Zhuang 03.10.12; ssj: 1767; Zhong 1996: 173; tr. Malmqvist 1971: 130;
+# dating: 6200
+荊者、¶
+楚也。¶
+何為謂之荊？¶
+狄之也。¶
+何為狄之？¶
+聖人立，¶
+必後至；¶
+天子弱，¶
+必先叛；¶
+
+# src: CQ GULIANG Zhuang 03.10.13; ssj: 1767; Zhong 1996: 173; tr. Malmqvist 1971: 130;
+# dating: 6200
+故曰荊，¶
+狄之也。¶
+蔡侯何以名也？¶
+絕之也。¶
+何為絕之？¶
+獲也。¶
+中國不言敗，¶
+此其言敗何也？¶
+中國不言敗，¶
+蔡侯其見獲乎？¶
+
+# src: CQ GULIANG Zhuang 03.10.14; ssj: 1767; Zhong 1996: 174; tr. Malmqvist 1971: 130;
+# dating: 6200
+其言敗何也？¶
+釋蔡侯之獲也。¶
+以歸，¶
+猶愈乎執也。
+
+# src: CQ GULIANG Zhuang 03.10.15; ssj: 1569; Zhong 1996: 174; tr. Malmqvist 1971: 130;
+# dating: 6200
+<pb:KR1e0008_tls_003-68a>¶
+3.10.7冬
+十月，¶
+齊師滅譚，¶
+譚子奔莒。
+
+# src: CQ GULIANG Zhuang 03.11.01; ssj: 1569; Zhong 1996: 175; tr. Malmqvist 1971: 130;
+# dating: 6200
+<pb:KR1e0008_tls_003-69a>¶
+3.11《莊公十一年》
+
+<pb:KR1e0008_tls_003-70a>3.11.1十有一年
+春
+王正月。
+
+# src: CQ GULIANG Zhuang 03.11.02; ssj: 1569; Zhong 1996: 175; tr. Malmqvist 1971: 130;
+# dating: 6200
+<pb:KR1e0008_tls_003-71a>¶
+3.11.2夏
+五月
+戊寅，¶
+公敗宋師于鄑。¶
+
+# src: CQ GULIANG Zhuang 03.11.03; ssj: 1768; Zhong 1996: 175; tr. Malmqvist 1971: 130;
+# dating: 6200
+內事不言戰，¶
+舉其大者，¶
+其日、¶
+成敗之也。¶
+宋萬（之）獲也。
+
+# src: CQ GULIANG Zhuang 03.11.04; ssj: 1570; Zhong 1996: 175; tr. Malmqvist 1971: 130;
+# dating: 6200
+<pb:KR1e0008_tls_003-72a>¶
+3.11.3秋，¶
+宋大水。¶
+
+# src: CQ GULIANG Zhuang 03.11.05; ssj: 1768; Zhong 1996: 175; tr. Malmqvist 1971: 131;
+# dating: 6200
+外災不書，¶
+此何以書？¶
+王者之後也。¶
+高下有水災，曰大水。
+
+# src: CQ GULIANG Zhuang 03.11.06; ssj: 1570; Zhong 1996: 175; tr. Malmqvist 1971: 131;
+# dating: 6200
+<pb:KR1e0008_tls_003-73a>¶
+3.11.4冬，¶
+王姬歸于齊。¶
+
+# src: CQ GULIANG Zhuang 03.11.07; ssj: 1768; Zhong 1996: 175; tr. Malmqvist 1971: 131;
+# dating: 6200
+其志、過我也。
+
+# src: CQ GULIANG Zhuang 03.12.01; ssj: 1570; Zhong 1996: 176; tr. Malmqvist 1971: 131;
+# dating: 6200
+<pb:KR1e0008_tls_003-74a>¶
+3.12《莊公十二年》
+
+<pb:KR1e0008_tls_003-75a>3.12.1十有二年
+春
+王三月，¶
+紀叔姬歸于酅。¶
+
+# src: CQ GULIANG Zhuang 03.12.02; ssj: 1768; Zhong 1996: 176; tr. Malmqvist 1971: 131;
+# dating: 6200
+國而曰歸，¶
+此邑也，¶
+其曰歸何也？¶
+吾女也。¶
+失國，喜得其所，¶
+故言歸焉爾。
+
+# src: CQ GULIANG Zhuang 03.12.03; ssj: 1570; Zhong 1996: 176; tr. Malmqvist 1971: 131;
+# dating: 6200
+<pb:KR1e0008_tls_003-76a>¶
+3.12.2夏
+四月。
+
+# src: CQ GULIANG Zhuang 03.12.04; ssj: 1570; Zhong 1996: 176; tr. Malmqvist 1971: 131;
+# dating: 6200
+<pb:KR1e0008_tls_003-77a>¶
+3.12.3秋
+八月
+甲午，¶
+宋萬弒其君捷。¶
+
+# src: CQ GULIANG Zhuang 03.12.05; ssj: 1768; Zhong 1996: 176; tr. Malmqvist 1971: 131;
+# dating: 6200
+宋萬、¶
+宋之卑者也，¶
+卑者以國氏。¶
+
+# src: CQ GULIANG Zhuang 03.12.07; ssj: 1768; Zhong 1996: 177; tr. Malmqvist 1971: 132;
+# dating: 6200
+及其大夫仇牧。¶
+以尊及卑也。¶
+仇牧、¶
+閑也。
+
+# src: CQ GULIANG Zhuang 03.12.08; ssj: 1570; Zhong 1996: 177; tr. Malmqvist 1971: 132;
+# dating: 6200
+<pb:KR1e0008_tls_003-78a>¶
+3.12.4冬
+十月，¶
+宋萬出奔陳。
+
+# src: CQ GULIANG Zhuang 03.13.01; ssj: 1571; Zhong 1996: 177; tr. Malmqvist 1971: 132;
+# dating: 6200
+<pb:KR1e0008_tls_003-79a>¶
+3.13《莊公十三年》
+
+<pb:KR1e0008_tls_003-80a>3.13.1十有三年
+春，¶
+齊人、¶宋人、¶陳人、¶邾蔡人、人會于北杏。¶
+
+# src: CQ GULIANG Zhuang 03.13.02; ssj: 1768; Zhong 1996: 177; tr. Malmqvist 1971: 132;
+# dating: 6200
+是齊侯、宋公也，¶
+其曰人何也？¶
+始疑之。¶
+何疑焉？¶
+桓非受命之伯也，¶
+將以事授之者也。¶
+曰
+可矣乎？¶
+未乎？¶
+
+# src: CQ GULIANG Zhuang 03.13.03; ssj: 1768; Zhong 1996: 179; tr. Malmqvist 1971: 132;
+# dating: 6200
+舉人、¶
+眾之辭也。
+
+# src: CQ GULIANG Zhuang 03.13.04; ssj: 1571; Zhong 1996: 179; tr. Malmqvist 1971: 132;
+# dating: 6200
+<pb:KR1e0008_tls_003-81a>¶
+3.13.2夏
+六月，¶
+齊人滅遂。¶
+
+# src: CQ GULIANG Zhuang 03.13.05; ssj: 1768; Zhong 1996: 179; tr. Malmqvist 1971: 132;
+# dating: 6200
+遂、
+國也。¶
+其不日、¶
+微國也。
+
+# src: CQ GULIANG Zhuang 03.13.06; ssj: 1571; Zhong 1996: 180; tr. Malmqvist 1971: 132;
+# dating: 6200
+<pb:KR1e0008_tls_003-82a>¶
+3.13.3秋
+七月。
+
+# src: CQ GULIANG Zhuang 03.13.07; ssj: 1571; Zhong 1996: 180; tr. Malmqvist 1971: 132;
+# dating: 6200
+<pb:KR1e0008_tls_003-83a>¶
+3.13.4冬，¶
+公會齊侯，¶
+盟于柯。¶
+
+# src: CQ GULIANG Zhuang 03.13.08; ssj: 1769; Zhong 1996: 180; tr. Malmqvist 1971: 133;
+# dating: 6200
+曹劌之盟也，¶
+信齊侯也。¶
+桓盟，雖內與，¶
+不日、¶
+信也。
+
+# src: CQ GULIANG Zhuang 03.14.01; ssj: 1571; Zhong 1996: 180; tr. Malmqvist 1971: 133;
+# dating: 6200
+<pb:KR1e0008_tls_003-84a>¶
+3.14《莊公十四年》
+
+<pb:KR1e0008_tls_003-85a>3.14.1十有四年
+春，¶
+齊人、¶陳人、曹人伐宋。
+
+# src: CQ GULIANG Zhuang 03.14.02; ssj: 1571; Zhong 1996: 1i1; tr. Malmqvist 1971: 133;
+# dating: 6200
+<pb:KR1e0008_tls_003-86a>¶
+3.14.2夏，¶
+單伯會伐宋。¶
+
+# src: CQ GULIANG Zhuang 03.14.03; ssj: 1769; Zhong 1996: 1i1; tr. Malmqvist 1971: 133;
+# dating: 6200
+會、
+事之成也。
+
+# src: CQ GULIANG Zhuang 03.14.04; ssj: 1571; Zhong 1996: 1i1; tr. Malmqvist 1971: 133;
+# dating: 6200
+<pb:KR1e0008_tls_003-87a>¶
+3.14.3秋
+七月，¶
+荊入蔡。¶
+
+# src: CQ GULIANG Zhuang 03.14.05; ssj: 1769; Zhong 1996: 1i1; tr. Malmqvist 1971: 133;
+# dating: 6200
+荊者、¶
+楚也。¶
+其曰荊何也？¶
+州舉之也。¶
+州不如國，¶
+國不如名，¶
+名不如字。
+
+# src: CQ GULIANG Zhuang 03.14.06; ssj: 1571; Zhong 1996: 1i1; tr. Malmqvist 1971: 133;
+# dating: 6200
+<pb:KR1e0008_tls_003-88a>¶
+3.14.4冬，¶
+單伯會齊侯、¶宋公、¶衛侯、鄭伯于鄄。¶
+
+# src: CQ GULIANG Zhuang 03.14.07; ssj: 1769; Zhong 1996: 1i2; tr. Malmqvist 1971: 133;
+# dating: 6200
+復同會也。
+
+# src: CQ GULIANG Zhuang 03.15.01; ssj: 1571; Zhong 1996: 1i2; tr. Malmqvist 1971: 133;
+# dating: 6200
+<pb:KR1e0008_tls_003-89a>¶
+3.15《莊公十五年》
+
+<pb:KR1e0008_tls_003-90a>3.15.1十有五年
+春，¶
+齊侯、¶宋公、¶陳侯、¶衛侯、鄭伯會于鄄。¶
+
+# src: CQ GULIANG Zhuang 03.15.02; ssj: 1769; Zhong 1996: 1i2; tr. Malmqvist 1971: 133;
+# dating: 6200
+復同會也。
+
+# src: CQ GULIANG Zhuang 03.15.03; ssj: 1572; Zhong 1996: 1i2; tr. Malmqvist 1971: 133;
+# dating: 6200
+<pb:KR1e0008_tls_003-91a>¶
+3.15.2夏，¶
+夫人姜氏如齊。¶
+
+# src: CQ GULIANG Zhuang 03.15.04; ssj: 1769; Zhong 1996: 1i2; tr. Malmqvist 1971: 133;
+# dating: 6200
+婦人既嫁，不踰竟，¶
+踰竟非禮也。
+
+# src: CQ GULIANG Zhuang 03.15.05; ssj: 1572; Zhong 1996: 1i2; tr. Malmqvist 1971: 133;
+# dating: 6200
+<pb:KR1e0008_tls_003-92a>¶
+3.15.3秋，¶
+宋人、¶邾齊人、人伐郳。
+
+# src: CQ GULIANG Zhuang 03.15.06; ssj: 1572; Zhong 1996: 1i2; tr. Malmqvist 1971: 133;
+# dating: 6200
+<pb:KR1e0008_tls_003-93a>¶
+3.15.4鄭人侵宋。
+
+# src: CQ GULIANG Zhuang 03.15.07; ssj: 1572; Zhong 1996: 1i2; tr. Malmqvist 1971: 133;
+# dating: 6200
+<pb:KR1e0008_tls_003-94a>¶
+3.15.5冬
+十月。
+
+# src: CQ GULIANG Zhuang 03.16.01; ssj: 1572; Zhong 1996: 1i2; tr. Malmqvist 1971: 133;
+# dating: 6200
+<pb:KR1e0008_tls_003-95a>¶
+3.16《莊公十六年》
+
+<pb:KR1e0008_tls_003-96a>3.16.1十有六年
+春
+王正月。
+
+# src: CQ GULIANG Zhuang 03.16.02; ssj: 1572; Zhong 1996: 1i2; tr. Malmqvist 1971: 133;
+# dating: 6200
+<pb:KR1e0008_tls_003-97a>¶
+3.16.2夏，¶
+宋人、¶齊人、衛人伐鄭。
+
+# src: CQ GULIANG Zhuang 03.16.03; ssj: 1572; Zhong 1996: 1i3; tr. Malmqvist 1971: 133;
+# dating: 6200
+<pb:KR1e0008_tls_003-98a>¶
+3.16.3秋，¶
+荊伐鄭。
+
+# src: CQ GULIANG Zhuang 03.16.04; ssj: 1572; Zhong 1996: 1i3; tr. Malmqvist 1971: 133;
+# dating: 6200
+<pb:KR1e0008_tls_003-99a>¶
+3.16.4冬
+十有二月，¶
+會齊侯、¶宋公、¶陳侯、¶衛侯、¶鄭伯、¶許男、¶曹伯、¶滑伯、¶滕子，同盟于幽。¶
+
+# src: CQ GULIANG Zhuang 03.16.05; ssj: 1769; Zhong 1996: 1i3; tr. Malmqvist 1971: 134;
+# dating: 6200
+同者、¶
+有同也，¶
+同尊周也。¶
+不言公，¶
+外內寮一
+疑之也。
+
+# src: CQ GULIANG Zhuang 03.16.06; ssj: 1572; Zhong 1996: 1i4; tr. Malmqvist 1971: 134;
+# dating: 6200
+<pb:KR1e0008_tls_003-100a>¶
+3.16.5邾子克卒。¶
+
+# src: CQ GULIANG Zhuang 03.16.07; ssj: 1572; Zhong 1996: 1i4; tr. Malmqvist 1971: 134;
+# dating: 6200
+其曰子，¶
+進之也。
+
+# src: CQ GULIANG Zhuang 03.17.02; ssj: 1770; Zhong 1996: 1i4; tr. Malmqvist 1971: 134;
+# dating: 6200
+<pb:KR1e0008_tls_003-101a>¶
+3.17《莊公十七年》
+<pb:KR1e0008_tls_003-102a>¶
+
+3.17.1十有七年春，¶
+齊人執鄭詹。人者、¶
+眾辭也。¶
+以人執，¶
+與之辭也。¶
+鄭詹、¶
+鄭之卑者，¶
+卑者不志，¶
+此其志何也？¶
+以其逃來，志之也。¶
+
+# src: CQ GULIANG Zhuang 03.17.03; ssj: 1770; Zhong 1996: 185; tr. Malmqvist 1971: 134;
+# dating: 6200
+逃來則何志焉？¶
+將有其末，¶
+不得不錄其本也。¶
+鄭詹、¶
+鄭之佞人也。
+
+# src: CQ GULIANG Zhuang 03.17.04; ssj: 1572; Zhong 1996: 185; tr. Malmqvist 1971: 134;
+# dating: 6200
+<pb:KR1e0008_tls_003-103a>¶
+3.17.2夏，¶
+齊人殲于遂。¶
+
+# src: CQ GULIANG Zhuang 03.17.05; ssj: 1770; Zhong 1996: 185; tr. Malmqvist 1971: 134;
+# dating: 6200
+殲者、¶
+盡也。¶
+然則何為不言遂人
+盡齊人也？¶
+無遂之辭也。¶
+無遂則何為言遂？¶
+其猶存遂也。¶
+
+# src: CQ GULIANG Zhuang 03.17.06; ssj: 1770; Zhong 1996: 185; tr. Malmqvist 1971: 134;
+# dating: 6200
+存遂奈何？¶
+曰
+齊人滅遂，¶
+使人戍之，¶
+遂之因氏飲戍者酒而殺之，¶
+齊人殲焉。¶
+此謂狎敵也。
+
+# src: CQ GULIANG Zhuang 03.17.07; ssj: 1572; Zhong 1996: 186; tr. Malmqvist 1971: 134;
+# dating: 6200
+<pb:KR1e0008_tls_003-104a>¶
+3.17.3秋，
+鄭詹自齊逃來。¶
+
+# src: CQ GULIANG Zhuang 03.17.08; ssj: 1770; Zhong 1996: 186; tr. Malmqvist 1971: 134;
+# dating: 6200
+逃義曰逃。
+
+# src: CQ GULIANG Zhuang 03.17.09; ssj: 1573; Zhong 1996: 186; tr. Malmqvist 1971: 134;
+# dating: 6200
+<pb:KR1e0008_tls_003-105a>¶
+3.17.4冬，¶
+多麋。
+
+# src: CQ GULIANG Zhuang 03.18.01; ssj: 1573; Zhong 1996: 186; tr. Malmqvist 1971: 134;
+# dating: 6200
+<pb:KR1e0008_tls_003-106a>¶
+3.18《莊公十八年》
+
+<pb:KR1e0008_tls_003-107a>3.18.1十有八年
+春
+王三月，¶
+日有食之。¶
+
+# src: CQ GULIANG Zhuang 03.18.02; ssj: 1770; Zhong 1996: 186; tr. Malmqvist 1971: 134;
+# dating: 6200
+不言日，¶
+不言朔，¶
+夜食也。¶
+何以知其夜食也？¶
+曰：
+王者朝日，¶
+故雖為天子，¶
+必有尊也，¶
+貴為諸侯，¶
+必有長也，¶
+
+# src: CQ GULIANG Zhuang 03.18.03; ssj: 1770; Zhong 1996: 187; tr. Malmqvist 1971: 135;
+# dating: 6200
+故天子朝日，¶
+諸侯朝朔。
+
+# src: CQ GULIANG Zhuang 03.18.04; ssj: 1573; Zhong 1996: 187; tr. Malmqvist 1971: 135;
+# dating: 6200
+<pb:KR1e0008_tls_003-108a>¶
+3.18.2夏，¶
+公追戎于濟西。¶
+
+# src: CQ GULIANG Zhuang 03.18.05; ssj: 1770; Zhong 1996: 187; tr. Malmqvist 1971: 135;
+# dating: 6200
+其不言戎之伐我，¶何也？¶
+以公之追之，¶
+不使戎邇於我也。¶
+于濟西者、¶
+大之也。¶
+何大焉？¶
+為公之追之也。
+
+# src: CQ GULIANG Zhuang 03.18.06; ssj: 1573; Zhong 1996: 188; tr. Malmqvist 1971: 135;
+# dating: 6200
+<pb:KR1e0008_tls_003-109a>¶
+3.18.3秋，¶
+有蜮。¶
+
+# src: CQ GULIANG Zhuang 03.18.07; ssj: 1770; Zhong 1996: 188; tr. Malmqvist 1971: 135;
+# dating: 6200
+一有一亡曰有，¶
+蜮、
+射人者也。
+
+# src: CQ GULIANG Zhuang 03.18.08; ssj: 1573; Zhong 1996: 189; tr. Malmqvist 1971: 135;
+# dating: 6200
+<pb:KR1e0008_tls_003-110a>¶
+3.18.4冬
+十月。
+
+# src: CQ GULIANG Zhuang 03.19.01; ssj: 1573; Zhong 1996: 191; tr. Malmqvist 1971: 135;
+# dating: 6200
+<pb:KR1e0008_tls_003-111a>¶
+3.19《莊公十九年》
+
+<pb:KR1e0008_tls_003-112a>3.19.1十有九年
+春
+王正月。
+
+# src: CQ GULIANG Zhuang 03.19.02; ssj: 1573; Zhong 1996: 191; tr. Malmqvist 1971: 135;
+# dating: 6200
+<pb:KR1e0008_tls_003-113a>¶
+3.19.2夏
+四月。
+
+# src: CQ GULIANG Zhuang 03.19.03; ssj: 1573; Zhong 1996: 191; tr. Malmqvist 1971: 135;
+# dating: 6200
+<pb:KR1e0008_tls_003-114a>¶
+3.19.3秋，¶
+公子結媵陳人之婦于鄄，¶
+遂及齊侯、宋公盟。¶
+
+# src: CQ GULIANG Zhuang 03.19.04; ssj: 1770-1771; Zhong 1996: 191; tr. Malmqvist 1971: 136;
+# dating: 6200
+媵、
+淺事也，¶
+不志，¶
+此其志，何也？¶
+辟要盟也。¶
+何以見其辟要盟也？¶
+媵、
+禮之輕者也，¶
+盟、
+國之重也，¶
+
+# src: CQ GULIANG Zhuang 03.19.05; ssj: 1771; Zhong 1996: 191; tr. Malmqvist 1971: 136;
+# dating: 6200
+以輕事遂乎國重，無說。¶
+其曰陳人之婦，¶
+略之也。¶
+其不日，¶
+數渝，¶
+惡之也。
+
+# src: CQ GULIANG Zhuang 03.19.06; ssj: 1574; Zhong 1996: 192; tr. Malmqvist 1971: 136;
+# dating: 6200
+<pb:KR1e0008_tls_003-115a>¶
+3.19.4夫人姜氏如莒。¶
+
+# src: CQ GULIANG Zhuang 03.19.07; ssj: 1771; Zhong 1996: 192; tr. Malmqvist 1971: 136;
+# dating: 6200
+婦人既嫁，不踰竟，¶
+踰竟非正也。
+
+# src: CQ GULIANG Zhuang 03.19.08; ssj: 1574; Zhong 1996: 192; tr. Malmqvist 1971: 136;
+# dating: 6200
+<pb:KR1e0008_tls_003-116a>¶
+3.19.5冬，¶
+齊人、¶宋人、陳人伐我西鄙。¶
+
+# src: CQ GULIANG Zhuang 03.19.09; ssj: 1771; Zhong 1996: 192; tr. Malmqvist 1971: 136;
+# dating: 6200
+其曰鄙，¶
+遠之也。¶
+其遠之何也？¶
+不以難邇我國也。
+
+# src: CQ GULIANG Zhuang 03.20.01; ssj: 1574; Zhong 1996: 193; tr. Malmqvist 1971: 136;
+# dating: 6200
+<pb:KR1e0008_tls_003-117a>¶
+3.20《莊公二十年》
+
+<pb:KR1e0008_tls_003-118a>3.20.1二十年
+春
+王二月，¶
+夫人姜氏如莒。¶
+
+# src: CQ GULIANG Zhuang 03.20.02; ssj: 1771; Zhong 1996: 193; tr. Malmqvist 1971: 136;
+# dating: 6200
+婦人既嫁不踰竟，¶
+踰竟非正也。
+
+# src: CQ GULIANG Zhuang 03.20.03; ssj: 1574; Zhong 1996: 193; tr. Malmqvist 1971: 136;
+# dating: 6200
+<pb:KR1e0008_tls_003-119a>¶
+3.20.2夏，¶
+齊大災。¶
+
+# src: CQ GULIANG Zhuang 03.20.04; ssj: 1771; Zhong 1996: 193; tr. Malmqvist 1971: 136;
+# dating: 6200
+其志、¶
+以甚也。
+
+# src: CQ GULIANG Zhuang 03.20.05; ssj: 1574; Zhong 1996: 193; tr. Malmqvist 1971: 136;
+# dating: 6200
+<pb:KR1e0008_tls_003-120a>¶
+3.20.3秋
+七月。
+
+# src: CQ GULIANG Zhuang 03.20.06; ssj: 1574; Zhong 1996: 193; tr. Malmqvist 1971: 136;
+# dating: 6200
+<pb:KR1e0008_tls_003-121a>¶
+3.20.4冬，¶
+齊人伐我。
+
+# src: CQ GULIANG Zhuang 03.21.01; ssj: 1574; Zhong 1996: 193; tr. Malmqvist 1971: 136;
+# dating: 6200
+<pb:KR1e0008_tls_003-122a>¶
+3.21《莊公二十一年》
+
+<pb:KR1e0008_tls_003-123a>3.21.1二十有一年
+春
+王正月。
+
+# src: CQ GULIANG Zhuang 03.21.02; ssj: 1574; Zhong 1996: 193; tr. Malmqvist 1971: 136;
+# dating: 6200
+<pb:KR1e0008_tls_003-124a>¶
+3.21.2夏
+五月
+辛酉，¶
+鄭伯突卒。
+
+# src: CQ GULIANG Zhuang 03.21.03; ssj: 1574; Zhong 1996: 193; tr. Malmqvist 1971: 136;
+# dating: 6200
+<pb:KR1e0008_tls_003-125a>¶
+3.21.3秋
+七月
+戊戌，¶
+夫人姜氏薨。¶
+
+# src: CQ GULIANG Zhuang 03.21.04; ssj: 1771; Zhong 1996: 193; tr. Malmqvist 1971: 136;
+# dating: 6200
+婦人弗目也。
+
+# src: CQ GULIANG Zhuang 03.21.05; ssj: 1574; Zhong 1996: 194; tr. Malmqvist 1971: 136;
+# dating: 6200
+<pb:KR1e0008_tls_003-126a>¶
+3.21.4冬
+十有二月，¶
+葬鄭厲公。
+
+# src: CQ GULIANG Zhuang 03.22.01; ssj: 1574; Zhong 1996: 194; tr. Malmqvist 1971: 136;
+# dating: 6200
+<pb:KR1e0008_tls_003-127a>¶
+3.22《莊公二十二年》
+
+<pb:KR1e0008_tls_003-128a>3.22.1二十有二年
+春
+王正月。¶
+肆大眚。
+
+# src: CQ GULIANG Zhuang 03.22.02; ssj: 1771; Zhong 1996: 194; tr. Malmqvist 1971: 137;
+# dating: 6200
+肆、
+失也，¶
+眚、
+災也，¶
+災、紀也，¶
+失、故也，¶
+為嫌天子之葬也。
+
+# src: CQ GULIANG Zhuang 03.22.03; ssj: 1574; Zhong 1996: 195; tr. Malmqvist 1971: 137;
+# dating: 6200
+<pb:KR1e0008_tls_003-129a>¶
+3.22.2癸丑，¶
+葬我小君文姜。¶
+
+# src: CQ GULIANG Zhuang 03.22.04; ssj: 1771; Zhong 1996: 195; tr. Malmqvist 1971: 137;
+# dating: 6200
+小君、非君也，¶
+其曰君，何也？¶
+以其為公配，¶
+可以言小君也。
+
+# src: CQ GULIANG Zhuang 03.22.05; ssj: 1575; Zhong 1996: 195; tr. Malmqvist 1971: 137;
+# dating: 6200
+<pb:KR1e0008_tls_003-130a>¶
+3.22.3陳人殺其公子禦寇。¶
+
+# src: CQ GULIANG Zhuang 03.22.06; ssj: 1771; Zhong 1996: 195; tr. Malmqvist 1971: 137;
+# dating: 6200
+言公子而不言大夫，¶
+公子未命為大夫也。¶
+其曰公子
+何也？¶
+公子之重視大夫，¶
+命以執公子。
+
+# src: CQ GULIANG Zhuang 03.22.07; ssj: 1575; Zhong 1996: 196; tr. Malmqvist 1971: 137;
+# dating: 6200
+<pb:KR1e0008_tls_003-131a>¶
+3.22.4夏
+五月。
+
+# src: CQ GULIANG Zhuang 03.22.08; ssj: 1575; Zhong 1996: 196; tr. Malmqvist 1971: 137;
+# dating: 6200
+<pb:KR1e0008_tls_003-132a>¶
+3.22.5秋
+七月
+丙申，¶
+及齊高傒盟于防。¶
+
+# src: CQ GULIANG Zhuang 03.22.09; ssj: 1772; Zhong 1996: 196; tr. Malmqvist 1971: 137;
+# dating: 6200
+不言公，¶
+高傒伉也。
+
+# src: CQ GULIANG Zhuang 03.22.10; ssj: 1575; Zhong 1996: 196; tr. Malmqvist 1971: 137;
+# dating: 6200
+<pb:KR1e0008_tls_003-133a>¶
+3.22.6冬，¶
+公如齊納幣。¶
+
+# src: CQ GULIANG Zhuang 03.22.11; ssj: 1772; Zhong 1996: 196; tr. Malmqvist 1971: 137;
+# dating: 6200
+納幣、¶
+大夫之事也。¶
+禮、有納采，¶
+有問名，¶
+有納徵，¶
+有告期，¶
+四者備而後娶，¶
+禮也。¶
+
+# src: CQ GULIANG Zhuang 03.22.12; ssj: 1772; Zhong 1996: 197; tr. Malmqvist 1971: 137;
+# dating: 6200
+公之親納幣，¶
+非禮也，¶
+故譏之。
+
+# src: CQ GULIANG Zhuang 03.23.01; ssj: 1575; Zhong 1996: 197; tr. Malmqvist 1971: 137;
+# dating: 6200
+<pb:KR1e0008_tls_003-134a>¶
+3.23《莊公二十三年》
+
+<pb:KR1e0008_tls_003-135a>3.23.1二十有三年
+春，¶
+公至自齊。
+
+# src: CQ GULIANG Zhuang 03.23.02; ssj: 1575; Zhong 1996: 197; tr. Malmqvist 1971: 138;
+# dating: 6200
+<pb:KR1e0008_tls_003-136a>¶
+3.23.2祭叔來聘。¶
+
+# src: CQ GULIANG Zhuang 03.23.03; ssj: 1772; Zhong 1996: 197; tr. Malmqvist 1971: 138;
+# dating: 6200
+其不言使何也？¶
+天子之內臣也，¶
+不正其外交，¶
+故不與使也。
+
+# src: CQ GULIANG Zhuang 03.23.04; ssj: 1575; Zhong 1996: 198; tr. Malmqvist 1971: 138;
+# dating: 6200
+<pb:KR1e0008_tls_003-137a>¶
+3.23.3夏，¶
+公如齊觀社。¶
+
+# src: CQ GULIANG Zhuang 03.23.05; ssj: 1772; Zhong 1996: 198; tr. Malmqvist 1971: 138;
+# dating: 6200
+常事曰視，¶
+非常曰觀，¶
+觀、
+無事之辭也。¶
+以是為尸女也。¶
+無事不出竟。¶
+
+# src: CQ GULIANG Zhuang 03.23.06; ssj: 1575; Zhong 1996: 199; tr. Malmqvist 1971: 138;
+# dating: 6200
+公至自齊。¶
+
+# src: CQ GULIANG Zhuang 03.23.07; ssj: 1772; Zhong 1996: 199; tr. Malmqvist 1971: 138;
+# dating: 6200
+公如，¶
+往時、¶
+正也，¶
+致月、¶
+故也。
+（¶如）往月、致月，¶
+有懼焉爾。
+
+# src: CQ GULIANG Zhuang 03.23.08; ssj: 1575; Zhong 1996: 199; tr. Malmqvist 1971: 138;
+# dating: 6200
+<pb:KR1e0008_tls_003-138a>¶
+3.23.4荊人來聘。¶
+
+# src: CQ GULIANG Zhuang 03.23.09; ssj: 1772; Zhong 1996: 199; tr. Malmqvist 1971: 138;
+# dating: 6200
+善累而後進之。¶
+其曰人何也？¶
+舉道不待再。
+
+# src: CQ GULIANG Zhuang 03.23.10; ssj: 1576; Zhong 1996: 199; tr. Malmqvist 1971: 138;
+# dating: 6200
+<pb:KR1e0008_tls_003-139a>¶
+3.23.5公及齊侯遇于穀。¶
+
+# src: CQ GULIANG Zhuang 03.23.11; ssj: 1772; Zhong 1996: 199; tr. Malmqvist 1971: 138;
+# dating: 6200
+及者、¶
+內為志焉爾。¶
+遇者、¶
+志相得也。
+
+# src: CQ GULIANG Zhuang 03.23.12; ssj: 1576; Zhong 1996: 199; tr. Malmqvist 1971: 138;
+# dating: 6200
+<pb:KR1e0008_tls_003-140a>¶
+3.23.6蕭叔朝公。¶
+
+# src: CQ GULIANG Zhuang 03.23.13; ssj: 1772; Zhong 1996: 199; tr. Malmqvist 1971: 138;
+# dating: 6200
+微國之君
+未爵命者。¶
+其不言來、¶
+於外也。¶
+朝於廟、¶
+正也。¶
+於外、¶
+非正也。
+
+# src: CQ GULIANG Zhuang 03.23.14; ssj: 1576; Zhong 1996: 200; tr. Malmqvist 1971: 138;
+# dating: 6200
+<pb:KR1e0008_tls_003-141a>¶
+3.23.7秋，¶
+丹桓宮楹。¶
+
+# src: CQ GULIANG Zhuang 03.23.15; ssj: 1773; Zhong 1996: 200; tr. Malmqvist 1971: 139;
+# dating: 6200
+禮、
+天子諸侯黝堊，¶
+大夫倉，¶
+士黈，¶
+丹楹、¶
+非禮也。
+
+# src: CQ GULIANG Zhuang 03.23.16; ssj: 1576; Zhong 1996: 200; tr. Malmqvist 1971: 139;
+# dating: 6200
+<pb:KR1e0008_tls_003-142a>¶
+3.23.8冬，¶
+十有一月，¶
+曹伯射姑卒。
+
+# src: CQ GULIANG Zhuang 03.23.17; ssj: 1576; Zhong 1996: 201; tr. Malmqvist 1971: 139;
+# dating: 6200
+<pb:KR1e0008_tls_003-143a>¶
+3.23.9十有二月
+甲寅，¶
+公會齊侯盟于扈。
+
+# src: CQ GULIANG Zhuang 03.24.01; ssj: 1576; Zhong 1996: 201; tr. Malmqvist 1971: 139;
+# dating: 6200
+<pb:KR1e0008_tls_003-144a>¶
+3.24《莊公二十四年》
+
+<pb:KR1e0008_tls_003-145a>3.24.1二十有四年
+春
+王三月，¶
+刻桓宮桷。¶
+
+# src: CQ GULIANG Zhuang 03.24.02; ssj: 1773; Zhong 1996: 201; tr. Malmqvist 1971: 139;
+# dating: 6200
+禮、
+天子之桷，¶
+斲之礱之，¶
+加密石焉；¶
+諸侯之桷，¶
+斲之礱之；¶
+大夫斲之；¶
+士斲本。¶
+刻桷、¶
+非正也。¶
+
+# src: CQ GULIANG Zhuang 03.24.03; ssj: 1773; Zhong 1996: 202; tr. Malmqvist 1971: 139;
+# dating: 6200
+夫人
+所以崇宗廟也，¶
+取非禮與非正
+而加之於宗廟
+以飾夫人，¶
+非正也。¶
+刻桓宮桷，¶
+丹桓宮楹，¶
+斥言桓宮，¶
+以惡莊也。
+
+# src: CQ GULIANG Zhuang 03.24.04; ssj: 1576; Zhong 1996: 202; tr. Malmqvist 1971: 139;
+# dating: 6200
+<pb:KR1e0008_tls_003-146a>¶
+3.24.2葬
+曹莊公。
+
+# src: CQ GULIANG Zhuang 03.24.05; ssj: 1576; Zhong 1996: 202; tr. Malmqvist 1971: 139;
+# dating: 6200
+<pb:KR1e0008_tls_003-147a>¶
+3.24.3夏，¶
+公如齊逆女。¶
+
+# src: CQ GULIANG Zhuang 03.24.06; ssj: 1773; Zhong 1996: 202; tr. Malmqvist 1971: 139;
+# dating: 6200
+親迎、¶
+恆事也，¶
+不志。¶
+此其志何也？¶
+不正其親迎於齊也。
+
+# src: CQ GULIANG Zhuang 03.24.07; ssj: 1576; Zhong 1996: 202; tr. Malmqvist 1971: 139;
+# dating: 6200
+<pb:KR1e0008_tls_003-148a>¶
+3.24.4秋，¶
+公至自齊。¶
+
+# src: CQ GULIANG Zhuang 03.24.08; ssj: 1773; Zhong 1996: 202; tr. Malmqvist 1971: 139;
+# dating: 6200
+迎者，¶
+行見諸，¶
+舍見諸，¶
+先至、¶
+非正也。
+
+# src: CQ GULIANG Zhuang 03.24.09; ssj: 1576; Zhong 1996: 203; tr. Malmqvist 1971: 139;
+# dating: 6200
+<pb:KR1e0008_tls_003-149a>¶
+3.24.5八月
+丁丑，¶
+夫人姜氏入。¶
+
+# src: CQ GULIANG Zhuang 03.24.10; ssj: 1773; Zhong 1996: 203; tr. Malmqvist 1971: 140;
+# dating: 6200
+入者、¶
+內弗受也。¶
+日入，¶
+惡入者也。¶
+何用不受也？¶
+以宗廟弗受也。¶
+
+# src: CQ GULIANG Zhuang 03.24.11; ssj: 1773; Zhong 1996: 203; tr. Malmqvist 1971: 140;
+# dating: 6200
+其以宗廟弗受何也？¶
+娶仇人子弟
+以薦舍於前，¶
+其義不可受也。¶
+
+# src: CQ GULIANG Zhuang 03.24.12; ssj: 1577; Zhong 1996: 203; tr. Malmqvist 1971: 140;
+# dating: 6200
+戊寅，¶
+大夫宗婦覿，用幣。¶
+
+# src: CQ GULIANG Zhuang 03.24.13; ssj: 1773; Zhong 1996: 204; tr. Malmqvist 1971: 140;
+# dating: 6200
+覿、
+見也。¶
+禮、
+大夫不見夫人。¶
+不言及，不正
+其行婦道，¶
+故列數之也。¶
+
+# src: CQ GULIANG Zhuang 03.24.14; ssj: 1773; Zhong 1996: 204; tr. Malmqvist 1971: 140;
+# dating: 6200
+男子之贄，¶
+羔、鴈、雉、腒；¶
+婦人之贄，¶
+棗、栗、鍛脩。¶
+用幣、¶
+非禮也。¶
+用者、¶
+不宜用者也。¶
+
+# src: CQ GULIANG Zhuang 03.24.15; ssj: 1773; Zhong 1996: 204; tr. Malmqvist 1971: 140;
+# dating: 6200
+大夫、¶
+國體也，¶
+而行婦道，¶
+惡之，¶
+故謹而日之也。
+
+# src: CQ GULIANG Zhuang 03.24.16; ssj: 1577; Zhong 1996: 205; tr. Malmqvist 1971: 140;
+# dating: 6200
+<pb:KR1e0008_tls_003-150a>¶
+3.24.6大水。
+
+# src: CQ GULIANG Zhuang 03.24.17; ssj: 1577; Zhong 1996: 205; tr. Malmqvist 1971: 140;
+# dating: 6200
+<pb:KR1e0008_tls_003-151a>¶
+3.24.7冬，¶
+戎侵曹，¶
+曹羈出奔陳，¶
+
+# src: CQ GULIANG Zhuang 03.24.18; ssj: 1577; Zhong 1996: 205; tr. Malmqvist 1971: 140;
+# dating: 6200
+赤歸于曹。郭公。¶
+
+# src: CQ GULIANG Zhuang 03.24.19; ssj: 1774; Zhong 1996: 205; tr. Malmqvist 1971: 141;
+# dating: 6200
+赤、蓋
+郭公也。¶
+何為名也？¶
+禮、
+諸侯無外歸之義，¶
+外歸、¶
+非正也。
+
+# src: CQ GULIANG Zhuang 03.25.01; ssj: 1577; Zhong 1996: 206; tr. Malmqvist 1971: 141;
+# dating: 6200
+<pb:KR1e0008_tls_003-152a>¶
+3.25《莊公二十五年》
+
+<pb:KR1e0008_tls_003-153a>3.25.1二十有五年
+春，¶
+陳侯使女叔來聘。¶
+
+# src: CQ GULIANG Zhuang 03.25.02; ssj: 1774; Zhong 1996: 206; tr. Malmqvist 1971: 141;
+# dating: 6200
+其不名何也？¶
+天子之命大夫也。
+
+# src: CQ GULIANG Zhuang 03.25.03; ssj: 1577; Zhong 1996: 206; tr. Malmqvist 1971: 141;
+# dating: 6200
+<pb:KR1e0008_tls_003-154a>¶
+3.25.2夏
+五月
+癸丑，¶
+衛侯朔卒。
+
+# src: CQ GULIANG Zhuang 03.25.04; ssj: 1577; Zhong 1996: 206; tr. Malmqvist 1971: 141;
+# dating: 6200
+<pb:KR1e0008_tls_003-155a>¶
+3.25.3六月
+辛未朔，¶
+日有食之。¶
+
+# src: CQ GULIANG Zhuang 03.25.05; ssj: 1774; Zhong 1996: 206; tr. Malmqvist 1971: 141;
+# dating: 6200
+言日言朔，¶
+食正朔也。¶
+鼓、用牲于社。鼓、
+禮也，¶
+用牲、¶
+非禮也。¶
+天子救日，¶
+
+# src: CQ GULIANG Zhuang 03.25.06; ssj: 1774; Zhong 1996: 207; tr. Malmqvist 1971: 141;
+# dating: 6200
+置五麾，¶
+陳五兵五鼓，¶
+諸侯置三麾，¶
+陳三兵
+三鼓；大夫擊門，¶
+士擊柝。¶
+言充其陽也。
+
+# src: CQ GULIANG Zhuang 03.25.07; ssj: 1578; Zhong 1996: 208; tr. Malmqvist 1971: 141;
+# dating: 6200
+<pb:KR1e0008_tls_003-156a>¶
+3.25.4伯姬歸于杞。¶
+
+# src: CQ GULIANG Zhuang 03.25.08; ssj: 1774; Zhong 1996: 208; tr. Malmqvist 1971: 141;
+# dating: 6200
+其不言逆何也？¶
+逆之道微，¶
+無足道焉爾。
+
+# src: CQ GULIANG Zhuang 03.25.09; ssj: 1578; Zhong 1996: 208; tr. Malmqvist 1971: 141;
+# dating: 6200
+<pb:KR1e0008_tls_003-157a>¶
+3.25.5秋，¶
+大水，¶
+鼓、用牲于社、于門。¶
+
+# src: CQ GULIANG Zhuang 03.25.10; ssj: 1774; Zhong 1996: 208; tr. Malmqvist 1971: 141;
+# dating: 6200
+高下有水災曰大水。¶
+既戒鼓而駭眾，¶
+用牲可以已矣。¶
+救日以鼓兵，¶
+救水以鼓眾。
+
+# src: CQ GULIANG Zhuang 03.25.11; ssj: 1578; Zhong 1996: 209; tr. Malmqvist 1971: 141;
+# dating: 6200
+<pb:KR1e0008_tls_003-158a>¶
+3.25.6冬，¶
+公子友如陳。
+
+# src: CQ GULIANG Zhuang 03.26.01; ssj: 1578; Zhong 1996: 210; tr. Malmqvist 1971: 141;
+# dating: 6200
+<pb:KR1e0008_tls_003-159a>¶
+3.26《莊公二十六年》
+
+<pb:KR1e0008_tls_003-160a>3.26.1二十有六年
+春，¶
+公伐戎。
+
+# src: CQ GULIANG Zhuang 03.26.02; ssj: 1578; Zhong 1996: 210; tr. Malmqvist 1971: 141;
+# dating: 6200
+<pb:KR1e0008_tls_003-161a>¶
+3.26.2夏，¶
+公至自伐戎。
+
+# src: CQ GULIANG Zhuang 03.26.03; ssj: 1578; Zhong 1996: 210; tr. Malmqvist 1971: 142;
+# dating: 6200
+<pb:KR1e0008_tls_003-162a>¶
+3.26.3曹殺其大夫。¶
+
+# src: CQ GULIANG Zhuang 03.26.04; ssj: 1774; Zhong 1996: 210; tr. Malmqvist 1971: 142;
+# dating: 6200
+言大夫而不稱名姓，¶
+無命大夫也。¶
+無命大夫而曰大夫，¶
+賢也。¶
+為曹羈崇也。
+
+# src: CQ GULIANG Zhuang 03.26.05; ssj: 1578; Zhong 1996: 211; tr. Malmqvist 1971: 142;
+# dating: 6200
+<pb:KR1e0008_tls_003-163a>¶
+3.26.4秋，¶
+公會宋人、齊人伐徐。
+
+# src: CQ GULIANG Zhuang 03.26.06; ssj: 1578; Zhong 1996: 211; tr. Malmqvist 1971: 142;
+# dating: 6200
+<pb:KR1e0008_tls_003-164a>¶
+3.26.5冬
+十有二月
+癸亥朔，¶
+日有食之。
+
+# src: CQ GULIANG Zhuang 03.27.01; ssj: 1578; Zhong 1996: 211; tr. Malmqvist 1971: 142;
+# dating: 6200
+<pb:KR1e0008_tls_003-165a>¶
+3.27《莊公二十七年》
+
+<pb:KR1e0008_tls_003-166a>3.27.1二十有七年
+春，¶
+公會杞伯姬于洮。
+
+# src: CQ GULIANG Zhuang 03.27.02; ssj: 1578; Zhong 1996: 212; tr. Malmqvist 1971: 142;
+# dating: 6200
+<pb:KR1e0008_tls_003-167a>¶
+3.27.2夏
+六月，¶
+公會齊侯、¶宋公、¶陳侯、鄭伯，¶
+同盟于幽。¶
+
+# src: CQ GULIANG Zhuang 03.27.03; ssj: 1775; Zhong 1996: 212; tr. Malmqvist 1971: 142;
+# dating: 6200
+同者、¶
+有同也，¶
+同尊周也，¶
+於是而後授之諸侯也。¶
+其授之諸侯何也？¶
+齊侯得眾也，¶
+桓會不致，¶
+安之也，¶
+桓盟不日，¶
+信之也。¶
+
+# src: CQ GULIANG Zhuang 03.27.04; ssj: 1775; Zhong 1996: 212; tr. Malmqvist 1971: 142;
+# dating: 6200
+信其信，¶
+仁其仁。¶
+衣裳之會十有一，¶
+未嘗有歃血之盟也，信厚也。¶
+兵車之會四，¶
+未嘗有大戰也，愛民也。
+
+# src: CQ GULIANG Zhuang 03.27.05; ssj: 1578; Zhong 1996: 213; tr. Malmqvist 1971: 142;
+# dating: 6200
+<pb:KR1e0008_tls_003-168a>¶
+3.27.3秋，¶
+公子友如陳，¶
+葬原仲。¶
+
+# src: CQ GULIANG Zhuang 03.27.06; ssj: 1775; Zhong 1996: 213; tr. Malmqvist 1971: 143;
+# dating: 6200
+言葬不言卒，¶
+不葬者也。¶
+不葬而曰葬，¶
+諱出奔也。
+
+# src: CQ GULIANG Zhuang 03.27.07; ssj: 1579; Zhong 1996: 214; tr. Malmqvist 1971: 143;
+# dating: 6200
+<pb:KR1e0008_tls_003-169a>¶
+3.27.4冬，¶
+杞伯姬來。
+
+# src: CQ GULIANG Zhuang 03.27.08; ssj: 1579; Zhong 1996: 214; tr. Malmqvist 1971: 143;
+# dating: 6200
+<pb:KR1e0008_tls_003-170a>¶
+3.27.5莒慶來逆叔姬。¶
+
+# src: CQ GULIANG Zhuang 03.27.09; ssj: 1775; Zhong 1996: 215; tr. Malmqvist 1971: 143;
+# dating: 6200
+諸侯之嫁子於大夫，¶
+主大夫以與之。¶
+來者、接內也。¶
+不正其接內，¶
+故不與夫婦之稱也。
+
+# src: CQ GULIANG Zhuang 03.27.10; ssj: 1579; Zhong 1996: 215; tr. Malmqvist 1971: 143;
+# dating: 6200
+<pb:KR1e0008_tls_003-171a>¶
+3.27.6杞伯來朝。
+
+# src: CQ GULIANG Zhuang 03.27.11; ssj: 1579; Zhong 1996: 215; tr. Malmqvist 1971: 143;
+# dating: 6200
+<pb:KR1e0008_tls_003-172a>¶
+3.27.7公會齊侯于城濮。
+
+# src: CQ GULIANG Zhuang 03.28.01; ssj: 1579; Zhong 1996: 217; tr. Malmqvist 1971: 143;
+# dating: 6200
+<pb:KR1e0008_tls_003-173a>¶
+3.28《莊公二十八年》
+
+<pb:KR1e0008_tls_003-174a>3.28.1二十有八年
+春
+王三月
+甲寅，¶
+齊人伐衛，¶
+衛人及齊人戰，¶
+衛人敗績。¶
+
+# src: CQ GULIANG Zhuang 03.28.02; ssj: 1775; Zhong 1996: 217; tr. Malmqvist 1971: 143;
+# dating: 6200
+於伐與戰，¶
+安戰也？¶
+戰衛，¶
+戰則是師也。¶
+其曰人何也？¶
+微之也。¶
+
+# src: CQ GULIANG Zhuang 03.28.03; ssj: 1775; Zhong 1996: 217; tr. Malmqvist 1971: 144;
+# dating: 6200
+何為微之也？¶
+今授之諸侯，¶
+而後有侵伐之事，¶
+故微之也。¶
+其人衛
+何也？¶
+以其人齊，¶
+不可不人衛也。¶
+
+# src: CQ GULIANG Zhuang 03.28.04; ssj: 1775; Zhong 1996: 217; tr. Malmqvist 1971: 144;
+# dating: 6200
+衛小齊大，¶
+其以衛及之
+何也？¶
+以其微之，¶
+可以言及也。¶
+其稱人以敗何也？¶
+不以師敗於人也。
+
+# src: CQ GULIANG Zhuang 03.28.05; ssj: 1579; Zhong 1996: 218; tr. Malmqvist 1971: 144;
+# dating: 6200
+<pb:KR1e0008_tls_003-175a>¶
+3.28.2夏
+四月
+丁未，¶
+邾子瑣卒。
+
+# src: CQ GULIANG Zhuang 03.28.06; ssj: 1579; Zhong 1996: 218; tr. Malmqvist 1971: 144;
+# dating: 6200
+<pb:KR1e0008_tls_003-176a>¶
+3.28.3秋，¶
+荊伐鄭。¶
+
+# src: CQ GULIANG Zhuang 03.28.07; ssj: 1776; Zhong 1996: 218; tr. Malmqvist 1971: 144;
+# dating: 6200
+荊者、¶
+楚也，¶
+其曰荊，¶
+州舉之也。
+
+# src: CQ GULIANG Zhuang 03.28.08; ssj: 1579; Zhong 1996: 218; tr. Malmqvist 1971: 144;
+# dating: 6200
+<pb:KR1e0008_tls_003-177a>¶
+3.28.4公會齊人、¶宋人救鄭。¶
+
+# src: CQ GULIANG Zhuang 03.28.09; ssj: 1776; Zhong 1996: 218; tr. Malmqvist 1971: 144;
+# dating: 6200
+善救鄭也。
+
+# src: CQ GULIANG Zhuang 03.28.10; ssj: 1579; Zhong 1996: 218; tr. Malmqvist 1971: 144;
+# dating: 6200
+<pb:KR1e0008_tls_003-178a>¶
+3.28.5冬，¶
+築微。¶
+
+# src: CQ GULIANG Zhuang 03.28.11; ssj: 1776; Zhong 1996: 218; tr. Malmqvist 1971: 144;
+# dating: 6200
+山林藪澤之利，¶
+所以與民共也，¶
+虞之、¶
+非正也。
+
+# src: CQ GULIANG Zhuang 03.28.12; ssj: 1579; Zhong 1996: 219; tr. Malmqvist 1971: 144;
+# dating: 6200
+<pb:KR1e0008_tls_003-179a>¶
+3.28.6大無麥、禾。
+
+# src: CQ GULIANG Zhuang 03.28.13; ssj: 1776; Zhong 1996: 219; tr. Malmqvist 1971: 144;
+# dating: 6200
+大者、¶
+有顧之辭也，¶
+於無禾，及無麥也。
+
+# src: CQ GULIANG Zhuang 03.28.14; ssj: 1580; Zhong 1996: 220; tr. Malmqvist 1971: 144;
+# dating: 6200
+<pb:KR1e0008_tls_003-180a>¶
+3.28.7臧孫辰告糴于齊。¶
+
+# src: CQ GULIANG Zhuang 03.28.15; ssj: 1776; Zhong 1996: 220; tr. Malmqvist 1971: 144;
+# dating: 6200
+國無三年之畜
+曰國非其國也。¶
+一年不升，¶
+告糴諸侯，¶
+告、
+請也，¶
+
+# src: CQ GULIANG Zhuang 03.28.16; ssj: 1776; Zhong 1996: 220; tr. Malmqvist 1971: 144;
+# dating: 6200
+糴、
+糴也，¶
+不正，¶
+故舉臧孫辰以為私行也。¶
+國無九年之畜
+曰不足，¶
+無六年之畜
+曰急，¶
+無三年之畜
+曰國非其國也。¶
+
+# src: CQ GULIANG Zhuang 03.28.17; ssj: 1776; Zhong 1996: 221; tr. Malmqvist 1971: 145;
+# dating: 6200
+諸侯無粟，¶
+諸侯相歸粟，¶
+正也。¶
+
+# src: CQ GULIANG Zhuang 03.28.18; ssj: 1776; Zhong 1996: 222; tr. Malmqvist 1971: 145;
+# dating: 6200
+臧孫辰告糴于齊，¶
+告
+然後與之，¶
+言內之無外交也。¶
+
+# src: CQ GULIANG Zhuang 03.28.19; ssj: 1776; Zhong 1996: 222; tr. Malmqvist 1971: 145;
+# dating: 6200
+古者稅什一，¶
+豐年補敗，¶
+不外求而上下皆足也，¶
+雖累凶年，民弗病也。¶
+一年不艾，而百姓饑，¶
+君子非之。¶
+不言如，¶
+為內諱也。
+
+# src: CQ GULIANG Zhuang 03.29.01; ssj: 1580; Zhong 1996: 223; tr. Malmqvist 1971: 145;
+# dating: 6200
+<pb:KR1e0008_tls_003-181a>¶
+3.29《莊公二十九年》
+
+<pb:KR1e0008_tls_003-182a>3.29.1二十九年
+春，¶
+新延廄。¶
+
+# src: CQ GULIANG Zhuang 03.29.02; ssj: 1776; Zhong 1996: 223; tr. Malmqvist 1971: 145;
+# dating: 6200
+延廄者、¶
+法廄也。¶
+其言新，有故也。¶
+有故則何為書也？¶
+古之君人者，¶
+必時視民之所勤，¶
+
+# src: CQ GULIANG Zhuang 03.29.03; ssj: 1776; Zhong 1996: 223; tr. Malmqvist 1971: 145;
+# dating: 6200
+民勤於力，¶
+則功築罕；¶
+民勤於財，¶
+則貢賦少；¶
+民勤於食，¶
+則百事廢矣。¶
+冬築微，¶
+春新延廄，¶
+以其用民力為已悉矣。
+
+# src: CQ GULIANG Zhuang 03.29.04; ssj: 1580; Zhong 1996: 224; tr. Malmqvist 1971: 145;
+# dating: 6200
+<pb:KR1e0008_tls_003-183a>¶
+3.29.2夏，¶
+鄭人侵許。
+
+# src: CQ GULIANG Zhuang 03.29.05; ssj: 1580; Zhong 1996: 224; tr. Malmqvist 1971: 145;
+# dating: 6200
+<pb:KR1e0008_tls_003-184a>¶
+3.29.3秋，¶
+有蜚。¶
+
+# src: CQ GULIANG Zhuang 03.29.06; ssj: 1776; Zhong 1996: 224; tr. Malmqvist 1971: 145;
+# dating: 6200
+一有一亡
+曰有。
+
+# src: CQ GULIANG Zhuang 03.29.07; ssj: 1580; Zhong 1996: 224; tr. Malmqvist 1971: 145;
+# dating: 6200
+<pb:KR1e0008_tls_003-185a>¶
+3.29.4冬
+十有二月，¶
+紀叔姬卒。
+
+# src: CQ GULIANG Zhuang 03.29.08; ssj: 1580; Zhong 1996: 224; tr. Malmqvist 1971: 145;
+# dating: 6200
+<pb:KR1e0008_tls_003-186a>¶
+3.29.5城諸及防。¶
+
+# src: CQ GULIANG Zhuang 03.29.09; ssj: 1777; Zhong 1996: 224; tr. Malmqvist 1971: 145;
+# dating: 6200
+可城也，¶
+以大及小也。
+
+# src: CQ GULIANG Zhuang 03.30.01; ssj: 1580; Zhong 1996: 225; tr. Malmqvist 1971: 145;
+# dating: 6200
+<pb:KR1e0008_tls_003-187a>¶
+3.30《莊公三十年》
+
+<pb:KR1e0008_tls_003-188a>3.30.1三十年
+春
+王正月。
+
+# src: CQ GULIANG Zhuang 03.30.02; ssj: 1580; Zhong 1996: 225; tr. Malmqvist 1971: 145;
+# dating: 6200
+<pb:KR1e0008_tls_003-189a>¶
+3.30.2夏，¶
+師次于成。¶
+
+# src: CQ GULIANG Zhuang 03.30.03; ssj: 1777; Zhong 1996: 225; tr. Malmqvist 1971: 145;
+# dating: 6200
+次、
+止也，¶
+有畏也，¶
+欲救鄣而不能也。¶
+不言公，¶
+恥不能救鄣也。
+
+# src: CQ GULIANG Zhuang 03.30.04; ssj: 1580; Zhong 1996: 225; tr. Malmqvist 1971: 146;
+# dating: 6200
+<pb:KR1e0008_tls_003-190a>¶
+3.30.3秋
+七月，¶
+齊人降鄣。¶
+
+# src: CQ GULIANG Zhuang 03.30.05; ssj: 1777; Zhong 1996: 225; tr. Malmqvist 1971: 146;
+# dating: 6200
+降、
+猶下也。¶
+鄣、
+紀之遺邑也。
+
+# src: CQ GULIANG Zhuang 03.30.06; ssj: 1580; Zhong 1996: 226; tr. Malmqvist 1971: 146;
+# dating: 6200
+<pb:KR1e0008_tls_003-191a>¶
+3.30.4八月
+癸亥，¶
+葬紀叔姬。¶
+
+# src: CQ GULIANG Zhuang 03.30.07; ssj: 1777; Zhong 1996: 226; tr. Malmqvist 1971: 146;
+# dating: 6200
+不曰卒，而曰葬，¶
+閔紀之亡也。
+
+# src: CQ GULIANG Zhuang 03.30.08; ssj: 1580; Zhong 1996: 226; tr. Malmqvist 1971: 146;
+# dating: 6200
+<pb:KR1e0008_tls_003-192a>¶
+3.30.5九月
+庚午朔，¶
+日有食之。¶
+鼓、
+用牲于社。
+
+# src: CQ GULIANG Zhuang 03.30.09; ssj: 15i1; Zhong 1996: 226; tr. Malmqvist 1971: 146;
+# dating: 6200
+<pb:KR1e0008_tls_003-193a>¶
+3.30.6冬，¶
+公及齊侯遇于魯濟。¶
+
+# src: CQ GULIANG Zhuang 03.30.10; ssj: 1777; Zhong 1996: 226; tr. Malmqvist 1971: 146;
+# dating: 6200
+及者，¶
+內為志焉爾。¶
+遇者、¶
+志相得也。
+
+# src: CQ GULIANG Zhuang 03.30.11; ssj: 15i1; Zhong 1996: 226; tr. Malmqvist 1971: 146;
+# dating: 6200
+<pb:KR1e0008_tls_003-194a>¶
+3.30.7齊人伐山戎。¶
+
+# src: CQ GULIANG Zhuang 03.30.12; ssj: 1777; Zhong 1996: 226; tr. Malmqvist 1971: 146;
+# dating: 6200
+齊人者、¶
+齊侯也。¶
+其曰人何也？¶
+愛齊侯乎
+山戎也。¶
+其愛之何也？¶
+
+# src: CQ GULIANG Zhuang 03.30.13; ssj: 1777; Zhong 1996: 226; tr. Malmqvist 1971: 146;
+# dating: 6200
+桓內無因國，¶
+外無從諸侯，¶
+而越千里之險，¶
+北伐山戎，¶
+危之也。¶
+則非之乎？¶
+善之也。¶
+
+# src: CQ GULIANG Zhuang 03.30.14; ssj: 1777; Zhong 1996: 227; tr. Malmqvist 1971: 146;
+# dating: 6200
+何善乎爾？¶
+燕、
+周之分子也，¶
+貢職不至，¶
+山戎為之伐矣。
+
+# src: CQ GULIANG Zhuang 03.31.01; ssj: 15i1; Zhong 1996: 227; tr. Malmqvist 1971: 147;
+# dating: 6200
+<pb:KR1e0008_tls_003-195a>¶
+3.31《莊公三十一年》
+
+<pb:KR1e0008_tls_003-196a>3.31.1三十有一年
+春，¶
+築臺于郎。
+
+# src: CQ GULIANG Zhuang 03.31.02; ssj: 15i1; Zhong 1996: 227; tr. Malmqvist 1971: 147;
+# dating: 6200
+<pb:KR1e0008_tls_003-197a>¶
+3.31.2夏
+四月，¶
+薛伯卒。
+
+# src: CQ GULIANG Zhuang 03.31.03; ssj: 15i1; Zhong 1996: 227; tr. Malmqvist 1971: 147;
+# dating: 6200
+<pb:KR1e0008_tls_003-198a>¶
+3.31.3築臺于薛。
+
+# src: CQ GULIANG Zhuang 03.31.04; ssj: 15i1; Zhong 1996: 227; tr. Malmqvist 1971: 147;
+# dating: 6200
+<pb:KR1e0008_tls_003-199a>¶
+3.31.4六月，¶
+齊侯來獻戎捷。¶
+
+# src: CQ GULIANG Zhuang 03.31.05; ssj: 1777; Zhong 1996: 227; tr. Malmqvist 1971: 147;
+# dating: 6200
+齊侯來獻捷者，¶
+內齊侯也。¶
+不言使，¶
+內與同，¶
+不言使也。¶
+獻戎捷，¶
+軍得曰捷。¶
+戎、菽也。
+
+# src: CQ GULIANG Zhuang 03.31.06; ssj: 15i1; Zhong 1996: 228; tr. Malmqvist 1971: 147;
+# dating: 6200
+<pb:KR1e0008_tls_003-200a>¶
+3.31.5秋，¶
+築臺于秦。¶
+
+# src: CQ GULIANG Zhuang 03.31.07; ssj: 1778; Zhong 1996: 228; tr. Malmqvist 1971: 147;
+# dating: 6200
+不正罷民三時，¶
+虞山林藪澤之利，¶
+且財盡則怨，¶
+力盡則懟，¶
+君子危之，¶
+故謹而志之也。¶
+或曰：倚諸桓也，¶
+
+# src: CQ GULIANG Zhuang 03.31.08; ssj: 1778; Zhong 1996: 229; tr. Malmqvist 1971: 147;
+# dating: 6200
+桓外無諸侯之變，¶
+內無國事，¶
+越千里之險，¶
+北伐山戎，¶
+為燕辟地；¶
+魯外無諸侯之變，¶
+內無國事，¶
+一年罷民三時，¶
+虞山林藪澤之利，¶
+惡內也。
+
+# src: CQ GULIANG Zhuang 03.31.09; ssj: 15i1; Zhong 1996: 229; tr. Malmqvist 1971: 147;
+# dating: 6200
+<pb:KR1e0008_tls_003-201a>¶
+3.31.6冬，¶
+不雨。
+
+# src: CQ GULIANG Zhuang 03.32.01; ssj: 15i1; Zhong 1996: 229; tr. Malmqvist 1971: 147;
+# dating: 6200
+<pb:KR1e0008_tls_003-202a>¶
+3.32《莊公三十二年》
+
+<pb:KR1e0008_tls_003-203a>3.32.1三十有二年
+春，¶
+城小穀。
+
+# src: CQ GULIANG Zhuang 03.32.02; ssj: 15i2; Zhong 1996: 230; tr. Malmqvist 1971: 148;
+# dating: 6200
+<pb:KR1e0008_tls_003-204a>¶
+3.32.2夏，¶
+宋公、齊侯遇于梁丘。¶
+
+# src: CQ GULIANG Zhuang 03.32.03; ssj: 1778; Zhong 1996: 230; tr. Malmqvist 1971: 148;
+# dating: 6200
+遇者、¶
+志相得也。¶
+梁丘在曹、邾之間，¶
+去齊八百里，¶
+非不能從諸侯而往也，¶
+辭所遇，¶
+遇所不遇，¶
+大齊桓也。
+
+# src: CQ GULIANG Zhuang 03.32.04; ssj: 15i2; Zhong 1996: 230; tr. Malmqvist 1971: 148;
+# dating: 6200
+<pb:KR1e0008_tls_003-205a>¶
+3.32.3秋七月癸巳，¶
+公子牙卒。
+
+# src: CQ GULIANG Zhuang 03.32.05; ssj: 15i2; Zhong 1996: 231; tr. Malmqvist 1971: 149;
+# dating: 6200
+<pb:KR1e0008_tls_003-206a>¶
+3.32.4八月
+癸亥，¶
+公薨于路寢。¶
+
+# src: CQ GULIANG Zhuang 03.32.06; ssj: 1778; Zhong 1996: 231; tr. Malmqvist 1971: 149;
+# dating: 6200
+路寢、¶
+正寢也。¶
+寢疾居正寢，¶
+正也。¶
+男子不絕于婦人之手，¶
+以齊終也。
+
+# src: CQ GULIANG Zhuang 03.32.07; ssj: 15i3; Zhong 1996: 232; tr. Malmqvist 1971: 149;
+# dating: 6200
+<pb:KR1e0008_tls_003-207a>¶
+3.32.5冬
+十月
+乙未，¶
+子般卒。¶
+
+# src: CQ GULIANG Zhuang 03.32.08; ssj: 1778; Zhong 1996: 232; tr. Malmqvist 1971: 149;
+# dating: 6200
+子卒日、¶
+正也，¶
+不日、¶
+故也。¶
+有所見則日。
+
+# src: CQ GULIANG Zhuang 03.32.09; ssj: 15i3; Zhong 1996: 232; tr. Malmqvist 1971: 149;
+# dating: 6200
+<pb:KR1e0008_tls_003-208a>¶
+3.32.6公子慶父如齊。¶
+
+# src: CQ GULIANG Zhuang 03.32.10; ssj: 1778; Zhong 1996: 232; tr. Malmqvist 1971: 149;
+# dating: 6200
+此奔也，¶
+其曰如，¶何也？¶
+諱莫如深，¶
+深則隱，¶
+苟有所見，¶
+莫如深也。
+
+# src: CQ GULIANG Zhuang 03.32.11; ssj: 15i3; Zhong 1996: 233; tr. Malmqvist 1971: 149;
+# dating: 6200
+<pb:KR1e0008_tls_003-209a>¶
+3.32.7狄伐邢。
+

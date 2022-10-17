@@ -1,0 +1,764 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 1
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 02.01.01; Couvreur 1.69; Su1n Xïda4n 2.1; Jia1ng Yi4hua2 45; Yishu 5:6.1a-2a; tr. Legge 1.99;
+# dating: 8110
+<pb:KR1d0052_tls_002-1a>¶
+** 2 曲禮下
+
+2.1凡奉者當心，¶
+提者當帶。¶
+執天子之器則上衡，¶
+國君則平衡，¶
+大夫則綏之，¶
+士則提之。¶
+
+# src: LIJI 02.01.02; Couvreur 1.70; Su1n Xïda4n 2.2; Jia1ng Yi4hua2 45; Yishu 5:6.3a; tr. Legge 1.100;
+# dating: 8110
+凡執主器，¶
+執輕如不克。¶
+執主器，¶
+操幣、¶圭、璧，¶
+則尚左手，¶
+行不舉足，¶
+車輪曳踵。¶
+
+# src: LIJI 02.01.03; Couvreur 1.70f; Su1n Xïda4n 2.3; Jia1ng Yi4hua2 46; Yishu 5:6.4a-5a; tr. Legge 1.100;
+# dating: 8110
+立則磬折垂佩。¶
+主佩倚，¶
+則臣佩垂。¶
+主佩垂，¶
+則臣佩委。¶
+執玉，¶
+其有藉者則裼；¶
+無藉者則襲。<pb:KR1d0052_tls_002-2a>¶
+
+# src: LIJI 02.01.04; Couvreur 1.71f; Su1n Xïda4n 2.6; Jia1ng Yi4hua2 47; Yishu 5:6.9a-11a; tr. Legge 1.100;
+# dating: 8110
+2.2國君不名卿老、¶世婦，¶
+大夫不名世臣、¶姪、娣，¶
+士不名家相、¶長妾。¶
+君大夫之子，¶
+不敢自稱曰¶「余小子」；¶
+大夫士之子，¶
+不敢自稱曰¶「嗣子某」，¶
+不敢與世子同名。<pb:KR1d0052_tls_002-3a>¶
+
+# src: LIJI 02.01.05; Couvreur 1.73; Su1n Xïda4n 2.7; Jia1ng Yi4hua2 47; Yishu 5:6.12b-13b; tr. Legge 1.101;
+# dating: 8110
+2.3君使士射，¶
+不能，¶
+則辭以疾；¶
+言曰：¶
+「某有負薪之憂。」¶
+侍於君子，¶
+不顧望而對，¶
+非禮也。<pb:KR1d0052_tls_002-4a>¶
+
+# src: LIJI 02.01.06; Couvreur 1.73f; Su1n Xïda4n 2.7; Jia1ng Yi4hua2 48; Yishu 5:6.14a; tr. Legge 1.101;
+# dating: 8110
+2.4君子行禮，¶
+不求變俗。¶
+祭祀之禮，¶
+居喪之服，¶
+哭泣之位，¶
+皆如其國之故，¶
+謹循其法
+而審行之。¶
+
+# src: LIJI 02.01.07; Couvreur 1.73f; Su1n Xïda4n 2.8f; Jia1ng Yi4hua2 48; Yishu 5:6.15b; tr. Legge 1.101;
+# dating: 8110
+去國三世，¶
+爵祿有列於朝，¶
+出入有詔於國。¶
+若兄弟宗族猶存，¶
+則反告於宗後；¶
+去國三世，¶
+爵祿無列於朝，¶
+出入無詔於國。¶
+唯興之日，¶
+從新國之法。<pb:KR1d0052_tls_002-5a>¶
+
+# src: LIJI 02.01.08; Couvreur 1.74f; Su1n Xïda4n 2.9; Jia1ng Yi4hua2 48f; Yishu 5:6.18a-19b; tr. Legge 1.102;
+# dating: 8110
+2.5君子已孤不更名。¶
+已孤暴貴，¶
+不為父作謚。¶
+居喪，¶
+未葬，¶
+讀喪禮；¶
+既葬，¶
+讀祭禮；¶
+喪復常，¶
+讀樂章。¶
+
+# src: LIJI 02.01.09; Couvreur 1.74f; Su1n Xïda4n 2.10; Jia1ng Yi4hua2 49; Yishu 5:6.20b; tr. Legge 1.102;
+# dating: 8110
+居喪不言樂，¶
+祭事不言凶，¶
+公庭不言婦女。<pb:KR1d0052_tls_002-6a>¶
+
+# src: LIJI 02.01.10; Couvreur 1.76f; Su1n Xïda4n 2.10; Jia1ng Yi4hua2 49; Yishu 5:6.21a-21b; tr. Legge 1.103;
+# dating: 8110
+2.6振書、¶端書於君前，¶
+有誅。¶
+倒筴、¶側龜於君前，¶
+有誅。¶
+龜筴、¶
+几杖、¶
+席蓋、¶
+重素、¶
+袗絺綌，¶
+不入公門。¶
+
+# src: LIJI 02.01.11; Couvreur 1.76f; Su1n Xïda4n 2.11f; Jia1ng Yi4hua2 49; Yishu 5:6.21b-24a; tr. Legge 1.103;
+# dating: 8110
+苞屨、¶
+扱衽、¶
+厭冠，¶
+不入公門。¶
+書方、¶
+衰、凶器，¶
+不以告，¶
+不入公門。¶
+公事不私議。<pb:KR1d0052_tls_002-7a>¶
+
+# src: LIJI 02.01.12; Couvreur 1.77f; Su1n Xïda4n 2.12; Jia1ng Yi4hua2 50; Yishu 5:6.24a; tr. Legge 1.103;
+# dating: 8110
+2.7君子將營宮室：¶
+宗廟為先，¶
+廄庫為次，¶
+居室為後。<pb:KR1d0052_tls_002-8a>¶
+2.8凡家造：¶
+祭器為先，¶
+犧賦為次，¶
+養器為後。¶
+
+# src: LIJI 02.01.13; Couvreur 1.77f; Su1n Xïda4n 2.13; Jia1ng Yi4hua2 50; Yishu 5:6.24b-25a; tr. Legge 1.103;
+# dating: 8110
+無田祿者
+不設祭器；¶
+有田祿者
+先為祭服。¶
+君子雖貧，¶
+不粥祭器；¶
+雖寒，¶
+不衣祭服；¶
+為宮室，¶
+不斬於丘木。¶
+
+# src: LIJI 02.01.14; Couvreur 1.78f; Su1n Xïda4n 2.14; Jia1ng Yi4hua2 51; Yishu 5:6.27a; tr. Legge 1.104;
+# dating: 8110
+大夫士去國，¶
+祭器不踰竟。¶
+大夫寓祭器於大夫，¶
+士寓祭器於士。¶
+
+# src: LIJI 02.01.15; Couvreur 1.78f; Su1n Xïda4n 2.14; Jia1ng Yi4hua2 51; Yishu 5:6.28b; tr. Legge 1.104;
+# dating: 8110
+大夫士去國：¶
+踰竟，¶
+為壇位，¶鄉國而哭。¶
+素衣、¶
+素裳、¶
+素冠，¶
+徹緣，¶
+鞮屨、¶
+素簚，¶
+乘髦馬，¶
+
+# src: LIJI 02.01.16; Couvreur 1.78f; Su1n Xïda4n 2.14; Jia1ng Yi4hua2 51; Yishu 5:6.28b; tr. Legge 1.104;
+# dating: 8110
+不蚤鬋，¶
+不祭食，¶
+不說人以無罪；¶
+婦人不當御。¶
+三月而復服。¶
+
+# src: LIJI 02.01.17; Couvreur 1.79f; Su1n Xïda4n 2.15; Jia1ng Yi4hua2 51; Yishu 5:6.31a; tr. Legge 1.104;
+# dating: 8110
+大夫士見於國君，¶
+君若勞之，¶
+則還辟，¶
+再拜稽首。¶
+君若迎拜，¶
+則還辟，¶
+不敢荅拜。¶
+
+# src: LIJI 02.01.18; Couvreur 1.79f; Su1n Xïda4n 2.16; Jia1ng Yi4hua2 51; Yishu 5:6.32b-33a; tr. Legge 1.104;
+# dating: 8110
+大夫士相見，¶
+雖貴賤不敵，¶
+主人敬客，¶
+則先拜客；¶
+客敬主人，¶
+則先拜主人。¶
+
+# src: LIJI 02.01.19; Couvreur 1.80f; Su1n Xïda4n 2.17; Jia1ng Yi4hua2 51; Yishu 5:6.33b-34a; tr. Legge 1.105;
+# dating: 8110
+凡非弔喪，¶
+非見國君，¶
+無不荅拜者。¶
+大夫見於國君，¶
+國君拜其辱。¶
+士見於大夫，¶
+大夫拜其辱。¶
+同國始相見，¶
+主人拜其辱。¶
+
+# src: LIJI 02.01.20; Couvreur 1.80f; Su1n Xïda4n 2.17f; Jia1ng Yi4hua2 52; Yishu 5:6.34a; tr. Legge 1.105;
+# dating: 8110
+君於士，¶
+不荅拜也；¶
+非其臣，¶
+則荅拜之。¶
+大夫於其臣，¶
+雖賤，¶
+必荅拜之。¶
+男女相荅拜也。<pb:KR1d0052_tls_002-9a>¶
+
+# src: LIJI 02.01.21; Couvreur 1.i1f; Su1n Xïda4n 2.18; Jia1ng Yi4hua2 52; Yishu 5:6.35b; tr. Legge 1.106;
+# dating: 8110
+2.9國君春田不圍澤；¶
+大夫不掩群，¶
+士不取麛卵。<pb:KR1d0052_tls_002-10a>¶
+
+# src: LIJI 02.01.22; Couvreur 1.i1f; Su1n Xïda4n 2.18; Jia1ng Yi4hua2 52; Yishu 5:6.37a; tr. Legge 1.106;
+# dating: 8110
+2.10歲凶，¶
+年穀不登，¶
+君膳不祭肺，¶
+馬不食穀，¶
+馳道不除，¶
+祭事不縣。¶
+大夫不食粱，¶
+士飲酒不樂。¶
+
+# src: LIJI 02.01.23; Couvreur 1.i1f; Su1n Xïda4n 2.19; Jia1ng Yi4hua2 52; Yishu 5:6.40a; tr. Legge 1.106;
+# dating: 8110
+君無故，¶
+玉不去身；¶
+大夫無故，¶
+不徹縣，¶
+士無故不徹琴瑟。¶
+
+# src: LIJI 02.01.24; Couvreur 1.i1f; Su1n Xïda4n 2.19f; Jia1ng Yi4hua2 53; Yishu 5:6.41a-42a; tr. Legge 1.106;
+# dating: 8110
+士有獻於國君，¶
+他日，¶
+君問之曰：¶
+「安取彼？」¶
+再拜稽首而后對。¶
+大夫私行出疆，¶
+必請。¶
+反，
+必有獻。¶
+
+# src: LIJI 02.01.25; Couvreur 1.i1f; Su1n Xïda4n 2.20; Jia1ng Yi4hua2 53; Yishu 5:6.42a; tr. Legge 1.106;
+# dating: 8110
+士私行出疆，¶
+必請。¶
+反，
+必告。¶
+君勞之，¶
+則拜；¶
+問其行，¶
+拜而后對。<pb:KR1d0052_tls_002-11a>¶
+
+# src: LIJI 02.01.26; Couvreur 1.i3f; Su1n Xïda4n 2.20; Jia1ng Yi4hua2 53; Yishu 5:6.43a; tr. Legge 1.107;
+# dating: 8110
+2.11國君去其國，¶
+止之曰：¶
+「奈何去社稷也！」¶
+大夫，¶
+曰：¶
+「奈何去宗廟也！」¶
+士，
+曰：¶
+「奈何去墳墓也！」¶
+
+# src: LIJI 02.01.27; Couvreur 1.i3f; Su1n Xïda4n 2.21; Jia1ng Yi4hua2 53; Yishu 5:6.43a-43b; tr. Legge 1.107;
+# dating: 8110
+國君死社稷，¶
+大夫死眾，¶
+士死制。<pb:KR1d0052_tls_002-12a>¶
+
+# src: LIJI 02.01.28; Couvreur 1.i4f; Su1n Xïda4n 2.21; Jia1ng Yi4hua2 54; Yishu 5:6.45b; tr. Legge 1.107;
+# dating: 8110
+2.12君天下
+曰¶「天子」。¶
+朝諸侯，¶
+分職授政任功，¶
+曰¶「予一人」。¶
+
+# src: LIJI 02.01.29; Couvreur 1.i4f; Su1n Xïda4n 2.22; Jia1ng Yi4hua2 54; Yishu 5:6.48b; tr. Legge 1.107;
+# dating: 8110
+踐阼，¶臨祭祀：¶
+內事曰¶「孝王某」，¶
+外事曰¶「嗣王某」。¶
+臨諸侯，¶
+畛於鬼神，¶
+曰¶「有天王某甫」。¶
+
+# src: LIJI 02.01.30; Couvreur 1.i4f; Su1n Xïda4n 2.22f; Jia1ng Yi4hua2 54; Yishu 5:6.50b; tr. Legge 1.107;
+# dating: 8110
+崩，
+曰¶「天王崩」。¶
+復，曰¶
+「天子復」¶矣。
+告喪，¶
+曰¶「天王登假」。¶
+措之廟，¶
+立之主，¶
+曰¶「帝」。¶
+
+# src: LIJI 02.01.31; Couvreur 1.i4f; Su1n Xïda4n 2.24; Jia1ng Yi4hua2 54; Yishu 5:6.52a; tr. Legge 1.107;
+# dating: 8110
+天子未除喪，¶
+曰¶「予小子」。¶
+生名之，¶
+死亦名之。<pb:KR1d0052_tls_002-13a>¶
+
+# src: LIJI 02.02.01; Couvreur 1.86f; Su1n Xïda4n 2.25; Jia1ng Yi4hua2 55; Yishu 5:7.1a; tr. Legge 1.109;
+# dating: 8110
+2.13天子有后，¶
+有夫人，¶
+有世婦，¶
+有嬪，¶
+有妻，¶
+有妾。¶
+
+# src: LIJI 02.02.02; Couvreur 1.86f; Su1n Xïda4n 2.26; Jia1ng Yi4hua2 55; Yishu 5:7.3a-3b; tr. Legge 1.109;
+# dating: 8110
+天子建天官，¶
+先六大，¶
+曰大宰、¶
+大宗、¶
+大史、¶
+大祝、¶
+大士、¶
+大卜，¶
+典司六典。¶
+
+# src: LIJI 02.02.03; Couvreur 1.86f; Su1n Xïda4n 2.27; Jia1ng Yi4hua2 55; Yishu 5:7.5a; tr. Legge 1.109;
+# dating: 8110
+天子之五官：¶
+曰司徒、¶
+司馬、¶
+司空、¶
+司士、¶
+司寇，¶
+典司五眾。¶
+
+# src: LIJI 02.02.04; Couvreur 1.88f; Su1n Xïda4n 2.28; Jia1ng Yi4hua2 55; Yishu 5:7.7a; tr. Legge 1.110;
+# dating: 8110
+天子之六府：¶
+曰司土、¶
+司木、¶
+司水、¶
+司草、¶
+司器、¶
+司貨，¶
+典司六職。¶
+
+# src: LIJI 02.02.05; Couvreur 1.88f; Su1n Xïda4n 2.28; Jia1ng Yi4hua2 55; Yishu 5:7.8a; tr. Legge 1.110;
+# dating: 8110
+天子之六工：¶
+曰土工、¶
+金工、¶
+石工、¶
+木工、¶
+獸工、¶
+草工，¶
+典制六材。¶
+
+# src: LIJI 02.02.06; Couvreur 1.89f; Su1n Xïda4n 2.28; Jia1ng Yi4hua2 55; Yishu 5:7.10a; tr. Legge 1.110;
+# dating: 8110
+五官致貢
+曰享。<pb:KR1d0052_tls_002-14a>¶
+
+# src: LIJI 02.02.07; Couvreur 1.89f; Su1n Xïda4n 2.29; Jia1ng Yi4hua2 56; Yishu 5:7.11b; tr. Legge 1.110;
+# dating: 8110
+2.14五官之長
+曰伯：¶
+是職方。¶
+其擯於天子也，¶
+曰¶「天子之吏」。¶
+天子同姓
+謂之¶「伯父」；¶
+異姓謂之¶「伯舅」。¶
+
+# src: LIJI 02.02.08; Couvreur 1.89f; Su1n Xïda4n 2.29; Jia1ng Yi4hua2 56; Yishu 5:7.11b; tr. Legge 1.110;
+# dating: 8110
+自稱於諸侯
+曰¶「天子之老」；¶
+於外曰¶「公」；¶
+於其國曰¶「君」。¶
+
+# src: LIJI 02.02.09; Couvreur 1.89f; Su1n Xïda4n 2.29; Jia1ng Yi4hua2 56; Yishu 5:7.15a; tr. Legge 1.110;
+# dating: 8110
+九州之長，¶
+入天子之國曰¶「牧」。¶
+天子同姓，¶
+謂之¶「叔父」，¶
+異姓謂之¶「叔舅」，¶
+於外曰¶「侯」，¶
+於其國曰¶
+「君」。¶
+
+# src: LIJI 02.02.10; Couvreur 1.90f; Su1n Xïda4n 2.30f; Jia1ng Yi4hua2 56; Yishu 5:7.17a-18b; tr. Legge 1.111;
+# dating: 8110
+其在東夷、¶北狄、¶西戎、¶南蠻，¶
+雖大曰¶「子」。¶
+於內自稱曰¶「不穀」，¶
+於外自稱曰¶「王老」。¶
+庶方小侯，¶
+入天子之國曰¶「某人」，¶
+於外曰¶「子」，¶
+自稱曰¶
+「孤」。¶
+
+# src: LIJI 02.02.11; Couvreur 1.91f; Su1n Xïda4n 2.31; Jia1ng Yi4hua2 57; Yishu 5:7.19b; tr. Legge 1.111;
+# dating: 8110
+天子當依而立。¶
+諸侯北面而見天子，¶
+曰覲。¶
+天子當宁而立，¶
+諸公東面，¶
+諸侯西面，¶
+曰朝。<pb:KR1d0052_tls_002-15a>¶
+
+# src: LIJI 02.02.12; Couvreur 1.91f; Su1n Xïda4n 2.33; Jia1ng Yi4hua2 57; Yishu 5:7.35a; tr. Legge 1.111;
+# dating: 8110
+2.15諸侯未及期相見曰遇，¶
+相見於郤地曰會。¶
+諸侯使大夫問於諸侯曰聘，¶
+約信曰誓，¶
+涖牲曰盟。<pb:KR1d0052_tls_002-16a>¶
+
+# src: LIJI 02.02.13; Couvreur 1.92f; Su1n Xïda4n 2.34f; Jia1ng Yi4hua2 57; Yishu 5:7.37b-38b; tr. Legge 1.112;
+# dating: 8110
+2.16諸侯見天子曰¶「臣某侯某」，¶
+其與民言，¶
+自稱曰¶
+「寡人」。¶
+其在凶服，¶
+曰¶「適子孤」。¶
+臨祭祀，¶
+內事曰¶「孝子某侯某」，¶
+外事曰¶「曾孫某侯某」。¶
+
+# src: LIJI 02.02.14; Couvreur 1.92f; Su1n Xïda4n 2.35f; Jia1ng Yi4hua2 57; Yishu 5:7.32b-34a; tr. Legge 1.112;
+# dating: 8110
+死曰¶「薨」，¶
+復曰¶「某甫復矣」。¶
+既葬
+見天子曰類見。¶
+言謚曰類。¶
+諸侯使人使於諸侯，¶
+使者自稱曰¶
+「寡君之老」。¶
+
+# src: LIJI 02.02.15; Couvreur 1.94; Su1n Xïda4n 2.36; Jia1ng Yi4hua2 58; Yishu 5:7.35a; tr. Legge 1.112;
+# dating: 8110
+天子穆穆，¶
+諸侯皇皇，¶
+大夫濟濟，¶
+士蹌蹌，¶
+庶人僬僬。¶
+
+# src: LIJI 02.02.16; Couvreur 1.94f; Su1n Xïda4n 2.37; Jia1ng Yi4hua2 58; Yishu 5:7.36a-38a; tr. Legge 1.112;
+# dating: 8110
+天子之妃曰后，¶
+諸侯曰夫人，¶
+大夫曰孺人，¶
+士曰婦人，¶
+庶人曰妻。¶
+公、侯有夫人，¶
+有世婦，¶
+有妻，¶
+有妾。¶
+
+# src: LIJI 02.02.17; Couvreur 1.94f; Su1n Xïda4n 2.38; Jia1ng Yi4hua2 58; Yishu 5:7.38a; tr. Legge 1.112;
+# dating: 8110
+夫人自稱於天子
+曰¶
+「老婦」；¶
+自稱於諸侯
+曰¶
+「寡小君」；¶
+自稱於其君
+曰¶
+「小童」。¶
+自世婦以下，¶
+自稱曰¶「婢子」。¶
+子於父母則自名也。¶
+
+# src: LIJI 02.02.18; Couvreur 1.95f; Su1n Xïda4n 2.39; Jia1ng Yi4hua2 59; Yishu 5:7.40b; tr. Legge 1.113;
+# dating: 8110
+列國之大夫
+入天子之國
+曰¶「某士」，¶
+自稱曰¶「陪臣某」。¶
+於外曰¶「子」，¶
+於其國曰¶「寡君之老」。¶
+使自稱曰¶
+「某」。<pb:KR1d0052_tls_002-17a>¶
+
+# src: LIJI 02.02.19; Couvreur 1.96; Su1n Xïda4n 2.39; Jia1ng Yi4hua2 59; Yishu 5:7.42b; tr. Legge 1.113;
+# dating: 8110
+2.17天子不言出，¶
+諸侯不生名。¶
+君子不親惡；¶
+諸侯失地，¶
+名；
+滅同姓，¶
+名。
+
+# src: LIJI 02.03.01; Couvreur 1.96f; Su1n Xïda4n 2.40; Jia1ng Yi4hua2 60; Yishu 6:8.1a; tr. Legge 1.114;
+# dating: 8110
+為人臣之禮：¶
+不顯諫。¶
+三諫而不聽，¶
+則逃之。¶
+子之事親也：¶
+三諫而不聽，¶
+則號泣而隨之。<pb:KR1d0052_tls_002-18a>¶
+
+# src: LIJI 02.03.02; Couvreur 1.97; Su1n Xïda4n 2.40; Jia1ng Yi4hua2 60; Yishu 6:8.3a; tr. Legge 1.114;
+# dating: 8110
+2.18君有疾，¶
+飲藥，¶
+臣先嘗之。¶
+親有疾，¶
+飲藥，¶
+子先嘗之。¶
+醫不三世，¶
+不服其藥。¶
+
+# src: LIJI 02.03.03; Couvreur 1.97f; Su1n Xïda4n 2.41; Jia1ng Yi4hua2 61; Yishu 6:8.4b-5a; tr. Legge 1.114;
+# dating: 8110
+儗人必於其倫。<pb:KR1d0052_tls_002-19a>¶
+2.19問天子之年，¶
+對曰：¶
+「聞之，¶
+始服衣若干尺矣。」¶
+問國君之年：¶
+長，曰：¶「能從宗廟、¶社稷之事矣」；¶
+幼，
+曰：¶
+「未能從宗廟、¶社稷之事也」。¶
+
+
+# src: LIJI 02.03.04; Couvreur 1.97f; Su1n Xïda4n 2.41; Jia1ng Yi4hua2 61; Yishu 6:8.5a; tr. Legge 1.114;
+# dating: 8110
+問大夫之子：¶
+長，曰：¶
+「能御矣」；¶
+幼，曰：¶
+「未能御也」。¶
+問士之子：¶
+長，曰：¶
+「能典謁矣」；¶
+幼，曰：¶
+「未能典謁也」。¶
+
+# src: LIJI 02.03.05; Couvreur 1.97f; Su1n Xïda4n 2.41f; Jia1ng Yi4hua2 61; Yishu 6:8.5a-8b; tr. Legge 1.114;
+# dating: 8110
+問庶人之子：¶
+長，曰：¶
+「能負薪矣」；¶
+幼，曰：¶
+「未能負薪也」。<pb:KR1d0052_tls_002-20a>¶
+2.20問國君之富，¶
+數地以對，¶
+山澤之所出。¶
+
+# src: LIJI 02.03.06; Couvreur 1.97f; Su1n Xïda4n 2.42; Jia1ng Yi4hua2 61; Yishu 6:8.8b-9a; tr. Legge 1.114;
+# dating: 8110
+問大夫之富，¶
+曰：¶「有宰食力，¶
+祭器、¶衣服不假。」¶
+問士之富，¶
+以車數對。¶
+問庶人之富，¶
+數畜以對。<pb:KR1d0052_tls_002-21a>¶
+
+# src: LIJI 02.03.07; Couvreur 1.99f; Su1n Xïda4n 2.43f; Jia1ng Yi4hua2 62; Yishu 6:8.11b; tr. Legge 1.116;
+# dating: 8110
+2.21天子祭天地，¶
+祭四方，¶
+祭山川，¶
+祭五祀，¶
+歲徧。¶
+諸侯方祀。¶
+祭山川，¶
+祭五祀，¶
+歲徧。¶
+
+# src: LIJI 02.03.08; Couvreur 1.99f; Su1n Xïda4n 2.45; Jia1ng Yi4hua2 62; Yishu 6:8.11b-21b; tr. Legge 1.116;
+# dating: 8110
+大夫祭五祀，¶
+歲徧。¶
+士祭其先。<pb:KR1d0052_tls_002-22a>¶
+2.22凡祭，¶
+有其廢之，¶莫敢舉也；¶
+有其舉之，¶莫敢廢也。¶
+非其所祭而祭之，¶
+名曰淫祀。¶
+淫祀無福。<pb:KR1d0052_tls_002-23a>¶
+
+# src: LIJI 02.03.09; Couvreur 1.99f; Su1n Xïda4n 2.45f; Jia1ng Yi4hua2 62; Yishu 6:8.23b-25b; tr. Legge 1.116;
+# dating: 8110
+2.23天子以犧牛，¶
+諸侯以肥牛，¶
+大夫以索牛，¶
+士以羊豕。¶
+支子不祭，¶
+祭必告于宗子。<pb:KR1d0052_tls_002-24a>¶
+
+# src: LIJI 02.03.10; Couvreur 1.101f; Su1n Xïda4n 2.46; Jia1ng Yi4hua2 63; Yishu 6:8.28b; tr. Legge 1.117;
+# dating: 8110
+2.24凡祭宗廟之禮：¶
+牛曰一元大武，¶
+豕曰剛鬣，¶
+豚曰腯肥，¶
+羊曰柔毛，¶
+雞曰翰音，¶
+犬曰羹獻，¶
+雉曰疏趾，¶
+兔曰明視，¶
+脯曰尹祭，¶
+
+# src: LIJI 02.03.11; Couvreur 1.101f; Su1n Xïda4n 2.46; Jia1ng Yi4hua2 63; Yishu 6:8.28b; tr. Legge 1.117;
+# dating: 8110
+槀魚曰商祭，¶
+鮮魚曰脡祭，¶
+水曰清滌，¶
+酒曰清酌，¶
+
+# src: LIJI 02.03.12; Couvreur 1.101f; Su1n Xïda4n 2.46; Jia1ng Yi4hua2 63; Yishu 6:8.28b; tr. Legge 1.117;
+# dating: 8110
+黍曰薌合，¶
+粱曰薌萁，¶
+稷曰明粢，¶
+稻曰嘉蔬，¶
+韭曰豐本，¶
+鹽曰鹹鹺，¶
+玉曰嘉玉，¶
+幣曰量幣。<pb:KR1d0052_tls_002-25a>¶
+
+# src: LIJI 02.03.13; Couvreur 1.102f; Su1n Xïda4n 2.48; Jia1ng Yi4hua2 63; Yishu 6:8.32a-34b; tr. Legge 1.117;
+# dating: 8110
+2.25天子死曰¶
+「崩」，¶
+諸侯曰¶
+「薨」，¶
+大夫曰¶
+「卒」，¶
+士曰¶
+「不祿」，¶
+庶人曰¶
+「死」。¶
+在床曰尸，¶
+在棺曰柩。¶
+羽鳥曰降，¶
+四足曰漬。¶
+死寇曰兵。¶
+
+# src: LIJI 02.03.14; Couvreur 1.103f; Su1n Xïda4n 2.49; Jia1ng Yi4hua2 64; Yishu 6:8.35b-36a; tr. Legge 1.117;
+# dating: 8110
+祭王父曰¶「皇祖考」，¶
+王母曰¶「皇祖妣」。¶
+父曰¶「皇考」，¶
+母曰¶「皇妣」。¶
+夫曰¶「皇辟」。¶
+生曰父，¶曰母，¶曰妻；¶
+死曰考，¶曰妣，¶曰嬪。¶
+壽考曰卒，¶
+短折曰不祿。<pb:KR1d0052_tls_002-26a>¶
+
+# src: LIJI 02.03.15; Couvreur 1.104; Su1n Xïda4n 2.49; Jia1ng Yi4hua2 65; Yishu 6:8.37b; tr. Legge 1.118;
+# dating: 8110
+2.26天子、¶
+視不上於袷，¶
+不下於帶；¶
+國君，¶
+綏視；¶
+大夫，¶
+衡視；¶
+士，
+視五步。¶
+
+# src: LIJI 02.03.16; Couvreur 1.104; Su1n Xïda4n 2.50; Jia1ng Yi4hua2 65; Yishu 6:8.37b; tr. Legge 1.118;
+# dating: 8110
+凡視：¶
+上於面則敖，¶
+下於帶則憂，¶
+傾則姦。<pb:KR1d0052_tls_002-27a>¶
+
+# src: LIJI 02.03.17; Couvreur 1.104f; Su1n Xïda4n 2.50; Jia1ng Yi4hua2 65; Yishu 6:8.40b; tr. Legge 1.118;
+# dating: 8110
+2.27君命，¶
+大夫與士肄。¶
+在官言官，¶
+在府言府，¶
+在庫言庫，¶
+在朝言朝。¶
+
+# src: LIJI 02.03.18; Couvreur 1.104f; Su1n Xïda4n 2.50f; Jia1ng Yi4hua2 65; Yishu 6:8.42b-43a; tr. Legge 1.118;
+# dating: 8110
+朝言不及犬馬。¶
+輟朝而顧，¶
+不有異事，¶
+必有異慮。¶
+故輟朝而顧，¶
+君子謂之固。¶
+在朝言禮，¶
+問禮，¶
+對以禮。¶
+
+# src: LIJI 02.03.19; Couvreur 1.105; Su1n Xïda4n 2.51; Jia1ng Yi4hua2 66; Yishu 6:8.44a; tr. Legge 1.119;
+# dating: 8110
+大饗不問卜，¶
+不饒富。<pb:KR1d0052_tls_002-28a>¶
+
+# src: LIJI 02.03.20; Couvreur 1.105f; Su1n Xïda4n 2.51; Jia1ng Yi4hua2 66; Yishu 6:8.48a; tr. Legge 1.119;
+# dating: 8110
+2.28凡摰，¶
+天子鬯，¶
+諸侯圭，¶
+卿羔，¶
+大夫鴈，¶
+士雉，¶
+庶人之摰匹；¶
+童子委摰而退。¶
+
+# src: LIJI 02.03.21; Couvreur 1.105f; Su1n Xïda4n 2.53; Jia1ng Yi4hua2 66; Yishu 6:8.48a; tr. Legge 1.119;
+# dating: 8110
+野外軍中無摰，¶
+以纓、¶
+拾、
+矢，¶
+可也。¶
+婦人之摰，¶
+椇、榛、¶
+脯、脩、¶
+棗、栗。<pb:KR1d0052_tls_002-29a>¶
+
+# src: LIJI 02.03.22; Couvreur 1.106; Su1n Xïda4n 2.54; Jia1ng Yi4hua2 67; Yishu 6:8.54a; tr. Legge 1.119;
+# dating: 8110
+2.29納女於天子，¶
+曰¶「備百姓」；¶
+於國君，¶
+曰¶「備酒漿」；¶
+於大夫，¶
+曰¶
+「備埽灑」。
+

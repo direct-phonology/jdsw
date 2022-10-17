@@ -1,0 +1,22 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 17
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 18.1; tr. D.C. Lau 19i2: 27; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_018-1a>¶
+** 18 第十八章
+
+大道廢，¶
+安有仁義。¶
+智慧出，¶
+安有大偽。¶
+六親不和，¶
+安有孝慈。¶
+邦家昏亂，¶
+安有忠臣。
+

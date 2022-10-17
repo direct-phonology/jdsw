@@ -1,0 +1,39 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 24
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 25.1; tr. D.C. Lau 19i2: 37; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_025-1a>¶
+** 25 第二十五章
+
+有物混成，¶
+先天地生。¶
+寂兮寥兮，¶
+獨立而不改，¶
+周行而不殆。¶
+可以為天下母。¶
+吾不知其名，¶
+字之曰道，¶
+吾強為之名曰大。¶
+大曰逝，¶
+逝曰遠，¶
+遠曰反。¶
+
+# src: LAO 25.2; tr. D.C. Lau 19i2: 37; here tr. Karlgren 1975
+# dating: 8120
+故道大，
+天大，¶
+地大，¶
+王亦大。¶
+域中有四大，¶
+而王居其一焉。¶
+人法地，¶
+地法天，¶
+天法道，¶
+道法自然。
+

@@ -1,0 +1,983 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 20
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 21.01.01; Couvreur 2.155f; Su1n Xïda4n 11.20; Jia1ng Yi4hua2 575; Yishu 34:55.1a; tr. Legge 2.150;
+# dating: 8110
+<pb:KR1d0052_tls_021-1a>¶
+** 21 雜記下
+
+21.1有父之喪，¶
+如未沒喪而母死，¶
+其除父之喪也，¶
+服其除服。¶
+卒事，¶
+反喪服。<pb:KR1d0052_tls_021-2a>¶
+
+# src: LIJI 21.01.02; Couvreur 2.155f; Su1n Xïda4n 11.20; Jia1ng Yi4hua2 575; Yishu 34:55.2a; tr. Legge 2.150;
+# dating: 8110
+21.2雖諸父昆弟之喪，¶
+如當父母之喪，¶
+其除諸父昆弟之喪也，¶
+皆服其除喪之服。¶
+卒事，¶
+反喪服。¶
+
+# src: LIJI 21.01.03; Couvreur 2.155f; Su1n Xïda4n 11.21f; Jia1ng Yi4hua2 575; Yishu 34:55.3a-4b; tr. Legge 2.150;
+# dating: 8110
+如三年之喪，¶
+則既顈，¶
+其練、¶祥皆行。¶
+王父死，¶
+未練、¶祥而孫又死，¶
+猶是附於王父也。<pb:KR1d0052_tls_021-3a>¶
+
+# src: LIJI 21.01.04; Couvreur 2.157; Su1n Xïda4n 11.22; Jia1ng Yi4hua2 576; Yishu 34:55.5b; tr. Legge 2.150;
+# dating: 8110
+21.3有殯，¶
+聞外喪，¶
+哭之他室。¶
+入奠，¶
+卒奠
+出，¶
+改服即位，¶
+如始即位之禮。<pb:KR1d0052_tls_021-4a>¶
+
+# src: LIJI 21.01.05; Couvreur 2.157f; Su1n Xïda4n 11.23; Jia1ng Yi4hua2 576; Yishu 34:55.6b; tr. Legge 2.151;
+# dating: 8110
+21.4大夫士將與祭於公，¶
+既視濯，¶
+而父母死，¶
+則猶是與祭也，¶
+次於異宮。¶
+既祭，¶
+釋服，¶出公門外
+哭而歸。¶
+其它，¶
+如奔喪之禮。¶
+
+# src: LIJI 21.01.06; Couvreur 2.157f; Su1n Xïda4n 11.23; Jia1ng Yi4hua2 576; Yishu 34:55.6b; tr. Legge 2.151;
+# dating: 8110
+如未視濯，¶
+則使人告。¶
+告者反，¶
+而后哭。¶
+如諸父、¶昆弟、¶姑、姊妹之喪，¶
+則既宿，¶
+則與祭。¶
+卒事，¶
+出公門，¶
+釋服而后歸。¶
+
+# src: LIJI 21.01.07; Couvreur 2.157f; Su1n Xïda4n 11.23; Jia1ng Yi4hua2 576; Yishu 34:55.6b-7a; tr. Legge 2.151;
+# dating: 8110
+其它如奔喪之禮，¶
+如同宮，¶
+則次于異宮。<pb:KR1d0052_tls_021-5a>¶
+
+# src: LIJI 21.01.08; Couvreur 2.159f; Su1n Xïda4n 11.23; Jia1ng Yi4hua2 577; Yishu 34:55.8b; tr. Legge 2.152;
+# dating: 8110
+21.5曾子問曰：¶
+「卿大夫將為尸於公，¶
+受宿矣，¶
+而有齊衰內喪，¶
+則如之何？」¶
+孔子曰：¶
+「出舍乎公宮以待事，¶
+禮也。」¶
+
+# src: LIJI 21.01.09; Couvreur 2.159f; Su1n Xïda4n 11.24; Jia1ng Yi4hua2 577; Yishu 34:55.9a; tr. Legge 2.152;
+# dating: 8110
+孔子曰：¶
+「尸弁冕而出，¶
+卿、大夫、¶士皆下之。¶
+尸必式，¶必有前驅。」<pb:KR1d0052_tls_021-6a>¶
+
+# src: LIJI 21.01.10; Couvreur 2.159f; Su1n Xïda4n 11.24; Jia1ng Yi4hua2 577; Yishu 34:55.9a; tr. Legge 2.152;
+# dating: 8110
+21.6父母之喪，¶
+將祭
+而昆弟死；¶
+既殯而祭。¶
+如同宮，¶
+則雖臣妾，¶
+葬而后祭。¶
+
+# src: LIJI 21.01.11; Couvreur 2.159f; Su1n Xïda4n 11.24; Jia1ng Yi4hua2 577; Yishu 34:55.9a; tr. Legge 2.152;
+# dating: 8110
+祭，
+主人之升降散等，¶
+執事者亦散等。¶
+雖虞、¶附亦然。<pb:KR1d0052_tls_021-7a>¶
+
+# src: LIJI 21.01.12; Couvreur 2.160f; Su1n Xïda4n 11.25; Jia1ng Yi4hua2 578; Yishu 34:55.10a; tr. Legge 2.152;
+# dating: 8110
+21.7自諸侯達諸士，¶
+小祥之祭，¶
+主人之酢也嚌之；¶
+眾賓、¶兄弟
+則皆啐之。¶
+大祥：¶
+主人啐之，¶
+眾賓、¶兄弟皆飲之
+可也。<pb:KR1d0052_tls_021-8a>¶
+
+# src: LIJI 21.01.13; Couvreur 2.160f; Su1n Xïda4n 11.25; Jia1ng Yi4hua2 578; Yishu 34:55.12a; tr. Legge 2.153;
+# dating: 8110
+21.8凡侍祭喪者，¶
+告賓祭薦而不食。¶
+
+# src: LIJI 21.01.14; Couvreur 2.162f; Su1n Xïda4n 11.25; Jia1ng Yi4hua2 579; Yishu 34:55.12b; tr. Legge 2.153;
+# dating: 8110
+子貢問喪，¶
+子曰：¶
+「敬為上，¶
+哀次之，¶
+瘠為下。¶
+顏色稱其情；¶
+戚容稱其服。」¶
+
+# src: LIJI 21.01.15; Couvreur 2.162f; Su1n Xïda4n 11.26; Jia1ng Yi4hua2 579; Yishu 34:55.12b-14a; tr. Legge 2.153;
+# dating: 8110
+「請問兄弟之喪。」¶
+子曰：¶
+「兄弟之喪，¶
+則存乎書策矣。」¶
+君子不奪人之喪，¶
+亦不可奪喪也。¶
+
+# src: LIJI 21.01.16; Couvreur 2.162f; Su1n Xïda4n 11.26; Jia1ng Yi4hua2 579; Yishu 34:55.14b; tr. Legge 2.153;
+# dating: 8110
+孔子曰：¶
+「少連、¶大連善居喪，¶
+三日不怠，¶
+三月不解，¶
+期悲哀，¶
+三年憂。¶
+東夷之子也。」<pb:KR1d0052_tls_021-9a>¶
+
+# src: LIJI 21.01.17; Couvreur 2.162f; Su1n Xïda4n 11.26; Jia1ng Yi4hua2 579; Yishu 34:55.15a; tr. Legge 2.154;
+# dating: 8110
+21.9三年之喪，¶
+言而不語，¶
+對而不問：¶
+廬、
+堊室之中，¶
+不與人坐焉；¶
+在堊室之中，¶
+非時見乎母也，¶
+不入門。¶
+
+# src: LIJI 21.01.18; Couvreur 2.162f; Su1n Xïda4n 11.27; Jia1ng Yi4hua2 579; Yishu 34:55.15a; tr. Legge 2.154;
+# dating: 8110
+疏衰皆居堊室，¶不廬。¶
+廬，
+嚴者也。<pb:KR1d0052_tls_021-10a>¶
+
+# src: LIJI 21.01.19; Couvreur 2.163f; Su1n Xïda4n 11.27; Jia1ng Yi4hua2 580; Yishu 34:55.16a-17b; tr. Legge 2.154;
+# dating: 8110
+21.10妻視叔父母，¶
+姑、姊妹視兄弟，¶
+長、中、¶下殤視成人。<pb:KR1d0052_tls_021-11a>¶
+21.11親喪外除，¶
+兄弟之喪內除。<pb:KR1d0052_tls_021-12a>¶
+21.12視君之母與妻，¶
+比之兄弟。¶
+發諸顏色者
+亦不飲食也。<pb:KR1d0052_tls_021-13a>¶
+
+# src: LIJI 21.01.20; Couvreur 2.163f; Su1n Xïda4n 11.27; Jia1ng Yi4hua2 580; Yishu 34:55.18a; tr. Legge 2.154;
+# dating: 8110
+21.13免喪之外，¶
+行於道路，¶
+見似目瞿，¶
+聞名心瞿。¶
+弔死而問疾，¶
+顏色戚容必有以異於人也。¶
+
+# src: LIJI 21.01.21; Couvreur 2.163f; Su1n Xïda4n 11.27; Jia1ng Yi4hua2 580; Yishu 34:55.18a; tr. Legge 2.154;
+# dating: 8110
+如此
+而后可以服三年之喪。¶
+其餘
+則直道而行之
+是也。<pb:KR1d0052_tls_021-14a>¶
+
+# src: LIJI 21.01.22; Couvreur 2.165f; Su1n Xïda4n 11.28; Jia1ng Yi4hua2 5i1; Yishu 34:55.19a-20b; tr. Legge 2.155;
+# dating: 8110
+21.14祥，¶
+主人之除也，¶
+於夕為期，¶
+朝服。¶
+祥因其故服。¶
+子游曰：¶
+「既祥，¶
+雖不當縞者必縞，¶
+然後反服。」¶
+
+# src: LIJI 21.01.23; Couvreur 2.166; Su1n Xïda4n 11.29; Jia1ng Yi4hua2 5i1f; Yishu 34:55.21b; tr. Legge 2.155;
+# dating: 8110
+當袒，¶
+大夫至，¶
+雖當踊，¶
+絕踊而拜之，¶
+反改成踊，¶
+乃襲。¶
+於士，¶
+既事成踊，¶
+襲而后拜之，¶
+不改成踊。¶
+
+# src: LIJI 21.01.24; Couvreur 2.167f; Su1n Xïda4n 11.29; Jia1ng Yi4hua2 5i2; Yishu 34:55.23a; tr. Legge 2.155;
+# dating: 8110
+上大夫之虞也
+少牢。¶
+卒哭成事，¶
+附，
+皆大牢。¶
+下大夫之虞也
+犆牲。¶
+卒哭成事，¶
+附，
+皆少牢。<pb:KR1d0052_tls_021-15a>¶
+
+# src: LIJI 21.01.25; Couvreur 2.167f; Su1n Xïda4n 11.30; Jia1ng Yi4hua2 5i3; Yishu 34:55.24a; tr. Legge 2.156;
+# dating: 8110
+21.15祝稱卜葬、¶虞，
+子孫曰¶「哀」，¶
+夫曰¶「乃」，¶
+兄弟曰¶「某」，¶
+卜葬其兄弟曰¶「伯子某」。<pb:KR1d0052_tls_021-16a>¶
+
+# src: LIJI 21.01.26; Couvreur 2.168f; Su1n Xïda4n 11.30; Jia1ng Yi4hua2 5i3; Yishu 34:55.24b; tr. Legge 2.156;
+# dating: 8110
+21.16古者，¶
+貴賤皆杖。¶
+叔孫武叔朝，¶
+見輪人以其杖關轂而輠輪者，¶
+於是，¶
+有爵而后杖也。<pb:KR1d0052_tls_021-17a>¶
+
+# src: LIJI 21.01.27; Couvreur 2.168f; Su1n Xïda4n 11.31; Jia1ng Yi4hua2 5i3f; Yishu 34:55.25a-25b; tr. Legge 2.156;
+# dating: 8110
+21.17鑿巾以飯，¶
+公羊賈為之也。<pb:KR1d0052_tls_021-18a>¶
+21.18冒者何也？¶
+所以揜形也。¶
+自襲以至小斂，¶
+不設冒則形，¶
+是以襲而后設冒也。<pb:KR1d0052_tls_021-19a>¶
+
+# src: LIJI 21.01.28; Couvreur 2.169f; Su1n Xïda4n 11.32; Jia1ng Yi4hua2 5i4; Yishu 34:55.26a; tr. Legge 2.156;
+# dating: 8110
+21.19或問於曾子曰：¶
+「夫既遣而包其餘，¶
+猶既食而裹其餘與？¶
+君子既食，¶
+則裹其餘乎？」¶
+
+# src: LIJI 21.01.29; Couvreur 2.169f; Su1n Xïda4n 11.32; Jia1ng Yi4hua2 5i4; Yishu 34:55.26a; tr. Legge 2.156;
+# dating: 8110
+曾子曰：¶
+「吾子不見大饗乎？¶
+夫大饗，¶
+既饗，¶
+卷三牲之俎歸于賓館。¶
+父母而賓客之，¶
+所以為哀也！¶
+子不見大饗乎！」<pb:KR1d0052_tls_021-20a>¶
+
+# src: LIJI 21.01.30; Couvreur 2.169f; Su1n Xïda4n 11.32; Jia1ng Yi4hua2 585; Yishu 34:55.27a; tr. Legge 2.157;
+# dating: 8110
+21.20非為人喪，¶
+問與賜與。<pb:KR1d0052_tls_021-21a>¶
+21.21三年之喪，¶
+以其喪拜；¶
+非三年之喪，¶
+以吉拜。¶
+
+# src: LIJI 21.01.31; Couvreur 2.169f; Su1n Xïda4n 11.33; Jia1ng Yi4hua2 585; Yishu 34:55.28a; tr. Legge 2.157;
+# dating: 8110
+三年之喪，¶
+如或遺之酒肉，¶
+則受之，¶必三辭。¶
+主人衰絰而受之。¶
+如君命，¶
+則不敢辭，¶
+受而薦之。¶
+
+# src: LIJI 21.01.32; Couvreur 2.169f; Su1n Xïda4n 11.33; Jia1ng Yi4hua2 585; Yishu 34:55.28a; tr. Legge 2.157;
+# dating: 8110
+喪者不遺人，¶
+人遺之，¶
+雖酒肉，¶
+受也。¶
+從父昆弟以下，¶
+既卒哭，¶
+遺人可也。¶
+
+# src: LIJI 21.01.33; Couvreur 2.171f; Su1n Xïda4n 11.33; Jia1ng Yi4hua2 586; Yishu 34:55.28b; tr. Legge 2.157;
+# dating: 8110
+縣子曰：¶
+「三年之喪，¶
+如斬。¶
+期之喪，¶
+如剡。」¶
+
+# src: LIJI 21.01.34; Couvreur 2.171f; Su1n Xïda4n 11.33f; Jia1ng Yi4hua2 586; Yishu 34:55.28b; tr. Legge 2.158;
+# dating: 8110
+期之喪，¶
+十一月而練，¶
+十三月而祥，¶
+十五月而禫。¶
+三年之喪，¶
+雖功衰不弔，¶
+自諸侯達諸士。¶
+如有服而將往哭之，¶
+則服其服而往。¶
+練則弔。¶
+
+# src: LIJI 21.01.35; Couvreur 2.172f; Su1n Xïda4n 11.35; Jia1ng Yi4hua2 586; Yishu 34:55.30b; tr. Legge 2.158;
+# dating: 8110
+既葬，¶
+大功弔，¶
+哭而退，¶
+不聽事焉。¶
+期之喪，¶
+未葬，¶
+弔於鄉人，¶
+哭而退，¶
+不聽事焉。¶
+
+# src: LIJI 21.01.36; Couvreur 2.172f; Su1n Xïda4n 11.35; Jia1ng Yi4hua2 586; Yishu 34:55.30b; tr. Legge 2.158;
+# dating: 8110
+功衰弔，¶
+待事，¶不執事。¶
+小功緦，¶
+執事，¶不與於禮。<pb:KR1d0052_tls_021-22a>¶
+
+# src: LIJI 21.01.37; Couvreur 2.172f; Su1n Xïda4n 11.36; Jia1ng Yi4hua2 586; Yishu 34:55.32a; tr. Legge 2.159;
+# dating: 8110
+21.22相趨也，¶
+出宮而退。¶
+相揖也，¶
+哀次而退。¶
+相問也，¶
+既封而退。¶
+相見也，¶
+反哭而退。¶
+朋友，¶
+虞、（附）而退。<pb:KR1d0052_tls_021-23a>¶
+
+# src: LIJI 21.01.38; Couvreur 2.172f; Su1n Xïda4n 11.36; Jia1ng Yi4hua2 586; Yishu 34:55.32b; tr. Legge 2.159;
+# dating: 8110
+21.23弔
+非從主人也。¶
+四十者執綍：¶
+鄉人五十者從反哭，¶
+四十者待盈坎。<pb:KR1d0052_tls_021-24a>¶
+
+# src: LIJI 21.01.39; Couvreur 2.175f; Su1n Xïda4n 11.37; Jia1ng Yi4hua2 587; Yishu 34:55.33b; tr. Legge 2.159;
+# dating: 8110
+21.24喪食雖惡必充饑，¶
+饑而廢事，¶
+非禮也；¶
+飽而忘哀，¶
+亦非禮也。¶
+
+# src: LIJI 21.01.40; Couvreur 2.175f; Su1n Xïda4n 11.37; Jia1ng Yi4hua2 587; Yishu 34:55.33b; tr. Legge 2.159;
+# dating: 8110
+視不明，¶
+聽不聰，¶
+行不正，¶
+不知哀，¶
+君子病之。¶
+故有疾飲酒食肉，¶
+五十不致毀，¶
+六十不毀，¶
+七十飲酒食肉，¶
+皆為疑死。<pb:KR1d0052_tls_021-25a>¶
+
+# src: LIJI 21.01.41; Couvreur 2.175f; Su1n Xïda4n 11.37; Jia1ng Yi4hua2 587; Yishu 34:55.34a; tr. Legge 2.160;
+# dating: 8110
+21.25有服，¶
+人召之食，¶
+不往。¶
+大功以下，¶
+既葬，¶
+適人，¶
+人食之，¶
+其黨也食之，¶
+非其黨弗食也。¶
+
+# src: LIJI 21.01.42; Couvreur 2.175f; Su1n Xïda4n 11.37; Jia1ng Yi4hua2 587; Yishu 34:55.34b; tr. Legge 2.160;
+# dating: 8110
+功衰，¶食菜果，¶
+飲水漿，¶
+無鹽、¶酪。
+不能食食，¶
+鹽、酪可也。¶
+
+# src: LIJI 21.01.43; Couvreur 2.175f; Su1n Xïda4n 11.37; Jia1ng Yi4hua2 587f; Yishu 34:55.35a; tr. Legge 2.160;
+# dating: 8110
+孔子曰：¶
+「身有瘍則浴，¶
+首有創則沐，¶
+病則飲酒食肉。¶
+毀瘠為病，¶
+君子弗為也。¶
+毀而死，¶
+君子謂之無子。」<pb:KR1d0052_tls_021-26a>¶
+
+# src: LIJI 21.01.44; Couvreur 2.177f; Su1n Xïda4n 11.37f; Jia1ng Yi4hua2 588; Yishu 34:55.35a-35b; tr. Legge 2.160;
+# dating: 8110
+21.26非從柩與反哭，¶
+無免於堩。<pb:KR1d0052_tls_021-27a>¶
+21.27凡喪，¶
+小功以上，¶
+非虞、¶附、練、¶祥，
+無沐浴。<pb:KR1d0052_tls_021-28a>¶
+
+# src: LIJI 21.01.45; Couvreur 2.177f; Su1n Xïda4n 11.38; Jia1ng Yi4hua2 589; Yishu 34:55.36a; tr. Legge 2.160;
+# dating: 8110
+21.28疏衰之喪，¶
+既葬，¶
+人請見之，¶
+則見；¶
+不請見人。¶
+小功，¶
+請見人可也。¶
+大功不以執摯。¶
+唯父母之喪，¶
+不辟涕泣而見人。<pb:KR1d0052_tls_021-29a>¶
+
+# src: LIJI 21.01.46; Couvreur 2.177f; Su1n Xïda4n 11.38; Jia1ng Yi4hua2 589; Yishu 34:55.37a; tr. Legge 2.161;
+# dating: 8110
+21.29三年之喪，¶
+祥而從政；¶
+期之喪，¶
+卒哭而從政；¶
+九月之喪，¶
+既葬而從政；¶
+小功緦之喪，¶
+既殯而從政。¶
+
+# src: LIJI 21.01.47; Couvreur 2.178f; Su1n Xïda4n 11.39; Jia1ng Yi4hua2 590; Yishu 34:55.37b; tr. Legge 2.161;
+# dating: 8110
+曾申問於曾子曰：¶
+「哭父母有常聲乎？」¶
+曰：¶
+「中路嬰兒失其母焉，¶
+何常聲之有？」¶
+
+# src: LIJI 21.02.01; Couvreur 2.179; Su1n Xïda4n 11.39; Jia1ng Yi4hua2 590; Yishu 34:56.1a; tr. Legge 2.161;
+# dating: 8110
+卒哭而諱。¶
+王父母、¶兄弟、¶
+世父、¶叔父、¶
+姑、姊妹。¶
+子與父同諱。¶
+母之諱，¶
+宮中諱。¶
+妻之諱，¶
+不舉諸其側；¶
+與從祖昆弟同名則諱。¶
+
+# src: LIJI 21.02.02; Couvreur 2.180; Su1n Xïda4n 11.40; Jia1ng Yi4hua2 591; Yishu 34:56.3a; tr. Legge 2.162;
+# dating: 8110
+以喪冠者，¶
+雖三年之喪
+可也。¶
+既冠於次，¶
+入哭踊，¶
+三者三，¶
+乃出。¶
+
+# src: LIJI 21.02.03; Couvreur 2.180; Su1n Xïda4n 11.41; Jia1ng Yi4hua2 591; Yishu 34:56.4a; tr. Legge 2.162;
+# dating: 8110
+大功之末，¶
+可以冠子，¶
+可以嫁子。¶
+父，
+大功之末，¶
+可以冠子，¶
+可以嫁子，¶
+可以取婦。¶
+
+# src: LIJI 21.02.04; Couvreur 2.180; Su1n Xïda4n 11.41; Jia1ng Yi4hua2 591; Yishu 34:56.4a-4b; tr. Legge 2.162;
+# dating: 8110
+己，
+雖小功，¶
+既卒哭，¶
+可以冠，¶
+取妻；¶
+下殤之小功
+則不可。<pb:KR1d0052_tls_021-30a>¶
+
+# src: LIJI 21.02.05; Couvreur 2.1i1; Su1n Xïda4n 11.42; Jia1ng Yi4hua2 591; Yishu 34:56.8a; tr. Legge 2.162;
+# dating: 8110
+21.30凡弁絰，¶
+其衰侈袂。¶
+
+# src: LIJI 21.02.06; Couvreur 2.1i1; Su1n Xïda4n 11.42; Jia1ng Yi4hua2 592; Yishu 34:56.8b; tr. Legge 2.162;
+# dating: 8110
+父有服，¶
+宮中子不與於樂。¶
+母有服，¶
+聲聞焉不舉樂。¶
+妻有服，¶
+不舉樂於其側。¶
+大功將至，¶
+辟琴瑟。¶
+小功至，¶
+不絕樂。<pb:KR1d0052_tls_021-31a>¶
+
+# src: LIJI 21.02.07; Couvreur 2.1i1f; Su1n Xïda4n 11.43; Jia1ng Yi4hua2 592; Yishu 34:56.10b; tr. Legge 2.162;
+# dating: 8110
+21.31姑、¶姊妹，¶
+其夫死，¶
+而夫黨無兄弟，¶
+使夫之族人主喪。¶
+妻之黨，¶
+雖親弗主。¶
+
+# src: LIJI 21.02.08; Couvreur 2.1i1f; Su1n Xïda4n 11.43; Jia1ng Yi4hua2 592; Yishu 34:56.10b; tr. Legge 2.162;
+# dating: 8110
+夫若無族矣，¶
+則前後家，¶
+東西家；¶
+無有，¶
+則里尹主之。¶
+或曰：¶
+主之，¶
+而附於夫之黨。<pb:KR1d0052_tls_021-32a>¶
+
+# src: LIJI 21.02.09; Couvreur 2.1i2f; Su1n Xïda4n 11.43f; Jia1ng Yi4hua2 593; Yishu 34:56.12a-12b; tr. Legge 2.163;
+# dating: 8110
+21.32麻者不紳，¶
+執玉不麻。¶
+麻不加於采。<pb:KR1d0052_tls_021-33a>¶
+21.33國禁哭，¶
+則止，¶朝夕之奠
+即位，¶自因也。¶
+
+# src: LIJI 21.02.10; Couvreur 2.1i2f; Su1n Xïda4n 11.44; Jia1ng Yi4hua2 593; Yishu 34:56.13a; tr. Legge 2.163;
+# dating: 8110
+童子哭不偯，¶
+不踊，¶
+不杖，¶
+不菲，¶
+不廬。¶
+
+# src: LIJI 21.02.11; Couvreur 2.1i2f; Su1n Xïda4n 11.45; Jia1ng Yi4hua2 593; Yishu 34:56.13a; tr. Legge 2.163;
+# dating: 8110
+孔子曰：¶
+「伯母、¶叔母
+疏衰，¶
+踊不絕地。¶
+姑、姊妹之大功，¶
+踊絕於地。¶
+如知此者，¶
+由文矣哉！¶
+由文矣哉！」<pb:KR1d0052_tls_021-34a>¶
+
+# src: LIJI 21.02.12; Couvreur 2.1i3f; Su1n Xïda4n 11.45; Jia1ng Yi4hua2 594; Yishu 34:56.14a; tr. Legge 2.164;
+# dating: 8110
+21.34世柳之母死，¶
+相者由左。¶
+世柳死，¶
+其徒由右相。¶
+由右相，¶
+世柳之徒為之也。<pb:KR1d0052_tls_021-35a>¶
+
+# src: LIJI 21.02.13; Couvreur 2.1i3f; Su1n Xïda4n 11.45; Jia1ng Yi4hua2 594; Yishu 34:56.14b; tr. Legge 2.164;
+# dating: 8110
+21.35天子飯，¶
+九貝；¶
+諸侯七，¶
+大夫五，¶
+士三。¶
+
+# src: LIJI 21.02.14; Couvreur 2.1i3f; Su1n Xïda4n 11.46; Jia1ng Yi4hua2 594; Yishu 34:56.15b; tr. Legge 2.164;
+# dating: 8110
+士三月而葬，¶
+是月也卒哭；¶
+大夫三月而葬，¶
+五月而卒哭；¶
+諸侯五月而葬，¶
+七月而卒哭。¶
+士三虞，¶
+大夫五，¶
+諸侯七。¶
+
+# src: LIJI 21.02.15; Couvreur 2.185f; Su1n Xïda4n 11.46; Jia1ng Yi4hua2 594; Yishu 34:56.17a; tr. Legge 2.164;
+# dating: 8110
+諸侯使人弔，¶
+其次：¶
+含、襚、¶賵、臨，¶
+皆同日而畢事者也，¶
+其次如此也。¶
+
+# src: LIJI 21.02.16; Couvreur 2.185f; Su1n Xïda4n 11.46; Jia1ng Yi4hua2 594; Yishu 34:56.17a; tr. Legge 2.164;
+# dating: 8110
+卿大夫疾，¶
+君問之無筭；¶
+士壹問之。¶
+君於卿大夫，¶
+比葬不食肉，¶
+比卒哭不舉樂；¶
+為士，¶
+比殯不舉樂。<pb:KR1d0052_tls_021-36a>¶
+
+# src: LIJI 21.02.17; Couvreur 2.185f; Su1n Xïda4n 11.47; Jia1ng Yi4hua2 594; Yishu 34:56.17b; tr. Legge 2.164;
+# dating: 8110
+21.36升正柩，¶
+諸侯執綍五百人，¶
+四綍，¶
+皆衘枚，¶
+司馬執鐸，¶
+左八人，¶
+右八人，¶
+匠人執羽葆御柩。¶
+
+# src: LIJI 21.02.18; Couvreur 2.185f; Su1n Xïda4n 11.47; Jia1ng Yi4hua2 594; Yishu 34:56.17b; tr. Legge 2.164;
+# dating: 8110
+大夫之喪，¶
+其升正柩也，¶
+執引者三百人，¶
+執鐸者
+左右各四人，¶
+御柩以茅。<pb:KR1d0052_tls_021-37a>¶
+
+# src: LIJI 21.02.19; Couvreur 2.186f; Su1n Xïda4n 11.48; Jia1ng Yi4hua2 595; Yishu 34:56.19a; tr. Legge 2.165;
+# dating: 8110
+21.37孔子曰：¶
+「管仲鏤簋而朱紘，¶
+旅樹而反坫，¶
+山節而藻梲。¶
+賢大夫也，¶
+而難為上也。¶
+
+# src: LIJI 21.02.20; Couvreur 2.186f; Su1n Xïda4n 11.48; Jia1ng Yi4hua2 595; Yishu 34:56.19a; tr. Legge 2.165;
+# dating: 8110
+晏平仲祀其先人。¶
+豚肩不揜豆。¶
+賢大夫也，¶
+而難為下也。¶
+君子上不僣上，¶
+下不偪下。」<pb:KR1d0052_tls_021-38a>¶
+
+# src: LIJI 21.02.21; Couvreur 2.187f; Su1n Xïda4n 11.48; Jia1ng Yi4hua2 596; Yishu 34:56.20a; tr. Legge 2.166;
+# dating: 8110
+21.38婦人非三年之喪，¶
+不踰封而弔。¶
+如三年之喪，¶
+則君夫人歸。¶
+夫人，¶
+其歸也以諸侯之弔禮；¶
+其待之也，¶
+若待諸侯然。¶
+
+# src: LIJI 21.02.22; Couvreur 2.187f; Su1n Xïda4n 11.48f; Jia1ng Yi4hua2 596; Yishu 34:56.20b-21b; tr. Legge 2.166;
+# dating: 8110
+夫人至，¶
+入自闈門，¶
+升自側階，¶
+君在阼。¶
+其他如奔喪禮然。<pb:KR1d0052_tls_021-39a>¶
+21.39嫂不撫叔，¶
+叔不撫嫂。¶
+
+# src: LIJI 21.02.23; Couvreur 2.189; Su1n Xïda4n 11.49; Jia1ng Yi4hua2 597; Yishu 34:56.22a; tr. Legge 2.166;
+# dating: 8110
+君子有三患：¶
+未之聞，¶
+患弗得聞也；¶
+既聞之，¶
+患弗得學也；¶
+既學之，¶
+患弗能行也。¶
+
+# src: LIJI 21.02.24; Couvreur 2.189; Su1n Xïda4n 11.49; Jia1ng Yi4hua2 597; Yishu 34:56.22a; tr. Legge 2.166;
+# dating: 8110
+君子有五恥：¶
+居其位，¶
+無其言，¶
+君子恥之。¶
+有其言，¶
+無其行，¶
+君子恥之。¶
+
+# src: LIJI 21.02.25; Couvreur 2.189; Su1n Xïda4n 11.49; Jia1ng Yi4hua2 597; Yishu 34:56.22a; tr. Legge 2.166;
+# dating: 8110
+既得之而又失之，¶
+君子恥之。¶
+地有餘而民不足，¶
+君子恥之。¶
+眾寡均而倍焉，¶
+君子恥之。<pb:KR1d0052_tls_021-40a>¶
+
+# src: LIJI 21.02.26; Couvreur 2.190f; Su1n Xïda4n 11.50; Jia1ng Yi4hua2 597; Yishu 34:56.23b-24b; tr. Legge 2.166;
+# dating: 8110
+21.40孔子曰：¶
+「凶年則乘駑馬。¶
+祀，
+以下牲。」<pb:KR1d0052_tls_021-41a>¶
+21.41恤由之喪，¶
+哀公使孺悲之孔子學¶
+「士喪禮」，¶
+《士喪禮》於是乎書。<pb:KR1d0052_tls_021-42a>¶
+
+# src: LIJI 21.02.27; Couvreur 2.190f; Su1n Xïda4n 11.50; Jia1ng Yi4hua2 597f; Yishu 34:56.24b; tr. Legge 2.167;
+# dating: 8110
+21.42子貢觀於蜡。¶
+孔子曰：¶
+「賜也樂乎？」¶
+對曰：¶
+「一國之人皆若狂，¶
+賜未知其樂也！」¶
+
+# src: LIJI 21.02.28; Couvreur 2.190f; Su1n Xïda4n 11.50; Jia1ng Yi4hua2 598; Yishu 34:56.24b; tr. Legge 2.167;
+# dating: 8110
+子曰：¶
+「百日之蜡，¶
+一日之澤，¶
+非爾所知也。¶
+張而不弛，¶
+文武弗能也；¶
+弛而不張，¶
+文武弗為也。¶
+一張一弛，¶
+文武之道也。」<pb:KR1d0052_tls_021-43a>¶
+
+# src: LIJI 21.02.29; Couvreur 2.191f; Su1n Xïda4n 11.51; Jia1ng Yi4hua2 598; Yishu 34:56.26a-27b; tr. Legge 2.167;
+# dating: 8110
+21.43孟獻子曰：¶
+「正月日至，¶
+可以有事於上帝；¶
+七月日至，¶
+可以有事於祖。」¶
+七月而禘，¶
+獻子為之也。<pb:KR1d0052_tls_021-44a>¶
+21.44夫人之不命於天子，¶
+自魯昭公始也。<pb:KR1d0052_tls_021-45a>¶
+
+# src: LIJI 21.02.30; Couvreur 2.191f; Su1n Xïda4n 11.52; Jia1ng Yi4hua2 598; Yishu 34:56.28b; tr. Legge 2.168;
+# dating: 8110
+21.45外宗為君、¶夫人，¶
+猶內宗也。<pb:KR1d0052_tls_021-46a>¶
+
+# src: LIJI 21.02.31; Couvreur 2.192f; Su1n Xïda4n 11.53; Jia1ng Yi4hua2 599; Yishu 34:56.30a; tr. Legge 2.168;
+# dating: 8110
+21.46廄焚，¶
+孔子拜鄉人為火來者。¶
+拜之，¶
+士壹，¶
+大夫再。¶
+亦相弔之道也。¶
+
+# src: LIJI 21.02.32; Couvreur 2.192f; Su1n Xïda4n 11.53; Jia1ng Yi4hua2 599; Yishu 34:56.30a; tr. Legge 2.168;
+# dating: 8110
+孔子曰：¶
+「管仲遇盜，¶
+取二人焉，¶
+上以為公臣，¶
+曰：¶
+『『其所與遊辟也。¶
+可人也！』¶
+
+# src: LIJI 21.02.33; Couvreur 2.192f; Su1n Xïda4n 11.53; Jia1ng Yi4hua2 599; Yishu 34:56.30a; tr. Legge 2.168;
+# dating: 8110
+管仲死，¶
+桓公使為之服。¶
+宦於大夫者之為之服也，¶
+自管仲始也，¶
+有君命焉爾也。」<pb:KR1d0052_tls_021-47a>¶
+
+# src: LIJI 21.02.34; Couvreur 2.193f; Su1n Xïda4n 11.53f; Jia1ng Yi4hua2 600; Yishu 34:56.31a-31b; tr. Legge 2.168;
+# dating: 8110
+21.47過而舉君之諱，¶
+則起。¶
+與君之諱同，¶
+則稱字。<pb:KR1d0052_tls_021-48a>¶
+21.48內亂不與焉，¶
+外患弗辟也。<pb:KR1d0052_tls_021-49a>¶
+
+# src: LIJI 21.02.35; Couvreur 2.193f; Su1n Xïda4n 11.54; Jia1ng Yi4hua2 600; Yishu 34:56.32a; tr. Legge 2.168;
+# dating: 8110
+21.49贊，¶
+大行曰圭。¶
+公九寸，¶
+侯伯七寸，¶
+子男五寸。¶
+博三寸，¶
+厚半寸。¶
+剡上，¶
+左右各寸半，¶
+玉也。¶
+
+# src: LIJI 21.02.36; Couvreur 2.193f; Su1n Xïda4n 11.54f; Jia1ng Yi4hua2 600f; Yishu 34:56.32a-34a; tr. Legge 2.169;
+# dating: 8110
+藻三采六等。¶
+哀公問子羔曰：¶
+「子之食奚當？」¶
+對曰：¶
+「文公之下執事也。」<pb:KR1d0052_tls_021-50a>¶
+
+# src: LIJI 21.02.37; Couvreur 2.195f; Su1n Xïda4n 11.55; Jia1ng Yi4hua2 601; Yishu 34:56.34b; tr. Legge 2.169;
+# dating: 8110
+21.50成廟則釁之。¶
+其禮：¶
+祝、宗人、¶宰夫、¶雍人，¶
+皆爵弁、¶純衣。¶
+雍人拭羊，¶
+宗人視之，¶
+宰夫北面
+于碑南，¶
+東上。¶
+
+# src: LIJI 21.02.38; Couvreur 2.195f; Su1n Xïda4n 11.55f; Jia1ng Yi4hua2 601; Yishu 34:56.34b; tr. Legge 2.169;
+# dating: 8110
+雍人舉羊
+升屋，¶自中，¶
+中屋南面
+刲羊，¶
+血流于前，¶
+乃降。¶
+門、夾室
+皆用雞。¶
+先門而後夾室。¶
+
+# src: LIJI 21.02.39; Couvreur 2.195f; Su1n Xïda4n 11.57; Jia1ng Yi4hua2 601; Yishu 34:56.34b-35a; tr. Legge 2.169;
+# dating: 8110
+其衈
+皆于屋下。¶
+割雞，¶
+門當門，¶
+夾室中室。¶
+有司皆鄉室而立，¶
+門則有司當門北面。¶
+既事，¶
+宗人告事畢，¶
+乃皆退。¶
+
+# src: LIJI 21.02.40; Couvreur 2.195f; Su1n Xïda4n 11.58; Jia1ng Yi4hua2 601; Yishu 34:56.35a; tr. Legge 2.169;
+# dating: 8110
+反命于君曰：¶
+「釁某廟事畢。」¶
+反命于寢，¶
+君南鄉于門內朝服。¶
+既反命，¶
+乃退。¶
+路寢成，¶
+則考之而不釁。¶
+釁屋者，¶
+交神明之道也。¶
+
+# src: LIJI 21.02.41; Couvreur 2.195f; Su1n Xïda4n 11.58; Jia1ng Yi4hua2 601; Yishu 34:56.35a; tr. Legge 2.169;
+# dating: 8110
+凡宗廟之器，¶
+其名者
+成，¶則釁之以豭豚。<pb:KR1d0052_tls_021-51a>¶
+
+# src: LIJI 21.02.42; Couvreur 2.197f; Su1n Xïda4n 11.58; Jia1ng Yi4hua2 602; Yishu 34:56.37b-38a; tr. Legge 2.170;
+# dating: 8110
+21.51諸侯出夫人，¶
+夫人比至于其國，¶
+以夫人之禮行；¶
+至，
+以夫人入。¶
+使者將命曰：¶
+「寡君不敏，¶
+不能從而事社稷、¶宗廟，¶
+使使臣某，¶
+敢告於執事。」¶
+
+# src: LIJI 21.02.43; Couvreur 2.197f; Su1n Xïda4n 11.58; Jia1ng Yi4hua2 602; Yishu 34:56.38a; tr. Legge 2.170;
+# dating: 8110
+主人對曰：¶
+「寡君固前辭¶『不教』¶矣，
+寡君敢不敬須以俟命。」¶
+有司官陳器皿；¶
+主人有司亦官受之。¶
+
+# src: LIJI 21.02.44; Couvreur 2.197f; Su1n Xïda4n 11.59; Jia1ng Yi4hua2 602f; Yishu 34:56.39a; tr. Legge 2.171;
+# dating: 8110
+妻出，¶
+夫使人致之，¶曰：¶
+「某不敏，¶
+不能從而共粢盛，¶
+使某也敢告於侍者。」¶
+主人對曰：¶
+「某之子不肖，¶
+不敢辟誅，¶
+敢不敬須以俟命。」¶
+
+# src: LIJI 21.02.45; Couvreur 2.197f; Su1n Xïda4n 11.59; Jia1ng Yi4hua2 603; Yishu 34:56.39a; tr. Legge 2.171;
+# dating: 8110
+使者退，¶
+主人拜送之。¶
+如舅在，¶
+則稱舅。¶
+舅沒，¶
+則稱兄。¶
+無兄，¶
+則稱夫。¶
+
+# src: LIJI 21.02.46; Couvreur 2.197f; Su1n Xïda4n 11.59; Jia1ng Yi4hua2 603; Yishu 34:56.39a; tr. Legge 2.171;
+# dating: 8110
+主人之辭曰：¶
+「某之子不肖。」¶
+如姑、¶姊妹，¶
+亦皆稱之。¶
+
+# src: LIJI 21.02.47; Couvreur 2.199f; Su1n Xïda4n 11.59; Jia1ng Yi4hua2 603f; Yishu 34:56.40b; tr. Legge 2.171;
+# dating: 8110
+孔子曰：¶
+「吾食於少施氏而飽，¶
+少施氏食我以禮。¶
+吾祭，¶
+作而辭曰：¶
+『疏食不足祭也。』¶
+吾飧，¶
+作而辭曰：¶
+『疏食也，¶
+不敢以傷吾子。』」¶
+
+# src: LIJI 21.02.48; Couvreur 2.200f; Su1n Xïda4n 11.59f; Jia1ng Yi4hua2 604; Yishu 34:56.41b-42a; tr. Legge 2.172;
+# dating: 8110
+納幣一束：¶
+束五兩，¶
+兩五尋。¶
+婦見舅姑，¶
+兄弟、¶姑、姊妹
+皆立于堂下，¶
+西面，¶北上，¶
+是見已。¶
+見諸父
+各就其寢。¶
+
+# src: LIJI 21.02.49; Couvreur 2.200f; Su1n Xïda4n 11.60; Jia1ng Yi4hua2 604; Yishu 34:56.42a; tr. Legge 2.172;
+# dating: 8110
+女雖未許嫁，¶
+年二十而笄，¶
+禮之，¶
+婦人執其禮。¶
+燕則鬈首。<pb:KR1d0052_tls_021-52a>¶
+
+# src: LIJI 21.02.50; Couvreur 2.200f; Su1n Xïda4n 11.61; Jia1ng Yi4hua2 604; Yishu 34:56.43b; tr. Legge 2.172;
+# dating: 8110
+21.52韠，¶
+長三尺，¶
+下廣二尺，¶
+上廣一尺。¶
+會去上五寸，¶
+紕以爵韋六寸，¶
+不至下五寸。¶
+純以素，¶
+紃以五采。
+

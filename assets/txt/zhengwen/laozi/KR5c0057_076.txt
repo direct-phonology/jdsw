@@ -1,0 +1,25 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 75
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 76.1; tr. D.C. Lau 19i2: 109; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_076-1a>¶
+** 76 第七十六章
+
+人之生也柔弱，¶
+其死也堅強。¶
+萬物草木之生也柔脆，¶
+其死也枯槁。¶
+故曰：¶
+堅強者、死之徒也，¶
+柔弱者、生之徒也，¶
+是以兵強則不勝，¶
+木強則共。¶
+強大處下，¶
+柔弱處上。
+

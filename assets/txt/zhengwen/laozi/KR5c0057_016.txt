@@ -1,0 +1,36 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 15
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 16.1; tr. D.C. Lau 19i2: 23; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_016-1a>¶
+** 16 第十六章
+
+致虛極，¶
+守靜篤。¶
+萬物並作，¶
+吾以觀其復。¶
+夫物芸芸，¶
+各復歸其根。¶
+歸根曰靜，¶
+靜、是謂復命。¶
+復命曰常，¶
+知常曰明。¶
+
+# src: LAO 16.2; here tr. Karlgren 1975
+# dating: 8120
+不知常，¶
+妄作凶。¶
+知常容，¶
+容乃公，¶
+公乃王，¶
+王乃天，¶
+天乃道，¶
+道乃久。¶
+沒身不殆。
+

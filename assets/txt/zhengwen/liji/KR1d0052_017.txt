@@ -1,0 +1,526 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 16
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 17.01.01; Couvreur 2.1f; Su1n Xïda4n 9.74; Jia1ng Yi4hua2 479; Yishu 29:48.1b; tr. Legge 2.68;
+# dating: 8110
+<pb:KR1d0052_tls_017-1a>¶
+** 17 少儀
+
+17.1聞
+始見君子者，¶
+辭曰：¶
+「某固願聞名於將命者。」¶
+不得階主。¶
+
+# src: LIJI 17.01.02; Couvreur 2.1f; Su1n Xïda4n 9.75; Jia1ng Yi4hua2 479; Yishu 29:48.1b; tr. Legge 2.68;
+# dating: 8110
+敵者，¶曰¶
+「某固願見」。¶
+罕見曰¶
+「聞名」。¶
+亟見曰¶
+「朝夕」。¶
+瞽曰¶
+「聞名」。<pb:KR1d0052_tls_017-2a>¶
+
+# src: LIJI 17.01.03; Couvreur 2.1f; Su1n Xïda4n 9.76; Jia1ng Yi4hua2 480; Yishu 29:48.4a; tr. Legge 2.68;
+# dating: 8110
+17.2適有喪者曰¶
+「比」。¶
+童子曰¶
+「聽事」。¶
+適公卿之喪，¶
+則曰¶
+「聽役於司徒」。<pb:KR1d0052_tls_017-3a>¶
+
+# src: LIJI 17.01.04; Couvreur 2.2; Su1n Xïda4n 9.76; Jia1ng Yi4hua2 480; Yishu 29:48.4b; tr. Legge 2.69;
+# dating: 8110
+17.3君將適他，¶
+臣如致金玉貨貝於君，¶
+則曰：¶
+「致馬資於有司」；¶
+敵者曰：¶
+「贈從者。」<pb:KR1d0052_tls_017-4a>¶
+
+# src: LIJI 17.01.05; Couvreur 2.3; Su1n Xïda4n 9.77; Jia1ng Yi4hua2 480; Yishu 29:48.5b; tr. Legge 2.69;
+# dating: 8110
+17.4臣致襚於君，¶
+則曰：¶
+「致廢衣於賈人」；¶
+敵者曰：¶
+「襚。」¶
+親者兄弟不，¶
+以襚進。¶
+
+# src: LIJI 17.01.06; Couvreur 2.3; Su1n Xïda4n 9.77; Jia1ng Yi4hua2 480; Yishu 29:48.6a; tr. Legge 2.69;
+# dating: 8110
+臣為君喪，¶
+納貨貝於君，¶
+則曰：¶
+「納甸於有司。」¶
+
+# src: LIJI 17.01.07; Couvreur 2.3f; Su1n Xïda4n 9.78; Jia1ng Yi4hua2 480; Yishu 29:48.6b-7a; tr. Legge 2.69;
+# dating: 8110
+賵馬入廟門；¶
+賻馬與其幣，¶
+大白兵車，¶
+不入廟門。<pb:KR1d0052_tls_017-5a>¶
+17.5賻者既致命，¶
+坐委之，¶
+擯者舉之。¶
+主人無親受也。<pb:KR1d0052_tls_017-6a>¶
+
+# src: LIJI 17.01.08; Couvreur 2.3f; Su1n Xïda4n 9.79; Jia1ng Yi4hua2 4i1; Yishu 29:48.7b-8b; tr. Legge 2.70;
+# dating: 8110
+17.6受立、¶
+授立不坐。¶
+性之直者則有之矣。¶
+始入而辭，¶
+曰：¶
+「辭矣。」¶
+即席，¶
+曰：¶
+「可矣。」¶
+
+# src: LIJI 17.01.09; Couvreur 2.4f; Su1n Xïda4n 9.79; Jia1ng Yi4hua2 4i1; Yishu 29:48.8b; tr. Legge 2.70;
+# dating: 8110
+排闔說屨於戶內者，¶
+一人而已矣。¶
+有尊長在則否。<pb:KR1d0052_tls_017-7a>¶
+
+# src: LIJI 17.01.10; Couvreur 2.5; Su1n Xïda4n 9.80; Jia1ng Yi4hua2 4i1; Yishu 29:48.9b-10b; tr. Legge 2.70;
+# dating: 8110
+17.7問品味，¶曰：¶
+「子亟食於某乎？」¶
+問道藝，¶曰：¶
+「子習於某乎？¶
+「子善於某乎？」¶
+不疑在躬，¶
+不度民械，¶
+不願於大家，¶
+不訾重器。¶
+
+# src: LIJI 17.01.11; Couvreur 2.5f; Su1n Xïda4n 9.i1; Jia1ng Yi4hua2 4i2; Yishu 29:48.12a-12b; tr. Legge 2.70;
+# dating: 8110
+氾埽曰埽，¶
+埽席前曰拚；¶
+拚席不以鬣。¶
+執箕膺擖。<pb:KR1d0052_tls_017-8a>¶
+17.8不貳問。¶
+問卜筮，¶曰：¶
+「義與？¶
+志與？」¶
+義則可問，¶
+志則否。<pb:KR1d0052_tls_017-9a>¶
+
+# src: LIJI 17.01.12; Couvreur 2.6f; Su1n Xïda4n 9.i2; Jia1ng Yi4hua2 4i3; Yishu 29:48.13b; tr. Legge 2.71;
+# dating: 8110
+17.9尊長於己踰等，¶
+不敢問其年。¶
+燕見不將命。¶
+遇於道，¶
+見則面，¶
+不請所之。¶
+喪俟事不犆弔。¶
+
+# src: LIJI 17.01.13; Couvreur 2.6f; Su1n Xïda4n 9.i2; Jia1ng Yi4hua2 4i3; Yishu 29:48.13b; tr. Legge 2.71;
+# dating: 8110
+侍坐，¶弗使
+不執琴瑟，¶
+不畫地，¶
+手無容，¶
+不翣也。¶
+寢，則坐而將命。¶
+
+# src: LIJI 17.01.14; Couvreur 2.6f; Su1n Xïda4n 9.i3; Jia1ng Yi4hua2 4i3; Yishu 29:48.14b; tr. Legge 2.71;
+# dating: 8110
+侍射則約矢，¶
+侍投則擁矢。¶
+勝則洗而以請，¶
+客亦如之。¶
+不角，¶
+不擢馬。<pb:KR1d0052_tls_017-10a>¶
+
+# src: LIJI 17.01.15; Couvreur 2.8f; Su1n Xïda4n 9.i4; Jia1ng Yi4hua2 4i4; Yishu 29:48.16a; tr. Legge 2.72;
+# dating: 8110
+17.10執君之乘車則坐。¶
+僕者右帶劍，¶
+負良綏，¶
+申之面，¶
+扡諸幦，¶
+以散綏升，¶
+執轡然後步。<pb:KR1d0052_tls_017-11a>¶
+
+# src: LIJI 17.01.16; Couvreur 2.9; Su1n Xïda4n 9.85; Jia1ng Yi4hua2 4i4; Yishu 29:48.18a; tr. Legge 2.72;
+# dating: 8110
+17.11請見不請退。¶
+朝廷曰退，¶
+燕遊曰歸，¶
+師役曰罷。<pb:KR1d0052_tls_017-12a>¶
+
+# src: LIJI 17.01.17; Couvreur 2.9; Su1n Xïda4n 9.86; Jia1ng Yi4hua2 4i4; Yishu 29:48.19a; tr. Legge 2.72;
+# dating: 8110
+17.12侍坐於君子，¶
+君子欠伸，¶
+運笏，¶
+澤劍首，¶
+還屨，¶
+問日之蚤莫，¶
+雖請退可也。<pb:KR1d0052_tls_017-13a>¶
+
+# src: LIJI 17.01.18; Couvreur 2.10; Su1n Xïda4n 9.86; Jia1ng Yi4hua2 485; Yishu 29:48.19b; tr. Legge 2.72;
+# dating: 8110
+17.13事君者量而后入，¶
+不入而后量；¶
+凡乞假於人，¶
+為人從事者亦然。¶
+然，
+故上無怨，¶
+而下遠罪也。¶
+
+# src: LIJI 17.01.19; Couvreur 2.10; Su1n Xïda4n 9.86; Jia1ng Yi4hua2 485; Yishu 29:48.21a; tr. Legge 2.72;
+# dating: 8110
+不窺密，¶
+不旁狎，¶
+不道舊故，¶
+不戲色。<pb:KR1d0052_tls_017-14a>¶
+
+# src: LIJI 17.01.20; Couvreur 2.10f; Su1n Xïda4n 9.86; Jia1ng Yi4hua2 486; Yishu 29:48.21b; tr. Legge 2.73;
+# dating: 8110
+17.14為人臣下者，¶
+有諫而無訕，¶
+有亡而無疾；¶
+頌而無讇，¶
+諫而無驕；¶
+怠則張而相之，¶
+廢則埽而更之；¶
+謂之社稷之役。<pb:KR1d0052_tls_017-15a>¶
+
+# src: LIJI 17.01.21; Couvreur 2.11; Su1n Xïda4n 9.87; Jia1ng Yi4hua2 486; Yishu 29:48.22b; tr. Legge 2.73;
+# dating: 8110
+17.15毋拔來，¶
+毋報往，¶
+毋瀆神，¶
+毋循枉，¶
+毋測未至。¶
+士依於德，¶
+游於藝；¶
+工依於法，¶
+游於說。¶
+
+# src: LIJI 17.01.22; Couvreur 2.11f; Su1n Xïda4n 9.88; Jia1ng Yi4hua2 486; Yishu 29:48.22b; tr. Legge 2.73;
+# dating: 8110
+毋訾衣服成器，¶
+毋身質言語。¶
+
+# src: LIJI 17.01.23; Couvreur 2.11f; Su1n Xïda4n 9.88; Jia1ng Yi4hua2 487; Yishu 29:48.24b; tr. Legge 2.73;
+# dating: 8110
+言語之美，¶
+穆穆皇皇；¶
+朝廷之美，¶
+濟濟翔翔；¶
+祭祀之美，¶
+齊齊皇皇；¶
+車馬之美，¶
+匪匪翼翼；¶
+鸞和之美，¶
+肅肅雍雍。<pb:KR1d0052_tls_017-16a>¶
+
+# src: LIJI 17.01.24; Couvreur 2.12f; Su1n Xïda4n 9.89; Jia1ng Yi4hua2 487; Yishu 29:48.26a; tr. Legge 2.74;
+# dating: 8110
+17.16問國君之子長幼，¶
+長，
+則曰¶
+「能從社稷之事矣」；¶
+幼，
+則曰¶
+「能御」，¶
+「未能御」。¶
+
+# src: LIJI 17.01.25; Couvreur 2.12f; Su1n Xïda4n 9.89; Jia1ng Yi4hua2 487; Yishu 29:48.26a; tr. Legge 2.74;
+# dating: 8110
+問大夫之子長幼，¶
+長，
+則曰¶
+「能從樂人之事矣」；¶
+幼，
+則曰¶
+「能正於樂人」，¶
+「未能正於樂人」。¶
+
+# src: LIJI 17.01.26; Couvreur 2.12f; Su1n Xïda4n 9.89; Jia1ng Yi4hua2 487; Yishu 29:48.26a; tr. Legge 2.74;
+# dating: 8110
+問士之子長幼，¶
+長，
+則曰¶
+「能耕矣」；¶
+幼，
+則曰¶
+「能負薪」，¶
+「未能負薪」。<pb:KR1d0052_tls_017-17a>¶
+
+# src: LIJI 17.01.27; Couvreur 2.13; Su1n Xïda4n 9.89; Jia1ng Yi4hua2 488; Yishu 29:48.28b; tr. Legge 2.74;
+# dating: 8110
+17.17執玉執龜筴不趨，¶
+堂上不趨，¶
+城上不趨。¶
+武車不式；¶
+介者不拜。¶
+
+# src: LIJI 17.01.28; Couvreur 2.13f; Su1n Xïda4n 9.90; Jia1ng Yi4hua2 488; Yishu 29:48.29a; tr. Legge 2.74;
+# dating: 8110
+婦人，¶吉事，¶
+雖有君賜，¶
+肅拜。¶
+為尸坐，¶
+則不手拜，¶
+肅拜；¶
+為喪主，¶則不手拜。¶
+
+# src: LIJI 17.01.29; Couvreur 2.14; Su1n Xïda4n 9.90; Jia1ng Yi4hua2 488; Yishu 29:48.30b-32a; tr. Legge 2.75;
+# dating: 8110
+葛絰而麻帶。¶
+取俎、¶進俎不坐。<pb:KR1d0052_tls_017-18a>¶
+17.18執虛如執盈，¶
+入虛如有人。¶
+
+# src: LIJI 17.01.30; Couvreur 2.14f; Su1n Xïda4n 9.91; Jia1ng Yi4hua2 488; Yishu 29:48.32b-33b; tr. Legge 2.75;
+# dating: 8110
+凡祭於室中、¶
+堂上無跣，¶
+燕則有之。¶
+
+# i#少儀
+未嘗不食新。<pb:KR1d0052_tls_017-19a>¶
+17.19僕於君子，¶
+君子升、¶下則授綏；¶
+始乘則式；¶
+君子下行，¶
+然後還立。<pb:KR1d0052_tls_017-20a>¶
+
+# src: LIJI 17.01.31; Couvreur 2.15f; Su1n Xïda4n 9.91f; Jia1ng Yi4hua2 489; Yishu 29:48.34a; tr. Legge 2.75;
+# dating: 8110
+17.20乘貳車則式，¶
+佐車則否。¶
+貳車者，¶
+諸侯七乘，¶
+上大夫五乘，¶
+下大夫三乘。¶
+
+# src: LIJI 17.01.32; Couvreur 2.16; Su1n Xïda4n 9.92; Jia1ng Yi4hua2 489; Yishu 29:48.35b; tr. Legge 2.76;
+# dating: 8110
+有貳車者之乘馬、¶服車不齒。¶
+觀君子之衣服、¶
+服劍、¶
+乘馬
+弗賈。¶
+
+# src: LIJI 17.01.33; Couvreur 2.16f; Su1n Xïda4n 9.93; Jia1ng Yi4hua2 490; Yishu 29:48.36a; tr. Legge 2.76;
+# dating: 8110
+其以乘壺酒、¶
+束脩、¶
+一犬賜人，¶
+若獻人，¶
+則陳酒、¶執脩以將命，¶
+亦曰：¶「乘壺酒、¶
+束脩、¶
+一犬。」¶
+
+# src: LIJI 17.01.34; Couvreur 2.16f; Su1n Xïda4n 9.93; Jia1ng Yi4hua2 490; Yishu 29:48.36a-36b; tr. Legge 2.76;
+# dating: 8110
+其以鼎肉，¶
+則執以將命。¶
+其禽加於一雙，¶
+則執一雙以將命，¶
+委其餘。¶
+
+# src: LIJI 17.01.35; Couvreur 2.16f; Su1n Xïda4n 9.93; Jia1ng Yi4hua2 490; Yishu 29:48.37b; tr. Legge 2.76;
+# dating: 8110
+犬則執緤；¶
+守犬、¶
+田犬，¶
+則授擯者，¶
+既受，¶
+乃問犬名。¶
+牛則執紖，¶
+馬則執靮，¶
+皆右之。¶
+臣則左之。¶
+
+# src: LIJI 17.01.36; Couvreur 2.17f; Su1n Xïda4n 9.94; Jia1ng Yi4hua2 490; Yishu 29:48.38a; tr. Legge 2.76;
+# dating: 8110
+車則說綏，¶
+執以將命。¶
+甲，若有以前之，¶
+則執以將命；¶
+無以前之，¶
+則袒櫜奉冑。¶
+器則執蓋。¶
+弓則以左手屈韣執拊。¶
+劍則啟櫝，¶蓋襲之，¶
+加夫襓與劍焉。¶
+
+# src: LIJI 17.01.37; Couvreur 2.17f; Su1n Xïda4n 9.95; Jia1ng Yi4hua2 490; Yishu 29:48.39a; tr. Legge 2.77;
+# dating: 8110
+笏、書、¶脩、苞苴、¶弓、茵、¶席、枕、¶几、熲、¶杖、琴、¶瑟、戈有刃者櫝、¶筴、籥，¶
+其執之皆尚左手。¶
+刀卻刃授穎。¶
+削授拊。¶
+凡有刺刃者，¶
+以授人則辟刃。¶
+
+# src: LIJI 17.01.38; Couvreur 2.19; Su1n Xïda4n 9.96; Jia1ng Yi4hua2 491; Yishu 29:48.39b; tr. Legge 2.77;
+# dating: 8110
+乘兵車，¶
+出先刃，¶
+入後刃。¶
+軍尚左，¶
+卒尚右。¶
+
+# src: LIJI 17.01.39; Couvreur 2.19; Su1n Xïda4n 9.96; Jia1ng Yi4hua2 491; Yishu 29:48.40a; tr. Legge 2.77;
+# dating: 8110
+賓客主恭，¶
+祭祀主敬，¶
+喪事主哀，¶
+會同主詡。¶
+軍旅思險，¶
+隱情以虞。<pb:KR1d0052_tls_017-21a>¶
+
+# src: LIJI 17.01.40; Couvreur 2.20; Su1n Xïda4n 9.97; Jia1ng Yi4hua2 492; Yishu 29:48.41a; tr. Legge 2.77;
+# dating: 8110
+17.21燕侍食於君子，¶
+則先飯而後已；¶
+毋放飯，¶
+毋流歠；¶
+小飯而亟之；¶
+數噍，¶毋為口容。¶
+客自徹，¶
+辭焉則止。<pb:KR1d0052_tls_017-22a>¶
+
+# src: LIJI 17.01.41; Couvreur 2.20f; Su1n Xïda4n 9.97f; Jia1ng Yi4hua2 492; Yishu 29:48.41b-43a; tr. Legge 2.78;
+# dating: 8110
+17.22客爵居左，¶
+其飲居右；¶
+介爵、¶酢爵、¶
+僎爵皆居右。<pb:KR1d0052_tls_017-23a>¶
+17.23羞濡魚者進尾；¶
+冬右腴，¶
+夏右鰭；¶
+祭膴。<pb:KR1d0052_tls_017-24a>¶
+
+# src: LIJI 17.01.42; Couvreur 2.21f; Su1n Xïda4n 9.99; Jia1ng Yi4hua2 492f; Yishu 29:48.44b-45b; tr. Legge 2.78;
+# dating: 8110
+17.24凡齊，¶
+執之以右，¶
+居之以左。<pb:KR1d0052_tls_017-25a>¶
+17.25贊幣自左，¶
+詔辭自右。<pb:KR1d0052_tls_017-26a>¶
+17.26酌尸之僕，¶
+如君之僕。¶
+其在車則左執轡，¶右受爵，¶
+祭左右軌范，¶乃飲。<pb:KR1d0052_tls_017-27a>¶
+
+# src: LIJI 17.01.43; Couvreur 2.22f; Su1n Xïda4n 9.100f; Jia1ng Yi4hua2 493f; Yishu 29:48.46b; tr. Legge 2.79;
+# dating: 8110
+17.27凡羞有俎者，¶
+則於俎內祭。¶
+君子不食圂腴。¶
+小子走而不趨，¶
+舉爵則坐祭立飲。¶
+凡洗必盥。¶
+牛羊之肺，¶
+離而不提心。¶
+凡羞有湆者，¶
+不以齊。¶
+
+# src: LIJI 17.01.44; Couvreur 2.22f; Su1n Xïda4n 9.102f; Jia1ng Yi4hua2 494; Yishu 29:48.46b-47b; tr. Legge 2.79;
+# dating: 8110
+為君子擇葱薤，¶
+則絕其本末。¶
+羞首者，¶
+進喙祭耳。¶
+尊者以酌者之左為上尊。¶
+尊壺者面其鼻。¶
+飲酒者、¶禨者、¶醮者、¶
+有折俎不坐。¶
+未步爵，¶
+不嘗羞。<pb:KR1d0052_tls_017-28a>¶
+
+# src: LIJI 17.01.45; Couvreur 2.23f; Su1n Xïda4n 9.104; Jia1ng Yi4hua2 494; Yishu 29:48.49b; tr. Legge 2.79;
+# dating: 8110
+17.28牛與羊魚之腥，¶
+聶而切之為膾；¶
+麋鹿為菹，¶
+野豕為軒，¶
+皆聶而不切；¶
+麇為辟雞，¶
+兔為宛脾，¶
+皆聶而切之。¶
+切葱若薤，¶
+實之醯以柔之。<pb:KR1d0052_tls_017-29a>¶
+
+# src: LIJI 17.01.47; Couvreur 2.24; Su1n Xïda4n 9.105; Jia1ng Yi4hua2 495; Yishu 29:48.51a; tr. Legge 2.80;
+# dating: 8110
+17.29其有折俎者，¶
+取祭肺，¶
+反之，¶
+不坐；¶
+燔亦如之。¶
+尸則坐。
+<pb:KR1d0052_tls_017-30a>¶
+
+17.30衣服在躬，¶
+而不知其名為罔。<pb:KR1d0052_tls_017-31a>¶
+
+# src: LIJI 17.01.48; Couvreur 2.25; Su1n Xïda4n 9.106; Jia1ng Yi4hua2 495; Yishu 29:48.51b; tr. Legge 2.80;
+# dating: 8110
+17.31其未有燭，¶而有後至者，¶
+則以在者告。¶
+道瞽亦然。¶
+凡飲酒，¶為獻主者
+執燭抱燋，¶
+客作而辭，¶
+然後以授人。¶
+
+# src: LIJI 17.01.49; Couvreur 2.25f; Su1n Xïda4n 9.106; Jia1ng Yi4hua2 495; Yishu 29:48.51b-52b; tr. Legge 2.80;
+# dating: 8110
+執燭，¶不讓、¶
+不辭、¶
+不歌。¶
+洗、盥、¶執食飲者勿氣，¶
+有問焉，¶
+則辟咡而對。<pb:KR1d0052_tls_017-32a>¶
+
+# src: LIJI 17.01.50; Couvreur 2.26; Su1n Xïda4n 9.107; Jia1ng Yi4hua2 496; Yishu 29:48.53a; tr. Legge 2.i1;
+# dating: 8110
+17.32為人祭曰致福；¶
+為己祭而致膳於君子曰膳；¶
+祔、練曰告。¶
+
+# src: LIJI 17.01.51; Couvreur 2.26f; Su1n Xïda4n 9.107; Jia1ng Yi4hua2 496; Yishu 29:48.53a-53b; tr. Legge 2.i1;
+# dating: 8110
+凡膳告於君子，¶
+主人展之，¶
+以授使者于阼階之南，¶
+南面，¶再拜稽首送；¶
+反命，¶
+主人又再拜稽首。¶
+其禮：¶
+大牢則以牛左肩、¶臂、臑折九箇，¶
+少牢則以羊左肩七箇，¶
+犆豕則以豕左肩五箇。<pb:KR1d0052_tls_017-33a>¶
+
+# src: LIJI 17.01.52; Couvreur 2.27; Su1n Xïda4n 9.108; Jia1ng Yi4hua2 497; Yishu 29:48.54b; tr. Legge 2.i1;
+# dating: 8110
+17.33國家靡敝，¶
+則車不雕幾，¶
+甲不組縢，¶
+食器不刻鏤，¶
+君子不履絲屨，¶
+馬不常秣。
+

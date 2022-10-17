@@ -1,0 +1,24 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 8
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 9.1; tr. D.C. Lau 19i2: 13 ; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_009-1a>¶
+** 9 第九章
+
+持而盈之，¶
+不如其已。¶
+揣而銳之，¶
+不可長保。¶
+金玉盈堂，¶
+莫之能守。¶
+富貴而驕，¶
+自遺其咎。¶
+功遂身退、¶
+天之道。
+

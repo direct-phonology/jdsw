@@ -1,0 +1,364 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 13
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 14.01.01; Couvreur 1.725f; Su1n Xïda4n 9.1f; Jia1ng Yi4hua2 431f; Yishu 26:44.7b-10b; tr. Legge 2.29;
+# dating: 8110
+<pb:KR1d0052_tls_014-1a>¶
+** 14 明堂位
+
+14.1昔者周公朝諸侯于明堂之位：¶
+天子負斧依南鄉而立；¶
+三公，¶
+中階之前，¶
+北面東上。¶
+諸侯之位，¶
+阼階之東，¶
+西面北上。¶
+
+# src: LIJI 14.01.02; Couvreur 1.725f; Su1n Xïda4n 9.2; Jia1ng Yi4hua2 432; Yishu 26:44.10b; tr. Legge 2.29;
+# dating: 8110
+諸伯之國，¶
+西階之西，¶
+東面北上。¶
+諸子之國，¶
+門東，¶
+北面東上。¶
+諸男之國，¶
+門西，¶
+北面東上。¶
+
+# src: LIJI 14.01.03; Couvreur 1.725f; Su1n Xïda4n 9.2; Jia1ng Yi4hua2 432; Yishu 26:44.11b; tr. Legge 2.30;
+# dating: 8110
+九夷之國，¶東門之外，¶
+西面北上。¶
+八蠻之國，¶
+南門之外，¶
+北面東上。¶
+六戎之國，¶
+西門之外，¶
+東面南上。¶
+
+
+# src: LIJI 14.01.04; Couvreur 1.725f; Su1n Xïda4n 9.2; Jia1ng Yi4hua2 432; Yishu 26:44.11b-13a; tr. Legge 2.30;
+# dating: 8110
+五狄之國，¶
+北門之外，¶
+南面東上。¶
+九采之國，¶
+應門之外，¶
+北面東上。¶
+四塞，¶
+世告至。¶
+此周公明堂之位也。¶
+
+# src: LIJI 14.01.05; Couvreur 1.725f; Su1n Xïda4n 9.3; Jia1ng Yi4hua2 432; Yishu 26:44.16a; tr. Legge 2.31;
+# dating: 8110
+明堂也者，¶
+明諸侯之尊卑也。¶
+
+# src: LIJI 14.01.06; Couvreur 1.728f; Su1n Xïda4n 9.3; Jia1ng Yi4hua2 433; Yishu 26:44.16a-16b; tr. Legge 2.31;
+# dating: 8110
+昔殷紂亂天下，¶
+脯鬼侯以饗諸侯。¶
+是以周公相武王以伐紂。¶
+武王崩，¶
+成王幼弱，¶
+周公踐天子之位，¶
+以治天下；¶
+
+# src: LIJI 14.01.07; Couvreur 1.728f; Su1n Xïda4n 9.3; Jia1ng Yi4hua2 433; Yishu 26:44.16b; tr. Legge 2.31;
+# dating: 8110
+六年，¶
+朝諸侯於明堂，¶
+制禮作樂，¶
+頒度量，¶
+而天下大服；¶
+
+# src: LIJI 14.01.08; Couvreur 1.728f; Su1n Xïda4n 9.4; Jia1ng Yi4hua2 433; Yishu 26:44.17b; tr. Legge 2.31;
+# dating: 8110
+七年，¶
+致政於成王；¶
+成王以周公為有勳勞於天下，¶
+是以封周公於曲阜，¶
+地方七百里，¶
+革車千乘，¶
+命魯公世世祀周公以天子之禮樂。¶
+
+# src: LIJI 14.01.09; Couvreur 1.729f; Su1n Xïda4n 9.5; Jia1ng Yi4hua2 433; Yishu 26:44.23a; tr. Legge 2.32;
+# dating: 8110
+是以魯君，¶
+孟春乘大路，¶
+載弧韣；¶
+旂十有二旒，¶
+日月之章；¶
+祀帝于郊，¶
+配以后稷。¶
+天子之禮也。<pb:KR1d0052_tls_014-2a>¶
+
+# src: LIJI 14.01.10; Couvreur 1.729f; Su1n Xïda4n 9.5; Jia1ng Yi4hua2 433; Yishu 26:44.25b; tr. Legge 2.32;
+# dating: 8110
+14.2季夏六月，¶
+以禘禮祀周公於大廟，¶
+牲用白牡；¶
+尊用犧、¶象、
+山罍；¶
+鬱尊用黃目；¶
+
+# src: LIJI 14.01.11; Couvreur 1.729f; Su1n Xïda4n 9.5; Jia1ng Yi4hua2 433; Yishu 26:44.25b; tr. Legge 2.32;
+# dating: 8110
+灌用玉瓚
+大圭；¶
+薦用玉豆、¶
+雕篹；¶
+爵用玉琖，¶
+仍雕，¶
+加，
+以璧散、¶璧角；¶
+俎用梡嶡；¶
+
+# src: LIJI 14.01.12; Couvreur 1.729f; Su1n Xïda4n 9.6; Jia1ng Yi4hua2 433f; Yishu 26:44.30b; tr. Legge 2.32;
+# dating: 8110
+升歌《清廟》，¶
+下管《象》；¶
+朱干玉戚，¶
+冕而舞《大武》；¶
+皮弁素積，¶
+裼而舞《大夏》。¶
+
+# src: LIJI 14.01.13; Couvreur 1.729f; Su1n Xïda4n 9.6; Jia1ng Yi4hua2 434; Yishu 26:44.30b-31a; tr. Legge 2.32;
+# dating: 8110
+《昧》，¶
+東夷之樂也；¶
+《任》，¶
+南蠻之樂也。¶
+納夷蠻之樂於大廟，¶
+言廣魯於天下也。<pb:KR1d0052_tls_014-3a>¶
+
+# src: LIJI 14.01.14; Couvreur 1.732f; Su1n Xïda4n 9.7; Jia1ng Yi4hua2 435; Yishu 26:44.34b; tr. Legge 2.33;
+# dating: 8110
+14.3君卷冕立于阼，¶
+夫人副褘立于房中。¶
+君肉袒迎牲于門；¶
+夫人薦豆、¶
+籩。
+卿大夫贊君，¶
+命婦贊夫人：¶
+各揚其職。¶
+百官廢職服大刑，¶
+而天下大服。<pb:KR1d0052_tls_014-4a>¶
+
+# src: LIJI 14.01.15; Couvreur 1.732f; Su1n Xïda4n 9.7; Jia1ng Yi4hua2 435; Yishu 26:44.37a; tr. Legge 2.33;
+# dating: 8110
+14.4是故
+夏礿、¶秋嘗、¶冬烝，¶
+春社、¶秋省
+而遂大蜡，¶
+天子之祭也。<pb:KR1d0052_tls_014-5a>¶
+
+# src: LIJI 14.01.16; Couvreur 1.733f; Su1n Xïda4n 9.8f; Jia1ng Yi4hua2 436; Yishu 26:44.39a; tr. Legge 2.34;
+# dating: 8110
+14.5大廟，¶
+天子明堂。¶
+庫門，¶
+天子皋門。¶
+雉門，¶
+天子應門。<pb:KR1d0052_tls_014-6a>¶
+14.6振木鐸於朝，¶
+天子之政也。<pb:KR1d0052_tls_014-7a>¶
+
+# src: LIJI 14.01.17; Couvreur 1.733f; Su1n Xïda4n 9.9; Jia1ng Yi4hua2 436; Yishu 26:44.41b; tr. Legge 2.34;
+# dating: 8110
+14.7山節，¶藻梲，¶
+復廟，¶重檐，¶
+刮楹，¶達鄉，¶
+反坫，¶出尊，¶
+崇坫，¶康圭，¶
+疏屏；¶
+天子之廟飾也。<pb:KR1d0052_tls_014-8a>¶
+
+# src: LIJI 14.01.18; Couvreur 1.734f; Su1n Xïda4n 9.10; Jia1ng Yi4hua2 437; Yishu 26:44.43b; tr. Legge 2.34;
+# dating: 8110
+14.8鸞車，¶
+有虞氏之路也。¶
+鉤車，¶
+夏后氏之路也。¶
+大路，¶
+殷路也。¶
+乘路，¶
+周路也。<pb:KR1d0052_tls_014-9a>¶
+
+# src: LIJI 14.01.19; Couvreur 1.734f; Su1n Xïda4n 9.10; Jia1ng Yi4hua2 437; Yishu 26:44.45a; tr. Legge 2.34;
+# dating: 8110
+14.9有虞氏之旂，¶
+夏后氏之綏，¶
+殷之大白，¶
+周之大赤。<pb:KR1d0052_tls_014-10a>¶
+
+# src: LIJI 14.01.20; Couvreur 1.734f; Su1n Xïda4n 9.11; Jia1ng Yi4hua2 437; Yishu 26:44.46a; tr. Legge 2.35;
+# dating: 8110
+14.10夏后氏駱馬，¶
+黑鬣。¶
+殷人白馬，¶
+黑首。¶
+周人黃馬，¶
+蕃鬣。<pb:KR1d0052_tls_014-11a>¶
+14.11夏后氏，¶
+牲尚黑，¶
+殷白牡，¶
+周騂剛。<pb:KR1d0052_tls_014-12a>¶
+
+# src: LIJI 14.01.21; Couvreur 1.735f; Su1n Xïda4n 9.11; Jia1ng Yi4hua2 437; Yishu 26:44.47a; tr. Legge 2.35;
+# dating: 8110
+14.12泰，¶
+有虞氏之尊也。¶
+山罍，¶
+夏后氏之尊也。¶
+著，
+殷尊也。¶
+犧、象，¶
+周尊也。<pb:KR1d0052_tls_014-13a>¶
+
+# src: LIJI 14.01.22; Couvreur 1.735f; Su1n Xïda4n 9.12; Jia1ng Yi4hua2 437; Yishu 26:44.47b; tr. Legge 2.35;
+# dating: 8110
+14.13爵，¶
+夏后氏以琖，¶
+殷以斝，¶
+周以爵。<pb:KR1d0052_tls_014-14a>¶
+
+# src: LIJI 14.01.23; Couvreur 1.735f; Su1n Xïda4n 9.12; Jia1ng Yi4hua2 437; Yishu 26:44.48b; tr. Legge 2.35;
+# dating: 8110
+14.14灌尊，¶
+夏后氏以雞夷，¶
+殷以斝，¶
+周以黃目。<pb:KR1d0052_tls_014-15a>¶
+14.15其勺，¶
+夏后氏以龍勺，¶
+殷以疏勺，¶
+周以蒲勺。<pb:KR1d0052_tls_014-16a>¶
+
+# src: LIJI 14.01.24; Couvreur 1.735f; Su1n Xïda4n 9.12; Jia1ng Yi4hua2 438; Yishu 26:44.49b; tr. Legge 2.35;
+# dating: 8110
+14.16土鼓、¶蕢桴、¶葦籥，¶
+伊耆氏之樂也。¶
+拊搏、¶玉磬、¶揩擊，¶
+大琴、¶大瑟，¶
+中琴、¶小瑟，¶
+四代之樂器也。<pb:KR1d0052_tls_014-17a>¶
+
+# src: LIJI 14.01.25; Couvreur 1.737f; Su1n Xïda4n 9.13; Jia1ng Yi4hua2 439; Yishu 26:44.51a; tr. Legge 2.36;
+# dating: 8110
+14.17魯公之廟，¶
+文世室也。¶
+武公之廟，¶
+武世室也。<pb:KR1d0052_tls_014-18a>¶
+
+# src: LIJI 14.01.26; Couvreur 1.737f; Su1n Xïda4n 9.14; Jia1ng Yi4hua2 439; Yishu 26:44.52a; tr. Legge 2.36;
+# dating: 8110
+14.18米廩，¶
+有虞氏之庠也；¶
+序，
+夏后氏之序也；¶
+瞽宗，¶
+殷學也；¶
+頖宮，¶
+周學也。<pb:KR1d0052_tls_014-19a>¶
+
+# src: LIJI 14.01.27; Couvreur 1.738f; Su1n Xïda4n 9.14; Jia1ng Yi4hua2 439; Yishu 26:44.53b; tr. Legge 2.37;
+# dating: 8110
+14.19崇鼎、¶
+貫鼎、¶
+大璜、¶
+封父龜，¶
+天子之器也。¶
+越棘、¶
+大弓，¶
+天子之戎器也。<pb:KR1d0052_tls_014-20a>¶
+
+# src: LIJI 14.01.28; Couvreur 1.738f; Su1n Xïda4n 9.14; Jia1ng Yi4hua2 440; Yishu 26:44.54b; tr. Legge 2.37;
+# dating: 8110
+14.20夏后氏之¶
+足鼓。¶
+殷，
+楹鼓；¶
+周，
+縣鼓。<pb:KR1d0052_tls_014-21a>¶
+14.21垂之和鍾，¶
+叔之離磬，¶
+女媧之笙簧。<pb:KR1d0052_tls_014-22a>¶
+
+# src: LIJI 14.01.29; Couvreur 1.738f; Su1n Xïda4n 9.15; Jia1ng Yi4hua2 440; Yishu 26:44.55b; tr. Legge 2.37;
+# dating: 8110
+14.22夏后氏之龍簨虡，¶
+殷之崇牙，¶
+周之璧翣。¶
+
+# src: LIJI 14.01.30; Couvreur 1.739f; Su1n Xïda4n 9.15; Jia1ng Yi4hua2 440; Yishu 26:44.57a; tr. Legge 2.38;
+# dating: 8110
+有虞氏之兩敦，¶
+夏后氏之四連，¶
+殷之六瑚，¶
+周之八簋。<pb:KR1d0052_tls_014-23a>¶
+
+# src: LIJI 14.01.31; Couvreur 1.739f; Su1n Xïda4n 9.16; Jia1ng Yi4hua2 440; Yishu 26:44.57b; tr. Legge 2.38;
+# dating: 8110
+14.23俎，¶
+有虞氏以梡，¶
+夏后氏以嶡，¶
+殷以椇，¶
+周以房俎。<pb:KR1d0052_tls_014-24a>¶
+14.24夏后氏以楬豆，¶
+殷玉豆，¶
+周獻豆。<pb:KR1d0052_tls_014-25a>¶
+
+# src: LIJI 14.01.32; Couvreur 1.739f; Su1n Xïda4n 9.16; Jia1ng Yi4hua2 440; Yishu 26:44.59a-60a; tr. Legge 2.38;
+# dating: 8110
+14.25有虞氏服韍，¶
+夏后氏山，¶
+殷火，¶
+周龍章。<pb:KR1d0052_tls_014-26a>¶
+14.26有虞氏祭首，¶
+夏后氏祭心，¶
+殷祭肝，¶
+周祭肺。<pb:KR1d0052_tls_014-27a>¶
+
+# src: LIJI 14.01.33; Couvreur 1.740f; Su1n Xïda4n 9.17; Jia1ng Yi4hua2 440; Yishu 26:44.61a; tr. Legge 2.38;
+# dating: 8110
+14.27夏后氏尚明水，¶
+殷尚醴，¶
+周尚酒。<pb:KR1d0052_tls_014-28a>¶
+
+# src: LIJI 14.01.34; Couvreur 1.740f; Su1n Xïda4n 9.17; Jia1ng Yi4hua2 440; Yishu 26:44.61b-63a; tr. Legge 2.39;
+# dating: 8110
+14.28有虞氏官五十，¶
+夏后氏官百，¶
+殷二百，¶
+周三百。¶
+有虞氏之綏，¶
+夏后氏之綢練，¶
+殷之崇牙，¶
+周之璧翣。¶
+
+# src: LIJI 14.01.35; Couvreur 1.741; Su1n Xïda4n 9.18; Jia1ng Yi4hua2 440f; Yishu 26:44.64a; tr. Legge 2.39;
+# dating: 8110
+凡四代之服、¶器、官，¶
+魯兼用之。¶
+是故
+魯，¶
+王禮也，¶
+天下傳之久矣。¶
+
+# src: LIJI 14.01.36; Couvreur 1.741; Su1n Xïda4n 9.18; Jia1ng Yi4hua2 441f; Yishu 26:44.64a; tr. Legge 2.39;
+# dating: 8110
+君臣
+未嘗相弒也；¶
+禮樂、¶刑法、¶政俗
+未嘗相變也。¶
+天下以為有道之國。¶
+是故
+天下資禮樂焉。
+

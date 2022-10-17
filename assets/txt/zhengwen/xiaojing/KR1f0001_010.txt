@@ -1,0 +1,38 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 孝經
+#+DATE: 2016-08-10 10:17:46
+#+PROPERTY: ID KR1f0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 9
+#+PROPERTY: CAT 1pre-han,經學典籍,孝經類
+
+# src: XIAOJING 10, ed. SSJZS p. 0109
+# dating: 6230
+<pb:KR1f0001_tls_010-1a>¶
+** 10 《紀孝行章》
+
+子曰：¶
+「孝子之事親也，¶
+居則致其敬，¶
+養則致其樂，¶
+病則致其憂，¶
+喪則致其哀，¶
+祭則致其嚴。¶
+五者備矣，¶
+然後能事親。¶
+
+# dating: 6230
+事親者，¶
+居上不驕，¶
+為下不亂，¶
+在醜不爭。¶
+居上而驕
+則亡，¶
+為下而亂
+則刑，¶
+在醜而爭
+則兵，¶
+三者不除，¶
+雖日用三牲之養，¶
+猶為不孝也。」
+

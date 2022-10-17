@@ -1,0 +1,99 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 43
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 43.01.01; Couvreur 2.636f; Su1n Xïda4n 14.13; Jia1ng Yi4hua2 885; Yi4 Shu1 46:74.2b; tr. Legge 2.425;
+# dating: 8110
+<pb:KR1d0052_tls_044-1a>¶
+** 44 冠義
+
+凡人之所以為人者，¶
+禮義也。¶
+禮義之始，¶
+在於正容體、¶齊顏色、¶順辭令。¶
+容體正，¶
+顏色齊，¶
+辭令順，¶
+而后禮義備。¶
+以正君臣，¶親父子，¶和長幼。¶
+
+# src: LIJI 43.01.02; Couvreur 2.636f; Su1n Xïda4n 14.13; Jia1ng Yi4hua2 885; Yi4 Shu1 46:74.2b; tr. Legge 2.425;
+# dating: 8110
+君臣正，¶
+父子親，¶
+長幼和，¶
+而后禮義立。¶
+故冠而后服備，¶
+服備而后容體正、¶顏色齊、¶辭令順。¶
+故曰：¶
+「冠者，¶
+禮之始也。」¶
+是故古者聖王重冠。<pb:KR1d0052_tls_044-2a>¶
+
+# src: LIJI 43.01.03; Couvreur 2.637; Su1n Xïda4n 14.14; Jia1ng Yi4hua2 886; Yi4 Shu1 46:74.4b; tr. Legge 2.426;
+# dating: 8110
+古者冠禮筮日、¶筮賓，¶
+所以敬冠事，¶
+敬冠事，¶
+所以重禮；¶
+重禮所以為國本也。<pb:KR1d0052_tls_044-3a>¶
+
+# src: LIJI 43.01.04; Couvreur 2.637f; Su1n Xïda4n 14.14; Jia1ng Yi4hua2 886; Yi4 Shu1 46:74.5b; tr. Legge 2.426;
+# dating: 8110
+故冠於阼，¶
+以著代也；¶
+醮於客位，¶
+三加彌尊，¶
+加有成也；¶
+已冠而字之，¶
+成人之道也。¶
+
+# src: LIJI 43.01.05; Couvreur 2.637f; Su1n Xïda4n 14.15; Jia1ng Yi4hua2 887; Yi4 Shu1 46:74.9a; tr. Legge 2.426;
+# dating: 8110
+見於母，¶
+母拜之；¶
+見於兄弟，¶
+兄弟拜之；¶
+成人而與為禮也。¶
+玄冠、¶玄端，¶
+奠摯於君，¶
+遂以摯見於鄉大夫、¶鄉先生；¶
+以成人見也。<pb:KR1d0052_tls_044-4a>¶
+
+# src: LIJI 43.01.06; Couvreur 2.639; Su1n Xïda4n 14.16; Jia1ng Yi4hua2 888; Yi4 Shu1 46:74.11b; tr. Legge 2.427;
+# dating: 8110
+成人之者，¶
+將責成人禮焉也。¶
+責成人禮焉者，¶
+將責為人子、¶
+為人弟、¶為人臣、¶
+為人少者之禮行焉。¶
+將責四者之行於人，¶
+其禮可不重與？<pb:KR1d0052_tls_044-5a>¶
+
+# src: LIJI 43.01.07; Couvreur 2.639f; Su1n Xïda4n 14.16; Jia1ng Yi4hua2 888; Yi4 Shu1 46:74.12a; tr. Legge 2.427;
+# dating: 8110
+故孝、¶弟、忠、¶順之行立，¶
+而后可以為人；¶
+可以為人，¶
+而后可以治人也。¶
+故聖王重禮。¶
+故曰：¶
+「冠者，¶
+禮之始也，¶
+嘉事之重者也。」¶
+
+# src: LIJI 43.01.08; Couvreur 2.639f; Su1n Xïda4n 14.17; Jia1ng Yi4hua2 888; Yi4 Shu1 46:74.12a; tr. Legge 2.427;
+# dating: 8110
+是故古者重冠；¶
+重冠故行之於廟；¶
+行之於廟者，¶
+所以尊重事；¶
+尊重事而不敢擅重事；¶
+不敢擅重事，¶
+所以自卑而尊先祖也。
+

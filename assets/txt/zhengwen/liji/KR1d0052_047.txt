@@ -1,0 +1,281 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 46
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 46.01.01; Couvreur 2.668; Su1n Xïda4n 14.36; Jia1ng Yi4hua2 909; Yi4 Shu1 46:75.42b; tr. Legge 2.446;
+# dating: 8110
+<pb:KR1d0052_tls_047-1a>¶
+** 47 射義
+
+47.1古者諸侯之射也，¶
+必先行燕禮；¶
+卿、大夫、¶
+士之射也，¶
+必先行鄉飲酒之禮。¶
+故燕禮者，¶
+所以明君臣之義也；¶
+鄉飲酒之禮者，¶
+所以明長幼之序也。<pb:KR1d0052_tls_047-2a>¶
+
+# src: LIJI 46.01.02; Couvreur 2.669; Su1n Xïda4n 14.37; Jia1ng Yi4hua2 909; Yi4 Shu1 46:75.43b; tr. Legge 2.446;
+# dating: 8110
+47.2故射者，¶
+進退周還必中禮，¶
+內志正，¶
+外體直，¶
+然後持弓矢審固，¶
+持弓矢審固，¶
+然後可以言中，¶
+此可以觀德行矣。<pb:KR1d0052_tls_047-3a>¶
+
+# src: LIJI 46.01.03; Couvreur 2.669f; Su1n Xïda4n 14.37; Jia1ng Yi4hua2 910; Yi4 Shu1 46:75.45a; tr. Legge 2.446;
+# dating: 8110
+47.3其節：¶
+天子以《騶虞》為節；¶
+諸侯以《貍首》為節；¶
+卿大夫以《采蘋》為節；¶
+士以《采繁》為節。¶
+《騶虞》者，¶
+樂官備也，¶
+《貍首》者，¶
+樂會時也；¶
+
+# src: LIJI 46.01.04; Couvreur 2.669f; Su1n Xïda4n 14.37; Jia1ng Yi4hua2 910; Yi4 Shu1 46:75.45a; tr. Legge 2.446;
+# dating: 8110
+《采蘋》者，¶
+樂循法也；¶
+《采繁》者，¶
+樂不失職也。¶
+是故天子以備官為節；¶
+諸侯以時會天子為節；¶
+卿大夫以循法為節；¶
+士以不失職為節。¶
+
+# src: LIJI 46.01.05; Couvreur 2.669f; Su1n Xïda4n 14.37f; Jia1ng Yi4hua2 910; Yi4 Shu1 46:75.45b; tr. Legge 2.446;
+# dating: 8110
+故明乎其節之志，¶
+以不失其事，¶
+則功成而德行立，¶
+德行立則無暴亂之禍矣。¶
+功成則國安。¶
+故曰：¶
+「射者，¶
+所以觀盛德也。」<pb:KR1d0052_tls_047-4a>¶
+
+# src: LIJI 46.01.06; Couvreur 2.671; Su1n Xïda4n 14.38; Jia1ng Yi4hua2 911; Yi4 Shu1 46:75.47b; tr. Legge 2.448;
+# dating: 8110
+47.4是故古者天子以射選諸侯、¶卿、大夫、¶士。
+射者，¶
+男子之事也，¶
+因而飾之以禮樂也。¶
+故事之盡禮樂，¶
+而可數為，¶
+以立德行者，¶
+莫若射，¶
+故聖王務焉。<pb:KR1d0052_tls_047-5a>¶
+
+# src: LIJI 46.01.07; Couvreur 2.671f; Su1n Xïda4n 14.39; Jia1ng Yi4hua2 911; Yi4 Shu1 46:75.48a; tr. Legge 2.448;
+# dating: 8110
+47.5是故古者天子之制：¶
+諸侯歲獻貢士於天子，¶
+天子試之於射宮。¶
+其容體比於禮，¶
+其節比於樂，¶
+而中多者，¶
+得與於祭。¶
+
+# src: LIJI 46.01.08; Couvreur 2.671f; Su1n Xïda4n 14.39; Jia1ng Yi4hua2 911f; Yi4 Shu1 46:75.48b; tr. Legge 2.448;
+# dating: 8110
+其容體不比於禮，¶
+其節不比於樂，¶
+而中少者，¶
+不得與於祭。¶
+數與於祭而君有慶；¶
+數不與於祭而君有讓。¶
+數有慶而益地；¶
+數有讓而削地。¶
+
+# src: LIJI 46.01.09; Couvreur 2.671f; Su1n Xïda4n 14.39; Jia1ng Yi4hua2 912; Yi4 Shu1 46:75.48b; tr. Legge 2.448;
+# dating: 8110
+故曰：¶
+「射者，¶
+射為諸侯也。」¶
+是以諸侯君臣盡志於射
+以習禮樂。¶
+夫君臣習禮樂而以流亡者，¶
+未之有也。<pb:KR1d0052_tls_047-6a>¶
+
+# src: LIJI 46.01.10; Couvreur 2.673f; Su1n Xïda4n 14.40; Jia1ng Yi4hua2 912; Yi4 Shu1 46:75.49b; tr. Legge 2.449;
+# dating: 8110
+47.6故《詩》曰：¶
+「曾孫侯氏，¶
+四正具舉；¶
+大夫君子，¶
+凡以庶士，¶
+小大莫處，¶
+御于君所，¶
+以燕以射，¶
+則燕則譽。」¶
+
+# src: LIJI 46.01.11; Couvreur 2.673f; Su1n Xïda4n 14.40; Jia1ng Yi4hua2 912; Yi4 Shu1 46:75.50a; tr. Legge 2.449;
+# dating: 8110
+言君臣相與盡志於射
+以習禮樂，¶
+則安則譽也。¶
+是以天子制之，¶
+而諸侯務焉。¶
+此天子之所以養諸侯，¶
+而兵不用，¶
+諸侯自為正之具也。<pb:KR1d0052_tls_047-7a>¶
+
+# src: LIJI 46.01.12; Couvreur 2.674f; Su1n Xïda4n 14.40; Jia1ng Yi4hua2 913; Yi4 Shu1 46:75.51a; tr. Legge 2.449;
+# dating: 8110
+47.7孔子射於矍相之圃，¶
+蓋觀者如堵牆。¶
+射至於司馬，¶
+使子路執弓矢
+出延射，¶曰：¶
+「賁軍之將，¶
+亡國之大夫，¶
+與為人後者不入，¶
+其餘皆入。」¶
+
+# src: LIJI 46.01.13; Couvreur 2.674f; Su1n Xïda4n 14.40; Jia1ng Yi4hua2 913; Yi4 Shu1 46:75.51a; tr. Legge 2.449;
+# dating: 8110
+蓋去者半，¶
+入者半。¶
+
+# src: LIJI 46.01.14; Couvreur 2.674f; Su1n Xïda4n 14.41; Jia1ng Yi4hua2 913; Yi4 Shu1 46:75.51a; tr. Legge 2.449;
+# dating: 8110
+又使公罔之裘、¶序點
+揚觶而語：¶
+公罔之裘揚觶而語曰：¶
+「幼壯孝弟，¶
+耆耋好禮，¶
+不從流俗，¶
+脩身以俟死，¶者
+不？¶
+在此位也。」¶
+
+# src: LIJI 46.01.15; Couvreur 2.674f; Su1n Xïda4n 14.41; Jia1ng Yi4hua2 913; Yi4 Shu1 46:75.51b; tr. Legge 2.449;
+# dating: 8110
+蓋去者半，¶
+處者半。¶
+序點又揚觶而語曰：¶
+「好學不倦，¶
+好禮不變，¶
+旄、期稱道不亂，¶者
+不？¶
+在此位也。」¶
+蓋㢙有存者。<pb:KR1d0052_tls_047-8a>¶
+
+# src: LIJI 46.01.16; Couvreur 2.676f; Su1n Xïda4n 14.42; Jia1ng Yi4hua2 914; Yi4 Shu1 46:75.55a; tr. Legge 2.450;
+# dating: 8110
+47.8射之為言者繹也，¶
+或曰舍也。¶
+繹者，¶
+各繹己之志也。¶
+故心平體正，¶
+持弓矢審固，¶
+持弓矢審固，¶
+則射中矣。¶
+
+# src: LIJI 46.01.17; Couvreur 2.676f; Su1n Xïda4n 14.42; Jia1ng Yi4hua2 914; Yi4 Shu1 46:75.55a; tr. Legge 2.450;
+# dating: 8110
+故曰：¶
+「為人父者，¶
+以為父鵠；¶
+為人子者，¶
+以為子鵠；¶
+為人君者，¶
+以為君鵠；¶
+為人臣者，¶
+以為臣鵠。」¶
+
+# src: LIJI 46.01.18; Couvreur 2.676f; Su1n Xïda4n 14.42; Jia1ng Yi4hua2 914; Yi4 Shu1 46:75.55a; tr. Legge 2.450;
+# dating: 8110
+故射者各射己之鵠。¶
+故天子之大射
+謂之射侯；¶
+射侯者，¶
+射為諸侯也。¶
+射中則得為諸侯；¶
+射不中則不得為諸侯。<pb:KR1d0052_tls_047-9a>¶
+
+# src: LIJI 46.01.19; Couvreur 2.677f; Su1n Xïda4n 14.44; Jia1ng Yi4hua2 915; Yi4 Shu1 46:75.56b; tr. Legge 2.451;
+# dating: 8110
+47.9天子將祭，¶
+必先習射於澤。¶
+澤者，¶
+所以擇士也。¶
+已射於澤，¶
+而后射於射宮。¶
+
+# src: LIJI 46.01.20; Couvreur 2.677f; Su1n Xïda4n 14.44; Jia1ng Yi4hua2 915; Yi4 Shu1 46:75.56b; tr. Legge 2.451;
+# dating: 8110
+射中者得與於祭；¶
+不中者不得與於祭。¶
+不得與於祭者有讓，¶
+削以地；¶
+得與於祭者有慶，¶
+益以地。¶
+進爵、¶絀地是也。<pb:KR1d0052_tls_047-10a>¶
+
+# src: LIJI 46.01.21; Couvreur 2.678; Su1n Xïda4n 14.45; Jia1ng Yi4hua2 916; Yi4 Shu1 46:75.57b; tr. Legge 2.452;
+# dating: 8110
+47.10故男子生，¶
+桑弧，¶蓬矢六，¶
+以射天地四方。¶
+天地四方者，¶
+男子之所有事也。¶
+故必先有志於其所有事，¶
+然後敢用穀也。¶
+飯食之謂也。<pb:KR1d0052_tls_047-11a>¶
+
+# src: LIJI 46.01.22; Couvreur 2.678f; Su1n Xïda4n 14.45; Jia1ng Yi4hua2 916; Yi4 Shu1 46:75.58b; tr. Legge 2.452;
+# dating: 8110
+47.11射者，¶
+仁之道也。¶
+射求正諸己，¶
+己正而後發，¶
+發而不中，¶
+則不怨勝己者，¶
+反求諸己而已矣。¶
+
+# src: LIJI 46.01.23; Couvreur 2.678f; Su1n Xïda4n 14.45; Jia1ng Yi4hua2 916; Yi4 Shu1 46:75.58b; tr. Legge 2.452;
+# dating: 8110
+孔子曰：¶
+「君子無所爭，¶
+必也射乎！¶
+揖讓而升，¶
+下而飲，¶
+其爭也君子。」<pb:KR1d0052_tls_047-12a>¶
+
+# src: LIJI 46.01.24; Couvreur 2.679f; Su1n Xïda4n 14.46; Jia1ng Yi4hua2 916f; Yi4 Shu1 46:75.59a; tr. Legge 2.453;
+# dating: 8110
+47.12孔子曰：¶
+「射者何以射？¶何以聽？¶
+循聲而發，¶
+發而不失正鵠者，¶
+其唯賢者乎！¶
+若夫不肖之人，¶
+則彼將安能以中。」¶
+《詩》云：¶
+「發彼有的，¶
+以祈爾爵。」¶
+
+# src: LIJI 46.01.25; Couvreur 2.679f; Su1n Xïda4n 14.46; Jia1ng Yi4hua2 917; Yi4 Shu1 46:75.59b; tr. Legge 2.453;
+# dating: 8110
+祈，
+求也；¶
+求中以辭爵也。¶
+酒者，¶
+所以養老也，¶
+所以養病也；¶
+求中以辭爵者，¶
+辭養也。
+

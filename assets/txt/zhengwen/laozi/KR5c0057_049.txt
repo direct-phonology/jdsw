@@ -1,0 +1,30 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 48
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 49.1; tr. D.C. Lau 19i2: 71; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_049-1a>¶
+** 49 第四十九章
+
+聖人無恒心，¶
+以百姓之心為心。¶
+善者吾善之，¶
+不善者吾亦善之，¶
+德善。¶
+信者吾信之，¶
+不信者吾亦信之，¶
+德信。¶
+聖人之在
+
+# src: LAO 49.2; here tr. Karlgren 1975
+# dating: 8120
+天下也，歙歙焉
+為天下渾其心。¶
+百姓皆注其耳目焉，¶
+聖人皆孩之。
+

@@ -1,0 +1,26 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 10
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 11.1; tr. D.C. Lau 19i2: 15; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_011-1a>¶
+** 11 第十一章
+
+三十輻
+共一轂，¶
+當其無，¶
+有車之用。¶
+埏埴以為器，¶
+當其無，¶
+有器之用。¶
+鑿戶牖以為室，¶
+當其無，¶
+有室之用。¶
+故有之以為利，¶
+無之以為用。
+

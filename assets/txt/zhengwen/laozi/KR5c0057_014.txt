@@ -1,0 +1,39 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 13
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 14.1; tr. D.C. Lau 19i2: 19; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_014-1a>¶
+** 14 第十四章
+
+視之而弗見，¶
+名之曰夷；¶
+聽之而弗聞，¶
+名之曰希；¶
+搏之而弗得，¶
+名之曰微。¶
+此三者、不可致詰，¶
+故混而為一。¶
+
+# src: LAO 14.2; tr. D.C. Lau 19i2: 19; here tr. Karlgren 1975
+# dating: 8120
+一者、¶
+其上不皦；¶
+其下不昧。¶
+繩繩不可名也，¶
+復歸於無物。¶
+是謂無狀之狀，¶
+無物之象。¶
+是為惚恍。¶
+迎之不見其首，¶
+隨之不見其後。¶
+執古之道，¶
+以御今之有。¶
+能知古始，¶
+是謂道紀。
+

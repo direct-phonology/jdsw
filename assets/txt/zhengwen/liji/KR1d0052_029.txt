@@ -1,0 +1,352 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 28
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 28.01.01; Couvreur 2.376f; Su1n Xïda4n 12.98; Jia1ng Yi4hua2 701; Yishu 39:64.1a-1b; tr. Legge 2.270;
+# dating: 8110
+<pb:KR1d0052_tls_029-1a>¶
+** 29 仲尼燕居
+
+29.1仲尼燕居，¶
+子張、¶子貢、¶言游侍，¶
+縱言至於禮。¶
+子曰：¶
+「居！¶
+女三人者，¶
+吾語女禮，¶
+使女以禮周流
+無不徧也。」¶
+
+# src: LIJI 28.01.02; Couvreur 2.376f; Su1n Xïda4n 12.98; Jia1ng Yi4hua2 701; Yishu 39:64.1b; tr. Legge 2.270;
+# dating: 8110
+子貢越席而對曰：¶
+「敢問何如？」¶
+子曰：¶
+「敬而不中禮，¶
+謂之野；¶
+恭而不中禮，¶
+謂之給；¶
+勇而不中禮，¶
+謂之逆。」¶
+
+# src: LIJI 28.01.03; Couvreur 2.376f; Su1n Xïda4n 12.98; Jia1ng Yi4hua2 701; Yishu 39:64.2a-3a; tr. Legge 2.270;
+# dating: 8110
+子曰：¶
+「給奪慈仁。」<pb:KR1d0052_tls_029-2a>¶
+29.2子曰：¶
+「師，¶
+爾過；¶
+而商也，¶
+不及。¶
+子產猶眾人之母也，¶
+能食之，¶不能教也。」¶
+
+# src: LIJI 28.01.04; Couvreur 2.376f; Su1n Xïda4n 12.98; Jia1ng Yi4hua2 701; Yishu 39:64.4a; tr. Legge 2.271;
+# dating: 8110
+子貢越席而對曰：¶
+「敢問將何以為此中者也？」¶
+子曰：¶
+「禮乎禮！¶
+夫禮、¶所以制中也。」<pb:KR1d0052_tls_029-3a>¶
+
+# src: LIJI 28.01.05; Couvreur 2.378f; Su1n Xïda4n 12.98; Jia1ng Yi4hua2 702; Yishu 39:64.4b; tr. Legge 2.271;
+# dating: 8110
+29.3子貢退，¶
+言游進曰：¶
+「敢問禮也者，¶
+領惡而全好者與？」¶
+子曰：¶
+「然。」¶
+「然則何如？」¶
+子曰：¶
+「郊、¶社之義，¶
+所以仁鬼神也；¶
+
+# src: LIJI 28.01.06; Couvreur 2.378f; Su1n Xïda4n 12.99; Jia1ng Yi4hua2 702; Yishu 39:64.5a; tr. Legge 2.271;
+# dating: 8110
+嘗、禘之禮，¶
+所以仁昭穆也；¶
+饋、奠之禮，¶
+所以仁死喪也；¶
+射、鄉之禮，¶
+所以仁鄉黨也；¶
+食、饗之禮，¶
+所以仁賓客也。」¶
+
+# src: LIJI 28.01.07; Couvreur 2.379f; Su1n Xïda4n 12.99; Jia1ng Yi4hua2 702; Yishu 39:64.6b; tr. Legge 2.272;
+# dating: 8110
+子曰：¶
+「明乎郊、¶社之義，¶
+嘗、禘之禮，¶
+治國其如指諸掌而已乎！¶
+是故
+以之居處有禮，¶
+故長幼辨也。¶
+以之閨門之內有禮，¶
+故三族和也。¶
+
+# src: LIJI 28.01.08; Couvreur 2.379f; Su1n Xïda4n 12.99; Jia1ng Yi4hua2 702; Yishu 39:64.6b; tr. Legge 2.272;
+# dating: 8110
+以之朝廷有禮，¶
+故官爵序也。¶
+以之田獵有禮，¶
+故戎事閑也。¶
+以之軍旅有禮，¶
+故武功成也。¶
+是故
+宮室得其度，¶
+量、鼎得其象，¶
+味得其時，¶
+
+# src: LIJI 28.01.09; Couvreur 2.379f; Su1n Xïda4n 12.99; Jia1ng Yi4hua2 702f; Yishu 39:64.7a; tr. Legge 2.272;
+# dating: 8110
+樂得其節，¶
+車得其式，¶
+鬼神得其饗，¶
+喪紀得其哀，¶
+辨說得其黨，¶
+官得其體，¶
+政事得其施；¶
+加於身而錯於前，¶
+凡眾之動得其宜。」¶
+
+# src: LIJI 28.01.10; Couvreur 2.3i1f; Su1n Xïda4n 12.99f; Jia1ng Yi4hua2 703; Yishu 39:64.10b; tr. Legge 2.272;
+# dating: 8110
+子曰：¶
+「禮者何也？¶
+即事之治也。¶
+君子有其事
+必有其治。¶
+治國而無禮，¶
+譬猶瞽之無相與？¶
+倀倀乎其何之？¶
+譬如終夜有求於幽室之中，¶
+非燭何見？¶
+
+# src: LIJI 28.01.11; Couvreur 2.3i1f; Su1n Xïda4n 12.100; Jia1ng Yi4hua2 703; Yishu 39:64.10b; tr. Legge 2.272;
+# dating: 8110
+若無禮
+則手足無所錯，¶
+耳目無所加，¶
+進退、¶揖讓無所制。¶
+是故
+以之居處，¶
+長幼失其別；¶
+閨門，¶
+三族失其和；¶
+
+# src: LIJI 28.01.12; Couvreur 2.3i1f; Su1n Xïda4n 12.100; Jia1ng Yi4hua2 703; Yishu 39:64.10b; tr. Legge 2.272;
+# dating: 8110
+朝廷，¶
+官爵失其序；¶
+田獵，¶
+戎事失其策；¶
+軍旅，¶
+武功失其制；¶
+宮室
+失其度；¶
+量、鼎
+失其象；¶
+
+# src: LIJI 28.01.13; Couvreur 2.3i1f; Su1n Xïda4n 12.100; Jia1ng Yi4hua2 703; Yishu 39:64.10b; tr. Legge 2.272;
+# dating: 8110
+味
+失其時；¶
+樂
+失其節；¶
+車
+失其式；¶
+鬼神
+失其饗；¶
+喪紀
+失其哀；¶
+
+# src: LIJI 28.01.14; Couvreur 2.3i1f; Su1n Xïda4n 12.100; Jia1ng Yi4hua2 703; Yishu 39:64.11a; tr. Legge 2.272;
+# dating: 8110
+辨說
+失其黨；¶
+官
+失其體；¶
+政事
+失其施；¶
+加於身而錯於前，¶
+凡眾之動失其宜。¶
+如此，¶
+則無以祖洽於眾也。」<pb:KR1d0052_tls_029-4a>¶
+
+# src: LIJI 28.01.15; Couvreur 2.3i3f; Su1n Xïda4n 12.100; Jia1ng Yi4hua2 704f; Yishu 39:64.11b; tr. Legge 2.274;
+# dating: 8110
+29.4子曰：¶
+「慎聽之！¶
+女三人者，¶
+吾語女
+禮，¶猶有九焉，¶
+大饗有四焉。¶
+苟知此矣，¶
+雖在畎畝之中事之，¶
+聖人已。¶
+
+# src: LIJI 28.01.16; Couvreur 2.3i3f; Su1n Xïda4n 12.100; Jia1ng Yi4hua2 705; Yishu 39:64.11b; tr. Legge 2.274;
+# dating: 8110
+兩君相見；¶
+揖讓而入門，¶
+入門而縣興。¶
+揖讓而升堂，¶
+升堂而樂闋。¶
+下管《象》、¶《武》，¶
+《夏》籥序興。¶
+陳其薦、¶俎，
+序其禮樂，¶
+備其百官。¶
+
+# src: LIJI 28.01.17; Couvreur 2.3i3f; Su1n Xïda4n 12.100; Jia1ng Yi4hua2 705; Yishu 39:64.12a; tr. Legge 2.274;
+# dating: 8110
+如此
+而后君子知仁焉。¶
+行中規，¶
+還中矩，¶
+和、鸞中《采齊》，¶
+客出以《雍》，¶
+徹以《振羽》。¶
+是故
+君子無物而不在禮矣。¶
+
+# src: LIJI 28.01.18; Couvreur 2.3i3f; Su1n Xïda4n 12.100; Jia1ng Yi4hua2 705; Yishu 39:64.12a; tr. Legge 2.274;
+# dating: 8110
+入門而金作，¶
+示情也。¶
+升歌《清廟》，¶
+示德也。¶
+下而管《象》，¶
+示事也。¶
+是故
+古之君子，¶
+不必親相與言也，¶
+以禮樂相示而已。」¶
+
+# src: LIJI 28.01.19; Couvreur 2.385f; Su1n Xïda4n 12.102; Jia1ng Yi4hua2 705; Yishu 39:64.17b; tr. Legge 2.275;
+# dating: 8110
+子曰：¶
+「禮也者，¶
+理也，¶
+樂也者，¶
+節也。¶
+君子無理不動，¶
+無節不作。¶
+
+# src: LIJI 28.01.20; Couvreur 2.385f; Su1n Xïda4n 12.102; Jia1ng Yi4hua2 705; Yishu 39:64.17b; tr. Legge 2.275;
+# dating: 8110
+不能詩，¶
+於禮繆；¶
+不能樂，¶
+於禮素；¶
+薄於德，¶
+於禮虛。」¶
+
+# src: LIJI 28.01.21; Couvreur 2.385f; Su1n Xïda4n 12.103; Jia1ng Yi4hua2 705; Yishu 39:64.20a-20b; tr. Legge 2.275;
+# dating: 8110
+子曰：¶
+「制度在禮，¶
+文為在禮，¶
+行之，¶
+其在人乎？」¶
+子貢越席而對曰：¶
+「敢問
+夔其窮與？」¶
+
+# src: LIJI 28.01.22; Couvreur 2.385f; Su1n Xïda4n 12.103; Jia1ng Yi4hua2 705; Yishu 39:64.20b; tr. Legge 2.275;
+# dating: 8110
+子曰：¶
+「古之人與？¶
+古之人也。¶
+達於禮而不達於樂，¶
+謂之素；¶
+達於樂而不達於禮，¶
+謂之偏。¶
+
+# src: LIJI 28.01.23; Couvreur 2.385f; Su1n Xïda4n 12.103; Jia1ng Yi4hua2 705; Yishu 39:64.20b; tr. Legge 2.275;
+# dating: 8110
+夫夔
+達於樂而不達於禮，¶
+是以傳於此名也，¶
+古之人也。」<pb:KR1d0052_tls_029-5a>¶
+
+# src: LIJI 28.01.24; Couvreur 2.387f; Su1n Xïda4n 12.103; Jia1ng Yi4hua2 707; Yishu 39:64.21b; tr. Legge 2.276;
+# dating: 8110
+29.5子張問政，¶
+子曰：¶
+「師乎！¶
+前，
+吾語女乎？¶
+君子明於禮樂，¶
+舉而錯之而已。」¶
+
+# src: LIJI 28.01.25; Couvreur 2.387f; Su1n Xïda4n 12.103; Jia1ng Yi4hua2 707; Yishu 39:64.22a; tr. Legge 2.276;
+# dating: 8110
+子張復問。¶
+子曰：¶
+「師，¶
+爾以為必鋪几、¶筵，
+升降，¶酌、獻、¶酬、酢，¶
+然後謂之禮乎？¶
+爾以為必行綴兆，¶
+興羽籥，¶
+作鍾鼓，¶
+然後謂之樂乎？¶
+
+# src: LIJI 28.01.26; Couvreur 2.387f; Su1n Xïda4n 12.103; Jia1ng Yi4hua2 707; Yishu 39:64.22a; tr. Legge 2.276;
+# dating: 8110
+言而履之，¶
+禮也。¶
+行而樂之，¶
+樂也。¶
+君子力此二者以南面而立，¶
+夫是以天下大平也。¶
+諸侯朝，¶
+萬物服體，¶
+而百官莫敢不承事矣。¶
+
+# src: LIJI 28.01.27; Couvreur 2.388f; Su1n Xïda4n 12.103; Jia1ng Yi4hua2 707; Yishu 39:64.22a; tr. Legge 2.276;
+# dating: 8110
+禮之所興，¶
+眾之所治也；¶
+禮之所廢，¶
+眾之所亂也。¶
+目巧之室，¶
+則有奧、¶阼，
+席則有上下，¶
+車則有左右，¶
+
+# src: LIJI 28.01.28; Couvreur 2.388f; Su1n Xïda4n 12.103f; Jia1ng Yi4hua2 707; Yishu 39:64.22a; tr. Legge 2.276;
+# dating: 8110
+行則有隨，¶
+立則有序，¶
+古之義也。¶
+室而無奧、¶阼，
+則亂於堂、¶室也。¶
+席而無上下，¶
+則亂於席上也。¶
+車而無左右，¶
+則亂於車也。¶
+
+# src: LIJI 28.01.29; Couvreur 2.388f; Su1n Xïda4n 12.104; Jia1ng Yi4hua2 707; Yishu 39:64.22b; tr. Legge 2.276;
+# dating: 8110
+行而無隨，¶
+則亂於塗也。¶
+立而無序，¶
+則亂於位也。¶
+昔聖帝、¶明王、¶諸侯，¶
+辨貴賤、¶長幼、¶遠近、¶男女、¶外內，¶
+莫敢相踰越，¶
+皆由此塗出也。」¶
+
+# src: LIJI 28.01.30; Couvreur 2.388f; Su1n Xïda4n 12.104; Jia1ng Yi4hua2 707; Yishu 39:64.24b; tr. Legge 2.277;
+# dating: 8110
+三子者，¶
+既得聞此言也於夫子，¶
+昭然若發矇矣。
+

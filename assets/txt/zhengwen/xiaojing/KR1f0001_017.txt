@@ -1,0 +1,26 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 孝經
+#+DATE: 2016-08-10 10:17:46
+#+PROPERTY: ID KR1f0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 16
+#+PROPERTY: CAT 1pre-han,經學典籍,孝經類
+
+# src: XIAOJING 17, ed. SSJZS p. 0132
+# dating: 6230
+<pb:KR1f0001_tls_017-1a>¶
+** 17 《事君章》
+
+子曰：¶
+「君子之事上也，¶
+進思盡忠，¶
+退思補過，¶
+將順其美，¶
+匡救其惡，¶
+故上下能相親也。¶
+《詩》云：¶
+『心乎愛矣，¶
+遐不謂矣，¶
+中心藏之，¶
+何日忘之。』」
+

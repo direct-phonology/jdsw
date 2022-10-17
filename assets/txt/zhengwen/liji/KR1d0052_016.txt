@@ -1,0 +1,251 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 15
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 16.01.01; Couvreur 1.775f; Su1n Xïda4n 9.59; Jia1ng Yi4hua2 469; Yishu 28:47.1b; tr. Legge 2.60;
+# dating: 8110
+<pb:KR1d0052_tls_016-1a>¶
+** 16 大傳
+
+16.1禮：¶
+不王不禘。¶
+王者禘其祖之所自出，¶
+以其祖配之。¶
+諸侯及其大祖，¶
+大夫士有大事，¶
+省於其君，¶
+干祫，¶
+及其高祖。¶
+
+# src: LIJI 16.01.02; Couvreur 1.776f; Su1n Xïda4n 9.61; Jia1ng Yi4hua2 470; Yishu 28:47.7a; tr. Legge 2.60;
+# dating: 8110
+牧之野，¶
+武王之大事也。¶
+既事而退，¶
+柴於上帝，¶
+祈於社，¶
+設奠於牧室。¶
+
+# src: LIJI 16.01.03; Couvreur 1.776f; Su1n Xïda4n 9.61; Jia1ng Yi4hua2 470; Yishu 28:47.7a; tr. Legge 2.60;
+# dating: 8110
+遂率天下諸侯
+執豆、¶籩，
+逡奔走；¶
+追王大王亶父、¶
+王季歷、¶文王昌；¶
+不以卑臨尊也。<pb:KR1d0052_tls_016-2a>¶
+
+# src: LIJI 16.01.04; Couvreur 1.776f; Su1n Xïda4n 9.62; Jia1ng Yi4hua2 470; Yishu 28:47.11a; tr. Legge 2.61;
+# dating: 8110
+16.2上治祖、¶禰，
+尊尊也；¶
+下治子孫，¶
+親親也；¶
+旁治昆弟，¶
+合族以食，¶
+序以昭繆，¶
+別之以禮義，¶
+人道竭矣。¶
+
+# src: LIJI 16.01.05; Couvreur 1.777f; Su1n Xïda4n 9.62; Jia1ng Yi4hua2 471; Yishu 28:47.14a; tr. Legge 2.61;
+# dating: 8110
+聖人南面而聽天下，¶
+所且先者五，¶
+民不與焉。¶
+一曰治親，¶
+二曰報功，¶
+三曰舉賢，¶
+四曰使能，¶
+五曰存愛。¶
+
+# src: LIJI 16.01.06; Couvreur 1.777f; Su1n Xïda4n 9.62; Jia1ng Yi4hua2 471; Yishu 28:47.14a; tr. Legge 2.61;
+# dating: 8110
+五者一得於天下，¶
+民無不足，¶
+無不贍者。¶
+五者，¶
+一物紕繆。¶
+民莫得其死。¶
+聖人南面而治天下，¶
+必自人道始矣。¶
+
+# src: LIJI 16.01.07; Couvreur 1.778f; Su1n Xïda4n 9.63; Jia1ng Yi4hua2 471; Yishu 28:47.16a; tr. Legge 2.61;
+# dating: 8110
+立權、¶度、量，¶
+考文章，¶
+改正朔，¶
+易服色，¶
+殊徽號，¶
+異器械，¶
+別衣服，¶
+此其所得與民變革者也。¶
+
+# src: LIJI 16.01.08; Couvreur 1.778f; Su1n Xïda4n 9.64; Jia1ng Yi4hua2 471; Yishu 28:47.16a-16b; tr. Legge 2.61;
+# dating: 8110
+其不可得變革者則有矣：¶
+親親也，¶
+尊尊也，¶
+長長也，¶
+男女有別，¶
+此其不可得與民變革者也。<pb:KR1d0052_tls_016-3a>¶
+
+# src: LIJI 16.01.09; Couvreur 1.779f; Su1n Xïda4n 9.64; Jia1ng Yi4hua2 472; Yishu 28:47.19a; tr. Legge 2.62;
+# dating: 8110
+16.3同姓從宗，¶
+合族屬；¶
+異姓主名，¶
+治際會。¶
+名著
+而男女有別。¶
+
+# src: LIJI 16.01.10; Couvreur 1.779f; Su1n Xïda4n 9.64f; Jia1ng Yi4hua2 472; Yishu 28:47.19a; tr. Legge 2.62;
+# dating: 8110
+其夫
+屬乎父道者，¶
+妻皆¶「母」¶道也。¶
+其夫
+屬乎子道者，¶
+妻皆¶「婦」¶道也。¶
+謂弟之妻¶「婦」¶者，
+是嫂亦可謂之¶「母」¶乎？
+名者，¶人治之大者也，¶
+可無慎乎？<pb:KR1d0052_tls_016-4a>¶
+
+# src: LIJI 16.01.11; Couvreur 1.779f; Su1n Xïda4n 9.65; Jia1ng Yi4hua2 473; Yishu 28:47.25b; tr. Legge 2.63;
+# dating: 8110
+16.4四世而緦，¶
+服之窮也；¶
+五世袒免，¶
+殺同姓也。¶
+六世，¶
+親屬竭矣。¶
+
+# src: LIJI 16.01.12; Couvreur 1.779f; Su1n Xïda4n 9.66; Jia1ng Yi4hua2 473; Yishu 28:47.26b; tr. Legge 2.63;
+# dating: 8110
+其庶姓別於上，¶
+而戚單於下，¶
+昏姻可以通乎？¶
+繫之以¶「姓」¶而弗別，¶
+綴之以食而弗殊，¶
+雖百世而昏姻不通者，¶
+周道然也。<pb:KR1d0052_tls_016-5a>¶
+
+# src: LIJI 16.01.14; Couvreur 1.7i1f; Su1n Xïda4n 9.68; Jia1ng Yi4hua2 474; Yishu 28:47.31a; tr. Legge 2.64;
+# dating: 8110
+16.5服術有六：¶
+一曰親親，¶
+二曰尊尊，¶
+三曰名，¶
+四曰出入，¶
+五曰長幼，¶
+六曰從服。
+<pb:KR1d0052_tls_016-6a>¶
+
+16.6從服有六：¶
+有屬從，¶
+有徒從，¶
+有從有服而無服，¶
+有從無服而有服，¶
+有從重而輕，¶
+有從輕而重。<pb:KR1d0052_tls_016-7a>¶
+
+# src: LIJI 16.01.15; Couvreur 1.7i3f; Su1n Xïda4n 9.69; Jia1ng Yi4hua2 474; Yishu 28:47.32a; tr. Legge 2.64;
+# dating: 8110
+16.7自仁率親，¶
+等而上之，¶
+至于祖，¶
+名曰輕。¶
+自義率祖，¶
+順而下之，¶
+至于禰，¶
+名曰重。¶
+一輕一重，¶
+其義然也。<pb:KR1d0052_tls_016-8a>¶
+
+# src: LIJI 16.01.16; Couvreur 1.7i4; Su1n Xïda4n 9.69; Jia1ng Yi4hua2 475; Yishu 28:47.34b; tr. Legge 2.64;
+# dating: 8110
+16.8君有合族之道，¶
+族人不得以其戚戚君，¶
+位也。<pb:KR1d0052_tls_016-9a>¶
+
+# src: LIJI 16.01.17; Couvreur 1.7i4f; Su1n Xïda4n 9.69f; Jia1ng Yi4hua2 475; Yishu 28:47.35b-37a; tr. Legge 2.65;
+# dating: 8110
+16.9庶子不祭，¶
+明其宗也。¶
+庶子不得為長子三年，¶
+不繼祖也。¶
+別子為祖，¶
+繼別為宗，¶
+繼禰者為小宗。¶
+
+# src: LIJI 16.01.18; Couvreur 1.7i4f; Su1n Xïda4n 9.70; Jia1ng Yi4hua2 475; Yishu 28:47.41a; tr. Legge 2.65;
+# dating: 8110
+有百世不遷之宗，¶
+有五世則遷之宗。¶
+百世不遷者，¶
+別子之後也；¶
+宗其繼別子之所自出者，¶
+百世不遷者也。¶
+
+# src: LIJI 16.01.19; Couvreur 1.7i4f; Su1n Xïda4n 9.70; Jia1ng Yi4hua2 475; Yishu 28:47.41a; tr. Legge 2.65;
+# dating: 8110
+宗其繼高祖者，¶
+五世則遷者也。¶
+尊祖故敬宗。¶
+敬宗，¶
+尊祖之義也。<pb:KR1d0052_tls_016-10a>¶
+
+# src: LIJI 16.01.20; Couvreur 1.785f; Su1n Xïda4n 9.71; Jia1ng Yi4hua2 475; Yishu 28:47.44a; tr. Legge 2.65;
+# dating: 8110
+16.10有小宗而無大宗者，¶
+有大宗而無小宗者，¶
+有無宗亦莫之宗者，¶
+公子是也。¶
+公子有宗道：¶
+公子之公，¶
+為其士大夫之庶者
+宗其士大夫之適者，¶
+公子之宗道也。<pb:KR1d0052_tls_016-11a>¶
+
+# src: LIJI 16.01.21; Couvreur 1.785f; Su1n Xïda4n 9.72; Jia1ng Yi4hua2 475f; Yishu 28:47.46b; tr. Legge 2.66;
+# dating: 8110
+16.11絕族無移服，¶
+親者屬也。<pb:KR1d0052_tls_016-12a>¶
+
+# src: LIJI 16.01.22; Couvreur 1.787f; Su1n Xïda4n 9.72; Jia1ng Yi4hua2 477; Yishu 28:47.47b; tr. Legge 2.66;
+# dating: 8110
+16.12自仁率親，¶
+等而上之，¶
+至于祖；¶
+自義率祖，¶
+順而下之，¶
+至於禰。¶
+是故
+人道親親也。¶
+
+# src: LIJI 16.01.23; Couvreur 1.787f; Su1n Xïda4n 9.72f; Jia1ng Yi4hua2 477; Yishu 28:47.48b; tr. Legge 2.66;
+# dating: 8110
+親親故尊祖，¶
+尊祖故敬宗，¶
+敬宗故收族，¶
+收族故宗廟嚴，¶
+宗廟嚴故重社稷，¶
+重社稷故愛百姓，¶
+愛百姓故刑罰中，¶
+刑罰中故庶民安，¶
+
+# src: LIJI 16.01.24; Couvreur 1.787f; Su1n Xïda4n 9.73; Jia1ng Yi4hua2 477; Yishu 28:47.48b; tr. Legge 2.66;
+# dating: 8110
+庶民安故財用足，¶
+財用足故百志成，¶
+百志成故禮俗刑，¶
+禮俗刑然後樂。¶
+《詩》云：¶
+「不顯不承，¶
+無斁於人斯」。¶
+此之謂也。
+
