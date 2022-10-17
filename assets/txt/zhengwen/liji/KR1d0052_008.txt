@@ -1,0 +1,688 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 7
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 08.01.01; Couvreur 1.464f; Su1n Xïda4n 6.1; Jia1ng Yi4hua2 307; Yishu 18:28.2a; tr. Legge 1.343;
+# dating: 8110
+<pb:KR1d0052_tls_008-1a>¶
+** 8 文王世子
+
+8.1文王之為世子，¶
+朝於王季，¶
+日三。¶
+雞初鳴而衣服，¶
+至於寢門外，¶
+問內豎之御者曰：¶
+「今日安否何如？」¶
+內豎曰：¶
+「安。」¶
+文王乃喜。¶
+
+# src: LIJI 08.01.02; Couvreur 1.464f; Su1n Xïda4n 6.1; Jia1ng Yi4hua2 307; Yishu 18:28.2a; tr. Legge 1.343;
+# dating: 8110
+及日中，¶
+又至，¶
+亦如之。¶
+及莫，¶
+又至，¶
+亦如之。¶
+其有不安節，¶
+則內豎以告文王，¶
+文王色憂，¶
+行不能正履。¶
+
+# src: LIJI 08.01.03; Couvreur 1.464f; Su1n Xïda4n 6.1; Jia1ng Yi4hua2 307; Yishu 18:28.2a; tr. Legge 1.343;
+# dating: 8110
+王季復膳，¶
+然後亦復初。¶
+食上，¶
+必在，¶
+視寒煖之節，¶
+食下，¶
+問所膳；¶
+
+# src: LIJI 08.01.04; Couvreur 1.464f; Su1n Xïda4n 6.1; Jia1ng Yi4hua2 307; Yishu 18:28.2a-2b; tr. Legge 1.343;
+# dating: 8110
+命膳宰曰：¶
+「末有原！」¶
+應曰：¶
+「諾」，¶
+然後退。¶
+
+# src: LIJI 08.01.05; Couvreur 1.465f; Su1n Xïda4n 6.2; Jia1ng Yi4hua2 308; Yishu 18:28.4a; tr. Legge 1.344;
+# dating: 8110
+武王帥而行之，¶
+不敢有加焉。¶
+文王有疾，¶
+武王不說冠帶而養。¶
+文王一飯，¶
+亦一飯；¶
+文王再飯，¶
+亦再飯。¶
+旬有二日乃間。¶
+
+# src: LIJI 08.01.06; Couvreur 1.466f; Su1n Xïda4n 6.2; Jia1ng Yi4hua2 308; Yishu 18:28.4a-4b; tr. Legge 1.344;
+# dating: 8110
+文王謂武王曰：¶
+「女何夢矣？」¶
+武王對曰：¶
+「夢帝與我九齡。」¶
+文王曰：¶
+「女以為何也？」¶
+武王曰：¶
+「西方有九國焉，¶
+君王其終撫諸？」¶
+
+# src: LIJI 08.01.07; Couvreur 1.466f; Su1n Xïda4n 6.2; Jia1ng Yi4hua2 308f; Yishu 18:28.4b; tr. Legge 1.344;
+# dating: 8110
+文王曰：¶
+「非也。¶
+古者謂年齡，¶
+齒亦齡也。¶
+我百，¶爾九十，¶
+吾與爾三焉。」¶
+文王九十七乃終，¶
+武王九十三而終。¶
+
+# src: LIJI 08.01.08; Couvreur 1.467f; Su1n Xïda4n 6.3f; Jia1ng Yi4hua2 309; Yishu 18:28.7b-9b; tr. Legge 1.344;
+# dating: 8110
+成王幼，¶
+不能涖阼，¶
+周公相，¶
+踐阼而治。¶
+抗《世子法》於伯禽，¶
+欲令成王之知父子、¶君臣、¶長幼之道也；¶
+成王有過，¶
+則撻伯禽，¶
+所以示成王世子之道也。¶
+文王之為世子也。<pb:KR1d0052_tls_008-2a>¶
+
+# src: LIJI 08.01.09; Couvreur 1.468f; Su1n Xïda4n 6.5; Jia1ng Yi4hua2 310; Yishu 18:28.10a; tr. Legge 1.345;
+# dating: 8110
+8.2凡學世子及學士，¶
+必時。¶
+春夏學干戈，¶
+秋冬學羽籥，¶
+皆於東序。¶
+小樂正學干，¶
+大胥贊之。¶
+籥師學戈，¶
+籥師丞贊之。¶
+胥鼓《南》。¶
+
+# src: LIJI 08.01.10; Couvreur 1.468f; Su1n Xïda4n 6.6; Jia1ng Yi4hua2 310; Yishu 18:28.10a-10b; tr. Legge 1.345;
+# dating: 8110
+春誦夏弦，¶
+大師詔之。¶
+瞽宗秋學《禮》，¶
+執《禮》者詔之；¶
+冬讀《書》，¶
+典《書》者詔之。¶
+《禮》在瞽宗，¶
+《書》在上庠。<pb:KR1d0052_tls_008-3a>¶
+
+# src: LIJI 08.01.11; Couvreur 1.469f; Su1n Xïda4n 6.7f; Jia1ng Yi4hua2 310; Yishu 18:28.18b-20a; tr. Legge 1.347;
+# dating: 8110
+8.3凡祭與養老
+乞言、¶
+合語之禮，¶
+皆小樂正詔之於東序。¶
+大樂正學舞干戚，¶
+語說，¶
+命乞言，¶
+皆大樂正授數，¶
+大司成論說在東序。<pb:KR1d0052_tls_008-4a>¶
+
+# src: LIJI 08.01.12; Couvreur 1.469f; Su1n Xïda4n 6.8; Jia1ng Yi4hua2 310; Yishu 18:28.22a; tr. Legge 1.347;
+# dating: 8110
+8.4凡侍坐於大司成者，¶
+遠近間三席，¶
+可以問。¶
+終則負牆，¶
+列事未盡，¶
+不問。<pb:KR1d0052_tls_008-5a>¶
+
+# src: LIJI 08.01.13; Couvreur 1.470f; Su1n Xïda4n 6.9; Jia1ng Yi4hua2 311; Yishu 18:28.22b-24a; tr. Legge 1.347;
+# dating: 8110
+8.5凡學，¶
+春官釋奠于其先師，¶
+秋冬亦如之。¶
+凡始立學者，¶
+必釋奠于先聖、¶
+先師，¶
+及行事，¶
+必以幣。¶
+
+# src: LIJI 08.01.14; Couvreur 1.470f; Su1n Xïda4n 6.9f; Jia1ng Yi4hua2 311; Yishu 18:28.26b-27a; tr. Legge 1.348;
+# dating: 8110
+凡釋奠者，¶
+必有合也，¶
+有國故則否。<pb:KR1d0052_tls_008-6a>¶
+8.6凡大合樂，¶
+必遂養老。¶
+
+# src: LIJI 08.01.15; Couvreur 1.471f; Su1n Xïda4n 6.10; Jia1ng Yi4hua2 311; Yishu 18:28.28a; tr. Legge 1.348;
+# dating: 8110
+凡語于郊者，¶
+必取賢斂才焉。¶
+或以德進，¶
+或以事舉，¶
+或以言揚。¶
+曲藝皆誓之，¶
+以待又語。¶
+
+# src: LIJI 08.01.16; Couvreur 1.471f; Su1n Xïda4n 6.10; Jia1ng Yi4hua2 311; Yishu 18:28.28a; tr. Legge 1.348;
+# dating: 8110
+三而一有焉，¶
+乃進其等，¶
+以其序，¶
+謂之郊人。¶
+遠之於成均，¶
+以及取爵於上尊也。<pb:KR1d0052_tls_008-7a>¶
+
+# src: LIJI 08.01.17; Couvreur 1.471f; Su1n Xïda4n 6.11; Jia1ng Yi4hua2 311; Yishu 18:28.31a; tr. Legge 1.348;
+# dating: 8110
+8.7始立學者，¶
+既興器用幣，¶
+然後釋菜，¶
+不舞不授器，¶
+乃退。¶
+儐于東序，¶
+一獻，¶
+無介、¶語可也。¶
+
+# src: LIJI 08.01.18; Couvreur 1.472f; Su1n Xïda4n 6.12; Jia1ng Yi4hua2 311f; Yishu 18:28.33b; tr. Legge 1.349;
+# dating: 8110
+教世子。<pb:KR1d0052_tls_008-8a>¶
+8.8凡三王教世子必以禮樂。¶
+樂，
+所以脩內也；¶
+禮，
+所以脩外也。¶
+禮樂交錯於中，¶
+發形於外，¶
+是故其成也懌，¶
+恭敬而溫文。¶
+
+# src: LIJI 08.01.19; Couvreur 1.472f; Su1n Xïda4n 6.12; Jia1ng Yi4hua2 312; Yishu 18:28.35a; tr. Legge 1.349;
+# dating: 8110
+立大傅、¶少傅以養之，¶
+欲其知父子君臣之道也。¶
+大傅審父子君臣之道以示之，¶
+少傅奉世子，¶
+以觀大傅之德行而審喻之。¶
+
+# src: LIJI 08.01.20; Couvreur 1.472f; Su1n Xïda4n 6.12; Jia1ng Yi4hua2 312; Yishu 18:28.35a-35b; tr. Legge 1.349;
+# dating: 8110
+大傅在前，¶
+少傅在後；¶
+入則有保，¶
+出則有師，¶
+是以教喻而德成也。¶
+師也者，¶
+教之以事而喻諸德者也；¶
+保也者，¶
+慎其身以輔翼之而歸諸道者也。¶
+
+# src: LIJI 08.01.21; Couvreur 1.472f; Su1n Xïda4n 6.12; Jia1ng Yi4hua2 312; Yishu 18:28.35b; tr. Legge 1.349;
+# dating: 8110
+《記》曰：¶
+「虞、¶夏、商、¶周
+有師、¶保，
+有疑、¶丞，
+設四輔及三公。¶
+不必備，¶
+唯其人。」¶
+語使能也。¶
+
+# src: LIJI 08.01.22; Couvreur 1.474f; Su1n Xïda4n 6.13; Jia1ng Yi4hua2 312; Yishu 18:28.38a; tr. Legge 1.350;
+# dating: 8110
+君子曰德，¶
+德成而教尊，¶
+教尊而官正，¶
+官正而國治，¶
+君之謂也。¶
+
+# src: LIJI 08.01.23; Couvreur 1.475f; Su1n Xïda4n 6.13f; Jia1ng Yi4hua2 313; Yishu 18:28.39b; tr. Legge 1.351;
+# dating: 8110
+仲尼曰：¶
+「昔者周公攝政，¶
+踐阼而治，¶
+抗《世子法》於伯禽，¶
+所以善成王也。¶
+聞之曰：¶
+『為人臣者，¶
+殺其身有益於君則為之。』¶
+況于其身以善其君乎？¶
+周公優為之！」¶
+
+# src: LIJI 08.01.24; Couvreur 1.475f; Su1n Xïda4n 6.14; Jia1ng Yi4hua2 313f; Yishu 18:28.40a; tr. Legge 1.351;
+# dating: 8110
+是故知為人子，¶
+然後可以為人父；¶
+知為人臣，¶
+然後可以為人君；¶
+知事人，¶
+然後能使人。¶
+
+# src: LIJI 08.01.25; Couvreur 1.475f; Su1n Xïda4n 6.14; Jia1ng Yi4hua2 314; Yishu 18:28.40b; tr. Legge 1.351;
+# dating: 8110
+成王幼，¶
+不能涖阼，¶
+以為世子，¶
+則無為也，¶
+是故抗《世子法》於伯禽，¶
+使之與成王居，¶
+欲令成王之知
+父子、¶君臣、¶長幼之義也。¶
+
+# src: LIJI 08.01.26; Couvreur 1.476f; Su1n Xïda4n 6.14; Jia1ng Yi4hua2 314; Yishu 18:28.42a; tr. Legge 1.352;
+# dating: 8110
+君之於世子也，¶
+親則父也，¶
+尊則君也。¶
+有父之親，¶
+有君之尊，¶
+然後兼天下而有之。¶
+是故
+養世子不可不慎也。¶
+
+# src: LIJI 08.01.27; Couvreur 1.476f; Su1n Xïda4n 6.14; Jia1ng Yi4hua2 314; Yishu 18:28.42b-43a; tr. Legge 1.352;
+# dating: 8110
+行一物而三善皆得者，¶
+唯世子而已。¶
+其齒於學之謂也。¶
+故世子齒於學，¶
+國人觀之，¶曰：¶
+「將君我
+而與我齒讓，¶何也？」¶
+曰：¶
+「有父在，¶則禮然。」¶
+然而眾知父子之道矣。¶
+
+# src: LIJI 08.01.28; Couvreur 1.478f; Su1n Xïda4n 6.14; Jia1ng Yi4hua2 314; Yishu 18:28.43a; tr. Legge 1.353;
+# dating: 8110
+其二曰：¶
+「將君我而與我齒讓，¶
+何也？」¶
+曰：¶
+「有君在，¶則禮然。」¶
+然而眾著於君臣之義也。¶
+其三曰：¶
+「將君我而與我齒讓，¶
+何也？」¶
+曰：¶
+「長長也。」¶
+然而眾知長幼之節矣。¶
+
+# src: LIJI 08.01.29; Couvreur 1.478f; Su1n Xïda4n 6.14; Jia1ng Yi4hua2 314; Yishu 18:28.43a-43b; tr. Legge 1.353;
+# dating: 8110
+故父在斯為子，¶
+君在斯謂之臣，¶
+居子與臣之節，¶
+所以尊君親親也。¶
+故學之為父子焉，¶
+學之為君臣焉，¶
+學之為長幼焉，¶
+父子、¶
+君臣、¶
+長幼之道得
+而國治。¶
+
+# src: LIJI 08.01.30; Couvreur 1.478f; Su1n Xïda4n 6.14f; Jia1ng Yi4hua2 314; Yishu 18:28.43b-44b; tr. Legge 1.353;
+# dating: 8110
+語曰：¶
+「樂正司業，¶
+父師司成，¶
+一有元良，¶
+萬國以貞。」¶
+世子之謂也。¶
+周公踐阼。¶
+
+# src: LIJI 08.02.01; Couvreur 1.479f; Su1n Xïda4n 6.15; Jia1ng Yi4hua2 315; Yishu 18:29.1a; tr. Legge 1.353;
+# dating: 8110
+庶子之正於公族者，¶
+教之以孝弟、¶睦友、¶子愛，¶
+明父子之義，¶
+長幼之序。¶
+
+# src: LIJI 08.02.02; Couvreur 1.479f; Su1n Xïda4n 6.15f; Jia1ng Yi4hua2 315; Yishu 18:29.2b; tr. Legge 1.354;
+# dating: 8110
+其朝于公：¶
+內朝，¶
+則東面北上；¶
+臣有貴者，¶
+以齒。¶
+其在外朝，¶
+則以官，¶
+司士為之。¶
+
+# src: LIJI 08.02.03; Couvreur 1.479f; Su1n Xïda4n 6.17f; Jia1ng Yi4hua2 315f; Yishu 18:29.4b; tr. Legge 1.354;
+# dating: 8110
+其在宗廟之中，¶
+則如外朝之位。¶
+宗人授事，¶
+以爵以官。¶
+其登餕、¶獻、受爵，¶
+則以上嗣。¶
+
+# src: LIJI 08.02.04; Couvreur 1.4i1f; Su1n Xïda4n 6.15; Jia1ng Yi4hua2 316; Yishu 18:29.4b-5a; tr. Legge 1.354;
+# dating: 8110
+庶子治之，¶
+雖有三命，¶
+不踰父兄。¶
+
+# src: LIJI 08.02.05; Couvreur 1.4i1f; Su1n Xïda4n 6.18; Jia1ng Yi4hua2 316; Yishu 18:29.7a; tr. Legge 1.354;
+# dating: 8110
+其公大事，¶
+則以其喪服之精麤為序。¶
+雖於公族之喪亦如之，¶
+以次主人。¶
+
+# src: LIJI 08.02.06; Couvreur 1.4i1f; Su1n Xïda4n 6.19; Jia1ng Yi4hua2 316; Yishu 18:29.8a; tr. Legge 1.355;
+# dating: 8110
+若公與族燕，¶
+則異姓為賓，¶
+膳宰為主人，¶
+公與父兄齒。¶
+族食，¶世降一等。<pb:KR1d0052_tls_008-9a>¶
+
+# src: LIJI 08.02.07; Couvreur 1.4i2f; Su1n Xïda4n 6.19f; Jia1ng Yi4hua2 316; Yishu 18:29.11b; tr. Legge 1.355;
+# dating: 8110
+8.9其在軍，¶
+則守於公禰。¶
+公若有出疆之政，¶
+庶子以公族之無事者守於公宮，¶
+正室守大廟，¶
+諸父守貴宮、¶貴室，¶
+諸子諸孫守下宮、¶下室。<pb:KR1d0052_tls_008-10a>¶
+
+# src: LIJI 08.02.08; Couvreur 1.4i2f; Su1n Xïda4n 6.20; Jia1ng Yi4hua2 316; Yishu 18:29.14a-14b; tr. Legge 1.355;
+# dating: 8110
+8.10五廟之孫，¶
+祖廟未毀，¶
+雖為庶人，¶
+冠，
+取妻，¶
+必告；¶
+死，
+必赴；¶
+練、祥則告。¶
+
+# src: LIJI 08.02.09; Couvreur 1.4i2f; Su1n Xïda4n 6.21; Jia1ng Yi4hua2 316; Yishu 18:29.14b; tr. Legge 1.355;
+# dating: 8110
+族之相為也，¶
+宜弔不弔，¶
+宜免不免，¶
+有司罰之。¶
+至于賵、¶
+賻、承、¶
+含，
+皆有正焉。¶
+
+# src: LIJI 08.02.10; Couvreur 1.4i4f; Su1n Xïda4n 6.21; Jia1ng Yi4hua2 318; Yishu 18:29.16a-16b; tr. Legge 1.356;
+# dating: 8110
+公族其有死罪，¶
+則磬于甸人。¶
+其刑罪，¶
+則纖剸，¶
+亦告于甸人。¶
+公族無宮刑。¶
+獄成，¶
+有司讞于公。¶
+其死罪，¶
+則曰¶「某之罪在大辟」；¶
+
+# src: LIJI 08.02.11; Couvreur 1.4i4f; Su1n Xïda4n 6.21; Jia1ng Yi4hua2 318; Yishu 18:29.16b; tr. Legge 1.356;
+# dating: 8110
+其刑罪，¶
+則曰¶「某之罪在小辟」。¶
+公曰：¶
+「宥之。」¶
+有司又曰：¶
+「在辟。」¶
+公又曰：¶
+「宥之。」¶
+有司又曰：¶
+「在辟。」¶
+
+# src: LIJI 08.02.12; Couvreur 1.4i4f; Su1n Xïda4n 6.21; Jia1ng Yi4hua2 318; Yishu 18:29.16b; tr. Legge 1.356;
+# dating: 8110
+及三宥，¶
+不對，¶
+走出，¶
+致刑于甸人。¶
+公又使人追之，¶曰：¶
+「雖然，¶
+必赦之。」¶
+有司對曰：¶
+「無及也！」¶
+
+# src: LIJI 08.02.13; Couvreur 1.4i4f; Su1n Xïda4n 6.21; Jia1ng Yi4hua2 318; Yishu 18:29.16b; tr. Legge 1.356;
+# dating: 8110
+反命于公，¶
+公素服不舉，¶
+為之變，¶
+如其倫之喪。¶
+無服，¶
+親哭之。<pb:KR1d0052_tls_008-11a>¶
+
+# src: LIJI 08.02.14; Couvreur 1.486f; Su1n Xïda4n 6.23; Jia1ng Yi4hua2 319; Yishu 18:29.21a; tr. Legge 1.357;
+# dating: 8110
+8.11公族朝于內朝，¶
+內親也。¶
+雖有貴者以齒，¶
+明父子也。¶
+外朝以官，¶
+體異姓也。¶
+
+# src: LIJI 08.02.15; Couvreur 1.486f; Su1n Xïda4n 6.23; Jia1ng Yi4hua2 319; Yishu 18:29.22b-23a; tr. Legge 1.357;
+# dating: 8110
+宗廟之中，¶
+以爵為位，¶
+崇德也。¶
+宗人授事以官，¶
+尊賢也。¶
+登餕、¶受爵以上嗣，¶
+尊祖之道也。¶
+喪紀以服之輕重為序，¶
+不奪人親也。¶
+
+# src: LIJI 08.02.16; Couvreur 1.486f; Su1n Xïda4n 6.23; Jia1ng Yi4hua2 319; Yishu 18:29.23b; tr. Legge 1.357;
+# dating: 8110
+公與族燕則以齒，¶
+而孝弟之道達矣。¶
+其族食，¶世降一等，¶
+親親之殺也。¶
+
+# src: LIJI 08.02.17; Couvreur 1.486f; Su1n Xïda4n 6.23; Jia1ng Yi4hua2 319; Yishu 18:29.24a; tr. Legge 1.358;
+# dating: 8110
+戰則守於公禰，¶
+孝愛之深也。¶
+正室守大廟，¶
+尊宗室，¶
+而君臣之道著矣。¶
+諸父諸兄守貴室，¶
+子弟守下室，¶
+而讓道達矣。<pb:KR1d0052_tls_008-12a>¶
+
+# src: LIJI 08.02.18; Couvreur 1.486f; Su1n Xïda4n 6.23; Jia1ng Yi4hua2 319; Yishu 18:29.25a; tr. Legge 1.358;
+# dating: 8110
+8.12五廟之孫，¶
+祖廟未毀，¶
+雖及庶人，¶冠，
+取妻必告，¶
+死必赴，¶
+不忘親也。¶
+
+# src: LIJI 08.02.19; Couvreur 1.486f; Su1n Xïda4n 6.23; Jia1ng Yi4hua2 319; Yishu 18:29.25a; tr. Legge 1.358;
+# dating: 8110
+親未絕而列於庶人，¶
+賤無能也。¶
+敬弔、¶臨、賻、¶賵，
+睦友之道也。¶
+
+# src: LIJI 08.02.20; Couvreur 1.489f; Su1n Xïda4n 6.24; Jia1ng Yi4hua2 319; Yishu 18:29.25a; tr. Legge 1.358;
+# dating: 8110
+古者，¶
+庶子之官治，¶
+而邦國有倫。¶
+邦國有倫，¶
+而眾鄉方矣。¶
+
+# src: LIJI 08.02.21; Couvreur 1.489f; Su1n Xïda4n 6.24; Jia1ng Yi4hua2 319; Yishu 18:29.26a; tr. Legge 1.359;
+# dating: 8110
+公族之罪，¶
+雖親、¶不以犯有司
+正術也，¶
+所以體百姓也。¶
+刑于隱者，¶
+不與國人慮兄弟也。¶
+弗弔，¶
+弗為服，¶
+哭于異姓之廟，¶
+為忝祖遠之也。¶
+
+# src: LIJI 08.02.22; Couvreur 1.489f; Su1n Xïda4n 6.24; Jia1ng Yi4hua2 319; Yishu 18:29.26a; tr. Legge 1.359;
+# dating: 8110
+素服居外，¶
+不聽樂，¶
+私喪之也，¶
+骨肉之親無絕也。¶
+公族無宮刑，¶
+不翦其類也。<pb:KR1d0052_tls_008-13a>¶
+
+# src: LIJI 08.02.23; Couvreur 1.490f; Su1n Xïda4n 6.24; Jia1ng Yi4hua2 320f; Yishu 18:29.27a; tr. Legge 1.359;
+# dating: 8110
+8.13天子視學，¶
+大昕鼓徵，¶
+所以警眾也。¶
+眾至，¶
+然後天子至。¶
+乃命有司行事。¶
+興秩節，¶
+祭先師、¶
+先聖焉。¶
+
+# src: LIJI 08.02.24; Couvreur 1.490f; Su1n Xïda4n 6.24; Jia1ng Yi4hua2 320f; Yishu 18:29.27a; tr. Legge 1.359;
+# dating: 8110
+有司卒事
+反命。¶
+始之養也：¶
+
+# src: LIJI 08.02.25; Couvreur 1.490f; Su1n Xïda4n 6.25; Jia1ng Yi4hua2 321; Yishu 18:29.30a-31b; tr. Legge 1.360;
+# dating: 8110
+適東序，¶
+釋奠於先老，¶
+遂設三老、¶
+五更、¶
+群老之席位焉。¶
+適饌省醴，¶
+養老之珍
+具；¶
+遂發詠焉，¶
+退脩之以孝養也。¶
+
+# src: LIJI 08.02.26; Couvreur 1.490f; Su1n Xïda4n 6.25; Jia1ng Yi4hua2 321; Yishu 18:29.32b; tr. Legge 1.360;
+# dating: 8110
+反，
+登歌《清廟》，¶
+既歌而語，¶
+以成之也。¶
+言父子、¶
+君臣、¶
+長幼之道，¶
+合德音之致，¶
+禮之大者也。¶
+
+# src: LIJI 08.02.27; Couvreur 1.492f; Su1n Xïda4n 6.26; Jia1ng Yi4hua2 321; Yishu 18:29.33b; tr. Legge 1.361;
+# dating: 8110
+下管《象》，¶
+舞《大武》。¶
+大合眾以事，¶
+達有神，¶
+興有德也。¶
+正君臣之位，¶
+貴賤之等焉，¶
+而上下之義行矣。¶
+
+# src: LIJI 08.02.28; Couvreur 1.492f; Su1n Xïda4n 6.27; Jia1ng Yi4hua2 321; Yishu 18:29.35b; tr. Legge 1.361;
+# dating: 8110
+有司告以樂闋，¶
+王乃命公、¶
+侯、伯、¶
+子、男及群吏曰：¶
+「反
+養老幼于東序。」¶
+終之以仁也。<pb:KR1d0052_tls_008-14a>¶
+
+# src: LIJI 08.02.29; Couvreur 1.492f; Su1n Xïda4n 6.27; Jia1ng Yi4hua2 321; Yishu 18:29.36a; tr. Legge 1.361;
+# dating: 8110
+8.14是故
+聖人之記事也，¶
+慮之以大，¶
+愛之以敬，¶
+行之以禮，¶
+脩之以孝養，¶
+紀之以義，¶
+終之以仁。<pb:KR1d0052_tls_008-15a>¶
+
+# src: LIJI 08.02.30; Couvreur 1.492f; Su1n Xïda4n 6.27; Jia1ng Yi4hua2 321; Yishu 18:29.36a-36b; tr. Legge 1.361;
+# dating: 8110
+8.15是故古之人一舉事，¶
+而眾皆知其德之備也。¶
+古之君子，¶
+舉大事，¶
+必慎其終始，¶
+而眾安得不喻焉？¶
+＜《兌命》曰：¶
+「念終始典于學。」¶
+
+# src: LIJI 08.02.31; Couvreur 1.494f; Su1n Xïda4n 6.27; Jia1ng Yi4hua2 322; Yishu 18:29.40a; tr. Legge 1.362;
+# dating: 8110
+《世子之記》曰：¶
+朝夕至于大寢之門外，¶
+問於內豎曰：¶
+「今日安否何如？」¶
+內豎曰：¶
+「今日安。」¶
+世子乃有喜色。¶
+其有不安節，¶
+則內豎以告世子，¶
+世子色憂不滿容。¶
+
+# src: LIJI 08.02.32; Couvreur 1.494f; Su1n Xïda4n 6.27; Jia1ng Yi4hua2 322f; Yishu 18:29.40a; tr. Legge 1.362;
+# dating: 8110
+內豎言¶「復初」，¶
+然後亦復初。¶
+朝夕之食上，¶
+世子必在
+視寒煖之節。¶
+食下，¶
+問所膳羞。¶
+必知所進，¶
+以命膳宰，¶
+然後退。¶
+
+# src: LIJI 08.02.33; Couvreur 1.494f; Su1n Xïda4n 6.27; Jia1ng Yi4hua2 323; Yishu 18:29.40a; tr. Legge 1.362;
+# dating: 8110
+若內豎言¶「疾」，¶
+則世子親齊玄而養。¶
+膳宰之饌，¶
+必敬視之。¶
+疾之藥，¶
+必親嘗之。¶
+
+# src: LIJI 08.02.34; Couvreur 1.494f; Su1n Xïda4n 6.27; Jia1ng Yi4hua2 323; Yishu 18:29.40b; tr. Legge 1.362;
+# dating: 8110
+嘗饌善，¶
+則世子亦能食；¶
+嘗饌寡，¶
+世子亦不能飽；¶
+以至于復初，¶
+然後亦復初。
+

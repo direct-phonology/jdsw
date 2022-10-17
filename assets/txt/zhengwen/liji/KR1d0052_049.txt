@@ -1,0 +1,233 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 48
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 48.01.01; Couvreur 2.688f; Su1n Xïda4n 14.52; Jia1ng Yi4hua2 925; Yi4 Shu1 47:76.20a-22a; tr. Legge 2.458;
+# dating: 8110
+<pb:KR1d0052_tls_049-1a>¶
+** 49 聘義
+
+49.1聘禮，¶
+上公七介，¶
+侯伯五介，¶
+子男三介，¶
+所以明貴賤也。¶
+介紹而傳命，¶
+君子於其所尊弗敢質，¶
+敬之至也。<pb:KR1d0052_tls_049-2a>¶
+
+# src: LIJI 48.01.02; Couvreur 2.688f; Su1n Xïda4n 14.53; Jia1ng Yi4hua2 925; Yi4 Shu1 47:76.23a; tr. Legge 2.458;
+# dating: 8110
+49.2三讓而后傳命，¶
+三讓而后入廟門，¶
+三揖而后至階，¶
+三讓而后升，¶
+所以致尊讓也。<pb:KR1d0052_tls_049-3a>¶
+
+# src: LIJI 48.01.03; Couvreur 2.689f; Su1n Xïda4n 14.54; Jia1ng Yi4hua2 926; Yi4 Shu1 47:76.24a; tr. Legge 2.459;
+# dating: 8110
+49.3君使士迎于竟，¶
+大夫郊勞，¶
+君親拜迎于大門之內而廟受，¶
+北面拜貺，¶
+拜君命之辱，¶
+所以致敬也。<pb:KR1d0052_tls_049-4a>¶
+
+# src: LIJI 48.01.04; Couvreur 2.689f; Su1n Xïda4n 14.54f; Jia1ng Yi4hua2 926; Yi4 Shu1 47:76.25a-25b; tr. Legge 2.459;
+# dating: 8110
+49.4敬讓也者，¶
+君子之所以相接也。¶
+故諸侯相接以敬讓，¶
+則不相侵陵。<pb:KR1d0052_tls_049-5a>¶
+49.5卿為上擯，¶
+大夫為承擯，¶
+士為紹擯。¶
+
+# src: LIJI 48.01.05; Couvreur 2.689f; Su1n Xïda4n 14.55; Jia1ng Yi4hua2 926; Yi4 Shu1 47:76.25b; tr. Legge 2.459;
+# dating: 8110
+君親禮賓，¶
+賓私面、¶
+私覿，¶
+致饔餼，¶
+還圭、¶璋，
+賄贈，¶
+饗、食、¶燕，
+所以明賓客君臣之義也。<pb:KR1d0052_tls_049-6a>¶
+
+# src: LIJI 48.01.06; Couvreur 2.691; Su1n Xïda4n 14.57; Jia1ng Yi4hua2 927; Yi4 Shu1 47:76.29a; tr. Legge 2.460;
+# dating: 8110
+49.6故天子制諸侯，¶
+比年小聘，¶
+三年大聘，¶
+相厲以禮。¶
+使者聘而誤，¶
+主君弗親饗食也。¶
+所以愧厲之也。¶
+
+# src: LIJI 48.01.07; Couvreur 2.691; Su1n Xïda4n 14.57; Jia1ng Yi4hua2 927; Yi4 Shu1 47:76.29b; tr. Legge 2.460;
+# dating: 8110
+諸侯相厲以禮，¶
+則外不相侵，¶
+內不相陵。¶
+此天子之所以養諸侯，¶
+兵不用
+而諸侯自為正之具也。<pb:KR1d0052_tls_049-7a>¶
+
+# src: LIJI 48.01.08; Couvreur 2.692f; Su1n Xïda4n 14.58; Jia1ng Yi4hua2 928; Yi4 Shu1 47:76.31a-33a; tr. Legge 2.460;
+# dating: 8110
+49.7以圭、¶璋聘，¶
+重禮也；¶
+已聘而還圭、¶璋，
+此輕財而重禮之義也。¶
+諸侯相厲以輕財重禮，¶
+則民作讓矣。<pb:KR1d0052_tls_049-8a>¶
+49.8主國待客，¶
+出入三積，¶
+餼客於舍，¶
+五牢之具陳於內，¶
+
+# src: LIJI 48.01.09; Couvreur 2.692f; Su1n Xïda4n 14.58; Jia1ng Yi4hua2 928; Yi4 Shu1 47:76.33a; tr. Legge 2.461;
+# dating: 8110
+米三十車，¶
+禾三十車，¶
+芻、薪倍禾，¶
+皆陳於外，¶
+乘禽日五雙，¶
+群介皆有餼牢，¶
+壹食，¶再饗，¶
+燕與時賜無數，¶
+所以厚重禮也。<pb:KR1d0052_tls_049-9a>¶
+
+# src: LIJI 48.01.10; Couvreur 2.692f; Su1n Xïda4n 14.58; Jia1ng Yi4hua2 928; Yi4 Shu1 47:76.35b; tr. Legge 2.461;
+# dating: 8110
+49.9古之用財者不能均如此，¶
+然而用財如此其厚者，¶
+言盡之於禮也。¶
+盡之於禮，¶
+則內君臣不相陵，¶
+而外不相侵。¶
+故天子制之，¶
+而諸侯務焉爾。<pb:KR1d0052_tls_049-10a>¶
+
+# src: LIJI 48.01.11; Couvreur 2.694; Su1n Xïda4n 14.60; Jia1ng Yi4hua2 928; Yi4 Shu1 47:76.37a; tr. Legge 2.462;
+# dating: 8110
+49.10聘、¶射之禮，¶
+至大禮也。¶
+質明而始行事，¶
+日幾中而后禮成，¶
+非強有力者弗能行也。¶
+
+# src: LIJI 48.01.12; Couvreur 2.694; Su1n Xïda4n 14.60; Jia1ng Yi4hua2 929; Yi4 Shu1 47:76.37a; tr. Legge 2.462;
+# dating: 8110
+故強有力者，¶
+將以行禮也。¶
+酒清、¶
+人渴而不敢飲也；¶
+肉乾、¶
+人飢而不敢食也；¶
+日莫人倦，¶
+齊莊、¶
+正齊
+而不敢解惰。¶
+
+# src: LIJI 48.01.13; Couvreur 2.694; Su1n Xïda4n 14.60; Jia1ng Yi4hua2 929; Yi4 Shu1 47:76.37a; tr. Legge 2.462;
+# dating: 8110
+以成禮節，¶
+以正君臣，¶
+以親父子，¶
+以和長幼。¶
+此眾人之所難，¶
+而君子行之，¶
+故謂之有行；¶
+有行之謂有義，¶
+有義之謂勇敢。¶
+
+# src: LIJI 48.01.14; Couvreur 2.694; Su1n Xïda4n 14.60; Jia1ng Yi4hua2 929; Yi4 Shu1 47:76.37a; tr. Legge 2.462;
+# dating: 8110
+故所貴於勇敢者，¶
+貴其能以立義也；¶
+所貴於立義者，¶
+貴其有行也；¶
+所貴於有行者，¶
+貴其行禮也。¶
+故所貴於勇敢者，¶
+貴其敢行禮義也。¶
+
+# src: LIJI 48.01.15; Couvreur 2.694; Su1n Xïda4n 14.60; Jia1ng Yi4hua2 929; Yi4 Shu1 47:76.37b; tr. Legge 2.462;
+# dating: 8110
+故勇敢強有力者，¶
+天下無事，¶
+則用之於禮義；¶
+天下有事，¶
+則用之於戰勝。¶
+用之於戰勝則無敵；¶
+用之於禮義則順治，¶
+外無敵，¶
+內順治，¶
+此之謂盛德。¶
+
+# src: LIJI 48.01.16; Couvreur 2.694; Su1n Xïda4n 14.60; Jia1ng Yi4hua2 929; Yi4 Shu1 47:76.37b; tr. Legge 2.462;
+# dating: 8110
+故聖王之貴勇敢、¶強有力
+如此也。¶
+勇敢、¶強有力
+而不用之於禮義、¶戰勝，¶
+而用之於爭鬭，¶
+則謂之亂人。¶
+刑罰行於國，¶
+所誅者亂人也。¶
+如此，¶
+則民順治而國安也。<pb:KR1d0052_tls_049-11a>¶
+
+# src: LIJI 48.01.17; Couvreur 2.697f; Su1n Xïda4n 14.61; Jia1ng Yi4hua2 920; Yi4 Shu1 47:76.41a; tr. Legge 2.463;
+# dating: 8110
+49.11子貢問於孔子曰：¶
+「敢問君子貴玉而賤珉者何也？¶
+為玉之寡而珉之多與？」¶
+孔子曰：¶
+「非為珉之多，¶
+故賤之也，¶
+玉之寡，¶
+故貴之也。¶
+夫昔者君子比德於玉焉。¶
+
+# src: LIJI 48.01.18; Couvreur 2.697f; Su1n Xïda4n 14.61; Jia1ng Yi4hua2 920; Yi4 Shu1 47:76.41a; tr. Legge 2.463;
+# dating: 8110
+溫潤而澤，¶
+仁也；¶
+縝密以栗，¶
+知也；¶
+廉而不劌，¶
+義也；¶
+垂之如隊，¶
+禮也；¶
+
+# src: LIJI 48.01.19; Couvreur 2.697f; Su1n Xïda4n 14.61; Jia1ng Yi4hua2 920; Yi4 Shu1 47:76.41b; tr. Legge 2.463;
+# dating: 8110
+叩之其聲清越以長，¶
+其終詘然，¶
+樂也；¶
+瑕不揜瑜、¶瑜不揜瑕，¶
+忠也；¶
+孚尹旁達，¶
+信也；¶
+氣如白虹，¶
+天也；¶
+
+# src: LIJI 48.01.20; Couvreur 2.697f; Su1n Xïda4n 14.61; Jia1ng Yi4hua2 920; Yi4 Shu1 47:76.41b; tr. Legge 2.463;
+# dating: 8110
+精神見于山川，¶
+地也；¶
+圭、璋特達，¶
+德也。¶
+天下莫不貴者，¶
+道也。¶
+《詩》云：¶
+『言念君子，¶
+溫其如玉。』¶
+故君子貴之也。」
+

@@ -1,0 +1,21 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 70
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 71.1; tr. D.C. Lau 19i2: 105; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_071-1a>¶
+** 71 第七十一章
+
+知不知、上矣，¶
+不知知、病矣。¶
+夫唯病病，¶
+是以不病。¶
+聖人之不病也，¶
+以其病病也，¶
+是以不病。
+

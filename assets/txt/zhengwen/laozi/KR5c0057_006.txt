@@ -1,0 +1,20 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 5
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 6.1; tr. D.C. Lau 19i2: 9 ; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_006-1a>¶
+** 6 第六章
+
+谷神不死，¶
+是謂玄牝。¶
+玄牝之門，¶
+是謂天地根。¶
+綿綿若存，¶
+用之不勤。
+

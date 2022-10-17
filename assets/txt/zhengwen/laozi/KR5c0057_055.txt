@@ -1,0 +1,35 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 54
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 55.1; tr. D.C. Lau 19i2: 79; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_055-1a>¶
+** 55 第五十五章
+
+含德之厚者，¶
+比於赤子，¶
+蜂蠆虺蛇弗螫，¶
+猛獸弗據，¶
+攫鳥弗搏。¶
+骨弱筋柔而握固。¶
+
+# src: LAO 55.2; tr. D.C. Lau 19i2: 79; here tr. Karlgren 1975
+# dating: 8120
+未知牝牡之合
+而全作，¶
+精之至也。¶
+終日號而不嗄。¶
+和之至也。¶
+知和曰常，¶
+知常曰明，¶
+益生曰祥，¶
+心使氣曰強。¶
+物壯則老，¶
+謂之不道，¶
+不道早已。
+

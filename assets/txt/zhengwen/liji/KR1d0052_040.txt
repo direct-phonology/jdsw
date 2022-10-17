@@ -1,0 +1,84 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 39
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 39.01.01; Couvreur 2.587; Su1n Xïda4n 13.89f; Jia1ng Yi4hua2 i45; Yi4 Shu1 44:72.2b; tr. Legge 2.395;
+# dating: 8110
+<pb:KR1d0052_tls_040-1a>¶
+** 40 深衣
+
+古者深衣，¶
+蓋有制度，¶
+以應規、¶矩、繩、¶權、衡。<pb:KR1d0052_tls_040-2a>¶
+短毋見膚，¶
+長毋被土。¶
+續衽，¶
+鉤邊。¶
+要縫半下；¶
+
+# src: LIJI 39.01.02; Couvreur 2.587f; Su1n Xïda4n 13.90f; Jia1ng Yi4hua2 i45; Yi4 Shu1 44:72.5b; tr. Legge 2.395;
+# dating: 8110
+袼之高下，¶
+可以運肘；¶
+袂之長短，¶
+反詘之及肘。¶
+帶下毋厭髀，¶
+上毋厭脅，¶
+當無骨者。<pb:KR1d0052_tls_040-3a>¶
+
+# src: LIJI 39.01.03; Couvreur 2.588f; Su1n Xïda4n 13.92; Jia1ng Yi4hua2 i46; Yi4 Shu1 44:72.6b; tr. Legge 2.395;
+# dating: 8110
+制：¶
+十有二幅以應十有二月；¶
+袂圜以應規；¶
+曲袷如矩以應方；¶
+負繩及踝以應直；¶
+下齊如權衡以應平。¶
+
+# src: LIJI 39.01.04; Couvreur 2.588f; Su1n Xïda4n 13.92; Jia1ng Yi4hua2 i46; Yi4 Shu1 44:72.9a; tr. Legge 2.395;
+# dating: 8110
+故規者，¶
+行舉手以為容；¶
+負繩、¶抱方者，¶
+以直其政，¶
+方其義也。¶
+故《易》曰：¶
+「《坤》六二之動，¶
+直以方也。」¶
+下齊如權衡者，¶
+以安志而平心也。¶
+
+# src: LIJI 39.01.05; Couvreur 2.588f; Su1n Xïda4n 13.92; Jia1ng Yi4hua2 i46; Yi4 Shu1 44:72.10a; tr. Legge 2.396;
+# dating: 8110
+五法已施，¶
+故聖人服之。¶
+故規矩取其無私，¶
+繩取其直，¶
+權衡取其平，¶
+故先王貴之。¶
+
+# src: LIJI 39.01.06; Couvreur 2.588f; Su1n Xïda4n 13.92; Jia1ng Yi4hua2 i46; Yi4 Shu1 44:72.10a; tr. Legge 2.396;
+# dating: 8110
+故可以為文，¶
+可以為武，¶
+可以擯、¶
+相，
+可以治軍旅，¶
+完且弗費，¶
+善衣之次也。<pb:KR1d0052_tls_040-4a>¶
+
+# src: LIJI 39.01.07; Couvreur 2.590; Su1n Xïda4n 13.93; Jia1ng Yi4hua2 i47; Yi4 Shu1 44:72.12a; tr. Legge 2.396;
+# dating: 8110
+具父母、¶大父母，¶
+衣純以繢；¶
+具父母，¶
+衣純以青。¶
+如孤子，¶
+衣純以素。¶
+純袂、¶緣、純邊，¶
+廣各寸半。
+

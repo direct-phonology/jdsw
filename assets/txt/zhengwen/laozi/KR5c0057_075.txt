@@ -1,0 +1,25 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 74
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 75.1; tr. D.C. Lau 19i2: 109; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_075-1a>¶
+** 75 第七十五章
+
+民之飢也，¶
+以其上食稅之多也，¶
+是以飢。¶
+民之難治也，¶
+以其上之有以
+為也，是以難治。¶
+民之輕死，¶
+以其求生生之厚也。¶
+是以輕死。¶
+夫唯無以生為者，¶
+是賢於貴生。
+

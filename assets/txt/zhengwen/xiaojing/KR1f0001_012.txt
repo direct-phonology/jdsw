@@ -1,0 +1,36 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 孝經
+#+DATE: 2016-08-10 10:17:46
+#+PROPERTY: ID KR1f0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 11
+#+PROPERTY: CAT 1pre-han,經學典籍,孝經類
+
+# src: XIAOJING 12, ed. SSJZS p. 0113
+# dating: 6230
+<pb:KR1f0001_tls_012-1a>¶
+** 12 《廣要道章》
+
+子曰：¶
+「教民親愛，¶
+莫善於孝。¶
+教民禮順，¶
+莫善於悌。¶
+移風易俗，¶
+莫善於樂。¶
+安上治民，¶
+莫善於禮。¶
+
+# dating: 6230
+禮者、¶
+敬而已矣。¶
+故敬其父
+則子悅，¶
+敬其兄
+則弟悅，¶
+敬其君
+則臣悅。¶
+敬一人而千萬人悅。¶
+所敬者寡，而悅者眾，¶
+此之謂要道也。」
+

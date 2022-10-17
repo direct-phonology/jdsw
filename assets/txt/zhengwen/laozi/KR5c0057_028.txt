@@ -1,0 +1,40 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 27
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 28.1; tr. D.C. Lau 19i2: 41; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_028-1a>¶
+** 28 第二十八章
+
+知其雄，¶
+守其雌，¶
+為天下谿。¶
+為天下谿，¶
+恒德不離。恒德不離，¶
+復歸於嬰兒。¶
+知其白，¶
+守其黑，¶
+為天下式。¶
+為天下式，¶
+恒德不忒，恒德不忒，¶
+復歸於無極。¶
+
+# src: LAO 28.2; tr. D.C. Lau 19i2: 41; here tr. Karlgren 1975
+# dating: 8120
+知其榮，¶
+守其辱，¶
+為天下谷，¶
+恒德乃足，¶
+恒德乃足，¶
+復歸於樸。¶
+樸散則為器，¶
+聖人用之
+則為官長。¶
+故大制
+不割。
+

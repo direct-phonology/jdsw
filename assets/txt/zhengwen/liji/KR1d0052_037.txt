@@ -1,0 +1,138 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 36
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 36.01.01; Couvreur 2.561; Su1n Xïda4n 13.68; Jia1ng Yi4hua2 i27; Yishu 43:70.38b-39b; tr. Legge 2.380;
+# dating: 8110
+<pb:KR1d0052_tls_037-1a>¶
+** 37 服問
+
+《傳》曰：¶
+「有從輕而重」，¶
+公子之妻為其皇姑。¶
+「有從重而輕」，¶
+為妻之父母。¶
+「有從無服而有服」，¶
+公子之妻為公子之外兄弟。¶
+
+# src: LIJI 36.01.02; Couvreur 2.561; Su1n Xïda4n 13.69; Jia1ng Yi4hua2 i27; Yishu 43:70.41a-41b; tr. Legge 2.3i1;
+# dating: 8110
+「有從有服而無服」，¶
+公子為其妻之父母。¶
+《傳》曰：¶
+「母出，¶
+則為繼母之黨服；¶
+母死，¶
+則為其母之黨服。」¶
+為其母之黨服，¶
+則不為繼母之黨服。<pb:KR1d0052_tls_037-2a>¶
+
+# src: LIJI 36.01.03; Couvreur 2.562f; Su1n Xïda4n 13.69; Jia1ng Yi4hua2 i28; Yishu 43:70.42b; tr. Legge 2.3i1;
+# dating: 8110
+三年之喪，¶
+既練矣，¶
+有期之喪，¶
+既葬矣，¶
+則帶其故葛帶，¶
+絰期之絰，¶
+服其功衰。¶
+
+# src: LIJI 36.01.04; Couvreur 2.562f; Su1n Xïda4n 13.70f; Jia1ng Yi4hua2 i28; Yishu 43:70.47a-48b; tr. Legge 2.3i1;
+# dating: 8110
+有大功之喪，¶
+亦如之。¶
+小功，¶
+無變也。<pb:KR1d0052_tls_037-3a>¶
+
+# src: LIJI 36.01.05; Couvreur 2.563f; Su1n Xïda4n 13.71; Jia1ng Yi4hua2 i28; Yishu 43:70.49a; tr. Legge 2.3i2;
+# dating: 8110
+麻之有本者，¶
+變三年之葛。¶
+
+# src: LIJI 36.01.06; Couvreur 2.563f; Su1n Xïda4n 13.71; Jia1ng Yi4hua2 i28; Yishu 43:70.50a; tr. Legge 2.3i2;
+# dating: 8110
+既練，¶
+遇麻斷本者，¶
+於免，¶
+絰之；¶
+既免，¶
+去絰。¶
+每可以絰必絰；¶
+既絰，¶
+則去之。<pb:KR1d0052_tls_037-4a>¶
+
+# src: LIJI 36.01.07; Couvreur 2.564f; Su1n Xïda4n 13.72; Jia1ng Yi4hua2 i28; Yishu 43:70.51a; tr. Legge 2.3i2;
+# dating: 8110
+小功不易喪之練冠，¶
+如免，¶
+則絰其緦小功之絰，¶
+因其初葛帶。¶
+緦之麻，¶
+不變小功之葛；¶
+小功之麻，¶
+不變大功之葛。¶
+以有本為稅。<pb:KR1d0052_tls_037-5a>¶
+
+# src: LIJI 36.01.08; Couvreur 2.565; Su1n Xïda4n 13.72; Jia1ng Yi4hua2 i28; Yishu 43:70.53a; tr. Legge 2.3i2;
+# dating: 8110
+殤：¶
+長、中，¶
+變三年之葛。¶
+終殤之月筭，¶
+而反三年之葛。¶
+是非重麻，¶
+為其無卒哭之稅。¶
+下殤則否。<pb:KR1d0052_tls_037-6a>¶
+
+# src: LIJI 36.01.09; Couvreur 2.566; Su1n Xïda4n 13.73f; Jia1ng Yi4hua2 i30; Yishu 43:70.54b-56b; tr. Legge 2.3i3;
+# dating: 8110
+君為天子三年，¶
+夫人如外宗之為君也。¶
+世子不為天子服。¶
+君所主：¶
+夫人妻、¶大子、¶適婦。¶
+大夫之適子為君、¶夫人、¶大子，¶
+如士服。<pb:KR1d0052_tls_037-7a>¶
+
+# src: LIJI 36.01.10; Couvreur 2.566f; Su1n Xïda4n 13.74; Jia1ng Yi4hua2 i30; Yishu 43:70.57a; tr. Legge 2.3i3;
+# dating: 8110
+君之母
+非夫人，¶
+則群臣無服。¶
+唯近臣及僕、¶驂乘從服，¶
+唯君所服，¶
+服也。¶
+
+# src: LIJI 36.01.11; Couvreur 2.566f; Su1n Xïda4n 13.75; Jia1ng Yi4hua2 i31; Yishu 43:70.59a; tr. Legge 2.3i3;
+# dating: 8110
+公為卿大夫錫衰以居，¶
+出亦如之。¶
+當事則弁絰。¶
+大夫相為，¶
+亦然。¶
+為其妻，¶
+往則服之，¶
+出則否。<pb:KR1d0052_tls_037-8a>¶
+
+# src: LIJI 36.01.12; Couvreur 2.567f; Su1n Xïda4n 13.75; Jia1ng Yi4hua2 i31; Yishu 43:70.60b; tr. Legge 2.3i4;
+# dating: 8110
+凡見人無免絰，¶
+雖朝於君
+無免絰。¶
+唯公門有稅齊衰。¶
+《傳》曰：¶
+「君子不奪人之喪，¶
+亦不可奪喪也。」¶
+
+# src: LIJI 36.01.13; Couvreur 2.567f; Su1n Xïda4n 13.76; Jia1ng Yi4hua2 i31; Yishu 43:70.62a; tr. Legge 2.3i4;
+# dating: 8110
+《傳》曰：¶
+「罪多而刑五，¶
+喪多而服五，¶
+上附下附，¶
+列也。」
+

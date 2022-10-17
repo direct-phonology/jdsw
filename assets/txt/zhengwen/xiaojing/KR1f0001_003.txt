@@ -1,0 +1,32 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 孝經
+#+DATE: 2016-08-10 10:17:46
+#+PROPERTY: ID KR1f0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 2
+#+PROPERTY: CAT 1pre-han,經學典籍,孝經類
+
+# src: XIAOJING 3, ed. SSJZS p. 0055
+# dating: 6230
+<pb:KR1f0001_tls_003-1a>¶
+** 3 《諸侯章》
+
+在上不驕，¶
+高而不危。¶
+制節謹度，¶
+滿而不溢。¶
+高而不危，¶
+所以長守貴也。¶
+滿而不溢，¶
+所以長守富也。¶
+
+# dating: 6230
+富貴不離其身，¶
+然後能保其社稷，¶
+而和其民人。¶
+蓋諸侯之孝也。¶
+《詩》云：¶
+「戰戰兢兢，¶
+如臨深淵，¶
+如履薄冰。」
+

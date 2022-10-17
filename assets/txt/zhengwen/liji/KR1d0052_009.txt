@@ -1,0 +1,831 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 8
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 09.01.01; Couvreur 1.496f; Su1n Xïda4n 6.29; Jia1ng Yi4hua2 325; Yishu 19:30.2b; tr. Legge 1.364;
+# dating: 8110
+<pb:KR1d0052_tls_009-1a>¶
+** 9 禮運
+
+9.1昔者仲尼與於蜡賓，¶
+事畢，¶
+出遊於觀之上，¶
+喟然而嘆。¶
+仲尼之嘆，¶
+蓋嘆魯也。¶
+
+# src: LIJI 09.01.02; Couvreur 1.496f; Su1n Xïda4n 6.29; Jia1ng Yi4hua2 325; Yishu 19:30.2b; tr. Legge 1.364;
+# dating: 8110
+言偃在側，¶曰：¶
+「君子何嘆？」¶
+孔子曰：¶
+「大道之行也，¶
+與三代之英，¶
+丘未之逮也，¶
+而有志焉。¶
+
+# src: LIJI 09.01.03; Couvreur 1.497f; Su1n Xïda4n 6.30; Jia1ng Yi4hua2 325; Yishu 19:30.4b; tr. Legge 1.364;
+# dating: 8110
+大道之行也，¶
+天下為公。¶
+選賢與能，¶
+講信脩睦，¶
+故人不獨親其親，¶
+不獨子其子，¶
+使老有所終，¶
+壯有所用，¶
+幼有所長，¶
+
+# src: LIJI 09.01.04; Couvreur 1.497f; Su1n Xïda4n 6.30; Jia1ng Yi4hua2 325; Yishu 19:30.4b; tr. Legge 1.364;
+# dating: 8110
+矜寡孤獨廢疾者，¶
+皆有所養。¶
+男有分，¶
+女有歸。¶
+貨惡其棄於地也，¶
+不必藏於己；¶
+力惡其不出於身也，¶
+不必為己。¶
+
+# src: LIJI 09.01.05; Couvreur 1.497f; Su1n Xïda4n 6.30; Jia1ng Yi4hua2 325; Yishu 19:30.4b-5a; tr. Legge 1.364;
+# dating: 8110
+是故
+謀閉而不興，¶
+盜竊亂賊而不作，¶
+故外戶而不閉，¶
+是謂大同。¶
+
+# src: LIJI 09.01.06; Couvreur 1.498f; Su1n Xïda4n 6.30; Jia1ng Yi4hua2 325f; Yishu 19:30.7a; tr. Legge 1.366;
+# dating: 8110
+今大道既隱，¶
+天下為家，¶
+各親其親，¶
+各子其子，¶
+貨力為己，¶
+大人世及以為禮。¶
+
+# src: LIJI 09.01.07; Couvreur 1.498f; Su1n Xïda4n 6.30; Jia1ng Yi4hua2 326; Yishu 19:30.7a-7b; tr. Legge 1.366;
+# dating: 8110
+城郭溝池以為固，¶
+禮義以為紀；¶
+以正君臣，¶
+以篤父子，¶
+以睦兄弟，¶
+以和夫婦，¶
+以設制度，¶
+以立田里，¶
+以賢勇知，¶
+以功為己。¶
+
+# src: LIJI 09.01.08; Couvreur 1.498f; Su1n Xïda4n 6.30; Jia1ng Yi4hua2 326; Yishu 19:30.7b; tr. Legge 1.366;
+# dating: 8110
+故謀用是作，¶
+而兵由此起。¶
+禹、湯、¶文、武、¶成王、¶周公，¶
+由此其選也。¶
+此六君子者，¶
+未有不謹於禮者也。¶
+
+# src: LIJI 09.01.09; Couvreur 1.498f; Su1n Xïda4n 6.30; Jia1ng Yi4hua2 326; Yishu 19:30.7b; tr. Legge 1.366;
+# dating: 8110
+以著其義，¶
+以考其信，¶
+著有過，¶
+刑仁講讓，¶
+示民有常。¶
+如有不由此者，¶
+在埶者去，¶
+眾以為殃，¶
+是謂小康。」<pb:KR1d0052_tls_009-2a>¶
+
+# src: LIJI 09.01.10; Couvreur 1.500f; Su1n Xïda4n 6.32; Jia1ng Yi4hua2 327; Yishu 19:30.11b; tr. Legge 1.367;
+# dating: 8110
+9.2言偃復問曰：¶
+「如此乎禮之急也？」¶
+孔子曰：¶
+「夫禮，¶
+先王以承天之道，¶
+以治人之情。¶
+故失之者死，¶
+得之者生。¶
+
+# src: LIJI 09.01.11; Couvreur 1.500f; Su1n Xïda4n 6.32; Jia1ng Yi4hua2 327; Yishu 19:30.11b; tr. Legge 1.367;
+# dating: 8110
+《詩》曰：¶
+『相鼠有體，¶
+人而無禮，¶
+人而無禮，¶
+胡不遄死！』¶
+
+# src: LIJI 09.01.12; Couvreur 1.500f; Su1n Xïda4n 6.32; Jia1ng Yi4hua2 327; Yishu 19:30.11b; tr. Legge 1.367;
+# dating: 8110
+是故夫禮
+必本於天，¶
+殽於地，¶
+列於鬼神，¶
+達於喪、¶祭、
+射、¶御、冠、¶昏、
+朝、¶聘。
+故聖人以禮示之，¶
+故天下國家可得而正也。」<pb:KR1d0052_tls_009-3a>¶
+
+# src: LIJI 09.01.13; Couvreur 1.501f; Su1n Xïda4n 6.33; Jia1ng Yi4hua2 328; Yishu 19:30.15a-15b; tr. Legge 1.367;
+# dating: 8110
+9.3言偃復問曰：¶
+「夫子之極言禮也，¶
+可得而聞與？」¶
+孔子曰：¶
+「我欲觀夏道，¶
+是故之杞，¶
+而不足徵也；¶
+吾得《夏時》焉。¶
+
+# src: LIJI 09.01.14; Couvreur 1.501f; Su1n Xïda4n 6.33; Jia1ng Yi4hua2 328; Yishu 19:30.15b; tr. Legge 1.367;
+# dating: 8110
+我欲觀殷道，¶
+是故之宋，¶
+而不足徵也；¶
+吾得《坤乾》焉。¶
+《坤乾》之義，¶
+《夏時》之等，¶
+吾以是觀之。<pb:KR1d0052_tls_009-4a>¶
+
+# src: LIJI 09.01.15; Couvreur 1.502f; Su1n Xïda4n 6.33; Jia1ng Yi4hua2 328; Yishu 19:30.18a; tr. Legge 1.368;
+# dating: 8110
+9.4「夫禮之初，¶
+始諸飲食，¶
+其燔黍捭豚，¶
+汙尊而抔飲，¶
+蕢桴而土鼓，¶
+猶若可以致其敬於鬼神。¶
+
+# src: LIJI 09.01.16; Couvreur 1.502f; Su1n Xïda4n 6.34; Jia1ng Yi4hua2 328; Yishu 19:30.20b; tr. Legge 1.368;
+# dating: 8110
+及其死也，¶
+升屋而號，¶
+告曰：¶
+『皋！¶
+某復。』¶
+然後飯腥而苴孰。¶
+
+# src: LIJI 09.01.17; Couvreur 1.502f; Su1n Xïda4n 6.34; Jia1ng Yi4hua2 328; Yishu 19:30.20b; tr. Legge 1.368;
+# dating: 8110
+故天望而地藏也，¶
+體魄則降，¶
+知氣在上，¶
+故死者北首，¶
+生者南鄉，¶
+皆從其初。<pb:KR1d0052_tls_009-5a>¶
+
+# src: LIJI 09.01.18; Couvreur 1.504f; Su1n Xïda4n 6.34; Jia1ng Yi4hua2 328; Yishu 19:30.22b; tr. Legge 1.369;
+# dating: 8110
+9.5「昔者先王，¶
+未有宮室，¶
+冬則居營窟，¶
+夏則居橧巢。¶
+未有火化，¶
+食草木之實，¶
+鳥獸之肉，¶
+飲其血，¶
+茹其毛。¶
+
+# src: LIJI 09.01.19; Couvreur 1.504f; Su1n Xïda4n 6.34f; Jia1ng Yi4hua2 328; Yishu 19:30.22b-23b; tr. Legge 1.369;
+# dating: 8110
+未有麻絲，¶
+衣其羽皮。<pb:KR1d0052_tls_009-6a>¶
+9.6「後聖有作，¶
+然後脩火之利，¶
+范金，¶合土，¶
+以為臺榭、¶宮室、¶牖戶，¶
+以炮以燔，¶
+以亨以炙，¶
+以為醴酪，¶
+
+# src: LIJI 09.01.20; Couvreur 1.504f; Su1n Xïda4n 6.35; Jia1ng Yi4hua2 328; Yishu 19:30.23b; tr. Legge 1.369;
+# dating: 8110
+治其麻絲，¶
+以為布帛，¶
+以養生送死，¶
+以事鬼神上帝，¶
+皆從其朔。<pb:KR1d0052_tls_009-7a>¶
+
+# src: LIJI 09.01.21; Couvreur 1.505f; Su1n Xïda4n 6.35; Jia1ng Yi4hua2 328f; Yishu 19:30.25b; tr. Legge 1.370;
+# dating: 8110
+9.7「故玄酒在室，¶
+醴、醆在戶，¶
+粢醍在堂，¶
+澄酒在下。¶
+陳其犧牲，¶
+備其鼎、¶俎，
+列其琴、¶瑟、管、¶磬、鍾、¶鼓，
+脩其祝、¶嘏，
+以降上神與其先祖。¶
+
+# src: LIJI 09.01.22; Couvreur 1.505f; Su1n Xïda4n 6.35; Jia1ng Yi4hua2 329; Yishu 19:30.25b; tr. Legge 1.370;
+# dating: 8110
+以正君臣，¶
+以篤父子，¶
+以睦兄弟，¶
+以齊上下，¶
+夫婦有所。¶
+是謂承天之祜。<pb:KR1d0052_tls_009-8a>¶¶
+
+# src: LIJI 09.01.23; Couvreur 1.506f; Su1n Xïda4n 6.39; Jia1ng Yi4hua2 329; Yishu 19:30.33a; tr. Legge 1.371;
+# dating: 8110
+9.8「作其祝號，¶
+玄酒以祭，¶
+薦其血、¶毛，
+腥其俎，¶
+孰其殽，¶
+與其越席，¶
+疏布以幂，¶
+
+# src: LIJI 09.01.24; Couvreur 1.506f; Su1n Xïda4n 6.39; Jia1ng Yi4hua2 329; Yishu 19:30.33a; tr. Legge 1.371;
+# dating: 8110
+衣其澣帛，¶
+醴、醆以獻，¶
+薦其燔、¶炙，
+君與夫人交獻，¶
+以嘉魂魄，¶
+是謂合莫。<pb:KR1d0052_tls_009-9a>¶
+
+# src: LIJI 09.01.25; Couvreur 1.506f; Su1n Xïda4n 6.40; Jia1ng Yi4hua2 329; Yishu 19:30.35a; tr. Legge 1.372;
+# dating: 8110
+9.9「然後退而合亨，¶
+體其犬豕牛羊，¶
+實其簠、¶簋、籩、¶豆、鉶羹。¶
+祝以孝告，¶
+嘏以慈告，¶
+是謂大祥。¶
+此禮之大成也。<pb:KR1d0052_tls_009-10a>¶
+
+# src: LIJI 09.02.01; Couvreur 1.507f; Su1n Xïda4n 6.44; Jia1ng Yi4hua2 331; Yishu 19:31.1a; tr. Legge 1.372;
+# dating: 8110
+9.10孔子曰：¶
+「於呼哀哉！¶
+我觀周道，¶
+幽、厲傷之，¶
+吾舍魯何適矣！¶
+魯之郊、¶禘，
+非禮也，¶
+周公其衰矣！¶
+
+# src: LIJI 09.02.02; Couvreur 1.507f; Su1n Xïda4n 6.44; Jia1ng Yi4hua2 331; Yishu 19:31.1a; tr. Legge 1.372;
+# dating: 8110
+杞之郊也，¶禹也；¶
+宋之郊也，¶契也。¶
+是天子之事守也。¶
+故天子祭天地，¶
+諸侯祭社稷。<pb:KR1d0052_tls_009-11a>¶¶
+
+# src: LIJI 09.02.03; Couvreur 1.508f; Su1n Xïda4n 6.45f; Jia1ng Yi4hua2 331; Yishu 19:31.6b-8b; tr. Legge 1.373;
+# dating: 8110
+9.11「祝、¶嘏莫敢易其常古，¶
+是謂大假。<pb:KR1d0052_tls_009-12a>¶
+9.12「祝、¶嘏辭說，¶
+藏於宗、¶祝、巫、¶史，
+非禮也，¶
+是謂幽國。¶
+醆、斝及尸君，¶
+非禮也，¶
+是謂僭君。<pb:KR1d0052_tls_009-13a>¶
+
+# src: LIJI 09.02.04; Couvreur 1.508f; Su1n Xïda4n 6.46; Jia1ng Yi4hua2 331; Yishu 19:31.9a-10b; tr. Legge 1.374;
+# dating: 8110
+9.13「冕、¶弁、兵、¶革藏於私家，¶
+非禮也，¶
+是謂脅君。<pb:KR1d0052_tls_009-14a>¶
+9.14「大夫具官，¶
+祭器不假，¶
+聲樂皆具，¶
+非禮也，¶
+是謂亂國。<pb:KR1d0052_tls_009-15a>¶
+
+# src: LIJI 09.02.05; Couvreur 1.510f; Su1n Xïda4n 6.47; Jia1ng Yi4hua2 331f; Yishu 19:31.11a; tr. Legge 1.374;
+# dating: 8110
+9.15「故仕於公曰臣，¶
+仕於家曰僕。¶
+三年之喪，¶
+與新有昏者，¶
+期不使。¶
+以衰裳入朝，¶
+與家僕雜居齊齒，¶
+非禮也，¶
+是謂君與臣同國。¶
+
+# src: LIJI 09.02.06; Couvreur 1.510f; Su1n Xïda4n 6.47; Jia1ng Yi4hua2 332; Yishu 19:31.13a; tr. Legge 1.375;
+# dating: 8110
+故天子有田以處其子孫，¶
+諸侯有國以處其子孫，¶
+大夫有采以處其子孫，¶
+是謂制度。¶
+
+# src: LIJI 09.02.07; Couvreur 1.510f; Su1n Xïda4n 6.48; Jia1ng Yi4hua2 332; Yishu 19:31.14b; tr. Legge 1.375;
+# dating: 8110
+故天子適諸侯，¶
+必舍其祖廟，¶
+而不以禮籍入，¶
+是謂天子壞法亂紀。¶
+諸侯非問疾弔喪
+而入諸臣之家，¶
+是謂君臣為謔。<pb:KR1d0052_tls_009-16a>¶
+
+# src: LIJI 09.02.08; Couvreur 1.511f; Su1n Xïda4n 6.48; Jia1ng Yi4hua2 332; Yishu 19:31.16a; tr. Legge 1.375;
+# dating: 8110
+9.16「是故
+禮者，¶君之大柄也，¶
+所以別嫌明微，¶
+儐鬼神，¶
+考制度，¶
+別仁義，¶
+所以治政安君也。¶
+
+# src: LIJI 09.02.09; Couvreur 1.511f; Su1n Xïda4n 6.48; Jia1ng Yi4hua2 332; Yishu 19:31.17b; tr. Legge 1.375;
+# dating: 8110
+故政不正，¶
+則君位危，¶
+君位危，¶
+則大臣倍，¶
+小臣竊。¶
+
+# src: LIJI 09.02.10; Couvreur 1.511f; Su1n Xïda4n 6.48f; Jia1ng Yi4hua2 332; Yishu 19:31.17b; tr. Legge 1.375;
+# dating: 8110
+刑肅而俗敝，¶
+則法無常。¶
+法無常，¶
+而禮無列。¶
+禮無列，¶
+則士不事也。¶
+刑肅而俗敝，¶
+則民弗歸也，¶
+是謂疵國。<pb:KR1d0052_tls_009-17a>¶¶
+
+# src: LIJI 09.02.11; Couvreur 1.512f; Su1n Xïda4n 6.49; Jia1ng Yi4hua2 332; Yishu 19:31.19a; tr. Legge 1.376;
+# dating: 8110
+9.17「故政者，¶
+君之所以藏身也。¶
+是故夫政
+必本於天，¶
+殽以降命。¶
+命降于社之謂殽地；¶
+降于祖廟之謂仁義，¶
+降於山川之謂興作，¶
+降於五祀之謂制度。¶
+此聖人所以藏身之固也。<pb:KR1d0052_tls_009-18a>¶¶
+
+# src: LIJI 09.02.12; Couvreur 1.512f; Su1n Xïda4n 6.50; Jia1ng Yi4hua2 332; Yishu 19:31.23a; tr. Legge 1.377;
+# dating: 8110
+9.18「故聖人參於天地，¶
+並於鬼神，¶
+以治政也。¶
+處其所存，¶
+禮之序也；¶
+玩其所樂，¶
+民之治也。¶
+
+# src: LIJI 09.02.13; Couvreur 1.512f; Su1n Xïda4n 6.50; Jia1ng Yi4hua2 332; Yishu 19:31.25a; tr. Legge 1.378;
+# dating: 8110
+故天生時而地生財，¶
+人、其父生而師教之，¶
+四者，¶
+君以正用之，¶
+故君者立於無過之地也。<pb:KR1d0052_tls_009-19a>¶
+
+# src: LIJI 09.02.14; Couvreur 1.514f; Su1n Xïda4n 6.50; Jia1ng Yi4hua2 332; Yishu 19:31.26b-27a; tr. Legge 1.378;
+# dating: 8110
+9.19「故君者所明也，¶
+非明人者也。¶
+君者所養也，¶
+非養人者也。¶
+君者所事也，¶
+非事人者也。¶
+故君明人則有過，¶
+養人則不足，¶
+事人則失位。¶
+
+# src: LIJI 09.02.15; Couvreur 1.514f; Su1n Xïda4n 6.50; Jia1ng Yi4hua2 332; Yishu 19:31.27a; tr. Legge 1.378;
+# dating: 8110
+故百姓則君以自治也，¶
+養君以自安也，¶
+事君以自顯也。¶
+故禮達而分定，¶
+故人皆愛其死而患其生。<pb:KR1d0052_tls_009-20a>¶
+
+# src: LIJI 09.02.16; Couvreur 1.514f; Su1n Xïda4n 6.50; Jia1ng Yi4hua2 332; Yishu 19:31.29a-30b; tr. Legge 1.378;
+# dating: 8110
+9.20「故用人之知去其詐，¶
+用人之勇去其怒，¶
+用人之仁去其貪。<pb:KR1d0052_tls_009-21a>¶
+9.21「故國有患，¶
+君死社稷謂之義，¶
+大夫死宗廟謂之變。<pb:KR1d0052_tls_009-22a>¶
+
+# src: LIJI 09.02.17; Couvreur 1.516; Su1n Xïda4n 6.51; Jia1ng Yi4hua2 335; Yishu 19:31.31b; tr. Legge 1.379;
+# dating: 8110
+9.22「故聖人耐以天下為一家，¶
+以中國為一人者，¶
+非意之也，¶
+必知其情，¶
+辟於其義，¶
+明於其利，¶
+達於其患，¶
+然後能為之。<pb:KR1d0052_tls_009-23a>¶
+
+# src: LIJI 09.02.18; Couvreur 1.516f; Su1n Xïda4n 6.52; Jia1ng Yi4hua2 335; Yishu 19:31.33a; tr. Legge 1.379;
+# dating: 8110
+9.23「何謂人情？¶
+喜、怒、¶哀、懼、¶愛、惡、¶欲，
+七者，¶
+弗學而能。¶
+
+# src: LIJI 09.02.19; Couvreur 1.516f; Su1n Xïda4n 6.52; Jia1ng Yi4hua2 335; Yishu 19:31.33a-33b; tr. Legge 1.379;
+# dating: 8110
+何謂人義？¶
+父慈、¶
+子孝、¶
+兄良、¶
+弟弟、¶
+夫義、¶
+婦聽、¶
+長惠、¶
+幼順、¶
+君仁、¶
+臣忠，¶
+十者，¶
+謂之人義。¶
+
+# src: LIJI 09.02.20; Couvreur 1.516f; Su1n Xïda4n 6.52; Jia1ng Yi4hua2 335; Yishu 19:31.33b; tr. Legge 1.379;
+# dating: 8110
+講信脩睦，¶
+謂之人利。¶
+爭奪相殺，¶
+謂之人患。¶
+
+# src: LIJI 09.02.21; Couvreur 1.516f; Su1n Xïda4n 6.52; Jia1ng Yi4hua2 335; Yishu 19:31.33b; tr. Legge 1.379;
+# dating: 8110
+故聖人之所以治人七情，¶
+脩十義，¶
+講信脩睦，¶
+尚辭讓，¶
+去爭奪，¶
+舍禮何以治之？¶
+
+# src: LIJI 09.02.22; Couvreur 1.516f; Su1n Xïda4n 6.52; Jia1ng Yi4hua2 335; Yishu 19:31.35a; tr. Legge 1.380;
+# dating: 8110
+飲食男女，¶
+人之大欲存焉。¶
+死亡貧苦，¶
+人之大惡存焉。¶
+
+# src: LIJI 09.02.23; Couvreur 1.516f; Su1n Xïda4n 6.52f; Jia1ng Yi4hua2 335f; Yishu 19:31.35a; tr. Legge 1.380;
+# dating: 8110
+故欲惡者，¶
+心之大端也。¶
+人藏其心，¶
+不可測度也，¶
+美惡皆在其心，¶不見其色也，¶
+欲一以窮之，¶
+舍禮何以哉？<pb:KR1d0052_tls_009-24a>¶
+
+# src: LIJI 09.03.01; Couvreur 1.518f; Su1n Xïda4n 6.53; Jia1ng Yi4hua2 336; Yishu 20:32.1a; tr. Legge 1.380;
+# dating: 8110
+9.24「故人者，¶
+其天地之德，¶
+陰陽之交，¶
+鬼神之會，¶
+五行之秀氣也。<pb:KR1d0052_tls_009-25a>¶
+
+# src: LIJI 09.03.02; Couvreur 1.518f; Su1n Xïda4n 6.54; Jia1ng Yi4hua2 336; Yishu 20:32.4a; tr. Legge 1.3i1;
+# dating: 8110
+9.25「故天秉陽，¶
+垂日星；¶
+地秉陰，¶
+竅於山川。¶
+播五行於四時，¶
+和而后月生也。¶
+是以三五而盈，¶
+三五而闕。¶
+
+# src: LIJI 09.03.03; Couvreur 1.518f; Su1n Xïda4n 6.54f; Jia1ng Yi4hua2 336; Yishu 20:32.7a-19b; tr. Legge 1.3i2;
+# dating: 8110
+五行之動，¶
+迭相竭也。¶
+五行、¶四時、¶十二月，¶
+還相為本也。¶
+五聲、¶六律、¶十二管，¶
+還相為宮也。¶
+五味、¶六和、¶十二食，¶
+還相為質也。¶
+五色、¶六章、¶十二衣，¶
+還相為質也。<pb:KR1d0052_tls_009-26a>¶
+
+# src: LIJI 09.03.04; Couvreur 1.518f; Su1n Xïda4n 6.57; Jia1ng Yi4hua2 336; Yishu 20:32.21a; tr. Legge 1.3i2;
+# dating: 8110
+9.26「故人者，¶
+天地之心也，¶
+五行之端也，¶
+食味、¶別聲、¶被色而生者也。¶
+
+# src: LIJI 09.03.05; Couvreur 1.522; Su1n Xïda4n 6.57; Jia1ng Yi4hua2 336; Yishu 20:32.24a; tr. Legge 1.3i3;
+# dating: 8110
+故聖人作，¶則
+必以天地為本，¶
+以陰陽為端，¶
+以四時為柄，¶
+以日星為紀，¶
+
+# src: LIJI 09.03.06; Couvreur 1.522; Su1n Xïda4n 6.57; Jia1ng Yi4hua2 336; Yishu 20:32.24a; tr. Legge 1.3i3;
+# dating: 8110
+月以為量，¶
+鬼神以為徒，¶
+五行以為質，¶
+禮義以為器，¶
+人情以為田，¶
+四靈以為畜。¶
+
+# src: LIJI 09.03.07; Couvreur 1.523f; Su1n Xïda4n 6.58; Jia1ng Yi4hua2 336; Yishu 20:32.26b; tr. Legge 1.3i3;
+# dating: 8110
+以天地為本，¶
+故物可舉也。¶
+以陰陽為端，¶
+故情可睹也。¶
+以四時為柄，¶
+故事可勸也。¶
+以日星為紀，¶
+故事可列也。¶
+月以為量，¶
+故功有藝也。¶
+
+# src: LIJI 09.03.08; Couvreur 1.523f; Su1n Xïda4n 6.58; Jia1ng Yi4hua2 336; Yishu 20:32.27a; tr. Legge 1.3i3;
+# dating: 8110
+鬼神以為徒，¶
+故事有守也。¶
+五行以為質，¶
+故事可復也。¶
+禮義以為器，¶
+故事行有考也，¶
+人情以為田，¶
+故人以為奧也。¶
+四靈以為畜，¶
+故飲食有由也。¶
+
+# src: LIJI 09.03.09; Couvreur 1.524f; Su1n Xïda4n 6.59; Jia1ng Yi4hua2 336; Yishu 20:32.29b; tr. Legge 1.3i4;
+# dating: 8110
+何謂四靈？¶
+麟、鳳、¶龜、龍，¶
+謂之四靈。¶
+故龍以為畜，¶
+故魚鮪不淰。¶
+
+# src: LIJI 09.03.10; Couvreur 1.524f; Su1n Xïda4n 6.59; Jia1ng Yi4hua2 336; Yishu 20:32.29b; tr. Legge 1.3i4;
+# dating: 8110
+鳳以為畜，¶
+故鳥不獝。¶
+麟以為畜，¶
+故獸不狘。¶
+龜以為畜，¶
+故人情不失。<pb:KR1d0052_tls_009-27a>¶
+
+# src: LIJI 09.04.01; Couvreur 1.524f; Su1n Xïda4n 6.59; Jia1ng Yi4hua2 336; Yishu 20:33.1a; tr. Legge 1.385;
+# dating: 8110
+9.27「故先王秉蓍龜，¶
+列祭祀，¶
+瘞繒，¶
+宣祝嘏辭說，¶
+設制度，¶
+故國有禮，¶
+官有御，¶
+事有職，¶
+禮有序。<pb:KR1d0052_tls_009-28a>¶
+
+# src: LIJI 09.04.02; Couvreur 1.525f; Su1n Xïda4n 6.59; Jia1ng Yi4hua2 339; Yishu 20:33.2b; tr. Legge 1.385;
+# dating: 8110
+9.28「故先王患禮之不達於下也。<pb:KR1d0052_tls_009-29a>¶
+9.29「故祭帝於郊，¶
+所以定天位也，¶
+祀社於國，¶
+所以列地利也，¶
+祖廟、¶所以本仁也，¶
+山川、¶所以儐鬼神也，¶
+五祀、¶所以本事也。¶
+
+# src: LIJI 09.04.03; Couvreur 1.525f; Su1n Xïda4n 6.59; Jia1ng Yi4hua2 339; Yishu 20:33.2b; tr. Legge 1.385;
+# dating: 8110
+故宗祝在廟，¶
+三公在朝，¶
+三老在學。¶
+王
+前巫而後史，¶
+卜筮瞽侑皆在左右，¶
+王中
+心無為也，¶
+以守至正。<pb:KR1d0052_tls_009-30a>¶
+
+# src: LIJI 09.04.04; Couvreur 1.526f; Su1n Xïda4n 6.60; Jia1ng Yi4hua2 339; Yishu 20:33.5b; tr. Legge 1.386;
+# dating: 8110
+9.30「故禮行於郊
+而百神受職焉，¶
+禮行於社
+而百貨可極焉，¶
+禮行於祖廟
+而孝慈服焉，¶
+禮行於五祀
+而正法則焉。¶
+故自郊、¶社、祖廟、¶山川、¶五祀，¶
+義之脩而禮之藏也。<pb:KR1d0052_tls_009-31a>¶
+
+# src: LIJI 09.04.05; Couvreur 1.527f; Su1n Xïda4n 6.60; Jia1ng Yi4hua2 339; Yishu 20:33.8a; tr. Legge 1.386;
+# dating: 8110
+9.31「是故夫禮，¶
+必本於大一，¶
+分而為天地，¶
+轉而為陰陽，¶
+變而為四時，¶
+列而為鬼神。¶
+其降曰命，¶
+其官於天也。<pb:KR1d0052_tls_009-32a>¶
+
+# src: LIJI 09.04.06; Couvreur 1.527f; Su1n Xïda4n 6.61; Jia1ng Yi4hua2 339; Yishu 20:33.11a; tr. Legge 1.388;
+# dating: 8110
+9.32「夫禮必本於天，¶
+動而之地，¶
+列而之事，¶
+變而從時，¶
+協於分藝，¶
+
+# src: LIJI 09.04.07; Couvreur 1.527f; Su1n Xïda4n 6.61; Jia1ng Yi4hua2 339; Yishu 20:33.11a; tr. Legge 1.388;
+# dating: 8110
+其居人也曰養，¶
+其行之以貨、¶力、
+辭讓：¶
+飲、食、¶
+冠、昏、¶
+喪、祭、¶
+射、御、¶
+朝、聘。<pb:KR1d0052_tls_009-33a>¶
+
+# src: LIJI 09.04.08; Couvreur 1.529f; Su1n Xïda4n 6.61; Jia1ng Yi4hua2 339; Yishu 20:33.14a; tr. Legge 1.388;
+# dating: 8110
+9.33「故禮義也者，¶
+人之大端也，¶
+所以講信脩睦
+而固人之肌膚之會、¶
+筋骸之束也。¶
+所以養生送死、¶事鬼神之大端也。¶
+所以達天道、¶順人情之大竇也。<pb:KR1d0052_tls_009-34a>¶
+9.34「故唯聖人為知禮之不可以已也，¶
+故壞國、¶喪家、¶亡人，¶
+必先去其禮。¶
+
+# src: LIJI 09.04.09; Couvreur 1.529f; Su1n Xïda4n 6.62; Jia1ng Yi4hua2 339; Yishu 20:33.17a; tr. Legge 1.389;
+# dating: 8110
+故禮之於人也，¶
+猶酒之有糱也，¶
+君子以厚，¶
+小人以薄。<pb:KR1d0052_tls_009-35a>¶
+
+# src: LIJI 09.04.10; Couvreur 1.529f; Su1n Xïda4n 6.62; Jia1ng Yi4hua2 339; Yishu 20:33.18b; tr. Legge 1.389;
+# dating: 8110
+9.35「故聖王脩義之柄，¶
+禮之序，¶
+以治人情。¶
+故人情者，¶
+聖王之田也。¶
+脩禮以耕之，¶
+陳義以種之，¶
+講學以耨之，¶
+本仁以聚之，¶
+播樂以安之。¶
+
+# src: LIJI 09.04.11; Couvreur 1.531f; Su1n Xïda4n 6.63; Jia1ng Yi4hua2 341; Yishu 20:33.22b; tr. Legge 1.390;
+# dating: 8110
+故禮也者，¶
+義之實也。¶
+協諸義而協，¶
+則禮雖先王未之有，¶
+可以義起也。¶
+
+# src: LIJI 09.04.12; Couvreur 1.531f; Su1n Xïda4n 6.63; Jia1ng Yi4hua2 341; Yishu 20:33.24b-26b; tr. Legge 1.390;
+# dating: 8110
+義者，¶藝之分，¶
+仁之節也。¶
+協於藝，¶
+講於仁，¶
+得之者強。¶
+仁者，¶
+義之本也，¶
+順之體也，¶
+得之者尊。¶
+
+# src: LIJI 09.04.13; Couvreur 1.532f; Su1n Xïda4n 6.64; Jia1ng Yi4hua2 341; Yishu 20:33.27a-27b; tr. Legge 1.390;
+# dating: 8110
+故治國不以禮，¶
+猶無耜而耕也。¶
+為禮不本於義，¶
+猶耕而弗種也。¶
+為義而不講之以學，¶
+猶種而弗耨也。¶
+講之於學
+而不合之以仁，¶
+猶耨而弗穫也。¶
+
+# src: LIJI 09.04.14; Couvreur 1.532f; Su1n Xïda4n 6.64; Jia1ng Yi4hua2 341; Yishu 20:33.27b; tr. Legge 1.390;
+# dating: 8110
+合之以仁
+而不安之以樂，¶
+猶穫而弗食也。¶
+安之以樂
+而不達於順，¶
+猶食而弗肥也。¶
+
+# src: LIJI 09.04.15; Couvreur 1.533f; Su1n Xïda4n 6.64; Jia1ng Yi4hua2 341; Yishu 20:33.29b; tr. Legge 1.390;
+# dating: 8110
+四體既正，¶
+膚革充盈，¶
+人之肥也。¶
+父子篤，¶
+兄弟睦，¶
+夫婦和，¶
+家之肥也。¶
+
+# src: LIJI 09.04.16; Couvreur 1.533f; Su1n Xïda4n 6.64; Jia1ng Yi4hua2 341; Yishu 20:33.29b; tr. Legge 1.390;
+# dating: 8110
+大臣法，¶
+小臣廉，¶
+官職相序，¶
+君臣相正，¶
+國之肥也。¶
+
+# src: LIJI 09.04.17; Couvreur 1.533f; Su1n Xïda4n 6.64; Jia1ng Yi4hua2 341; Yishu 20:33.29b; tr. Legge 1.390;
+# dating: 8110
+天子以德為車，¶
+以樂為御。¶
+諸侯以禮相與，¶
+大夫以法相序，¶
+士以信相考，¶
+百姓以睦相守，¶
+天下之肥也。¶
+是謂大順。¶
+
+# src: LIJI 09.04.18; Couvreur 1.533f; Su1n Xïda4n 6.64f; Jia1ng Yi4hua2 341; Yishu 20:33.32a; tr. Legge 1.391;
+# dating: 8110
+大順者，¶
+所以養生送死、¶事鬼神之常也。¶
+故事大積焉而不苑，¶
+並行而不繆，¶
+細行而不失。¶
+深而通，¶
+茂而有間。¶
+連而不相及也，¶
+動而不相害也，¶
+此順之至也。¶
+
+# src: LIJI 09.04.19; Couvreur 1.533f; Su1n Xïda4n 6.65f; Jia1ng Yi4hua2 341; Yishu 20:33.34b; tr. Legge 1.391;
+# dating: 8110
+故明於順，¶
+然後能守危也。<pb:KR1d0052_tls_009-36a>¶
+9.36「故禮之不同也，¶
+不豐也，¶
+不殺也，¶
+所以持情而合危也。¶
+
+# src: LIJI 09.04.20; Couvreur 1.534f; Su1n Xïda4n 6.66; Jia1ng Yi4hua2 341; Yishu 20:33.35a; tr. Legge 1.392;
+# dating: 8110
+故聖王所以順，¶
+山者不使居川，¶
+不使渚者居中原，¶
+而弗敝也。¶
+用水、¶火、金、¶木、
+飲食必時。¶
+合男女，¶
+頒爵位，¶
+必當年德。¶
+用民必順。¶
+
+# src: LIJI 09.04.21; Couvreur 1.534f; Su1n Xïda4n 6.66; Jia1ng Yi4hua2 341f; Yishu 20:33.35a-35b; tr. Legge 1.392;
+# dating: 8110
+故無水旱昆蟲之災，¶
+民無凶饑妖孽之疾。¶
+故天不愛其道，¶
+地不愛其寶，¶
+人不愛其情。¶
+故天降膏露，¶
+地出醴泉，¶
+山出器車，¶
+河出馬圖，¶
+
+# src: LIJI 09.04.22; Couvreur 1.534f; Su1n Xïda4n 6.66; Jia1ng Yi4hua2 342; Yishu 20:33.35b; tr. Legge 1.392;
+# dating: 8110
+鳳皇、¶麒麟皆在郊棷，¶
+龜、龍在宮沼；¶
+其餘鳥獸之卵胎，¶
+皆可俯而闚也。¶
+則是無故，¶
+先王能脩禮以達義，¶
+體信以達順故，¶
+此順之實也。」
+

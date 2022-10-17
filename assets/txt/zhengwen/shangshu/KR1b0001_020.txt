@@ -1,0 +1,92 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 尚書
+#+DATE: 2016-08-10 10:16:41
+#+PROPERTY: ID KR1b0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 19
+#+PROPERTY: CAT 1pre-han,經學典籍,書經類
+
+# src: SHU 16.35, tr. Legge p. 220ff
+# dating: 3100
+<pb:KR1b0001_tls_020-1a>¶
+** 20 《盤庚下》
+
+盤庚既遷，¶
+奠厥攸居。¶
+乃正厥位，¶
+綏爰有眾。¶
+
+# src: SHU 16.36, tr. Legge p. 220ff
+# dating: 3100
+曰：¶
+「無戲怠，懋建
+大命。¶
+
+# src: SHU 16.38, tr. Legge p. 220ff
+# dating: 3100
+今予其敷心腹腎腸，¶
+歷告爾百姓于朕志。¶
+罔罪爾眾，¶
+爾無共怒，¶
+協比讒言予一人。¶
+古我先王，將多于前功，¶
+適于山；¶
+用降我凶德，¶
+嘉績于朕邦。¶
+
+# src: SHU 6.39
+# dating: 3100
+今我民用蕩析離居，¶
+罔有定極。¶
+爾謂朕¶
+『曷震動萬民以遷』，¶
+
+# src: SHU 16.40, tr. Legge p. 220ff
+# dating: 3100
+肆上帝將復我高祖之德，¶
+亂越我家。¶
+朕及篤敬，¶
+恭承民命，¶
+用永地于新邑。¶
+
+# src: SHU 16.41, tr. Legge p. 220ff
+# dating: 3100
+肆予沖人，¶
+非廢厥謀，¶
+各(格)
+弔由靈。非敢違卜，¶
+用宏茲賁。¶
+
+# src: SHU 6.42
+# dating: 3100
+嗚呼！¶邦伯、師長、¶
+百執事之人，¶
+尚皆隱哉。
+
+# src: SHU 16.43, tr. Legge p. 220ff
+# dating: 3100
+予其懋簡相爾，¶
+念敬我眾。¶
+
+# src: SHU 16.44, tr. Legge p. 220ff
+# dating: 3100
+朕不肩好貨；¶
+敢恭生生、¶
+鞠人、謀人之保居，¶
+敘欽。¶
+
+# src: SHU 16.45, tr. Legge p. 220ff
+# dating: 3100
+今我既羞告爾于朕志，¶
+若否，罔有弗欽。¶
+
+# src: SHU 16.46, tr. Legge p. 220ff
+# dating: 3100
+無總于貨寶，¶
+生生自庸。¶
+
+# src: SHU 16.47, tr. Legge p. 220ff
+# dating: 3100
+式敷民德，¶
+永肩一心。」
+

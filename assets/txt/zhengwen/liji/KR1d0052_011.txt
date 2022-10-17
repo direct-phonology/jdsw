@@ -1,0 +1,953 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 10
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 11.01.01; Couvreur 1.573f; Su1n Xïda4n 7.23; Jia1ng Yi4hua2 363; Yishu 22:36.2a; tr. Legge 1.416;
+# dating: 8110
+<pb:KR1d0052_tls_011-1a>¶
+** 11 郊特牲
+
+11.1郊特牲，¶
+而社稷大牢。¶
+天子適諸侯，¶
+諸侯膳用犢；¶
+諸侯適天子，¶
+天子賜之禮大牢；¶
+貴誠之義也。¶
+故天子牲孕弗食也，¶
+祭帝弗用也。¶
+
+# src: LIJI 11.01.02; Couvreur 1.573f; Su1n Xïda4n 7.23; Jia1ng Yi4hua2 363; Yishu 22:36.10a; tr. Legge 1.417;
+# dating: 8110
+大路繁纓一就，¶
+先路三就，¶
+次路五就。¶
+郊血，¶
+大饗腥，¶
+三獻爓，¶
+一獻孰；¶
+至敬不饗味
+而貴氣臭也。¶
+
+# src: LIJI 11.01.03; Couvreur 1.573f; Su1n Xïda4n 7.23; Jia1ng Yi4hua2 363; Yishu 22:36.10a; tr. Legge 1.417;
+# dating: 8110
+諸侯為賓，¶
+灌用鬱鬯。¶
+灌用臭也，¶
+大饗
+尚腶脩而已矣。<pb:KR1d0052_tls_011-2a>¶
+
+# src: LIJI 11.01.04; Couvreur 1.575f; Su1n Xïda4n 7.24; Jia1ng Yi4hua2 363; Yishu 22:36.12b; tr. Legge 1.418;
+# dating: 8110
+11.2大饗，¶
+君三重席而酢焉。¶
+三獻之介，¶
+君專席而酢焉。¶
+此降尊以就卑也。<pb:KR1d0052_tls_011-3a>¶
+
+# src: LIJI 11.01.05; Couvreur 1.575f; Su1n Xïda4n 7.24; Jia1ng Yi4hua2 363; Yishu 22:36.14a; tr. Legge 1.418;
+# dating: 8110
+11.3饗禘有樂，¶
+而食嘗無樂，¶
+陰陽之義也。¶
+凡飲，¶
+養陽氣也；¶
+凡食，¶
+養陰氣也。¶
+
+# src: LIJI 11.01.06; Couvreur 1.575f; Su1n Xïda4n 7.24; Jia1ng Yi4hua2 363; Yishu 22:36.14a; tr. Legge 1.418;
+# dating: 8110
+故春禘而秋嘗；¶
+春饗孤子，¶
+秋食耆老，¶
+其義一也。¶
+而食嘗無樂。¶
+
+# src: LIJI 11.01.07; Couvreur 1.575f; Su1n Xïda4n 7.24; Jia1ng Yi4hua2 363; Yishu 22:36.14a; tr. Legge 1.418;
+# dating: 8110
+飲，
+養陽氣也，¶
+故有樂；¶
+食，
+養陰氣也，¶
+故無聲。¶
+凡聲，¶
+陽也。<pb:KR1d0052_tls_011-4a>¶
+
+# src: LIJI 11.01.08; Couvreur 1.575f; Su1n Xïda4n 7.25; Jia1ng Yi4hua2 363f; Yishu 22:36.16b; tr. Legge 1.419;
+# dating: 8110
+11.4鼎、¶俎奇而籩、¶豆偶，¶
+陰陽之義也。¶
+籩、豆之實，¶
+水土之品也。¶
+不敢用褻味而貴多品，¶
+所以交於神明之義也。<pb:KR1d0052_tls_011-5a>¶
+
+# src: LIJI 11.01.09; Couvreur 1.577f; Su1n Xïda4n 7.26; Jia1ng Yi4hua2 364; Yishu 22:36.18b; tr. Legge 1.419;
+# dating: 8110
+11.5賓入大門而奏《肆夏》，¶
+示易以敬也。¶
+卒爵而樂闋，¶
+孔子屢歎之。¶
+奠酬而工升歌，¶
+發德也。¶
+
+# src: LIJI 11.01.10; Couvreur 1.577f; Su1n Xïda4n 7.26; Jia1ng Yi4hua2 364; Yishu 22:36.18b; tr. Legge 1.419;
+# dating: 8110
+歌者在上，¶
+匏、竹在下，¶
+貴人聲也。¶
+樂由陽來者也，¶
+禮由陰作者也，¶
+陰陽和而萬物得。<pb:KR1d0052_tls_011-6a>¶
+
+# src: LIJI 11.01.11; Couvreur 1.578; Su1n Xïda4n 7.28; Jia1ng Yi4hua2 364; Yishu 22:36.21b; tr. Legge 1.420;
+# dating: 8110
+11.6旅幣無方，¶
+所以別土地之宜，¶
+而節遠邇之期也。¶
+龜為前列，¶
+先知也，¶
+以鐘次之，¶
+以和居參之也。¶
+
+# src: LIJI 11.01.12; Couvreur 1.578; Su1n Xïda4n 7.28; Jia1ng Yi4hua2 364; Yishu 22:36.21b; tr. Legge 1.420;
+# dating: 8110
+虎豹之皮，¶
+示服猛也。¶
+束帛加璧，¶
+往德也。<pb:KR1d0052_tls_011-7a>¶
+
+# src: LIJI 11.01.13; Couvreur 1.579f; Su1n Xïda4n 7.28f; Jia1ng Yi4hua2 365; Yishu 22:36.24b-26a; tr. Legge 1.420;
+# dating: 8110
+11.7庭燎之百，¶
+由齊桓公始也。¶
+大夫之奏《肆夏》也，¶
+由趙文子始也。<pb:KR1d0052_tls_011-8a>¶
+11.8朝覲。¶
+大夫之私覿，¶
+非禮也。¶
+
+# src: LIJI 11.01.14; Couvreur 1.579f; Su1n Xïda4n 7.29; Jia1ng Yi4hua2 365; Yishu 22:36.26a-26b; tr. Legge 1.420;
+# dating: 8110
+大夫執圭而使，¶
+所以申信也；¶
+不敢私覿，¶
+所以致敬也；¶
+而庭實私覿
+何為乎諸侯之庭？¶
+為人臣者
+無外交，¶
+不敢貳君也。<pb:KR1d0052_tls_011-9a>¶
+
+# src: LIJI 11.01.15; Couvreur 1.579f; Su1n Xïda4n 7.30; Jia1ng Yi4hua2 365; Yishu 22:36.27b; tr. Legge 1.421;
+# dating: 8110
+11.9大夫而饗君，¶
+非禮也。¶
+大夫強而君殺之，¶
+義也；¶
+由三桓始也。¶
+天子無客禮，¶
+莫敢為主焉。¶
+君適其臣，¶
+升自阼階，¶
+不敢有其室也。¶
+
+# src: LIJI 11.01.16; Couvreur 1.579f; Su1n Xïda4n 7.30; Jia1ng Yi4hua2 365; Yishu 22:36.27b; tr. Legge 1.421;
+# dating: 8110
+覲禮，¶
+天子不下堂而見諸侯。¶
+下堂而見諸侯，¶
+天子之失禮也，¶
+由夷王以下。<pb:KR1d0052_tls_011-10a>¶
+
+# src: LIJI 11.01.17; Couvreur 1.5i1f; Su1n Xïda4n 7.31; Jia1ng Yi4hua2 365f; Yishu 22:36.30b; tr. Legge 1.422;
+# dating: 8110
+11.10諸侯之宮縣，¶
+而祭以白牡，¶
+擊玉磬，¶
+朱干、¶設鍚，¶
+冕而舞《大武》，¶
+乘大路，¶
+諸侯之僭禮也。¶
+
+# src: LIJI 11.01.18; Couvreur 1.5i1f; Su1n Xïda4n 7.31f; Jia1ng Yi4hua2 366; Yishu 22:36.30b; tr. Legge 1.422;
+# dating: 8110
+臺門而旅樹，¶
+反坫，¶
+繡黼、¶
+丹朱、¶中衣，¶
+大夫之僭禮也。¶
+故天子微，¶
+諸侯僭。¶
+大夫強，¶
+諸侯脅。¶
+
+# src: LIJI 11.01.19; Couvreur 1.5i1f; Su1n Xïda4n 7.32; Jia1ng Yi4hua2 366; Yishu 22:36.30b; tr. Legge 1.422;
+# dating: 8110
+於此相貴以等，¶
+相覿以貨，¶
+相賂以利，¶
+而天下之禮亂矣。¶
+
+# src: LIJI 11.01.20; Couvreur 1.5i2f; Su1n Xïda4n 7.33; Jia1ng Yi4hua2 366; Yishu 22:36.30b-36a; tr. Legge 1.422;
+# dating: 8110
+諸侯不敢祖天子，¶
+大夫不敢祖諸侯。¶
+而公廟之設於私家，¶
+非禮也，¶
+由三桓始也。<pb:KR1d0052_tls_011-11a>¶
+11.11天子存二代之後，¶
+猶尊賢也。¶
+尊賢不過二代。¶
+
+# src: LIJI 11.01.21; Couvreur 1.5i3f; Su1n Xïda4n 7.34; Jia1ng Yi4hua2 366; Yishu 22:36.37b-38a; tr. Legge 1.423;
+# dating: 8110
+諸侯不臣寓公。¶
+故古者寓公不繼世。<pb:KR1d0052_tls_011-12a>¶
+11.12君之南鄉，¶
+荅陽之義也。¶
+臣之北面，¶
+荅君也。<pb:KR1d0052_tls_011-13a>¶
+11.13大夫之臣不稽首，¶
+非尊家臣，¶
+以辟君也。¶
+
+# src: LIJI 11.01.22; Couvreur 1.5i3f; Su1n Xïda4n 7.34; Jia1ng Yi4hua2 366; Yishu 22:36.39b; tr. Legge 1.423;
+# dating: 8110
+大夫有獻弗親，¶
+君有賜不面拜，¶
+為君之荅己也。<pb:KR1d0052_tls_011-14a>¶
+
+# src: LIJI 11.01.23; Couvreur 1.5i4f; Su1n Xïda4n 7.34; Jia1ng Yi4hua2 366; Yishu 22:36.40b; tr. Legge 1.423;
+# dating: 8110
+11.14鄉人禓，¶
+孔子朝服立于阼，¶
+存室神也。<pb:KR1d0052_tls_011-15a>¶
+
+# src: LIJI 11.01.24; Couvreur 1.5i4f; Su1n Xïda4n 7.35; Jia1ng Yi4hua2 366; Yishu 22:36.41b; tr. Legge 1.424;
+# dating: 8110
+11.15孔子曰：¶
+「射之以樂也，¶
+何以聽？¶
+何以射？」¶
+孔子曰：¶
+「士，¶
+使之射，¶
+不能，¶
+則辭以疾。¶
+縣弧之義也。」¶
+
+# src: LIJI 11.01.25; Couvreur 1.5i4f; Su1n Xïda4n 7.35; Jia1ng Yi4hua2 366; Yishu 22:36.42a; tr. Legge 1.424;
+# dating: 8110
+孔子曰：¶
+「三日齊，¶
+一日用之，¶
+猶恐不敬；¶
+二日伐鼓，¶
+何居？」<pb:KR1d0052_tls_011-16a>¶
+
+# src: LIJI 11.01.26; Couvreur 1.5i4f; Su1n Xïda4n 7.35; Jia1ng Yi4hua2 366; Yishu 22:36.43a; tr. Legge 1.424;
+# dating: 8110
+11.16孔子曰：¶
+「繹之於庫門內，¶
+祊之於東方，¶
+朝市之於西方，¶
+失之矣。」<pb:KR1d0052_tls_011-17a>¶
+
+# src: LIJI 11.01.27; Couvreur 1.586f; Su1n Xïda4n 7.36; Jia1ng Yi4hua2 368; Yishu 22:36.45b; tr. Legge 1.424;
+# dating: 8110
+11.17社祭土而主陰氣也。¶
+君南鄉於北墉下，¶
+荅陰之義也。¶
+日用甲，¶
+用日之始也。¶
+
+# src: LIJI 11.01.28; Couvreur 1.586f; Su1n Xïda4n 7.37; Jia1ng Yi4hua2 368; Yishu 22:36.46a; tr. Legge 1.424;
+# dating: 8110
+天子大社，¶必受霜露風雨，¶以達天地之氣也。¶
+是故喪國之社屋之，¶
+不受天陽也。¶
+薄社北牖，¶
+使陰明也。¶
+
+
+# src: LIJI 11.01.29; Couvreur 1.586f; Su1n Xïda4n 7.37f; Jia1ng Yi4hua2 368; Yishu 22:36.50a; tr. Legge 1.425;
+# dating: 8110
+社所以神地之道也。¶
+地載萬物，¶
+天垂象。¶
+取財於地，¶
+取法於天，¶
+是以尊天而親地也，¶
+故教民美報焉。¶
+家主中霤而國主社，¶
+示本也。¶
+
+# src: LIJI 11.01.30; Couvreur 1.588f; Su1n Xïda4n 7.38; Jia1ng Yi4hua2 368; Yishu 22:36.50a; tr. Legge 1.425;
+# dating: 8110
+唯為社事，¶
+單出里。¶
+唯為社田，¶
+國人畢作。¶
+唯社，¶
+丘乘共粢盛，¶
+所以報本反始也。<pb:KR1d0052_tls_011-18a>¶
+
+# src: LIJI 11.01.31; Couvreur 1.588f; Su1n Xïda4n 7.38; Jia1ng Yi4hua2 368f; Yishu 22:36.53b-54a; tr. Legge 1.426;
+# dating: 8110
+11.18季春出火，¶
+為焚也。¶
+然後簡其車賦，¶
+而歷其卒伍，¶
+而君親誓社，¶
+以習軍旅。¶
+左之右之，¶
+坐之起之，¶
+以觀其習變也；¶
+
+# src: LIJI 11.01.32; Couvreur 1.588f; Su1n Xïda4n 7.39; Jia1ng Yi4hua2 369; Yishu 22:36.54a; tr. Legge 1.426;
+# dating: 8110
+而流示之禽，¶
+而鹽諸利，¶
+以觀其不犯命也。¶
+求服其志，¶
+不貪其得，¶
+故以戰則克，¶
+以祭則受福。<pb:KR1d0052_tls_011-19a>¶
+
+# src: LIJI 11.02.01; Couvreur 1.589f; Su1n Xïda4n 7.40f; Jia1ng Yi4hua2 370; Yishu 23:37.1a-1b; tr. Legge 1.426;
+# dating: 8110
+11.19天子適四方，¶
+先柴。<pb:KR1d0052_tls_011-20a>¶
+11.20郊之祭也，¶
+迎長日之至也，¶
+大報天而主日也。¶
+兆於南郊，¶
+就陽位也。¶
+掃地而祭，¶
+於其質也。¶
+
+# src: LIJI 11.02.02; Couvreur 1.589f; Su1n Xïda4n 7.41; Jia1ng Yi4hua2 370; Yishu 23:37.1b-5b; tr. Legge 1.427;
+# dating: 8110
+器用陶、¶匏，
+以象天地之性也。¶
+於郊，¶
+故謂之郊。¶
+牲用騂，¶
+尚赤也。¶
+用犢，¶
+貴誠也。¶
+郊之用辛也，¶
+周之始郊，¶日以至。¶
+
+# src: LIJI 11.02.03; Couvreur 1.591f; Su1n Xïda4n 7.42f; Jia1ng Yi4hua2 370; Yishu 23:37.7b; tr. Legge 1.428;
+# dating: 8110
+卜郊，¶
+受命于祖廟，¶
+作龜于禰宮，¶
+尊祖親考之義也。¶
+卜之日，¶
+王立于澤，¶
+親聽誓命，¶
+受教諫之義也。¶
+獻命庫門之內，¶
+戒百官也。¶
+
+# src: LIJI 11.02.04; Couvreur 1.591f; Su1n Xïda4n 7.43; Jia1ng Yi4hua2 370; Yishu 23:37.8a-11a; tr. Legge 1.429;
+# dating: 8110
+大廟之命，¶
+戒百姓也。¶
+祭之日，¶
+王皮弁以聽祭報，¶
+示民嚴上也。¶
+喪者不哭，¶
+不敢凶服，¶
+氾埽反道，¶
+鄉為田燭。¶
+弗命而民聽上。¶
+
+# src: LIJI 11.02.05; Couvreur 1.592f; Su1n Xïda4n 7.44; Jia1ng Yi4hua2 370; Yishu 23:37.12a; tr. Legge 1.429;
+# dating: 8110
+祭之日，¶
+王被袞以象天，¶
+戴冕，¶
+璪十有二旒，¶
+則天數也。¶
+乘素車，¶
+貴其質也。¶
+
+# src: LIJI 11.02.06; Couvreur 1.592f; Su1n Xïda4n 7.44; Jia1ng Yi4hua2 370; Yishu 23:37.12a; tr. Legge 1.429;
+# dating: 8110
+旂十有二旒，¶
+龍章而設日月，¶
+以象天也。¶
+天垂象，¶
+聖人則之。¶
+郊所以明天道也。¶
+
+# src: LIJI 11.02.07; Couvreur 1.592f; Su1n Xïda4n 7.45; Jia1ng Yi4hua2 370; Yishu 23:37.17a-18a; tr. Legge 1.430;
+# dating: 8110
+帝牛不吉，¶
+以為稷牛。¶
+帝牛必在滌三月，¶
+稷牛唯具。¶
+所以別事天神與人鬼也。¶
+萬物本乎天，¶
+人本乎祖，¶
+此所以配上帝也。¶
+郊之祭也，¶
+大報本反始也。<pb:KR1d0052_tls_011-21a>¶
+
+# src: LIJI 11.02.08; Couvreur 1.594f; Su1n Xïda4n 7.46; Jia1ng Yi4hua2 372; Yishu 23:37.19b; tr. Legge 1.431;
+# dating: 8110
+11.21天子大蜡八。¶
+伊耆氏始為蜡，¶
+蜡也者，¶
+索也。¶
+歲十二月，¶
+合聚萬物而索饗之也。¶
+
+# src: LIJI 11.02.09; Couvreur 1.594f; Su1n Xïda4n 7.46; Jia1ng Yi4hua2 372; Yishu 23:37.22b; tr. Legge 1.431;
+# dating: 8110
+蜡之祭也：¶
+主先嗇
+而祭司嗇也。¶
+祭百種
+以報嗇也。¶
+饗農及郵表畷、¶
+禽獸，¶
+仁之至，¶
+義之盡也。¶
+
+# src: LIJI 11.02.10; Couvreur 1.594f; Su1n Xïda4n 7.46f; Jia1ng Yi4hua2 372; Yishu 23:37.23a; tr. Legge 1.431;
+# dating: 8110
+古之君子，¶
+使之必報之。¶
+迎貓，¶
+為其食田鼠也；¶
+迎虎，¶
+為其食田豕也，¶
+迎而祭之也。¶
+祭坊與水庸，¶
+事也。¶
+
+# src: LIJI 11.02.11; Couvreur 1.596f; Su1n Xïda4n 7.47; Jia1ng Yi4hua2 372; Yishu 23:37.24a-24b; tr. Legge 1.432;
+# dating: 8110
+曰：¶
+「土反其宅，¶
+水歸其壑，¶
+昆蟲毋作，¶
+草木歸其澤。」¶
+皮弁、¶素服而祭。¶
+素服，¶
+以送終也。¶
+葛帶、¶榛杖，¶
+喪殺也。¶
+
+# src: LIJI 11.02.12; Couvreur 1.596f; Su1n Xïda4n 7.47f; Jia1ng Yi4hua2 372; Yishu 23:37.24b; tr. Legge 1.432;
+# dating: 8110
+蜡之祭，¶
+仁之至，¶
+義之盡也。¶
+黃衣、¶黃冠而祭，¶
+息田夫也。¶
+野夫黃冠；¶
+黃冠，¶
+草服也。<pb:KR1d0052_tls_011-22a>¶
+
+# src: LIJI 11.02.13; Couvreur 1.597f; Su1n Xïda4n 7.48; Jia1ng Yi4hua2 372; Yishu 23:37.28a; tr. Legge 1.433;
+# dating: 8110
+11.22大羅氏，¶
+天子之掌鳥獸者也，¶
+諸侯貢屬焉。¶
+草笠而至，¶
+尊野服也。¶
+
+# src: LIJI 11.02.14; Couvreur 1.597f; Su1n Xïda4n 7.48; Jia1ng Yi4hua2 372; Yishu 23:37.28a; tr. Legge 1.433;
+# dating: 8110
+羅氏致鹿與女，¶
+而詔客告也。¶
+以戒諸侯曰：¶
+「好田、¶
+好女者亡其國。¶
+天子樹瓜華，¶
+不斂藏之種也。」¶
+
+# src: LIJI 11.02.15; Couvreur 1.597f; Su1n Xïda4n 7.49; Jia1ng Yi4hua2 372; Yishu 23:37.30a; tr. Legge 1.434;
+# dating: 8110
+八蜡以記四方。¶
+四方年不順成，¶
+八蜡不通，¶
+以謹民財也。¶
+順成之方，¶
+其蜡乃通，¶
+以移民也。¶
+
+# src: LIJI 11.02.16; Couvreur 1.597f; Su1n Xïda4n 7.49; Jia1ng Yi4hua2 372; Yishu 23:37.30a; tr. Legge 1.434;
+# dating: 8110
+既蜡而收，¶
+民息已。¶
+故既蜡，¶
+君子不興功。<pb:KR1d0052_tls_011-23a>¶
+
+# src: LIJI 11.02.17; Couvreur 1.598f; Su1n Xïda4n 7.50; Jia1ng Yi4hua2 373; Yishu 23:37.33b; tr. Legge 1.434;
+# dating: 8110
+11.23恆豆之菹，¶
+水草之和氣也；¶
+其醢，¶
+陸產之物也。¶
+加豆，¶
+陸產也；¶
+其醢，¶
+水物也。¶
+
+# src: LIJI 11.02.18; Couvreur 1.598f; Su1n Xïda4n 7.50; Jia1ng Yi4hua2 373; Yishu 23:37.36a; tr. Legge 1.434;
+# dating: 8110
+籩、豆之薦，¶
+水土之品也，¶
+不敢用常褻味
+而貴多品，¶
+所以交於神明之義也，¶
+非食味之道也。¶
+
+# src: LIJI 11.02.19; Couvreur 1.598f; Su1n Xïda4n 7.51; Jia1ng Yi4hua2 374; Yishu 23:37.36a; tr. Legge 1.434;
+# dating: 8110
+先王之薦，¶
+可食也
+而不可耆也。¶
+卷冕、¶路車，¶
+可陳也
+而不可好也。¶
+《武》，¶壯
+而不可樂也。¶
+
+# src: LIJI 11.02.20; Couvreur 1.598f; Su1n Xïda4n 7.51; Jia1ng Yi4hua2 374; Yishu 23:37.36a; tr. Legge 1.434;
+# dating: 8110
+宗廟之威，¶
+而不可安也。¶
+宗廟之器，¶
+可用也
+而不可便其利也，¶
+所以交於神明者，¶
+不可以同於所安樂之義也。¶
+
+# src: LIJI 11.02.21; Couvreur 1.600f; Su1n Xïda4n 7.51; Jia1ng Yi4hua2 374; Yishu 23:37.37a; tr. Legge 1.435;
+# dating: 8110
+酒醴之美，¶
+玄酒、¶明水之尚，¶
+貴五味之本也。¶
+黼黻、¶文繡之美，¶
+疏布之尚，¶
+反女功之始也。¶
+莞簟之安，¶
+而蒲越、¶槀鞂之尚，¶
+明之也。¶
+
+# src: LIJI 11.02.22; Couvreur 1.600f; Su1n Xïda4n 7.51; Jia1ng Yi4hua2 374; Yishu 23:37.37a; tr. Legge 1.435;
+# dating: 8110
+大羹不和，¶
+貴其質也。¶
+大圭不琢，¶
+美其質也。¶
+丹漆雕幾之美，¶
+素車之乘，¶
+尊其樸也，¶
+貴其質而已矣。¶
+
+# src: LIJI 11.02.23; Couvreur 1.600f; Su1n Xïda4n 7.51; Jia1ng Yi4hua2 374; Yishu 23:37.37a-37b; tr. Legge 1.435;
+# dating: 8110
+所以交於神明者，¶
+不可同於所安褻之甚也。¶
+如是而后宜。¶
+
+# src: LIJI 11.02.24; Couvreur 1.601f; Su1n Xïda4n 7.52; Jia1ng Yi4hua2 374; Yishu 23:37.39b; tr. Legge 1.436;
+# dating: 8110
+鼎、俎奇而籩、¶豆偶，¶
+陰陽之義也。¶
+黃目，¶
+鬱氣之上尊也。¶
+黃者，¶中也；¶
+目者，¶氣之清明者也。¶
+言酌於中而清明於外也，¶
+
+# src: LIJI 11.02.25; Couvreur 1.601f; Su1n Xïda4n 7.52; Jia1ng Yi4hua2 374; Yishu 23:37.41b; tr. Legge 1.437;
+# dating: 8110
+祭天，¶
+掃地而祭焉，¶
+於其質而已矣。¶
+醯醢之美，¶
+而煎鹽之尚，¶
+貴天產也。¶
+割刀之用，¶
+而鸞刀之貴，¶
+貴其義也。¶
+聲和而后斷也。<pb:KR1d0052_tls_011-24a>¶
+
+# src: LIJI 11.03.01; Couvreur 1.602f; Su1n Xïda4n 7.53; Jia1ng Yi4hua2 375; Yishu 23:38.1a; tr. Legge 1.437;
+# dating: 8110
+11.24冠義：¶
+始冠之，¶
+緇布之冠也。¶
+大古冠布，¶
+齊則緇之。¶
+其緌也，¶
+孔子曰：¶
+「吾未之聞也。¶
+冠而敝之可也。」¶
+
+# src: LIJI 11.03.02; Couvreur 1.602f; Su1n Xïda4n 7.54; Jia1ng Yi4hua2 375; Yishu 23:38.2a; tr. Legge 1.437;
+# dating: 8110
+適子冠於阼，¶
+以著代也。¶
+醮於客位，¶
+加有成也。¶
+三加彌尊，¶
+喻其志也。¶
+冠而字之，¶
+敬其名也。¶
+
+# src: LIJI 11.03.03; Couvreur 1.602f; Su1n Xïda4n 7.54f; Jia1ng Yi4hua2 375; Yishu 23:38.3b; tr. Legge 1.438;
+# dating: 8110
+委貌，¶
+周道也。¶
+章甫，¶
+殷道也。¶
+毋追，¶
+夏后氏之道也。¶
+周弁，¶
+殷冔，¶
+夏收。¶
+三王共皮弁、¶素積。¶
+
+# src: LIJI 11.03.04; Couvreur 1.604f; Su1n Xïda4n 7.55; Jia1ng Yi4hua2 375f; Yishu 23:38.5a; tr. Legge 1.438;
+# dating: 8110
+無大夫冠禮，¶
+而有其昏禮。¶
+古者，¶
+五十而后爵，¶
+何大夫冠禮之有？¶
+諸侯之有冠禮，¶
+夏之末造也。¶
+
+# src: LIJI 11.03.05; Couvreur 1.604f; Su1n Xïda4n 7.56; Jia1ng Yi4hua2 376; Yishu 23:38.8a; tr. Legge 1.438;
+# dating: 8110
+天子之元子，¶
+士也。¶
+天下無生而貴者也。¶
+繼世以立諸侯，¶
+象賢也。¶
+
+# src: LIJI 11.03.06; Couvreur 1.604f; Su1n Xïda4n 7.56; Jia1ng Yi4hua2 376; Yishu 23:38.8a; tr. Legge 1.438;
+# dating: 8110
+以官爵人，¶
+德之殺也。¶
+死而謚，¶
+今也；¶
+古者生無爵，¶
+死無謚。¶
+
+# src: LIJI 11.03.07; Couvreur 1.605f; Su1n Xïda4n 7.57; Jia1ng Yi4hua2 376; Yishu 23:38.9b; tr. Legge 1.439;
+# dating: 8110
+禮之所尊，¶
+尊其義也。¶
+失其義，¶
+陳其數，¶
+祝、史之事也。¶
+故其數可陳也，¶
+其義難知也。¶
+知其義而敬守之，¶
+天子之所以治天下也。<pb:KR1d0052_tls_011-25a>¶
+
+# src: LIJI 11.03.08; Couvreur 1.606f; Su1n Xïda4n 7.57; Jia1ng Yi4hua2 377; Yishu 23:38.11a; tr. Legge 1.439;
+# dating: 8110
+11.25天地合而后萬物興焉。¶
+夫昏禮，¶
+萬世之始也。¶
+取於異姓，¶
+所以附遠厚別也。¶
+
+# src: LIJI 11.03.09; Couvreur 1.606f; Su1n Xïda4n 7.58; Jia1ng Yi4hua2 377; Yishu 23:38.11a-11b; tr. Legge 1.439;
+# dating: 8110
+幣必誠，¶
+辭無不腆。¶
+告之以直信；¶
+信，
+事人也；¶
+信，
+婦德也。¶
+壹與之齊，¶
+終身不改。¶
+故夫死不嫁。¶
+
+# src: LIJI 11.03.10; Couvreur 1.606f; Su1n Xïda4n 7.58; Jia1ng Yi4hua2 377; Yishu 23:38.13b; tr. Legge 1.440;
+# dating: 8110
+男子親迎，¶
+男先於女，¶
+剛柔之義也。¶
+天先乎地，¶
+君先乎臣，¶
+其義一也。¶
+
+# src: LIJI 11.03.11; Couvreur 1.606f; Su1n Xïda4n 7.58; Jia1ng Yi4hua2 377; Yishu 23:38.14a; tr. Legge 1.440;
+# dating: 8110
+執摯以相見，¶
+敬章別也。¶
+男女有別，¶
+然後父子親。¶
+父子親，¶
+然後義生。¶
+義生，¶
+然後禮作。¶
+
+# src: LIJI 11.03.12; Couvreur 1.606f; Su1n Xïda4n 7.58; Jia1ng Yi4hua2 377; Yishu 23:38.14a; tr. Legge 1.440;
+# dating: 8110
+禮作，¶
+然後萬物安。¶
+無別無義，¶
+禽獸之道也。¶
+
+# src: LIJI 11.03.13; Couvreur 1.608f; Su1n Xïda4n 7.59; Jia1ng Yi4hua2 377; Yishu 23:38.15b; tr. Legge 1.440;
+# dating: 8110
+壻親御授綏，¶
+親之也。¶
+親之也者，¶
+親之也。¶
+敬而親之，¶
+先王之所以得天下也。¶
+出乎大門而先，¶
+男帥女，¶
+女從男，¶
+夫婦之義由此始也。¶
+
+# src: LIJI 11.03.14; Couvreur 1.608f; Su1n Xïda4n 7.59; Jia1ng Yi4hua2 377; Yishu 23:38.15b; tr. Legge 1.440;
+# dating: 8110
+婦人，¶
+從人者也。¶
+幼從父兄，¶
+嫁從夫，¶
+夫死從子。¶
+夫也者，¶
+夫也；¶
+夫也者，¶
+以知帥人者也。¶
+
+# src: LIJI 11.03.15; Couvreur 1.608f; Su1n Xïda4n 7.59f; Jia1ng Yi4hua2 377; Yishu 23:38.17a; tr. Legge 1.441;
+# dating: 8110
+玄冕齋戒，¶
+鬼神陰陽也。¶
+將以為社稷主，¶
+為先祖後，¶
+而可以不致敬乎？¶
+共牢而食，¶
+同尊卑也。¶
+故婦人無爵，¶
+從夫之爵，¶
+坐以夫之齒。¶
+
+# src: LIJI 11.03.16; Couvreur 1.608f; Su1n Xïda4n 7.60; Jia1ng Yi4hua2 377; Yishu 23:38.18a-18b; tr. Legge 1.442;
+# dating: 8110
+器用陶、¶匏，
+尚禮然也。¶
+三王作牢用陶、¶匏。
+厥明，¶
+婦盥饋；¶
+舅姑卒食，¶
+婦餕餘；¶
+私之也。¶
+
+# src: LIJI 11.03.17; Couvreur 1.608f; Su1n Xïda4n 7.60; Jia1ng Yi4hua2 377; Yishu 23:38.18b; tr. Legge 1.442;
+# dating: 8110
+舅姑降自西階，¶
+婦降自阼階；¶
+授之室也。¶
+
+# src: LIJI 11.03.18; Couvreur 1.611; Su1n Xïda4n 7.61; Jia1ng Yi4hua2 377f; Yishu 23:38.19b; tr. Legge 1.442;
+# dating: 8110
+昏禮不用樂，¶
+幽陰之義也。¶
+樂，
+陽氣也。¶
+昏禮不賀，¶
+人之序也。<pb:KR1d0052_tls_011-26a>¶
+
+# src: LIJI 11.03.19; Couvreur 1.611f; Su1n Xïda4n 7.61; Jia1ng Yi4hua2 379; Yishu 23:38.21b; tr. Legge 1.443;
+# dating: 8110
+11.26有虞氏之祭也，¶
+尚用氣。¶
+血、腥、¶爓祭，¶
+用氣也。<pb:KR1d0052_tls_011-27a>¶
+
+# src: LIJI 11.03.20; Couvreur 1.611f; Su1n Xïda4n 7.61; Jia1ng Yi4hua2 379; Yishu 23:38.22b; tr. Legge 1.443;
+# dating: 8110
+11.27殷人尚聲。¶
+臭味未成，¶
+滌蕩其聲。¶
+樂三闋，¶
+然後出迎牲。¶
+聲音之號，¶
+所以詔告於天地之間也。¶
+
+# src: LIJI 11.03.21; Couvreur 1.611f; Su1n Xïda4n 7.62; Jia1ng Yi4hua2 379; Yishu 23:38.24a; tr. Legge 1.443;
+# dating: 8110
+周人尚臭，¶
+灌用鬯臭。¶
+鬱合鬯。¶
+臭，
+陰達於淵泉。¶
+灌以圭璋，¶
+用玉氣也。¶
+既灌，¶
+然後迎牲，¶
+致陰氣也。¶
+
+# src: LIJI 11.03.22; Couvreur 1.611f; Su1n Xïda4n 7.62f; Jia1ng Yi4hua2 379; Yishu 23:38.24a-27b; tr. Legge 1.443;
+# dating: 8110
+蕭合黍、¶稷；
+臭，¶
+陽達於牆屋。¶
+故既奠，¶
+然後爇蕭合羶、¶薌。
+凡祭
+慎諸此。¶
+
+# src: LIJI 11.03.23; Couvreur 1.613f; Su1n Xïda4n 7.64; Jia1ng Yi4hua2 379; Yishu 23:38.27b-29a; tr. Legge 1.444;
+# dating: 8110
+魂氣歸于天，¶
+形魄歸于地。¶
+故祭，¶
+求諸陰陽之義也。¶
+殷人先求諸陽，¶
+周人先求諸陰。¶
+詔祝於室，¶
+坐尸於堂，¶
+用牲於庭，¶
+升首於室。¶
+
+# src: LIJI 11.03.24; Couvreur 1.613f; Su1n Xïda4n 7.64f; Jia1ng Yi4hua2 379; Yishu 23:38.29a; tr. Legge 1.444;
+# dating: 8110
+直祭，¶
+祝于主；¶
+索祭，¶
+祝于祊。¶
+不知神之所在，¶
+於彼乎？¶於此乎？¶
+或諸遠人乎？¶
+祭于祊，¶
+尚曰求諸遠者與？¶
+
+# src: LIJI 11.03.25; Couvreur 1.613f; Su1n Xïda4n 7.65; Jia1ng Yi4hua2 379; Yishu 23:38.32b; tr. Legge 1.444;
+# dating: 8110
+祊之為言倞也，¶
+肵之為言敬也。¶
+富也者，¶福也。¶
+首也者，¶
+直也。¶
+
+# src: LIJI 11.03.26; Couvreur 1.613f; Su1n Xïda4n 7.65; Jia1ng Yi4hua2 379; Yishu 23:38.32b; tr. Legge 1.444;
+# dating: 8110
+相，
+饗之也。¶
+嘏，
+長也，¶
+大也。¶
+尸，
+陳也。¶
+
+# src: LIJI 11.03.27; Couvreur 1.615f; Su1n Xïda4n 7.66; Jia1ng Yi4hua2 379; Yishu 23:38.34b; tr. Legge 1.444;
+# dating: 8110
+毛、血，¶
+告幽全之物也。¶
+告幽全之物者，¶
+貴純之道也。¶
+血祭，¶
+盛氣也。¶
+祭肺、¶肝、心，¶
+貴氣主也。¶
+
+# src: LIJI 11.03.28; Couvreur 1.615f; Su1n Xïda4n 7.66; Jia1ng Yi4hua2 379f; Yishu 23:38.36a; tr. Legge 1.445;
+# dating: 8110
+祭黍稷加肺，¶
+祭齊加明水，¶
+報陰也。¶
+取膟膋燔燎，¶
+升首，¶
+報陽也。¶
+
+# src: LIJI 11.03.29; Couvreur 1.615f; Su1n Xïda4n 7.67; Jia1ng Yi4hua2 380; Yishu 23:38.37b; tr. Legge 1.445;
+# dating: 8110
+明水涗齊，¶
+貴新也。¶
+凡涗，¶
+新之也。¶
+其謂之明水也，¶
+由主人之絜著此水也。¶
+
+# src: LIJI 11.03.30; Couvreur 1.616f; Su1n Xïda4n 7.68; Jia1ng Yi4hua2 380; Yishu 23:38.38b; tr. Legge 1.445;
+# dating: 8110
+君再拜稽首，¶
+肉袒親割，¶
+敬之至也。¶
+敬之至也，¶
+服也。¶
+
+# src: LIJI 11.03.31; Couvreur 1.616f; Su1n Xïda4n 7.68; Jia1ng Yi4hua2 380; Yishu 23:38.38b; tr. Legge 1.445;
+# dating: 8110
+拜，
+服也；¶
+稽首，¶
+服之甚也，¶
+肉袒，¶
+服之盡也。¶
+
+# src: LIJI 11.03.32; Couvreur 1.616f; Su1n Xïda4n 7.68; Jia1ng Yi4hua2 380; Yishu 23:38.39a; tr. Legge 1.446;
+# dating: 8110
+祭稱¶「孝孫」、¶「孝子」，¶
+以其義稱也；¶
+稱曾孫某，¶
+謂國家也。¶
+祭祀之相，¶
+主人自致其敬，¶
+盡其嘉，¶
+而無與讓也。¶
+
+# src: LIJI 11.03.33; Couvreur 1.616f; Su1n Xïda4n 7.68; Jia1ng Yi4hua2 380; Yishu 23:38.41a; tr. Legge 1.446;
+# dating: 8110
+腥肆、¶爓、腍祭，¶
+豈知神之所饗也？¶
+主人自盡其敬而已矣。¶
+
+# src: LIJI 11.03.34; Couvreur 1.616f; Su1n Xïda4n 7.69; Jia1ng Yi4hua2 380; Yishu 23:38.41b; tr. Legge 1.446;
+# dating: 8110
+舉斝、¶角，
+詔妥尸。¶
+古者，¶
+尸無事則立，¶
+有事而后坐也。¶
+尸，
+神象也。¶
+祝，
+將命也。¶
+
+# src: LIJI 11.03.35; Couvreur 1.618f; Su1n Xïda4n 7.70f; Jia1ng Yi4hua2 380; Yishu 23:38.44a; tr. Legge 1.446;
+# dating: 8110
+縮酌用茅，¶
+明酌也。¶
+醆酒涗于清，¶
+汁獻涗于醆酒；¶
+猶明、¶清與醆酒于舊澤之酒也。¶
+
+# src: LIJI 11.03.36; Couvreur 1.618f; Su1n Xïda4n 7.71f; Jia1ng Yi4hua2 380; Yishu 23:38.48a-49a; tr. Legge 1.448;
+# dating: 8110
+祭有祈焉，¶
+有報焉，¶
+有由辟焉。¶
+齊之玄也，¶
+以陰幽思也。¶
+故君子三日齊，¶
+必見其所祭者。
+

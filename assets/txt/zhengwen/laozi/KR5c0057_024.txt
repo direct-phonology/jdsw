@@ -1,0 +1,24 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 23
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 24.1; tr. D.C. Lau 19i2: 37; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_024-1a>¶
+** 24 第二十四章
+
+企者不立，¶
+跨者不行。¶
+自見者不明，¶
+自是者不彰，¶
+自伐者無功，¶
+自矜者不長。¶
+其在道也，曰¶
+「餘食、贅行」。¶
+物或惡之，¶
+故有道者弗處。
+

@@ -1,0 +1,28 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 33
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 34.1; tr. D.C. Lau 19i2: 51; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_034-1a>¶
+** 34 第三十四章
+
+大道汎兮
+其可左右。¶
+萬物恃之而生，¶
+而不辭；¶
+功成不名有。¶
+衣養萬物
+而弗為主，¶
+恒無欲也，可名於小；¶
+萬物歸焉
+而弗為主，¶
+可名為大。¶
+是以聖人之能成大也，¶
+以其終不自為大也，¶
+故能成其大。
+

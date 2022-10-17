@@ -1,0 +1,29 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 77
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 78.1; tr. D.C. Lau 19i2: 113; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_078-1a>¶
+** 78 第七十八章
+
+天下莫柔弱於水，¶
+而攻堅強者
+莫之能勝，¶
+以其無以易之也。¶
+弱之勝強，¶
+柔之勝剛，¶
+天下莫弗知，¶
+而莫能行也。¶
+是以聖人云：¶
+受邦之垢，¶
+是謂社稷之主；¶
+受邦之不祥，¶
+是謂天下之王。¶
+正言
+若反。
+

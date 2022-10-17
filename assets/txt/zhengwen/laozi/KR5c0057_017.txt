@@ -1,0 +1,23 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 16
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 17.1; tr. D.C. Lau 19i2: 25; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_017-1a>¶
+** 17 第十七章
+
+太上下知有之；¶
+其次親而譽之；¶
+其次畏之，¶
+其次侮之；¶
+信不足，焉
+有不信（焉）？¶
+悠兮其貴言。¶
+功成事遂，¶
+而百姓皆謂我自然。
+

@@ -1,0 +1,523 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 42
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 42.01.01; Couvreur 2.614; Jia1ng Yi4hua2 869; Yi4 Shu1 45:73.1b; tr. Legge 2.411;
+# dating: 8110
+<pb:KR1d0052_tls_043-1a>¶
+** 43 大學
+
+43.1大學之道
+在明明德，¶
+在親民，¶
+在止於至善。¶
+知止而后有定，¶
+定而后能靜，¶
+靜而后能安，¶
+安而后能慮，¶
+慮而后能得。¶
+
+# src: LIJI 42.01.02; Couvreur 2.614f; Jia1ng Yi4hua2 869; Yi4 Shu1 45:73.1b; tr. Legge 2.411;
+# dating: 8110
+物有本末，¶
+事有終始，¶
+知所先後，¶
+則近道矣。¶
+
+# src: LIJI 42.01.03; Couvreur 2.615f; Jia1ng Yi4hua2 870; Yi4 Shu1 45:73.3b; tr. Legge 2.411;
+# dating: 8110
+古之欲明明德於天下者
+先治其國；¶
+欲治其國者
+先齊其家；¶
+欲齊其家者
+先脩其身；¶
+欲脩其身者
+先正其心；¶
+欲正其心者
+先誠其意；¶
+
+# src: LIJI 42.01.04; Couvreur 2.615f; Jia1ng Yi4hua2 870; Yi4 Shu1 45:73.4a-5a; tr. Legge 2.411;
+# dating: 8110
+欲誠其意者
+先致其知；¶
+致知在格物。¶
+
+# src: LIJI 42.01.05; Couvreur 2.616; Jia1ng Yi4hua2 870; Yi4 Shu1 45:73.6a; tr. Legge 2.412;
+# dating: 8110
+物格而后知至，¶
+知至而后意誠，¶
+意誠而后心正，¶
+心正而后身脩，¶
+身脩而后家齊，¶
+家齊而后國治，¶
+國治而后天下平。¶
+
+# src: LIJI 42.01.06; Couvreur 2.616f; Jia1ng Yi4hua2 870; Yi4 Shu1 45:73.6a; tr. Legge 2.412;
+# dating: 8110
+自天子以至於庶人，¶
+壹是皆以脩身為本。¶
+其本亂而末治者否矣，¶
+其所厚者薄
+而其所薄者厚，¶
+未之有也！¶
+此謂知本，¶
+此謂知之至也。¶
+
+# src: LIJI 42.01.07; Couvreur 2.617; Jia1ng Yi4hua2 871; Yi4 Shu1 45:73.9b; tr. Legge 2.413;
+# dating: 8110
+所謂誠其意者：¶
+毋自欺也，¶
+如惡惡臭，¶
+如好好色，¶
+此之謂自謙，¶
+故君子必慎其獨也！¶
+
+# src: LIJI 42.01.08; Couvreur 2.617f; Jia1ng Yi4hua2 871; Yi4 Shu1 45:73.9b; tr. Legge 2.413;
+# dating: 8110
+小人閒居為不善，¶
+無所不至，¶
+見君子而后厭然
+揜其不善
+而著其善。¶
+人之視己，¶
+如見其肺肝然，¶
+則何益矣。¶
+
+# src: LIJI 42.01.09; Couvreur 2.617f; Jia1ng Yi4hua2 871; Yi4 Shu1 45:73.9b; tr. Legge 2.413;
+# dating: 8110
+此謂誠於中，¶
+形於外，¶
+故君子必慎其獨也。¶
+
+# src: LIJI 42.01.10; Couvreur 2.618; Jia1ng Yi4hua2 871; Yi4 Shu1 45:73.11b; tr. Legge 2.413;
+# dating: 8110
+曾子曰：¶
+「十目所視，¶
+十手所指，¶
+其嚴乎！」¶
+富潤屋，¶
+德潤身，¶
+心廣體胖，¶
+故君子必誠其意。¶
+
+# src: LIJI 42.01.11; Couvreur 2.618f; Jia1ng Yi4hua2 871f; Yi4 Shu1 45:73.13b; tr. Legge 2.413;
+# dating: 8110
+《詩》云：¶
+「瞻彼淇澳，¶
+菉竹猗猗。¶
+有斐君子，¶
+如切如磋，¶
+如琢如磨。¶
+瑟兮僩兮，¶
+赫兮喧兮。¶
+有斐君子，¶
+終不可諠兮！」¶
+
+# src: LIJI 42.01.12; Couvreur 2.618f; Jia1ng Yi4hua2 872; Yi4 Shu1 45:73.13b; tr. Legge 2.413;
+# dating: 8110
+如切如磋者，¶
+道學也；¶
+如琢如磨者，¶
+自脩也；
+瑟兮僩兮者，¶
+恂慄也；¶
+赫兮喧兮者，¶
+威儀也；¶
+
+# src: LIJI 42.01.13; Couvreur 2.618f; Jia1ng Yi4hua2 872; Yi4 Shu1 45:73.13b; tr. Legge 2.413;
+# dating: 8110
+有斐君子
+終不可諠兮者，¶
+道盛德至善，¶
+民之不能忘也。¶
+
+# src: LIJI 42.01.14; Couvreur 2.619f; Jia1ng Yi4hua2 872; Yi4 Shu1 45:73.16a; tr. Legge 2.414;
+# dating: 8110
+《詩》云：¶
+「於戲！¶
+前王不忘！」¶
+君子賢其賢而親其親，¶
+小人樂其樂而利其利，¶
+此以沒世不忘也。¶
+
+# src: LIJI 42.01.15; Couvreur 2.620; Jia1ng Yi4hua2 872f; Yi4 Shu1 45:73.17b; tr. Legge 2.414;
+# dating: 8110
+《康誥》曰：¶
+「克明德。」¶
+《大甲》曰：¶
+「顧諟天之明命。」¶
+《帝典》曰：¶
+「克明峻德。」¶
+皆自明也。¶
+
+# src: LIJI 42.01.16; Couvreur 2.620f; Jia1ng Yi4hua2 873; Yi4 Shu1 45:73.19a; tr. Legge 2.415;
+# dating: 8110
+湯之盤銘曰：¶
+「苟日新，¶
+日日新，¶
+又日新。」¶
+《康誥》曰：¶
+「作新民。」¶
+《詩》曰：¶
+「周雖舊邦，¶
+其命惟新。」¶
+是故君子無所不用其極。¶
+
+# src: LIJI 42.01.17; Couvreur 2.621; Jia1ng Yi4hua2 873; Yi4 Shu1 45:73.20b; tr. Legge 2.415;
+# dating: 8110
+《詩》云：¶
+「邦畿千里，¶
+惟民所止。」¶
+《詩》云：¶
+「緡蠻黃鳥，¶
+止于丘隅。」¶
+子曰：¶
+「於止，¶
+知其所止，¶
+可以人而不如鳥乎！」¶
+
+# src: LIJI 42.01.18; Couvreur 2.621f; Jia1ng Yi4hua2 873; Yi4 Shu1 45:73.22a; tr. Legge 2.416;
+# dating: 8110
+《詩》云：¶
+「穆穆文王，¶
+於緝熙敬止！」¶
+
+# src: LIJI 42.01.19; Couvreur 2.621f; Jia1ng Yi4hua2 873; Yi4 Shu1 45:73.22a; tr. Legge 2.416;
+# dating: 8110
+為人君
+止於仁；¶
+為人臣
+止於敬；¶
+為人子
+止於孝；¶
+為人父
+止於慈；¶
+與國人交
+止於信。<pb:KR1d0052_tls_043-2a>¶
+
+# src: LIJI 42.01.20; Couvreur 2.622; Jia1ng Yi4hua2 874; Yi4 Shu1 45:73.23a-24a; tr. Legge 2.416;
+# dating: 8110
+43.2子曰：¶
+「聽訟
+吾猶人也，¶
+必也使無訟乎！」¶
+無情者不得盡其辭。¶
+大畏民志，¶
+此謂知本。¶
+
+# src: LIJI 42.01.21; Couvreur 2.622f; Jia1ng Yi4hua2 875; Yi4 Shu1 45:73.25a; tr. Legge 2.416;
+# dating: 8110
+所謂脩身在正其心者，¶
+身有所忿懥，¶
+則不得其正；¶
+有所恐懼，¶
+則不得其正；¶
+有所好樂，¶
+則不得其正；¶
+有所憂患，¶
+則不得其正。¶
+
+# src: LIJI 42.01.22; Couvreur 2.622f; Jia1ng Yi4hua2 875; Yi4 Shu1 45:73.25a; tr. Legge 2.416;
+# dating: 8110
+心不在焉，¶
+視而不見，¶
+聽而不聞，¶
+食而不知其味。¶
+此謂脩身在正其心。¶
+
+# src: LIJI 42.01.23; Couvreur 2.623f; Jia1ng Yi4hua2 875; Yi4 Shu1 45:73.26b; tr. Legge 2.416;
+# dating: 8110
+所謂齊其家在脩其身者：¶
+人之其所親愛而辟焉，¶
+之其所賤惡而辟焉，¶
+之其所畏敬而辟焉，¶
+之其所哀矜而辟焉，¶
+之其所敖惰而辟焉。¶
+故好而知其惡，¶
+惡而知其美者，¶
+天下鮮矣！¶
+
+# src: LIJI 42.01.24; Couvreur 2.624; Jia1ng Yi4hua2 875; Yi4 Shu1 45:73.26b; tr. Legge 2.417;
+# dating: 8110
+故諺有之曰：¶
+「人莫知其子之惡，¶
+莫知其苗之碩。」¶
+此謂身不脩不可以齊其家。¶
+
+# src: LIJI 42.01.25; Couvreur 2.624; Jia1ng Yi4hua2 876; Yi4 Shu1 45:73.29b; tr. Legge 2.417;
+# dating: 8110
+所謂治國必先齊其家者，¶
+其家不可教而能教人者
+無之。¶
+故君子不出家而成教於國：¶
+孝者
+所以事君也；¶
+弟者
+所以事長也；¶
+慈者
+所以使眾也。¶
+
+# src: LIJI 42.01.26; Couvreur 2.624f; Jia1ng Yi4hua2 876; Yi4 Shu1 45:73.29b; tr. Legge 2.417;
+# dating: 8110
+《康誥》曰：¶
+「如保赤子」，¶
+心誠求之，¶
+雖不中不遠矣。¶
+未有學養子而後嫁者也！¶
+
+# src: LIJI 42.01.27; Couvreur 2.625; Jia1ng Yi4hua2 876; Yi4 Shu1 45:73.30b; tr. Legge 2.417;
+# dating: 8110
+一家仁，¶
+一國興仁；¶
+一家讓，¶
+一國興讓；¶
+一人貪戾，¶
+一國作亂；¶
+其機如此。¶
+此謂一言僨事，¶
+一人定國。¶
+
+# src: LIJI 42.01.28; Couvreur 2.625f; Jia1ng Yi4hua2 876; Yi4 Shu1 45:73.32a; tr. Legge 2.418;
+# dating: 8110
+堯舜率天下以仁
+而民從之；¶
+桀紂率天下以暴
+而民從之；¶
+其所令反其所好
+而民不從。¶
+
+# src: LIJI 42.01.29; Couvreur 2.625f; Jia1ng Yi4hua2 876; Yi4 Shu1 45:73.32b; tr. Legge 2.418;
+# dating: 8110
+是故君子有諸己
+而后求諸人，¶
+無諸己
+而后非諸人。¶
+所藏乎身不恕
+而能喻諸人者，¶
+未之有也。¶
+故治國在齊其家。¶
+
+# src: LIJI 42.01.30; Couvreur 2.625f; Jia1ng Yi4hua2 876; Yi4 Shu1 45:73.33b; tr. Legge 2.418;
+# dating: 8110
+《詩》云：¶
+「桃之夭夭，¶
+其葉蓁蓁；¶
+之子于歸，¶
+宜其家人。」¶
+宜其家人，¶
+而后可以教國人。¶
+
+# src: LIJI 42.01.31; Couvreur 2.626f; Jia1ng Yi4hua2 876; Yi4 Shu1 45:73.34a; tr. Legge 2.418;
+# dating: 8110
+《詩》云：¶
+「宜兄宜弟。」¶
+宜兄宜弟，¶
+而后可以教國人。¶
+《詩》云：¶
+「其儀不忒，¶
+正是四國。」¶
+其為父子兄弟足法
+而后民法之也。¶
+此謂治國在齊其家。¶
+
+# src: LIJI 42.01.32; Couvreur 2.627; Jia1ng Yi4hua2 878; Yi4 Shu1 45:73.35b; tr. Legge 2.419;
+# dating: 8110
+所謂平天下在治其國者：¶
+上老老而民興孝，¶
+上長長而民興弟，¶
+上恤孤而民不倍，¶
+是以君子有絜矩之道也。¶
+
+# src: LIJI 42.01.33; Couvreur 2.627f; Jia1ng Yi4hua2 878; Yi4 Shu1 45:73.37a; tr. Legge 2.419;
+# dating: 8110
+所惡於上
+毋以使下；¶
+所惡於下
+毋以事上；¶
+所惡於前
+毋以先後；¶
+所惡於後
+毋以從前；¶
+
+# src: LIJI 42.01.34; Couvreur 2.627f; Jia1ng Yi4hua2 878; Yi4 Shu1 45:73.37a; tr. Legge 2.419;
+# dating: 8110
+所惡於右
+毋以交於左；¶
+所惡於左
+毋以交於右：¶
+此之謂絜矩之道。¶
+
+# src: LIJI 42.01.35; Couvreur 2.628; Jia1ng Yi4hua2 878; Yi4 Shu1 45:73.38b; tr. Legge 2.419;
+# dating: 8110
+《詩》云：¶
+「樂只君子，¶
+民之父母。」¶
+民之所好好之，¶
+民之所惡惡之，¶
+此之謂民之父母。¶
+
+# src: LIJI 42.01.36; Couvreur 2.628f; Jia1ng Yi4hua2 878; Yi4 Shu1 45:73.39a; tr. Legge 2.420;
+# dating: 8110
+《詩》云：¶
+「節彼南山，¶
+維石巖巖，¶
+赫赫師尹，¶
+民具爾瞻。」¶
+有國者不可以不慎，¶
+辟則為天下僇矣。¶
+
+# src: LIJI 42.01.37; Couvreur 2.629; Jia1ng Yi4hua2 879; Yi4 Shu1 45:73.40b; tr. Legge 2.420;
+# dating: 8110
+《詩》云：¶
+「殷之未喪師，¶
+克配上帝；¶
+儀監于殷，¶
+峻命不易。」¶
+道得眾則得國，¶
+失眾則失國。¶
+
+# src: LIJI 42.01.38; Couvreur 2.629f; Jia1ng Yi4hua2 879; Yi4 Shu1 45:73.40b; tr. Legge 2.420;
+# dating: 8110
+是故君子先慎乎德。¶
+有德此有人，¶
+有人此有土，¶
+有土此有財，¶
+有財此有用。¶
+德者本也，¶
+財者末也，¶
+外本內末，¶
+爭民施奪。¶
+
+# src: LIJI 42.01.39; Couvreur 2.630; Jia1ng Yi4hua2 879; Yi4 Shu1 45:73.40b; tr. Legge 2.420;
+# dating: 8110
+是故財聚則民散，¶
+財散則民聚。¶
+是故言悖而出者
+亦悖而入；¶
+貨悖而入者
+亦悖而出。¶
+
+# src: LIJI 42.01.40; Couvreur 2.630f; Jia1ng Yi4hua2 879; Yi4 Shu1 45:73.43b-45a; tr. Legge 2.421;
+# dating: 8110
+《康誥》曰：¶
+「惟命不于常！」¶
+道善則得之，¶
+不善則失之矣。¶
+《楚書》曰：¶
+「楚國無以為寶，¶
+惟善以為寶。」¶
+舅犯曰：¶
+「亡人無以為寶，¶
+仁親以為寶。」¶
+
+# src: LIJI 42.01.41; Couvreur 2.631; Jia1ng Yi4hua2 880; Yi4 Shu1 45:73.46a; tr. Legge 2.421;
+# dating: 8110
+《秦誓》曰：¶
+「若有一介臣，¶
+斷斷兮無他技，¶
+其心休休焉，¶
+其如有容焉。¶
+人之有技，¶
+若己有之，¶
+
+# src: LIJI 42.01.42; Couvreur 2.631; Jia1ng Yi4hua2 880; Yi4 Shu1 45:73.46a; tr. Legge 2.421;
+# dating: 8110
+人之彥聖，¶
+其心好之，¶
+不啻若自其口出，¶
+寔能容之，¶
+以能保我子孫黎民，¶
+尚亦有利哉！¶
+
+# src: LIJI 42.01.43; Couvreur 2.631f; Jia1ng Yi4hua2 880; Yi4 Shu1 45:73.46a; tr. Legge 2.421;
+# dating: 8110
+人之有技，¶
+媢嫉以惡之，¶
+人之彥聖，¶
+而違之俾不通，¶
+寔不能容，¶
+以不能保我子孫黎民，¶
+亦曰殆哉！」¶
+
+# src: LIJI 42.01.44; Couvreur 2.632; Jia1ng Yi4hua2 880; Yi4 Shu1 45:73.48b; tr. Legge 2.422;
+# dating: 8110
+唯仁人放流之，¶
+迸諸四夷，¶
+不與同中國。¶
+此謂唯仁人為能愛人，¶
+能惡人。¶
+
+# src: LIJI 42.01.45; Couvreur 2.632; Jia1ng Yi4hua2 880; Yi4 Shu1 45:73.49b; tr. Legge 2.422;
+# dating: 8110
+見賢而不能舉，¶
+舉而不能先，¶
+命也；¶
+見不善而不能退，¶
+退而不能遠，¶
+過也。¶
+
+# src: LIJI 42.01.46; Couvreur 2.632f; Jia1ng Yi4hua2 880f; Yi4 Shu1 45:73.50a-51a; tr. Legge 2.422;
+# dating: 8110
+好人之所惡，¶
+惡人之所好，¶
+是謂拂人之性，¶
+菑必逮夫身。¶
+是故君子有大道，¶
+必忠信以得之，¶
+驕泰以失之。¶
+
+# src: LIJI 42.01.47; Couvreur 2.633; Jia1ng Yi4hua2 8i1f; Yi4 Shu1 45:73.51b-52b; tr. Legge 2.422;
+# dating: 8110
+生財有大道，¶
+生之者眾，¶
+食之者寡，¶
+為之者疾，¶
+用之者舒，¶
+則財恆足矣。¶
+仁者以財發身，¶
+不仁者以身發財。¶
+
+# src: LIJI 42.01.48; Couvreur 2.633f; Jia1ng Yi4hua2 8i2; Yi4 Shu1 45:73.53a; tr. Legge 2.423;
+# dating: 8110
+未有上好仁
+而下不好義者也；¶
+未有好義
+其事不終者也；¶
+未有府庫財
+非其財者也。¶
+
+# src: LIJI 42.01.49; Couvreur 2.634f; Jia1ng Yi4hua2 8i2; Yi4 Shu1 45:73.54a; tr. Legge 2.423;
+# dating: 8110
+孟獻子曰：¶
+「畜馬乘，¶
+不察於雞豚，¶
+伐冰之家
+不畜牛羊，¶
+百乘之家
+不畜聚斂之臣，¶
+與其有聚斂之臣，¶
+寧有盜臣。」¶
+
+# src: LIJI 42.01.50; Couvreur 2.634f; Jia1ng Yi4hua2 8i2; Yi4 Shu1 45:73.54a; tr. Legge 2.423;
+# dating: 8110
+此謂國不以利為利，¶
+以義為利也。¶
+
+# src: LIJI 42.01.51; Couvreur 2.635; Jia1ng Yi4hua2 8i2; Yi4 Shu1 45:73.56a-57a; tr. Legge 2.423;
+# dating: 8110
+長國家而務財用者，¶
+必自小人矣。¶
+彼為善之，¶
+小人之使為國家，¶
+菑害並至。¶
+雖有善者
+亦無如之何
+矣！¶
+此謂國不以利為利，¶
+以義為利也。
+

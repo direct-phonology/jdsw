@@ -1,0 +1,26 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 0
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 1.1; tr. D.C. Lau 19i2: 3; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_001-1a>¶
+** 1 第一章
+
+道可道，¶
+非恒道。¶
+名可名，¶
+非恒名。¶
+無名、天地之始，¶
+有名、萬物之母，¶
+故恒無欲，以觀其妙。¶
+恒有欲，以觀其徼。¶
+此兩者同出而異名。¶
+同謂之玄。¶
+玄之又玄，¶
+眾妙之門。
+

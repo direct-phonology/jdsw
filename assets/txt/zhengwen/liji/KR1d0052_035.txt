@@ -1,0 +1,378 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 34
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 34.01.01; Couvreur 2.534f; Su1n Xïda4n 13.49f; Jia1ng Yi4hua2 809; Yishu 43:70.1b-2a; tr. Legge 2.365;
+# dating: 8110
+<pb:KR1d0052_tls_035-1a>¶
+** 35 奔喪
+
+35.1奔喪之禮：¶
+始聞親喪，¶
+以哭荅使者，¶
+盡哀；¶
+問故，¶
+又哭盡哀。<pb:KR1d0052_tls_035-2a>¶
+35.2遂行，¶
+日行百里，¶
+不以夜行。¶
+
+# src: LIJI 34.01.02; Couvreur 2.534f; Su1n Xïda4n 13.50; Jia1ng Yi4hua2 809; Yishu 43:70.2b; tr. Legge 2.365;
+# dating: 8110
+唯父母之喪，¶
+見星而行，¶
+見星而舍。¶
+若未得行，¶
+則成服而后行。¶
+過國至竟，¶
+哭盡哀而止。¶
+哭辟市朝。¶
+望其國竟哭。¶
+
+# src: LIJI 34.01.03; Couvreur 2.534f; Su1n Xïda4n 13.51; Jia1ng Yi4hua2 809; Yishu 43:70.3b; tr. Legge 2.366;
+# dating: 8110
+至於家，¶
+入門左，¶
+升自西階，¶
+殯東西面坐，¶
+哭盡哀，¶
+
+# src: LIJI 34.01.04; Couvreur 2.534f; Su1n Xïda4n 13.51; Jia1ng Yi4hua2 809; Yishu 43:70.4a; tr. Legge 2.366;
+# dating: 8110
+括髮、¶袒，
+降堂，¶東即位，¶
+西鄉哭，¶
+成踊，¶
+襲、絰于序東，¶
+絞帶。¶
+
+# src: LIJI 34.01.05; Couvreur 2.536f; Su1n Xïda4n 13.52; Jia1ng Yi4hua2 809; Yishu 43:70.4a; tr. Legge 2.366;
+# dating: 8110
+反位，¶
+拜賓、¶成踊，¶
+送賓，¶
+反位；¶
+有賓後至者，¶
+則拜之，¶
+成踊、¶送賓皆如初。¶
+
+# src: LIJI 34.01.06; Couvreur 2.536f; Su1n Xïda4n 13.52; Jia1ng Yi4hua2 809f; Yishu 43:70.6a; tr. Legge 2.366;
+# dating: 8110
+眾主人、¶兄弟皆出門，¶
+出門哭止；¶
+闔門，¶
+相者告就次。¶
+
+# src: LIJI 34.01.07; Couvreur 2.536f; Su1n Xïda4n 13.52f; Jia1ng Yi4hua2 i10; Yishu 43:70.6b-7b; tr. Legge 2.366;
+# dating: 8110
+於又哭，¶
+括髮、¶袒，成踊；¶
+於三哭，¶
+猶括髮、¶袒，成踊。¶
+三日，¶
+成服，¶
+拜賓送賓皆如初。<pb:KR1d0052_tls_035-3a>¶
+35.3奔喪者非主人，¶
+則主人為之拜賓送賓。¶
+
+# src: LIJI 34.01.08; Couvreur 2.537f; Su1n Xïda4n 13.53; Jia1ng Yi4hua2 i11; Yishu 43:70.8a; tr. Legge 2.367;
+# dating: 8110
+奔喪者自齊衰以下，¶
+入門左，¶中庭北面，¶哭盡哀，¶
+免、麻于序東，¶
+即位袒，¶
+與主人哭，¶成踊。¶
+
+# src: LIJI 34.01.09; Couvreur 2.537f; Su1n Xïda4n 13.53f; Jia1ng Yi4hua2 i11; Yishu 43:70.8a; tr. Legge 2.367;
+# dating: 8110
+於又哭三哭皆免、¶袒，
+有賓，¶
+則主人拜賓送賓。¶
+丈夫、¶婦人之待之也，¶
+皆如朝夕哭
+位，¶無變也。<pb:KR1d0052_tls_035-4a>¶
+
+# src: LIJI 34.01.10; Couvreur 2.537f; Su1n Xïda4n 13.54; Jia1ng Yi4hua2 i11; Yishu 43:70.9b; tr. Legge 2.367;
+# dating: 8110
+35.4奔母之喪，¶
+西面哭盡哀，¶
+括髮、¶袒，
+降堂，¶東即位，¶
+西鄉哭，¶
+成踊，¶
+襲、免、¶絰于序東，¶
+拜賓送賓，¶
+皆如奔父之禮，¶
+於又哭，¶不括髮。<pb:KR1d0052_tls_035-5a>¶
+
+# src: LIJI 34.01.11; Couvreur 2.539; Su1n Xïda4n 13.54; Jia1ng Yi4hua2 i12; Yishu 43:70.10b; tr. Legge 2.368;
+# dating: 8110
+35.5婦人奔喪，¶
+升自東階，¶
+殯東西面坐，¶
+哭盡哀；¶
+東髽，¶
+即位，¶
+與主人拾踊。<pb:KR1d0052_tls_035-6a>¶
+
+# src: LIJI 34.01.12; Couvreur 2.539f; Su1n Xïda4n 13.55; Jia1ng Yi4hua2 i12; Yishu 43:70.11a-11b; tr. Legge 2.368;
+# dating: 8110
+35.6奔喪者不及殯，¶
+先之墓，¶
+北面坐，¶
+哭盡哀。¶
+主人之待之也，¶
+即位於墓左，¶
+婦人墓右，¶
+
+# src: LIJI 34.01.13; Couvreur 2.539f; Su1n Xïda4n 13.55; Jia1ng Yi4hua2 i12; Yishu 43:70.11b; tr. Legge 2.368;
+# dating: 8110
+成踊，¶
+盡哀，¶
+括髮，¶
+東即主人位，¶
+絰、絞帶，¶
+哭成踊，¶
+拜賓，¶
+反位，¶
+成踊，¶
+相者告事畢。¶
+
+# src: LIJI 34.01.14; Couvreur 2.539f; Su1n Xïda4n 13.55; Jia1ng Yi4hua2 i12; Yishu 43:70.12a; tr. Legge 2.368;
+# dating: 8110
+遂冠，¶歸，
+入門左，¶
+北面，¶哭盡哀，¶
+括髮、¶袒，成踊，¶
+東即位，¶
+拜賓成踊。¶
+
+# src: LIJI 34.01.15; Couvreur 2.539f; Su1n Xïda4n 13.55; Jia1ng Yi4hua2 i12; Yishu 43:70.12a; tr. Legge 2.368;
+# dating: 8110
+賓出，¶
+主人拜送；¶
+有賓後至者，¶
+則拜之、¶成踊，¶
+送賓如初。¶
+眾主人、¶兄弟皆出門，¶
+出門哭止，¶
+相者告就次。¶
+
+# src: LIJI 34.01.16; Couvreur 2.541f; Su1n Xïda4n 13.56; Jia1ng Yi4hua2 i12; Yishu 43:70.12a; tr. Legge 2.369;
+# dating: 8110
+於又哭，¶
+括髮，¶成踊；¶
+於三哭，¶
+猶括髮、¶成踊。¶
+三日成服，¶
+於五哭，¶
+相者告事畢。¶
+
+# src: LIJI 34.01.17; Couvreur 2.541f; Su1n Xïda4n 13.56; Jia1ng Yi4hua2 i12; Yishu 43:70.13b; tr. Legge 2.369;
+# dating: 8110
+為母所以異於父者，¶
+壹括髮，¶
+其餘免以終事，¶
+他如奔父之禮。<pb:KR1d0052_tls_035-7a>¶
+
+# src: LIJI 34.01.18; Couvreur 2.541f; Su1n Xïda4n 13.56; Jia1ng Yi4hua2 i13; Yishu 43:70.14a; tr. Legge 2.369;
+# dating: 8110
+35.7齊衰以下不及殯：¶
+先之墓，¶
+西面哭盡哀，¶
+免、麻于東方，¶
+即位，¶
+與主人哭成踊，¶
+襲。
+有賓，¶
+則主人拜賓送賓；¶
+
+# src: LIJI 34.01.19; Couvreur 2.541f; Su1n Xïda4n 13.56; Jia1ng Yi4hua2 i13; Yishu 43:70.14a; tr. Legge 2.369;
+# dating: 8110
+賓有後至者，¶
+拜之如初。¶
+相者告事畢。¶
+遂冠，¶歸，
+入門左，¶
+北面，¶哭盡哀，¶
+免、袒，¶成踊，¶
+東即位，¶
+拜賓成踊，¶
+
+# src: LIJI 34.01.20; Couvreur 2.541f; Su1n Xïda4n 13.56f; Jia1ng Yi4hua2 i13; Yishu 43:70.14a; tr. Legge 2.369;
+# dating: 8110
+賓出，¶
+主人拜送。¶
+於又哭，¶
+免、袒，¶成踊；¶
+於三哭，¶
+猶免、¶袒，成踊。¶
+三日成服，¶
+於五哭，¶
+相者告事畢。<pb:KR1d0052_tls_035-8a>¶
+
+# src: LIJI 34.01.21; Couvreur 2.544f; Su1n Xïda4n 13.57; Jia1ng Yi4hua2 i14; Yishu 43:70.16a-16b; tr. Legge 2.370;
+# dating: 8110
+35.8聞喪不得奔喪，¶
+哭盡哀；¶
+問故，¶
+又哭盡哀。¶
+乃為位，¶
+括髮、¶袒，成踊，¶
+襲、絰、¶絞帶，¶即位，¶
+－拜賓反位成踊。¶
+
+# src: LIJI 34.01.22; Couvreur 2.544f; Su1n Xïda4n 13.57; Jia1ng Yi4hua2 i14; Yishu 43:70.16b; tr. Legge 2.370;
+# dating: 8110
+賓出，¶
+主人拜送于門外，¶
+反位；¶
+若有賓後至者，¶
+拜之成踊，¶
+送賓如初。¶
+
+# src: LIJI 34.01.23; Couvreur 2.544f; Su1n Xïda4n 13.57; Jia1ng Yi4hua2 i14; Yishu 43:70.16b; tr. Legge 2.370;
+# dating: 8110
+於又哭，¶
+括髮、¶袒，成踊，¶
+於三哭，¶
+猶括髮、¶袒，成踊，¶
+三日成服，¶
+於五哭，¶
+拜賓送賓如初。<pb:KR1d0052_tls_035-9a>¶
+
+# src: LIJI 34.01.24; Couvreur 2.544f; Su1n Xïda4n 13.58; Jia1ng Yi4hua2 i15; Yishu 43:70.17b; tr. Legge 2.371;
+# dating: 8110
+35.9若除喪而后歸，¶
+則之墓，¶
+哭，成踊，¶
+東括髮、¶袒，絰，¶
+拜賓成踊，¶
+送賓反位，¶
+又哭盡哀，¶
+遂除，¶
+於家不哭。¶
+
+# src: LIJI 34.01.25; Couvreur 2.544f; Su1n Xïda4n 13.58; Jia1ng Yi4hua2 i15; Yishu 43:70.17b-18b; tr. Legge 2.371;
+# dating: 8110
+主人之待之也，¶
+無變於服，¶
+與之哭，¶
+不踊。<pb:KR1d0052_tls_035-10a>¶
+35.10自齊衰以下，¶
+所以異者
+免、¶麻。<pb:KR1d0052_tls_035-11a>¶
+
+# src: LIJI 34.01.26; Couvreur 2.546f; Su1n Xïda4n 13.58; Jia1ng Yi4hua2 i15; Yishu 43:70.19a; tr. Legge 2.371;
+# dating: 8110
+35.11凡為位，¶
+非親喪，¶
+齊衰以下
+皆即位，¶哭盡哀，¶
+而東免、¶絰，
+即位，¶
+袒，成踊，¶襲，
+拜賓反位，¶
+哭成踊，¶
+
+# src: LIJI 34.01.27; Couvreur 2.546f; Su1n Xïda4n 13.58f; Jia1ng Yi4hua2 i15; Yishu 43:70.19a; tr. Legge 2.371;
+# dating: 8110
+送賓反位，¶
+相者告就次。¶
+三日
+五哭，¶卒，
+主人出送賓；¶
+眾主人、¶兄弟皆出門，¶
+哭止。¶
+相者告事畢。¶
+成服拜賓。¶
+
+# src: LIJI 34.01.28; Couvreur 2.546f; Su1n Xïda4n 13.59; Jia1ng Yi4hua2 i15; Yishu 43:70.20b; tr. Legge 2.372;
+# dating: 8110
+若所為位家遠，¶
+則成服而往。<pb:KR1d0052_tls_035-12a>¶
+
+# src: LIJI 34.01.29; Couvreur 2.547f; Su1n Xïda4n 13.59; Jia1ng Yi4hua2 i16; Yishu 43:70.21a; tr. Legge 2.372;
+# dating: 8110
+35.12齊衰，¶
+望鄉而哭；¶
+大功，¶
+望門而哭；¶
+小功，¶
+至門而哭；¶
+緦麻，¶
+即位而哭。<pb:KR1d0052_tls_035-13a>¶
+
+# src: LIJI 34.01.30; Couvreur 2.548; Su1n Xïda4n 13.59; Jia1ng Yi4hua2 i17; Yishu 43:70.21b; tr. Legge 2.372;
+# dating: 8110
+35.13哭父之黨於廟；¶
+母妻之黨於寢；¶
+師於廟門外；¶
+朋友於寢門外；¶
+所識於野張帷。¶
+
+# src: LIJI 34.01.31; Couvreur 2.548; Su1n Xïda4n 13.60; Jia1ng Yi4hua2 i17; Yishu 43:70.23a; tr. Legge 2.373;
+# dating: 8110
+凡為位不奠。¶
+哭天子九，¶
+諸侯七，¶
+卿大夫五，¶
+士三。¶
+
+# src: LIJI 34.01.32; Couvreur 2.549; Su1n Xïda4n 13.60; Jia1ng Yi4hua2 i17; Yishu 43:70.24a-25a; tr. Legge 2.373;
+# dating: 8110
+大夫哭諸侯，¶
+不敢拜賓。¶
+諸臣在他國，¶
+為位而哭，¶
+不敢拜賓。¶
+與諸侯為兄弟，¶
+亦為位而哭。¶
+
+# src: LIJI 34.01.33; Couvreur 2.549f; Su1n Xïda4n 13.60f; Jia1ng Yi4hua2 i17f; Yishu 43:70.25b-26a; tr. Legge 2.373;
+# dating: 8110
+凡為位者壹袒。<pb:KR1d0052_tls_035-14a>¶
+35.14所識者弔，¶
+先哭于家而後之墓，¶
+皆為之成踊，¶
+從主人北面而踊。¶
+
+# src: LIJI 34.01.34; Couvreur 2.550; Su1n Xïda4n 13.61; Jia1ng Yi4hua2 i18; Yishu 43:70.26b; tr. Legge 2.373;
+# dating: 8110
+凡喪，¶
+父在父為主；¶
+父沒，¶
+兄弟同居，¶
+各主其喪。¶
+親同，¶
+長者主之；¶
+不同，¶
+親者主之。<pb:KR1d0052_tls_035-15a>¶
+
+# src: LIJI 34.01.35; Couvreur 2.550; Su1n Xïda4n 13.61; Jia1ng Yi4hua2 i18; Yishu 43:70.27a; tr. Legge 2.374;
+# dating: 8110
+35.15聞遠兄弟之喪，¶
+既除喪而后聞喪，¶
+免、袒，¶成踊，¶
+拜賓則尚左手。<pb:KR1d0052_tls_035-16a>¶
+
+# src: LIJI 34.01.36; Couvreur 2.551; Su1n Xïda4n 13.61; Jia1ng Yi4hua2 i19; Yishu 43:70.27b; tr. Legge 2.374;
+# dating: 8110
+35.16無服而為位者，¶
+唯嫂叔及婦人降
+而無服者麻。<pb:KR1d0052_tls_035-17a>¶
+
+# src: LIJI 34.01.37; Couvreur 2.551; Su1n Xïda4n 13.62; Jia1ng Yi4hua2 i19; Yishu 43:70.28a; tr. Legge 2.374;
+# dating: 8110
+35.17凡奔喪，¶
+有大夫至，¶
+袒，
+拜之，¶
+成踊而后襲；¶
+於士，¶
+襲而后拜之。
+

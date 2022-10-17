@@ -1,0 +1,35 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 62
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 63.1; tr. D.C. Lau 19i2: 93; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_063-1a>¶
+** 63 第六十三章
+
+為無為，¶
+事無事，¶
+味無味。¶
+大小多少，¶
+報怨以德。¶
+圖難於其易也，¶
+為大於其細也。¶
+天下難事
+必作於易，¶
+天下大事
+必作於細。¶
+是以
+聖人終不為大。¶
+故能成其大。¶
+
+# src: LAO 63.3; tr. D.C. Lau 19i2: 93; here tr. Karlgren 1975
+# dating: 8120
+夫輕諾者必寡信，¶
+多易者必多難；¶
+是以聖人猶難之，¶
+故終於無難矣。
+

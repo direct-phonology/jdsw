@@ -1,0 +1,210 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 37
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 37.01.01; Couvreur 2.567f; Su1n Xïda4n 13.76; Jia1ng Yi4hua2 i33; Yi4 Shu1 44:71.1a; tr. Legge 2.385;
+# dating: 8110
+<pb:KR1d0052_tls_038-1a>¶
+** 38 間傳
+
+38.1斬衰何以服苴？¶
+苴，
+惡貌也，¶
+所以首其內而見諸外也。¶
+斬衰貌若苴，¶
+齊衰貌若枲，¶
+大功貌若止，¶
+小功、¶緦麻容貌可也，¶
+此哀之發於容體者也。¶
+
+# src: LIJI 37.01.02; Couvreur 2.570; Su1n Xïda4n 13.77; Jia1ng Yi4hua2 i34; Yi4 Shu1 44:71.3b; tr. Legge 2.385;
+# dating: 8110
+斬衰之哭，¶
+若往而不反；¶
+齊衰之哭，¶
+若往而反；¶
+大功之哭，¶
+三曲而偯；¶
+小功、¶緦麻，¶
+哀容可也。¶
+此哀之發於聲音者也。¶
+
+# src: LIJI 37.01.03; Couvreur 2.570f; Su1n Xïda4n 13.77; Jia1ng Yi4hua2 i34; Yi4 Shu1 44:71.4a; tr. Legge 2.386;
+# dating: 8110
+斬衰，¶
+唯而不對；¶
+齊衰，¶
+對而不言；¶
+大功，¶
+言而不議；¶
+小功、¶緦麻，¶
+議而不及樂。¶
+此哀之發於言語者也。¶
+
+# src: LIJI 37.01.04; Couvreur 2.571f; Su1n Xïda4n 13.77; Jia1ng Yi4hua2 i35; Yi4 Shu1 44:71.5a; tr. Legge 2.386;
+# dating: 8110
+斬衰，¶
+三日不食；¶
+齊衰，¶
+二日不食；¶
+大功，¶
+三不食；¶
+小功、¶緦麻，¶
+再不食；¶
+士與斂焉，¶
+則壹不食。¶
+
+# src: LIJI 37.01.05; Couvreur 2.571f; Su1n Xïda4n 13.77; Jia1ng Yi4hua2 i35; Yi4 Shu1 44:71.5a; tr. Legge 2.386;
+# dating: 8110
+故父母之喪，¶
+既殯食粥，¶
+朝一溢米，¶
+莫一溢米；¶
+齊衰之喪，¶
+疏食水飲，¶
+不食菜果；¶
+大功之喪，¶
+不食醯、¶醬；
+
+# src: LIJI 37.01.06; Couvreur 2.571f; Su1n Xïda4n 13.77; Jia1ng Yi4hua2 i35; Yi4 Shu1 44:71.5a; tr. Legge 2.386;
+# dating: 8110
+小功、¶緦麻，¶
+不飲醴酒。¶
+此哀之發於飲食者也。¶
+
+# src: LIJI 37.01.07; Couvreur 2.572f; Su1n Xïda4n 13.78; Jia1ng Yi4hua2 i35; Yi4 Shu1 44:71.5b; tr. Legge 2.387;
+# dating: 8110
+父母之喪，¶
+既虞、¶卒哭，¶
+疏食水飲，¶
+不食菜果；¶
+期而小祥，¶
+食菜果；¶
+又期而大祥，¶
+有醯、¶醬；
+中月而禫，¶
+禫而飲醴酒。¶
+
+# src: LIJI 37.01.08; Couvreur 2.572f; Su1n Xïda4n 13.78; Jia1ng Yi4hua2 i35; Yi4 Shu1 44:71.6a; tr. Legge 2.387;
+# dating: 8110
+始飲酒者先飲醴酒。¶
+始食肉者先食乾肉。¶
+
+# src: LIJI 37.01.09; Couvreur 2.573; Su1n Xïda4n 13.78; Jia1ng Yi4hua2 i36; Yi4 Shu1 44:71.6b; tr. Legge 2.387;
+# dating: 8110
+父母之喪，¶
+居倚廬，¶
+寢苫枕塊，¶
+不說絰、¶帶；
+齊衰之喪，¶
+居堊室，¶
+芐翦不納；¶
+
+# src: LIJI 37.01.10; Couvreur 2.573; Su1n Xïda4n 13.78; Jia1ng Yi4hua2 i36; Yi4 Shu1 44:71.6b; tr. Legge 2.387;
+# dating: 8110
+大功之喪，¶
+寢有席，¶
+小功、¶緦麻，¶
+床可也。¶
+此哀之發於居處者也。¶
+
+# src: LIJI 37.01.11; Couvreur 2.573f; Su1n Xïda4n 13.78; Jia1ng Yi4hua2 i36; Yi4 Shu1 44:71.7a; tr. Legge 2.387;
+# dating: 8110
+父母之喪，¶
+既虞、¶卒哭，¶
+柱楣翦屏，¶
+芐翦不納；¶
+
+# src: LIJI 37.01.12; Couvreur 2.573f; Su1n Xïda4n 13.78; Jia1ng Yi4hua2 i36; Yi4 Shu1 44:71.7b; tr. Legge 2.387;
+# dating: 8110
+期而小祥，¶
+居堊室，¶
+寢有席；¶
+又期而大祥，¶
+居復寢；¶
+中月而禫，¶
+禫而床。¶
+
+# src: LIJI 37.01.13; Couvreur 2.574f; Su1n Xïda4n 13.79; Jia1ng Yi4hua2 i37; Yi4 Shu1 44:71.8b; tr. Legge 2.388;
+# dating: 8110
+斬衰三升，¶
+齊衰四升、¶五升、¶六升，¶
+大功七升、¶八升、¶九升，¶
+小功十升、¶十一升、¶十二升，¶
+緦麻十五升去其半，¶
+有事其縷、¶無事其布曰緦。¶
+此哀之發於衣服者也。¶
+
+# src: LIJI 37.01.14; Couvreur 2.575f; Su1n Xïda4n 13.80; Jia1ng Yi4hua2 i37; Yi4 Shu1 44:71.11b; tr. Legge 2.388;
+# dating: 8110
+斬衰三升，¶
+既虞、¶卒哭，¶
+受以成布六升冠七升；¶
+為母疏衰四升，¶
+受以成布七升冠八升。¶
+去麻服葛，¶
+葛帶三重。¶
+
+# src: LIJI 37.01.15; Couvreur 2.575f; Su1n Xïda4n 13.i1; Jia1ng Yi4hua2 i37; Yi4 Shu1 44:71.11b; tr. Legge 2.388;
+# dating: 8110
+期而小祥，¶
+練冠、¶縓緣，¶
+要絰不除，¶
+男子除乎首，¶
+婦人除乎帶，¶
+－男子何為除乎首也？¶
+婦人何為除乎帶也？¶
+男子重首，¶
+婦人重帶。¶
+
+# src: LIJI 37.01.16; Couvreur 2.575f; Su1n Xïda4n 13.i1; Jia1ng Yi4hua2 i37; Yi4 Shu1 44:71.11b; tr. Legge 2.388;
+# dating: 8110
+除服者先重者，¶
+易服者易輕者。¶
+又期而大祥，¶
+素縞、¶麻衣。¶
+中月而禫，¶
+禫而纖，¶
+無所不佩。¶
+
+# src: LIJI 37.01.17; Couvreur 2.577f; Su1n Xïda4n 13.i2; Jia1ng Yi4hua2 i38; Yi4 Shu1 44:71.16a; tr. Legge 2.389;
+# dating: 8110
+易服者何？¶
+為易輕者也。¶
+斬衰之喪，¶
+既虞、¶卒哭，¶
+遭齊衰之喪，¶
+輕者包，¶
+重者特。¶
+既練，¶
+遭大功之喪，¶
+麻、葛重。<pb:KR1d0052_tls_038-2a>¶
+
+# src: LIJI 37.01.18; Couvreur 2.578; Su1n Xïda4n 13.i2; Jia1ng Yi4hua2 i38; Yi4 Shu1 44:71.16a; tr. Legge 2.389;
+# dating: 8110
+38.2齊衰之喪，¶
+既虞、¶卒哭，¶
+遭大功之喪，¶
+麻、葛兼服之。<pb:KR1d0052_tls_038-3a>¶
+
+# src: LIJI 37.01.19; Couvreur 2.578f; Su1n Xïda4n 13.i3; Jia1ng Yi4hua2 i38; Yi4 Shu1 44:71.16a; tr. Legge 2.389;
+# dating: 8110
+38.3斬衰之葛，¶
+與齊衰之麻同；¶
+齊衰之葛，¶
+與大功之麻同；¶
+大功之葛，¶
+與小功之麻同；¶
+小功之葛，¶
+與緦之麻同，¶
+麻同則兼服之。¶
+
+# src: LIJI 37.01.20; Couvreur 2.579; Su1n Xïda4n 13.i3; Jia1ng Yi4hua2 i38; Yi4 Shu1 44:71.16a; tr. Legge 2.390;
+# dating: 8110
+兼服之服重者，¶
+則易輕者也。
+

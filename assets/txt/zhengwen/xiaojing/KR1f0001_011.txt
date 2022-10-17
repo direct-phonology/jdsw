@@ -1,0 +1,21 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 孝經
+#+DATE: 2016-08-10 10:17:46
+#+PROPERTY: ID KR1f0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 10
+#+PROPERTY: CAT 1pre-han,經學典籍,孝經類
+
+# src: XIAOJING 11, ed. SSJZS p. 0111
+# dating: 6230
+<pb:KR1f0001_tls_011-1a>¶
+** 11 《五刑章》
+
+子曰：¶
+「五刑之屬三千，¶
+而罪莫大於不孝。¶
+要君者無上，¶
+非聖人者無法，¶
+非孝者無親。¶
+此大亂之道也。」
+

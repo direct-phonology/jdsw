@@ -1,0 +1,218 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 26
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 26.01.01; Couvreur 2.353; Su1n Xïda4n 12.87; Jia1ng Yi4hua2 687; Yishu 38:63.1b; tr. Legge 2.255;
+# dating: 8110
+<pb:KR1d0052_tls_027-1a>¶
+** 27 經解
+
+27.1孔子曰：¶
+「入其國，¶
+其教可知也。¶
+其為人也：¶
+溫柔敦厚，¶
+《詩》教也；¶
+疏通知遠，¶
+《書》教也；¶
+
+# src: LIJI 26.01.02; Couvreur 2.353; Su1n Xïda4n 12.87; Jia1ng Yi4hua2 687; Yishu 38:63.1b; tr. Legge 2.255;
+# dating: 8110
+廣博易良，¶
+《樂》教也；¶
+絜靜精微，¶
+《易》教也；¶
+恭儉莊敬，¶
+《禮》教也；¶
+屬辭比事，¶
+《春秋》教也。¶
+
+# src: LIJI 26.01.03; Couvreur 2.353; Su1n Xïda4n 12.87; Jia1ng Yi4hua2 687; Yishu 38:63.2a; tr. Legge 2.255;
+# dating: 8110
+故《詩》之失，¶
+愚；
+《書》之失，¶
+誣；
+《樂》之失，¶
+奢；
+
+# src: LIJI 26.01.04; Couvreur 2.353; Su1n Xïda4n 12.87; Jia1ng Yi4hua2 687; Yishu 38:63.2a; tr. Legge 2.255;
+# dating: 8110
+《易》之失，¶
+賊；
+《禮》之失，¶
+煩；
+《春秋》之失，¶
+亂。
+
+# src: LIJI 26.01.05; Couvreur 2.354; Su1n Xïda4n 12.87; Jia1ng Yi4hua2 687f; Yishu 38:63.6a-6b; tr. Legge 2.256;
+# dating: 8110
+其為人也：¶
+溫柔敦厚而不愚，¶
+則深於《詩》者也。¶
+疏通知遠而不誣，¶
+則深於《書》者也。¶
+廣博易良而不奢，¶
+則深於《樂》者也。¶
+
+# src: LIJI 26.01.06; Couvreur 2.354; Su1n Xïda4n 12.87; Jia1ng Yi4hua2 688; Yishu 38:63.6b; tr. Legge 2.256;
+# dating: 8110
+絜靜精微而不賊，¶
+則深於《易》者也。¶
+恭儉莊敬而不煩，¶
+則深於《禮》者也。¶
+屬辭比事而不亂，¶
+則深於《春秋》者也。」<pb:KR1d0052_tls_027-2a>¶
+
+# src: LIJI 26.01.07; Couvreur 2.355f; Su1n Xïda4n 12.87; Jia1ng Yi4hua2 688f; Yishu 38:63.7a; tr. Legge 2.256;
+# dating: 8110
+27.2天子者，¶
+與天地參。¶
+故德配天地，¶
+兼利萬物，¶
+與日月並明，¶
+明照四海而不遺微小。¶
+其在朝廷，¶
+則道仁聖禮義之序；¶
+
+# src: LIJI 26.01.08; Couvreur 2.355f; Su1n Xïda4n 12.87; Jia1ng Yi4hua2 689; Yishu 38:63.7a; tr. Legge 2.256;
+# dating: 8110
+燕處，¶
+則聽《雅》、¶《頌》之音；¶
+行步，¶
+則有環佩之聲；¶
+升車，¶
+則有鸞和之音。¶
+居處有禮，¶
+進退有度，¶
+百官得其宜，¶
+萬事得其序。¶
+
+# src: LIJI 26.01.09; Couvreur 2.355f; Su1n Xïda4n 12.87; Jia1ng Yi4hua2 689; Yishu 38:63.7b; tr. Legge 2.256;
+# dating: 8110
+《詩》云：¶
+「淑人君子，¶
+其儀不忒。¶
+其儀不忒，¶
+正是四國。」¶
+此之謂也。¶
+
+# src: LIJI 26.01.10; Couvreur 2.356f; Su1n Xïda4n 12.88; Jia1ng Yi4hua2 689; Yishu 38:63.9a; tr. Legge 2.257;
+# dating: 8110
+發號出令而民說，¶
+謂之和。¶
+上下相親，¶
+謂之仁。¶
+民不求其所欲而得之，¶
+謂之信。¶
+
+# src: LIJI 26.01.11; Couvreur 2.356f; Su1n Xïda4n 12.88; Jia1ng Yi4hua2 689; Yishu 38:63.9a; tr. Legge 2.257;
+# dating: 8110
+除去天地之害，¶
+謂之義。¶
+義與信，¶
+和與仁，¶
+霸王之器也。¶
+有治民之意而無其器，¶
+則不成。<pb:KR1d0052_tls_027-3a>¶
+
+# src: LIJI 26.01.12; Couvreur 2.357; Su1n Xïda4n 12.88; Jia1ng Yi4hua2 690; Yishu 38:63.10b; tr. Legge 2.257;
+# dating: 8110
+27.3禮之於正國也：¶
+猶衡之於輕重也，¶
+繩墨之於曲直也，¶
+規矩之於方圜也。¶
+
+# src: LIJI 26.01.13; Couvreur 2.357; Su1n Xïda4n 12.88; Jia1ng Yi4hua2 690; Yishu 38:63.10b; tr. Legge 2.257;
+# dating: 8110
+故
+衡誠縣，¶
+不可欺以輕重；¶
+繩墨誠陳，¶
+不可欺以曲直；¶
+規矩誠設，¶
+不可欺以方圜；¶
+君子審禮，¶
+不可誣以姦詐。¶
+
+# src: LIJI 26.01.14; Couvreur 2.357; Su1n Xïda4n 12.88; Jia1ng Yi4hua2 690; Yishu 38:63.11b; tr. Legge 2.258;
+# dating: 8110
+是故
+隆禮、¶由禮，¶
+謂之有方之士；¶
+不隆禮、¶不由禮，¶
+謂之無方之民。¶
+敬讓之道也。¶
+故以奉宗廟則敬，¶
+
+# src: LIJI 26.01.15; Couvreur 2.357; Su1n Xïda4n 12.88; Jia1ng Yi4hua2 690; Yishu 38:63.12a; tr. Legge 2.258;
+# dating: 8110
+以入朝廷
+則貴賤有位，¶
+以處室家
+則父子親、¶兄弟和，¶
+以處鄉里
+則長幼有序。¶
+孔子曰：¶
+「安上治民，¶
+莫善於禮。」¶
+此之謂也。<pb:KR1d0052_tls_027-4a>¶
+
+# src: LIJI 26.01.16; Couvreur 2.358f; Su1n Xïda4n 12.89; Jia1ng Yi4hua2 690; Yishu 38:63.13a; tr. Legge 2.258;
+# dating: 8110
+27.4故朝覲之禮，¶
+所以明君臣之義也。¶
+聘問之禮，¶
+所以使諸侯相尊敬也。¶
+喪祭之禮，¶
+所以明臣子之恩也。¶
+鄉飲酒之禮，¶
+所以明長幼之序也。¶
+昏姻之禮，¶
+所以明男女之別也。¶
+
+# src: LIJI 26.01.17; Couvreur 2.358f; Su1n Xïda4n 12.89; Jia1ng Yi4hua2 690; Yishu 38:63.13a; tr. Legge 2.258;
+# dating: 8110
+夫禮，¶
+禁亂之所由生，¶
+猶坊止水之所自來也。¶
+故以舊坊為無所用而壞之者，¶
+必有水敗；¶
+以舊禮為無所用而去之者，¶
+必有亂患。<pb:KR1d0052_tls_027-5a>¶
+
+# src: LIJI 26.01.18; Couvreur 2.360; Su1n Xïda4n 12.89; Jia1ng Yi4hua2 690; Yishu 38:63.14b; tr. Legge 2.259;
+# dating: 8110
+27.5故昏姻之禮廢，¶
+則夫婦之道苦，¶
+而淫辟之罪多矣。¶
+鄉飲酒之禮廢，¶
+則長幼之序失，¶
+而爭鬭之獄繁矣。¶
+
+# src: LIJI 26.01.19; Couvreur 2.360; Su1n Xïda4n 12.89; Jia1ng Yi4hua2 690; Yishu 38:63.14b; tr. Legge 2.259;
+# dating: 8110
+喪祭之禮廢，¶
+則臣子之恩薄，¶
+而倍死、¶忘先者眾矣。¶
+聘、覲之禮廢，¶
+則君臣之位失，¶
+諸侯之行惡，¶
+而倍畔、¶侵陵之敗起矣。<pb:KR1d0052_tls_027-6a>¶
+
+# src: LIJI 26.01.20; Couvreur 2.360; Su1n Xïda4n 12.89f; Jia1ng Yi4hua2 690; Yishu 38:63.16a; tr. Legge 2.259;
+# dating: 8110
+27.6故禮之教化也微，¶
+其止邪也於未形，¶
+使人日徙善遠罪而不自知也。¶
+是以先王隆之也。¶
+《易》曰：¶
+「君子慎始，¶
+差若豪氂，¶
+繆以千里」，¶
+此之謂也。
+

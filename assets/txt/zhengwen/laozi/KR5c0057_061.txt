@@ -1,0 +1,30 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-08-10 10:15:31
+#+PROPERTY: ID KR5c0057
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 60
+#+PROPERTY: CAT 1pre-han,哲學思想,道家
+
+# src: LAO 61.1; tr. D.C. Lau 19i2: 89; here tr. Karlgren 1975
+# dating: 8120
+<pb:KR5c0057_tls_061-1a>¶
+** 61 第六十一章
+
+大邦者、¶
+下流也，¶
+天下之交，¶
+天下之牝。¶
+牝恒以靜勝牡，¶
+以靜為下。¶
+故大邦以下小邦，¶
+則取小邦。¶
+小邦以下大邦，¶
+則取於大邦。¶
+故或下以取，¶
+或下而取。¶
+故大邦者不過欲兼畜人，¶
+小邦者不過欲入事人。¶
+夫兩者各得其所欲，¶
+則大者宜為下。
+

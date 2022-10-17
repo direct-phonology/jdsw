@@ -1,0 +1,24 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 孝經
+#+DATE: 2016-08-10 10:17:46
+#+PROPERTY: ID KR1f0001
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 1
+#+PROPERTY: CAT 1pre-han,經學典籍,孝經類
+
+# src: XIAOJING 2, ed. SSJZS p. 0045
+# dating: 6230
+<pb:KR1f0001_tls_002-1a>¶
+** 2 《天子章》
+
+子曰：¶
+「愛親者，不敢惡於人；¶
+敬親者，不敢慢於人。¶
+愛、敬盡於事親，¶
+而德教加於百姓，¶
+刑于四海，¶
+蓋天子之孝也。¶
+《甫刑》云：¶
+『一人有慶，¶
+兆民賴之。』」
+

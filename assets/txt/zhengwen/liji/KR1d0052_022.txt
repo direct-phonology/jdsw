@@ -1,0 +1,478 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 禮記
+#+DATE: 2016-08-10 10:15:48
+#+PROPERTY: ID KR1d0052
+#+PROPERTY: BASEEDITION tls
+#+PROPERTY: JUAN 21
+#+PROPERTY: CAT 1pre-han,經學典籍,禮經類
+
+# src: LIJI 22.01.01; Couvreur 2.202f; Su1n Xïda4n 11.62; Jia1ng Yi4hua2 607; Yishu 35:57.1b; tr. Legge 2.173;
+# dating: 8110
+<pb:KR1d0052_tls_022-1a>¶
+** 22 喪大記
+
+22.1疾病，¶
+外內皆埽。<pb:KR1d0052_tls_022-2a>¶
+22.2君、¶大夫徹縣，¶
+士去琴瑟。¶
+寢東首於北牖下。¶
+廢床。¶
+徹褻衣，¶
+加新衣，¶
+體一人。¶
+
+# src: LIJI 22.01.02; Couvreur 2.202f; Su1n Xïda4n 11.63f; Jia1ng Yi4hua2 607f; Yishu 35:57.1b-4a; tr. Legge 2.173;
+# dating: 8110
+男女改服。¶
+屬纊以俟絕氣。¶
+男子不死於婦人之手，¶
+婦人不死於男子之手。<pb:KR1d0052_tls_022-3a>¶
+22.3君夫人卒於路寢，¶
+大夫世婦卒於適寢，¶
+內子未命，¶
+則死於下室。¶
+遷尸于寢，¶
+士士之妻皆死于寢。<pb:KR1d0052_tls_022-4a>¶
+
+# src: LIJI 22.01.03; Couvreur 2.204f; Su1n Xïda4n 11.65; Jia1ng Yi4hua2 608; Yishu 35:57.5b; tr. Legge 2.174;
+# dating: 8110
+22.4復，¶
+有林麓，¶
+則虞人設階；¶
+無林麓，¶
+則狄人設階。<pb:KR1d0052_tls_022-5a>¶
+
+# src: LIJI 22.01.04; Couvreur 2.204f; Su1n Xïda4n 11.65; Jia1ng Yi4hua2 608; Yishu 35:57.6a; tr. Legge 2.174;
+# dating: 8110
+22.5小臣復，¶
+復者朝服。¶
+君以卷，¶
+夫人以屈狄；¶
+大夫以玄赬，¶
+世婦以襢衣；¶
+士以爵弁，¶
+士妻以稅衣。¶
+皆升自東榮，¶
+中屋履危，¶
+
+# src: LIJI 22.01.05; Couvreur 2.204f; Su1n Xïda4n 11.65f; Jia1ng Yi4hua2 608f; Yishu 35:57.6a; tr. Legge 2.174;
+# dating: 8110
+北面三號，¶
+捲衣投于前，¶
+司服受之，¶
+降自西北榮。¶
+其為賓，¶
+則公館復，¶
+私館不復；¶
+其在野，¶
+則升其乘車之左轂而復。¶
+
+# src: LIJI 22.01.06; Couvreur 2.204f; Su1n Xïda4n 11.67f; Jia1ng Yi4hua2 609; Yishu 35:57.9a; tr. Legge 2.175;
+# dating: 8110
+復衣不以衣尸，¶
+不以斂。¶
+婦人復，¶
+不以袡。¶
+凡復，¶
+男子稱名，¶
+婦人稱字。¶
+唯哭先復，¶
+復而後行死事。<pb:KR1d0052_tls_022-6a>¶
+
+# src: LIJI 22.01.07; Couvreur 2.206f; Su1n Xïda4n 11.68; Jia1ng Yi4hua2 610; Yishu 35:57.10a; tr. Legge 2.175;
+# dating: 8110
+22.6始卒，¶
+主人啼，¶
+兄弟哭，¶
+婦人哭踊。¶
+
+# src: LIJI 22.01.08; Couvreur 2.206f; Su1n Xïda4n 11.68; Jia1ng Yi4hua2 610; Yishu 35:57.11a; tr. Legge 2.175;
+# dating: 8110
+既正尸，¶
+子坐于東方，¶
+卿、大夫、¶父、兄、¶子姓立于東方，¶
+有司、¶庶士哭于堂下，¶北面；¶
+夫人坐于西方，¶
+內命婦、¶姑、姊妹、¶子姓立于西方，¶
+外命婦率外宗哭于堂上，¶北面。<pb:KR1d0052_tls_022-7a>¶
+
+# src: LIJI 22.01.09; Couvreur 2.206f; Su1n Xïda4n 11.70; Jia1ng Yi4hua2 610; Yishu 35:57.13a; tr. Legge 2.175;
+# dating: 8110
+22.7大夫之喪，¶
+主人坐于東方，¶
+主婦坐于西方，¶
+其有命夫、¶命婦則坐，¶
+無則皆立。¶
+士之喪，¶
+主人、¶父、兄、¶子姓皆坐于東方，¶
+主婦、¶姑、姊妹、¶子姓皆坐于西方。¶
+凡哭尸于室者，¶
+主人二手承衾而哭。<pb:KR1d0052_tls_022-8a>¶
+
+# src: LIJI 22.01.10; Couvreur 2.208f; Su1n Xïda4n 11.70; Jia1ng Yi4hua2 610f; Yishu 35:57.14a; tr. Legge 2.176;
+# dating: 8110
+22.8君之喪，¶
+未小斂，¶
+為寄公、¶國賓出；¶
+大夫之喪，¶
+未小斂，¶
+為君命出；¶
+士之喪，¶
+於大夫不當斂而出。<pb:KR1d0052_tls_022-9a>¶
+
+# src: LIJI 22.01.11; Couvreur 2.208f; Su1n Xïda4n 11.71; Jia1ng Yi4hua2 611; Yishu 35:57.15a; tr. Legge 2.176;
+# dating: 8110
+22.9凡主人之出也，¶
+徒跣扱衽拊心，¶
+降自西階。¶
+君拜寄公，¶國賓于位；¶
+大夫於君命，¶
+迎于寢門外，¶
+使者升堂致命，¶
+主人拜于下；¶
+
+# src: LIJI 22.01.12; Couvreur 2.208f; Su1n Xïda4n 11.71; Jia1ng Yi4hua2 611; Yishu 35:57.15a; tr. Legge 2.176;
+# dating: 8110
+士於大夫親弔，¶
+則與之哭；¶
+不逆於門外。<pb:KR1d0052_tls_022-10a>¶
+
+# src: LIJI 22.01.13; Couvreur 2.208f; Su1n Xïda4n 11.72; Jia1ng Yi4hua2 611; Yishu 35:57.16b; tr. Legge 2.177;
+# dating: 8110
+22.10夫人為寄公夫人出，¶
+命婦為夫人之命出，¶
+士妻不當斂，¶
+則為命婦出。<pb:KR1d0052_tls_022-11a>¶
+
+# src: LIJI 22.01.14; Couvreur 2.210f; Su1n Xïda4n 11.73; Jia1ng Yi4hua2 611; Yishu 35:57.17a; tr. Legge 2.177;
+# dating: 8110
+22.11小斂，¶
+主人即位于戶內，¶
+主婦東面，¶
+乃斂。¶
+
+# src: LIJI 22.01.15; Couvreur 2.210f; Su1n Xïda4n 11.73; Jia1ng Yi4hua2 611; Yishu 35:57.17a; tr. Legge 2.177;
+# dating: 8110
+卒斂，¶
+主人馮之踊，¶
+主婦亦如之。¶
+主人袒，¶說髦，¶
+括髮以麻，¶
+婦人髽，¶
+帶麻于房中。<pb:KR1d0052_tls_022-12a>¶
+
+# src: LIJI 22.01.16; Couvreur 2.210f; Su1n Xïda4n 11.74; Jia1ng Yi4hua2 611f; Yishu 35:57.19a-20a; tr. Legge 2.177;
+# dating: 8110
+22.12徹帷，¶
+男女奉尸夷于堂，¶
+降拜。<pb:KR1d0052_tls_022-13a>¶
+22.13君拜寄公、¶國賓，¶
+大夫士拜卿大夫於位，¶
+於士旁三拜；¶
+大夫亦拜寄公夫人於堂上，¶
+大夫內子、¶
+士妻特拜
+命婦、¶
+氾拜眾賓於堂上。¶
+
+# src: LIJI 22.01.17; Couvreur 2.212f; Su1n Xïda4n 11.75; Jia1ng Yi4hua2 612; Yishu 35:57.21b; tr. Legge 2.178;
+# dating: 8110
+主人即位，¶
+襲、帶、¶絰、踊。¶
+－母之喪，¶
+即位而免，¶
+乃奠。¶
+弔者襲裘，¶
+加武，¶帶、絰，¶
+與主人拾踊。<pb:KR1d0052_tls_022-14a>¶
+
+# src: LIJI 22.01.18; Couvreur 2.212f; Su1n Xïda4n 11.77; Jia1ng Yi4hua2 612; Yishu 35:57.24b; tr. Legge 2.178;
+# dating: 8110
+22.14君喪，¶
+虞人出木、¶角，
+狄人出壺，¶
+雍人出鼎，¶
+司馬縣之，¶
+乃官代哭，¶
+大夫官代哭，¶
+不縣壺，¶
+士代哭不以官。¶
+
+# src: LIJI 22.01.19; Couvreur 2.212f; Su1n Xïda4n 11.77; Jia1ng Yi4hua2 612; Yishu 35:57.24b; tr. Legge 2.178;
+# dating: 8110
+君堂上二燭、¶
+下二燭，¶
+大夫堂上一燭、¶
+下二燭，¶
+士堂上一燭、¶
+下一燭。<pb:KR1d0052_tls_022-15a>¶
+
+# src: LIJI 22.01.20; Couvreur 2.212f; Su1n Xïda4n 11.77; Jia1ng Yi4hua2 612; Yishu 35:57.25b; tr. Legge 2.179;
+# dating: 8110
+22.15賓出，¶徹帷。<pb:KR1d0052_tls_022-16a>¶
+22.16哭尸于堂上，¶
+主人在東方，¶
+由外來者在西方，¶
+諸婦南鄉。<pb:KR1d0052_tls_022-17a>¶
+
+# src: LIJI 22.01.21; Couvreur 2.214f; Su1n Xïda4n 11.78; Jia1ng Yi4hua2 612; Yishu 35:57.26a; tr. Legge 2.179;
+# dating: 8110
+22.17婦人迎客、¶送客不下堂，¶
+下堂不哭；¶
+男子出寢門
+見人不哭。¶
+
+# src: LIJI 22.01.22; Couvreur 2.214f; Su1n Xïda4n 11.78; Jia1ng Yi4hua2 612; Yishu 35:57.26a-26b; tr. Legge 2.179;
+# dating: 8110
+其無女主，¶
+則男主拜女賓于寢門內；¶
+其無男主，¶
+則女主拜男賓于阼階下。¶
+子幼，¶
+則以衰抱之，¶
+人為之拜；¶
+
+# src: LIJI 22.01.23; Couvreur 2.214f; Su1n Xïda4n 11.78; Jia1ng Yi4hua2 612; Yishu 35:57.26b; tr. Legge 2.179;
+# dating: 8110
+為後者不在，¶
+則有爵者辭，¶
+無爵者
+人為之拜。¶
+在竟內則俟之，¶
+在竟外則殯、¶葬可也。¶
+喪有無後，¶
+無無主。<pb:KR1d0052_tls_022-18a>¶
+
+# src: LIJI 22.01.24; Couvreur 2.215f; Su1n Xïda4n 11.79; Jia1ng Yi4hua2 614; Yishu 35:57.29a; tr. Legge 2.180;
+# dating: 8110
+22.18君之喪：¶
+三日，¶
+子、夫人杖，¶
+五日既殯，¶
+授大夫、¶世婦杖。¶
+子、大夫寢門之外杖，¶
+寢門之內輯之；¶
+夫人、¶世婦在其次則杖，¶
+即位則使人執之。¶
+
+# src: LIJI 22.01.25; Couvreur 2.215f; Su1n Xïda4n 11.79; Jia1ng Yi4hua2 614; Yishu 35:57.29a; tr. Legge 2.180;
+# dating: 8110
+子有王命則去杖，¶
+國君之命則輯杖，¶
+聽卜、¶有事於尸則去杖。¶
+大夫於君所則輯杖，¶
+於大夫所則杖。<pb:KR1d0052_tls_022-19a>¶
+
+# src: LIJI 22.01.26; Couvreur 2.215f; Su1n Xïda4n 11.79; Jia1ng Yi4hua2 614; Yishu 35:57.31a; tr. Legge 2.180;
+# dating: 8110
+22.19大夫之喪：¶
+三日之朝既殯，¶
+主人、¶主婦、¶室老皆杖。¶
+大夫有君命則去杖，¶
+大夫之命則輯杖；¶
+內子為夫人之命去杖，¶
+為世婦之命授人杖。<pb:KR1d0052_tls_022-20a>¶
+
+# src: LIJI 22.01.27; Couvreur 2.217f; Su1n Xïda4n 11.80; Jia1ng Yi4hua2 614; Yishu 35:57.32a; tr. Legge 2.180;
+# dating: 8110
+22.20士之喪：¶
+二日而殯，¶
+三日而朝，¶
+主人杖，¶
+婦人皆杖。¶
+於君命、¶夫人之命如大夫，¶
+於大夫、¶世婦之命如大夫。¶
+
+# src: LIJI 22.01.28; Couvreur 2.217f; Su1n Xïda4n 11.80f; Jia1ng Yi4hua2 614; Yishu 35:57.32b; tr. Legge 2.1i1;
+# dating: 8110
+子皆杖，¶
+不以即位。¶
+大夫士哭殯則杖，¶
+哭柩則輯杖。¶
+棄杖者，¶
+斷而棄之於隱者。<pb:KR1d0052_tls_022-21a>¶
+
+# src: LIJI 22.01.29; Couvreur 2.218f; Su1n Xïda4n 11.i1; Jia1ng Yi4hua2 615; Yishu 35:57.34b; tr. Legge 2.1i1;
+# dating: 8110
+22.21君設大盤造冰焉，¶
+大夫設夷盤造冰焉，¶
+士併瓦盤無冰，¶
+設床襢笫，¶
+有枕。¶
+含一床，¶
+襲一床，¶
+遷尸於堂又一床，¶
+皆有枕－¶
+君大夫士一也。<pb:KR1d0052_tls_022-22a>¶
+22.22始死，¶
+遷尸于床，¶
+幠用斂衾，¶
+去死衣，¶
+小臣楔齒用角柶，¶
+綴足用燕几，¶
+君、大夫、¶士一也。<pb:KR1d0052_tls_022-23a>¶
+
+# src: LIJI 22.01.30; Couvreur 2.219f; Su1n Xïda4n 11.i2; Jia1ng Yi4hua2 615; Yishu 35:57.35b; tr. Legge 2.1i1;
+# dating: 8110
+22.23管人汲，¶
+不說繘，¶屈之，¶
+盡階不升堂，¶
+授御者；¶
+御者入浴：¶
+小臣四人抗衾，¶
+御者二人浴，¶
+浴水用盆，¶
+沃水用枓，¶
+
+# src: LIJI 22.01.31; Couvreur 2.219f; Su1n Xïda4n 11.i2; Jia1ng Yi4hua2 615; Yishu 35:57.35b; tr. Legge 2.1i1;
+# dating: 8110
+浴用絺巾，¶
+挋用浴衣，¶
+如它日；¶小臣爪足，¶
+浴餘水棄于坎。¶
+其母之喪，¶
+則內御者抗衾而浴。<pb:KR1d0052_tls_022-24a>¶
+
+# src: LIJI 22.01.32; Couvreur 2.220f; Su1n Xïda4n 11.i3; Jia1ng Yi4hua2 615; Yishu 35:57.36b; tr. Legge 2.1i2;
+# dating: 8110
+22.24管人汲，¶
+授御者，¶
+御者差沐于堂上。¶
+─君沐粱，¶
+大夫沐稷，¶
+士沐粱。¶
+甸人為垼于西牆下，¶
+陶人出重鬲，¶
+管人受沐，¶
+乃煮之，¶
+
+# src: LIJI 22.01.33; Couvreur 2.220f; Su1n Xïda4n 11.i3; Jia1ng Yi4hua2 615; Yishu 35:57.36b; tr. Legge 2.1i2;
+# dating: 8110
+甸人取所徹廟之西北厞薪，¶
+用爨之。¶
+管人授御者沐，¶
+乃沐；¶
+沐用瓦盤，¶
+挋用巾，¶如它日，¶
+小臣爪手翦須，¶
+濡濯棄于坎。<pb:KR1d0052_tls_022-25a>¶
+
+# src: LIJI 22.01.34; Couvreur 2.221f; Su1n Xïda4n 11.85f; Jia1ng Yi4hua2 615f; Yishu 35:57.33a; tr. Legge 2.1i2;
+# dating: 8110
+
+# src: LIJI 22.01.35; Couvreur 2.222f; Su1n Xïda4n 11.86f; Jia1ng Yi4hua2 617; Yishu 35:57.39a; tr. Legge 2.1i3;
+# dating: 8110
+22.25君之喪，¶
+子、大夫、¶公子、¶眾士皆三日不食。¶
+子、大夫、¶公子食粥，¶
+納財，¶
+朝一溢米，¶
+莫一溢米，¶
+食之無筭；¶
+士疏食水飲，¶
+食之無筭；¶
+
+# src: LIJI 22.01.36; Couvreur 2.222f; Su1n Xïda4n 11.87f; Jia1ng Yi4hua2 617; Yishu 35:57.39a-41a; tr. Legge 2.1i3;
+# dating: 8110
+夫人、¶世婦、¶諸妻皆疏食水飲，¶
+食之無筭。<pb:KR1d0052_tls_022-26a>¶
+22.26大夫之喪，¶
+主人、¶室老、¶子姓皆食粥；¶
+眾士疏食水飲；¶
+妻妾疏食水飲。¶
+士亦如之。<pb:KR1d0052_tls_022-27a>¶
+
+# src: LIJI 22.01.37; Couvreur 2.222f; Su1n Xïda4n 11.88; Jia1ng Yi4hua2 617; Yishu 35:57.41b; tr. Legge 2.1i3;
+# dating: 8110
+22.27既葬，¶
+主人疏食水飲，¶
+不食菜果；¶
+婦人亦如之，¶
+－君、大夫、¶士一也。¶
+練而食菜果，¶
+祥而食肉。<pb:KR1d0052_tls_022-28a>¶
+
+# src: LIJI 22.01.38; Couvreur 2.222f; Su1n Xïda4n 11.88; Jia1ng Yi4hua2 617; Yishu 35:57.42a; tr. Legge 2.1i4;
+# dating: 8110
+22.28食粥於盛，¶不盥，¶
+食於篹者盥。¶
+食菜以醯、¶醬，
+始食肉者先食乾肉，¶
+始飲酒者先飲醴酒。<pb:KR1d0052_tls_022-29a>¶
+
+# src: LIJI 22.01.39; Couvreur 2.224f; Su1n Xïda4n 11.89; Jia1ng Yi4hua2 617; Yishu 35:57.42b-43a; tr. Legge 2.1i4;
+# dating: 8110
+22.29期之喪，¶
+三不食；¶
+食：
+疏食水飲，¶
+不食菜果，¶
+三月既葬，¶
+食肉飲酒。¶
+
+# src: LIJI 22.01.40; Couvreur 2.224f; Su1n Xïda4n 11.89; Jia1ng Yi4hua2 617; Yishu 35:57.43a; tr. Legge 2.1i4;
+# dating: 8110
+期終喪，¶
+不食肉，¶
+不飲酒，¶
+父在為母，¶
+為妻。¶
+九月之喪，¶
+食飲猶期之喪也，¶
+食肉飲酒，¶
+不與人樂之。<pb:KR1d0052_tls_022-30a>¶
+
+# src: LIJI 22.01.41; Couvreur 2.224f; Su1n Xïda4n 11.89; Jia1ng Yi4hua2 617f; Yishu 35:57.43b; tr. Legge 2.1i4;
+# dating: 8110
+22.30五月、¶三月之喪，¶
+壹不食，¶再不食可也。¶
+比葬，¶
+食肉飲酒，¶
+不與人樂之。¶
+叔母、¶世母、¶
+故主、¶宗子，¶
+食肉飲酒。¶
+
+# src: LIJI 22.01.42; Couvreur 2.224f; Su1n Xïda4n 11.90; Jia1ng Yi4hua2 618; Yishu 35:57.43b; tr. Legge 2.1i4;
+# dating: 8110
+不能食粥，¶
+羹之以菜可也；¶
+有疾、¶
+食肉飲酒可也。¶
+五十不成喪，¶
+七十唯衰麻在身。<pb:KR1d0052_tls_022-31a>¶
+
+# src: LIJI 22.01.43; Couvreur 2.224f; Su1n Xïda4n 11.90; Jia1ng Yi4hua2 618; Yishu 35:57.44a; tr. Legge 2.185;
+# dating: 8110
+22.31既葬，¶
+若君食之，¶
+則食之；¶
+大夫、¶父之友食之，¶
+則食之矣。¶
+不辟粱肉，¶
+若有酒、¶醴則辭。<pb:KR1d0052_tls_022-32a>¶
+
+# src: LIJI 22.02.01; Couvreur 2.226f; Su1n Xïda4n 12.1; Jia1ng Yi4hua2 619; Yishu 35:58.1a-1b; tr. Legge 2.185;
+# dating: 8110
+22.32小斂於戶內，¶
+大斂於阼。¶
+君以簟席，¶
+大夫以蒲席，¶
+士以葦席。<pb:KR1d0052_tls_022-33a>¶
+22.33小斂：¶
+布絞，¶
+縮者一，¶
+橫者三。¶
+
+# src: LIJI 22.02.02; Couvreur 2.226f; Su1n Xïda4n 12.1; Jia1ng Yi4hua2 619; Yishu 35:58.1b; tr. Legge 2.185;
+# dating: 8110
+君錦衾，¶
+大夫縞衾，¶
+士緇衾，¶
+皆一。¶
+衣十有九稱，¶
+君陳衣于序東；¶
+大夫士陳衣于房中；¶
+皆西領，¶北上，¶
+─絞、紟不在列。
+
