@@ -58,7 +58,8 @@ class AnnotationRenderer:
     style = "anno"
 
     def __init__(self, options: Dict[str, Any] = {}) -> None:
-        pass
+        self.columnar_annotations = options.get("columnar_annotations", False)
+        self.rtl = options.get("rtl", False)
 
     def render(
         self, docs: Iterable[KanripoDoc], page: bool = False, minify: bool = False
@@ -87,9 +88,17 @@ class AnnotationRenderer:
             if i in anno_ends:
                 output += self.render_annotation(anno_texts.pop(0))
             output += TPL_CHAR.format(content=char)
-        return TPL_DOC.format(content=output, title=title)
+        style_classes = " ".join([
+            "columnar-annotations" if self.columnar_annotations else "",
+            "rtl" if self.rtl else ""]
+        )
+        return TPL_DOC.format(
+            content=output, title=title, style="rtl" if self.rtl else ""
+        )
 
     def render_annotation(self, annotation: str) -> str:
+        if self.columnar_annotations:
+            return self.render_annotation_cols(annotation)
         return TPL_ANNOTATION.format(
             content="".join([TPL_CHAR.format(content=char) for char in annotation])
         )
@@ -115,7 +124,7 @@ TPL_PAGE = """
 """.strip()
 
 TPL_DOC = """
-<article class="doc">
+<article class="doc {style}">
   <h1>{title}</h1>
   <p>{content}</p>
 </article>

@@ -1,10 +1,16 @@
 .doc {
   font-family: "Kaiti SC", serif;
-  writing-mode: vertical-rl;
 }
 
 .anno {
   color: red;
+}
+
+.doc.rtl {
+  writing-mode: vertical-rl;
+}
+
+.doc.columnar_annotations .anno {
   font-size: .5rem;
   width: 1rem;
   display: inline-flex;
