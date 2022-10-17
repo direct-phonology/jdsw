@@ -4,7 +4,7 @@ from lib.alignment import Alignment
 from lib.documents import KanripoDoc
 
 class TestAlignAnnotations(unittest.TestCase):
-    def test_single_char_headwords(self):
+    def test_headgraphs(self):
         """should align headwords consisting of a single character"""
         x = KanripoDoc(id="x", text="abcdefghi")
         y = KanripoDoc(
@@ -29,7 +29,7 @@ class TestAlignAnnotations(unittest.TestCase):
             },
         )
 
-    def test_multi_char_headwords(self):
+    def test_headwords(self):
         """should align headwords consisting of multiple characters"""
         x = KanripoDoc(id="x", text="abcdefghi")
         y = KanripoDoc(
@@ -68,7 +68,7 @@ class TestAlignAnnotations(unittest.TestCase):
                     (10, 12): "人名也李云无鬼女商並魏幸臣",
                     (12, 15): "名擊文侯之子治安邑",
                     (15, 19): "力報反唯山林之勞一字如字餘并下章並力報反",
-                    (19, 21): "時志反下注同",
+                    (19, 21): "時志反下注同",   # 盈耆
                     (21, 22): "丁丈反",
                 }
             },
@@ -83,7 +83,7 @@ class TestAlignAnnotations(unittest.TestCase):
                 (11, 13): "人名也李云无鬼女商並魏幸臣",
                 (14, 17): "名擊文侯之子治安邑",
                 (18, 22): "力報反唯山林之勞一字如字餘并下章並力報反",
-                (67, 69): "時志反下注同",
+                (67, 69): "時志反下注同",   # 盈嗜; second graph differs from y
                 (71, 72): "丁丈反",
             },
         )
