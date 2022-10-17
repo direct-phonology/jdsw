@@ -7,9 +7,9 @@ from fastcore.transform import Pipeline
 import jsonlines
 
 
-from lib.documents import KanripoDoc
-from lib.loaders import KanripoTxtDataset
-from lib.transforms import (
+from scripts.lib.documents import KanripoDoc
+from scripts.lib.loaders import KanripoTxtDataset
+from scripts.lib.transforms import (
     KanripoUnicode,
     RemoveComments,
     RemovePageBreaks,
@@ -20,7 +20,7 @@ from lib.transforms import (
 )
 
 
-def load_juan_data(juan_path=Path("data/juan.csv")) -> dict[str, dict[str, str]]:
+def load_juan_data(juan_path=Path("assets/juan.csv")) -> dict[str, dict[str, str]]:
     reader = csv.DictReader(open(juan_path, encoding="utf-8"))
     juan = {"KR1g0003_025": {"zhengwen_id": "KR5c0057", "juan": "1"}}
     for row in reader:

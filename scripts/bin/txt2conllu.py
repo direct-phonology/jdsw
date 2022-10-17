@@ -4,14 +4,14 @@ import sys
 
 import typer
 
-from lib.util import (
+from scripts.lib.util import (
     convert_krp_entities,
     clean_org_text,
     get_org_metadata,
     strip_punctuation,
     split_sentences,
 )
-from lib.patterns import PARAGRAPH_NUMBER, CHAPTER_HEADER
+from scripts.lib.patterns import PARAGRAPH_NUMBER, CHAPTER_HEADER
 
 
 def main() -> None:

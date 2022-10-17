@@ -3,7 +3,7 @@ import re
 
 from fastcore.transform import Transform
 
-from lib.documents import KanripoDoc
+from scripts.lib.documents import KanripoDoc
 
 
 class DocTextTransform(Transform):

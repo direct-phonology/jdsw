@@ -19,10 +19,10 @@ from .patterns import (
 )
 from .phonology import Reconstruction, NoReadingError, MultipleReadingsError
 
-KR_UNICODE = pd.read_csv(Path("data/kr-unicode.csv"))
-MC_BAXTER = Reconstruction(pd.read_csv(Path("data/GDR-SBGY-full.csv")))
+KR_UNICODE = pd.read_csv(Path("assets/kr-unicode.csv"))
+MC_BAXTER = Reconstruction(pd.read_csv(Path("assets/GDR-SBGY-full.csv")))
 OC_BAXTER = NotImplementedError("TODO")
-VARIANT_TABLE = str.maketrans(json.loads(Path("data/variants.json").read_text()))
+VARIANT_TABLE = str.maketrans(json.loads(Path("assets/variants.json").read_text()))
 
 NLP = spacy.blank("och")
 NLP.add_pipe("sentencizer")

@@ -2,10 +2,10 @@ import json
 from difflib import Differ
 from pathlib import Path
 
-from lib.documents import KanripoDoc
+from scripts.lib.documents import KanripoDoc
 
 VARIANTS = str.maketrans(
-    json.loads(Path("data/variants.json").read_text(encoding="utf-8"))
+    json.loads(Path("assets/variants.json").read_text(encoding="utf-8"))
 )
 
 

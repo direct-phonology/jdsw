@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from lib.transforms import ExtractAnnotations
+from scripts.lib.transforms import ExtractAnnotations
 
 
 class TestExtractAnnotations(TestCase):

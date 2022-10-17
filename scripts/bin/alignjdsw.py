@@ -7,7 +7,7 @@ from pathlib import Path
 import typer
 import pyconll
 
-from lib.util import fuzzy_find
+from scripts.lib.util import fuzzy_find
 
 
 def main(zhengwen_file: Path, jdsw_file: Path, overwrite: bool = False) -> None:

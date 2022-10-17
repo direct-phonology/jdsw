@@ -2,7 +2,7 @@ from unittest import TestCase
 
 import pandas as pd
 
-from lib.phonology import MultipleReadingsError, NoReadingError, Reconstruction
+from scripts.lib.phonology import MultipleReadingsError, NoReadingError, Reconstruction
 
 
 class TestReconstruction(TestCase):

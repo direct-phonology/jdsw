@@ -5,7 +5,7 @@ from xml.etree import ElementTree as ET
 from pathlib import Path
 from torch.utils.data import IterableDataset
 
-from lib.documents import KanripoDoc
+from scripts.lib.documents import KanripoDoc
 
 
 class KanripoDataset(IterableDataset):

@@ -3,7 +3,7 @@ from pathlib import Path
 
 from spacy.util import minify_html
 
-from lib.documents import KanripoDoc
+from scripts.lib.documents import KanripoDoc
 
 _html = {}
 _css = (Path(__file__).parent / "style.css").read_text(encoding="utf-8")
@@ -88,12 +88,14 @@ class AnnotationRenderer:
             if i in anno_ends:
                 output += self.render_annotation(anno_texts.pop(0))
             output += TPL_CHAR.format(content=char)
-        style_classes = " ".join([
-            "columnar-annotations" if self.columnar_annotations else "",
-            "rtl" if self.rtl else ""]
+        style_classes = " ".join(
+            [
+                "columnar-annotations" if self.columnar_annotations else "",
+                "rtl" if self.rtl else "",
+            ]
         )
         return TPL_DOC.format(
-            content=output, title=title, style="rtl" if self.rtl else ""
+            content=output, title=title, classes="doc rtl" if self.rtl else "doc"
         )
 
     def render_annotation(self, annotation: str) -> str:
@@ -133,7 +135,9 @@ class TharsenNotationRenderer:
         output = ""
         for i, char in enumerate(doc.text):
             output += TPL_CHAR.format(content=char)
-        return TPL_DOC.format(content=output, title=doc.meta.get("title", doc.id))
+        return TPL_DOC.format(
+            content=output, title=doc.meta.get("title", doc.id), classes="doc"
+        )
 
 
 TPL_PAGE = """
@@ -149,7 +153,7 @@ TPL_PAGE = """
 """.strip()
 
 TPL_DOC = """
-<article class="doc {style}">
+<article class="{classes}">
   <h1>{title}</h1>
   <p>{content}</p>
 </article>
