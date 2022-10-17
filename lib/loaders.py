@@ -20,8 +20,10 @@ class KanripoTxtDataset(KanripoDataset):
     provided path for .txt files that include a Kanripo ID in their filename.
     """
 
-    def __init__(self, path: str) -> None:
-        self.path = Path(path)
+    def __init__(self, path: str | Path) -> None:
+        if isinstance(path, str):
+            path = Path(path)
+        self.path = path
 
     def __iter__(self) -> Iterator[KanripoDoc]:
         for file in self.path.glob("**/*.txt"):
@@ -45,8 +47,10 @@ class KanripoXmlDataset(KanripoDataset):
         "xml": "http://www.w3.org/XML/1998/namespace",
     }
 
-    def __init__(self, path: str) -> None:
-        self.path = Path(path)
+    def __init__(self, path: str | Path) -> None:
+        if isinstance(path, str):
+            path = Path(path)
+        self.path = path
 
     def __iter__(self) -> Iterator[KanripoDoc]:
         for file in self.path.glob("**/*.xml"):
@@ -63,3 +67,5 @@ class KanripoXmlDataset(KanripoDataset):
 
 
 # TODO: KanripoRemoteDataset?
+
+__all__ = ["KanripoTxtDataset", "KanripoXmlDataset"]
