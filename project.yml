@@ -1,0 +1,62 @@
+title: "Parsing the _Jingdian Shiwen_"
+description: |
+  This project is an attempt to convert the annotations compiled by the Tang dynasty scholar [Lu Deming (陸德明)](https://en.wikipedia.org/wiki/Lu_Deming) in the [_Jingdian Shiwen_ (经典释文)](https://en.wikipedia.org/wiki/Jingdian_Shiwen) into a structured form that matches individual characters to their Middle Chinese pronunciation.
+
+  Many of the annotations in the _Jingdian Shiwen_ specify how a particular character should be read, often using the [_fanqie_ (反切)](https://en.wikipedia.org/wiki/Fanqie) method. Some of these annotations follow a structure predictable enough to transform them into a reading, for which we use [William Baxter's (1992) transcription for Middle Chinese](https://en.wikipedia.org/wiki/Baxter%27s_transcription_for_Middle_Chinese)<sup>1</sup>.
+
+  The source text used is from the Kanseki Repository, and is preprocessed to remove punctuation, whitespace, and any non-Chinese characters. The output format is a [CoNLL-U](https://universaldependencies.org/format.html) file that stores phonological information in the `MISC` field. The aim is to produce output that can be used for machine learning, natural language processing, and other computational applications.
+  ---
+  <sup>1</sup> Baxter, William H. (1992), _A Handbook of Old Chinese Phonology_, Berlin: Mouton de Gruyter, ISBN 978-3-11-012324-1.
+
+# Variables can be referenced across the project.yml using ${vars.var_name}
+vars:
+  database: "jdsw_annotations"
+  lang: "och"
+  gpu_id: -1
+  eval_split: 0.25
+
+# These are the directories that the project needs. The project CLI will make
+# sure that they always exist.
+directories: ["assets", "configs", "corpus", "metrics", "packages", "scripts", "training"]
+
+# Assets that should be downloaded or available in the directory. We're shipping
+# them with the project, so they won't have to be downloaded. But the
+# 'project assets' command still lets you verify that the checksums match.
+assets:
+  - dest: "assets/annotations.jsonl"
+    description: "Corpus of annotations from the _Jingdian Shiwen_, including their headwords."
+  - dest: "assets/instructions.html"
+    description: "HTML file with annotation instructions."
+  - dest: "assets/labels.txt"
+    description: "List of labels to apply to regions in annotation text."
+  - dest: "assets/patterns.jsonl"
+    description: "Patterns for pre-selecting regions in annotation text."
+  - dest: "prodigy.json"
+    description: "Prodigy configuration file."
+
+# Workflows are series of commands that are run in order and often depend on 
+# each other.
+# workflows: []
+
+# Project commands, specified in a style similar to CI config files (e.g. Azure
+# pipelines). The name is the command name that lets you trigger the command
+# via "spacy project run [command] [path]". The help message is optional and
+# shown when executing "spacy project run [optional command] [path] --help".
+commands:
+  - name: "span_manual"
+    help: "Mark regions in annotation text by highlighting them and selecting labels."
+    script:
+      - "python -m prodigy spans.manual ${vars.database} blank:${vars.lang} assets/annotations.jsonl --patterns assets/patterns.jsonl --label assets/labels.txt"
+    deps:
+      - "assets/patterns.jsonl"
+      - "assets/labels.txt"
+      - "assets/annotations.jsonl"
+
+  - name: "train"
+    help: "Train the span categorizer model using the saved data."
+    script:
+      - "python -m prodigy train ./training --spancat ${vars.database} --eval-split ${vars.eval_split} --gpu-id ${vars.gpu_id}"
+    outputs:
+      - "training/model-best"
+
+    
