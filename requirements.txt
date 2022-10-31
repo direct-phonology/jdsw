@@ -1,7 +1,5 @@
-typer
 spacy
-fastcore
-torch
-lingpy
-pandas
 spacy-och
+pandas
+seaborn
+torch
