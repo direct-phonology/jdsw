@@ -3,3 +3,4 @@ spacy-och
 pandas
 seaborn
 torch
+fastcore
