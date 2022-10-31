@@ -1,33 +1,40 @@
-# Parsing phonology from the _Jingdian Shiwen_
-_**Note:** This repository is under active development and isn't yet ready for use!_
+<!-- SPACY PROJECT: AUTO-GENERATED DOCS START (do not remove) -->
 
-This project is an attempt to convert the annotations compiled by the Tang dynasty scholar [Lu Deming (陸德明)](https://en.wikipedia.org/wiki/Lu_Deming) in the [_Jingdian Shiwen_ (经典释文)](https://en.wikipedia.org/wiki/Jingdian_Shiwen) into a structured form that matches individual characters to their Middle Chinese pronunciation.
+# 🪐 spaCy Project: Parsing the _Jingdian Shiwen_
 
-Many of the annotations in the _Jingdian Shiwen_ specify how a particular character should be read, often using the [_fanqie_ (反切)](https://en.wikipedia.org/wiki/Fanqie) method. Some of these annotations follow a structure predictable enough to transform them into a reading, for which we use [William Baxter's (1992) transcription for Middle Chinese](https://en.wikipedia.org/wiki/Baxter%27s_transcription_for_Middle_Chinese)<sup>1</sup>.
+This project is an attempt to convert the annotations compiled by the Tang dynasty scholar [Lu Deming (陸德明)](https://en.wikipedia.org/wiki/Lu_Deming) in the [_Jingdian Shiwen_ (经典释文)](https://en.wikipedia.org/wiki/Jingdian_Shiwen) into a structured form that separates phonology, glosses, and references to secondary sources. A [spaCy](https://spacy.io/) pipeline is configured to parse and tag the annotations, and [prodigy](https://prodi.gy/) is used for guided annotation of the training data.
 
-The source text used is from the Kanseki Repository, and is preprocessed to remove punctuation, whitespace, and any non-Chinese characters. The output format is a [CoNLL-U](https://universaldependencies.org/format.html) file that stores phonological information in the `MISC` field. The aim is to produce output that can be used for machine learning, natural language processing, and other computational applications.
-## Usage
-You can download a compressed archive of the entire project from the [releases page](https://github.com/direct-phonology/jdsw/releases). Alternatively, individual works annotated in the _Jingdian Shiwen_ are available as CoNLL-U files in the [`out/`](out/) directory.
-## Developing
-To generate your own copy of the output, first pull down a copy of the repository:
-```bash
-git clone https://github.com/direct-phonology/jdsw.git
-```
-Next, install python dependencies:
-```bash
-pip install -r requirements.txt
-```
-Then you can run the scripts in `bin/`:
-```bash
-python bin/test_pipe.py
-```
-## Testing
-You can run unit tests for the logic in the scripts with:
-```bash
-python -m unittest
-```
-## License
-Code in this repository is licensed under the [MIT License](./LICENSE). Kanseki Repository text is licensed [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+The source text used is from the [Kanseki Repository](https://www.kanripo.org/), and has been preprocessed to remove punctuation, whitespace, and any non-Chinese characters. The results are saved in JSON-lines (`.jsonl`) format, with the aim being output that can be used for machine learning, natural language processing, and other computational applications.
 
----
-<sup>1</sup> Baxter, William H. (1992), _A Handbook of Old Chinese Phonology_, Berlin: Mouton de Gruyter, ISBN 978-3-11-012324-1.
+
+## 📋 project.yml
+
+The [`project.yml`](project.yml) defines the data assets required by the
+project, as well as the available commands and workflows. For details, see the
+[spaCy projects documentation](https://spacy.io/usage/projects).
+
+### ⏯ Commands
+
+The following commands are defined by the project. They
+can be executed using [`spacy project run [name]`](https://spacy.io/api/cli#project-run).
+Commands are only re-run if their inputs have changed.
+
+| Command | Description |
+| --- | --- |
+| `install` | Install dependencies |
+| `ner_manual` | Mark people and works referenced in annotations |
+
+### 🗂 Assets
+
+The following assets are defined by the project. They can
+be fetched by running [`spacy project assets`](https://spacy.io/api/cli#project-assets)
+in the project directory.
+
+| File | Source | Description |
+| --- | --- | --- |
+| [`instructions.html`](instructions.html) | Local | HTML file with annotation instructions. |
+| [`prodigy.json`](prodigy.json) | Local | Prodigy configuration file. |
+| [`assets/annotations.jsonl`](assets/annotations.jsonl) | Local | Corpus of annotations from the _Jingdian Shiwen_, including their headwords. |
+| [`assets/ner-patterns.jsonl`](assets/ner-patterns.jsonl) | Local | Patterns for pre-selecting regions in annotation text. |
+
+<!-- SPACY PROJECT: AUTO-GENERATED DOCS END (do not remove) -->
