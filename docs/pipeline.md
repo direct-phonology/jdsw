@@ -77,3 +77,4 @@ We're interested in identifying several different components in each annotation 
 - Train a spaCy model on the annotated data and add a `spancat` component to the pipeline (step **4**).
 ### Questions
 - What kinds of spans are we interested in? How should we label them?
+---> GDR: the ones you have listed in [assets/span_labels.txt] seem like a good start; we could test that out on a sample, and see how much is not covered by this.
