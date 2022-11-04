@@ -21,7 +21,7 @@ seg-->spancat
 ### spaCy components
 `ner`, `merge_entities`
 ### Problem
-Old Chinese has a mix of single-character and multi-character words. In a sentence like "論語作猶", the subject of the verb "作" is "論語" (i.e. the _Analects_ writes [some character] as"猶"). To correctly identify instances where a book or person is the subject of "作", "云", etc., we need to merge multi-character tokens into single tokens. This step must come before others, like part-of-speech tagging, so that the entire word is tagged as a single noun (in this case `PROPN`).
+Classical Chinese has a mix of single-character and multi-character words. In a sentence like "論語作猶", the subject of the verb "作" is "論語" (i.e. the _Analects_ writes [some character] as"猶"). To correctly identify instances where a book or person is the subject of "作", "云", etc., we need to merge multi-character tokens into single tokens. This step must come before others, like part-of-speech tagging, so that the entire word is tagged as a single noun (in this case `PROPN`).
 ### Assumptions
 - The vast majority of multi-character words present in _Jingdian Shiwen_ annotations will be either books (`WORK_OF_ART`) or people (`PERSON`).
 - If we see a multi-character sequence like "論語", we can safely assume that that sequence did not occur "randomly" — that is, there's no chance that "論" or "語" should be part of other nearby context words instead.
@@ -38,12 +38,13 @@ Old Chinese has a mix of single-character and multi-character words. In a senten
 ### spaCy components
 `tagger`
 ### Problem
-Old Chinese has many homographs, which can make it difficult to determine the part-of-speech of a word without context. If we see, for example, an annotation ending in "...王也", this could be a gloss indicating either the noun "king" or the verb "to be/act as king". Verbs like "作", "云", and "也" in particular often form the backbone of annotations, but there is a risk that these same characters appear in contexts where they are not verbs. Clearly marking verbs will likely help the accuracy of other components in the pipeline.
+Classical Chinese has many homographs, which can make it difficult to determine the part-of-speech of a word without context. If we see, for example, an annotation ending in "...王也", this could be a gloss indicating either the noun "king" or the verb "to be/act as king". Verbs like "作", "云", and "也" in particular often form the backbone of annotations, but there is a risk that these same characters appear in contexts where they are not verbs. Clearly marking verbs will likely help the accuracy of other components in the pipeline.
 ### Approach
-- Use prodigy to annotate a small sample (~2000 annotations) of the corpus.
+- Use prodigy to annotate a small sample (~2000 annotations) of the corpus, pre-labeling POS using the output of one of Koichi Yasuoka's models (UD-Kanbun or SuPaR-Kanbun).
 - Train a spaCy model on the annotated data and add a `tagger` component to the pipeline (step **2**).
 ### Questions
-- What POS values are valid in Old Chinese?
+- How well do Koichi's models perform on the annotations? Could we use them without any further training?
+- What POS values are valid in Classical Chinese? Should we follow Koichi's lead on this?
 - How should we mark the POS for components of a fanqie or "reads like" annotation?
 ## Dependency Parsing
 ### spaCy components
@@ -51,12 +52,13 @@ Old Chinese has many homographs, which can make it difficult to determine the pa
 ### Problem
 Nearly all the components of annotations that we care about take the simple S-V-O form, where the subject is a book or person, the verb is transitive, and the object is a reading, gloss, or note about how a character is written. Dependency parsing will connect the subject, verb, and object of each sentence. In particular, we can ensure that in a sentence like "說文作䞓又作赬" (the _Shuowen_ writes [some character] as "䞓" and "赬"), the second "作" still has the _Shuowen_ as its subject. A side-effect of this is that we can segment annotations into sentences easily.
 ### Approach
-- Use prodigy to annotate a small sample (~2000 annotations) of the corpus with dependency trees.
+- Use prodigy to annotate a small sample (~2000 annotations) of the corpus, pre-labeling dependencies using the output of one of Koichi Yasuoka's models (UD-Kanbun or SuPaR-Kanbun).
 - Train a spaCy model on the annotated data and add a `parser` component to the pipeline (step **3a**).
 - Enable the sentence segmentation features of the `parser` so that spaCy also sets the `doc.sents` attribute (step **3b**).
 ### Questions
+- How well do Koichi's models perform on the annotations? Could we use them without any further training?
+- What dependency values are valid for Classical Chinese? Should we follow Koichi's lead on this?
 - How does the concept of a "sentence" map to the annotations in _Jingdian Shiwen_?
-- What dependency values are valid for Old Chinese? Should we use a subset or extension of Universal Dependencies?
 ## Span Categorization
 ### spaCy components
 `spancat`
