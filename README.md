@@ -32,9 +32,9 @@ in the project directory.
 
 | File | Source | Description |
 | --- | --- | --- |
-| [`instructions.html`](instructions.html) | Local | HTML file with annotation instructions. |
 | [`prodigy.json`](prodigy.json) | Local | Prodigy configuration file. |
+| [`assets/instructions.html`](assets/instructions.html) | Local | HTML file with annotation instructions. |
 | [`assets/annotations.jsonl`](assets/annotations.jsonl) | Local | Corpus of annotations from the _Jingdian Shiwen_, including their headwords. |
-| [`assets/ner-patterns.jsonl`](assets/ner-patterns.jsonl) | Local | Patterns for pre-selecting regions in annotation text. |
+| [`assets/ner_patterns.jsonl`](assets/ner_patterns.jsonl) | Local | Patterns for pre-selecting regions in annotation text. |
 
 <!-- SPACY PROJECT: AUTO-GENERATED DOCS END (do not remove) -->
