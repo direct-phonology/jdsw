@@ -19,13 +19,13 @@ directories: ["assets", "configs", "corpus", "metrics", "packages", "scripts", "
 # them with the project, so they won't have to be downloaded. But the
 # 'project assets' command still lets you verify that the checksums match.
 assets:
-  - dest: "instructions.html"
-    description: "HTML file with annotation instructions."
   - dest: "prodigy.json"
     description: "Prodigy configuration file."
+  - dest: "assets/instructions.html"
+    description: "HTML file with annotation instructions."
   - dest: "assets/annotations.jsonl"
     description: "Corpus of annotations from the _Jingdian Shiwen_, including their headwords."
-  - dest: "assets/ner-patterns.jsonl"
+  - dest: "assets/ner_patterns.jsonl"
     description: "Patterns for pre-selecting regions in annotation text."
 
 # Workflows are series of commands that are run in order and often depend on 
@@ -45,7 +45,7 @@ commands:
   - name: "ner_manual"
     help: "Mark people and works referenced in annotations"
     script:
-      - "python -m prodigy ner.manual ${vars.dataset} blank:${vars.lang} assets/annotations.jsonl --patterns assets/ner-patterns.jsonl --label PERSON,WORK_OF_ART"
+      - "python -m prodigy ner.manual ${vars.dataset} blank:${vars.lang} assets/annotations.jsonl --patterns assets/ner_patterns.jsonl --label PERSON,WORK_OF_ART"
     deps:
-      - "assets/ner-patterns.jsonl"
+      - "assets/ner_patterns.jsonl"
       - "assets/annotations.jsonl"
