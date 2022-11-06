@@ -6,6 +6,7 @@ import spacy
 from pathlib import Path
 import srsly
 import altair as alt
+from spacy.matcher import Matcher
 
 @st.cache
 def load_data():
@@ -34,18 +35,32 @@ def get_hits(patterns):
     misses = pd.DataFrame([pattern for pattern in patterns if pattern not in hit_patterns], columns=["pattern", "label"])
     return hits, misses
 
-def main():
-    # Prevent displaying row indices
-    # https://docs.streamlit.io/knowledge-base/using-streamlit/hide-row-indices-displaying-dataframe
-    hide_table_row_index = """
-    <style>
-    thead tr th:first-child {display:none}
-    tbody th {display:none}
-    </style>
-    """
-    st.markdown(hide_table_row_index, unsafe_allow_html=True)
-    st.title("NER pattern matching")
+def get_term_hits(term):
+    """Search for a single term in the corpus. Returns hits only."""
+    dataset = load_data()
+    nlp = spacy.blank("och")
+    matcher = Matcher(nlp.vocab)
+    pattern = [{"TEXT": c} for c in term]
+    matcher.add(term, [pattern])
+    rows = []
+    for annotation in dataset["annotation"]:
+        doc = nlp(annotation)
+        for match in matcher(doc, as_spans=True):
+            rows.append({
+                "pattern": match.text,
+                "start": match.start,
+                "end": match.end,
+                "annotation": annotation,
+                "headword": dataset[dataset["annotation"] == annotation]["headword"].values[0],
+                "title": dataset[dataset["annotation"] == annotation]["title"].values[0],
+                "juan": dataset[dataset["annotation"] == annotation]["juan"].values[0] or 1,
+                "juan_title": dataset[dataset["annotation"] == annotation]["juan_title"].values[0],
+                "index": dataset[dataset["annotation"] == annotation]["index"].values[0]
+            })
+    return pd.DataFrame(rows, columns=["pattern", "start", "end", "annotation", "title", "juan", "juan_title", "index", "headword"])
 
+def files_tab():
+    """NER pattern matching via a file of patterns."""
     # Load pattern from a file and calculate/cache hits and misses
     pattern_files = Path("assets").glob("*ner_patterns.jsonl")
     pattern_file = st.selectbox("Select an NER pattern file", pattern_files)
@@ -73,6 +88,58 @@ def main():
     st.write("## Missing patterns")
     st.write("### Total: {}".format(total_misses))
     st.table(misses[:top_n])
+
+def interactive_tab():
+    """NER pattern matching via interactive input."""
+    term = st.text_input("Enter a search term")
+    if term:
+        hits = get_term_hits(term)
+        hit_annotations = hits["annotation"].unique()
+        st.write("_{} hits in {} annotations_".format(len(hits), len(hit_annotations)))
+        for title, title_group in hits.groupby("title"):
+            st.write("### {}".format(title))
+            for juan_no, juan_group in title_group.groupby("juan"):
+                st.write("#### {}《{}》".format(int(juan_no), juan_group["juan_title"].values[0]))
+                for annotation, annotation_group in juan_group.groupby("annotation"):
+                    starts = annotation_group["start"].values
+                    ends = annotation_group["end"].apply(lambda x: x - 1).values
+                    headword = annotation_group["headword"].values[0]
+                    highlighted_annotation = ""
+                    for i, char in enumerate(annotation):
+                        if i in starts:
+                            highlighted_annotation += "<mark>"
+                        highlighted_annotation += char
+                        if i in ends:
+                            highlighted_annotation += "</mark>"
+                    st.write("<li class='annotation'>{} ({})</li>".format(headword, highlighted_annotation), unsafe_allow_html=True)
+
+def main():
+    # Prevent displaying row indices
+    # https://docs.streamlit.io/knowledge-base/using-streamlit/hide-row-indices-displaying-dataframe
+    hide_table_row_index = """
+    <style>
+    thead tr th:first-child { display: none; }
+    tbody th { display: none; }
+    </style>
+    """
+    st.markdown(hide_table_row_index, unsafe_allow_html=True)
+
+    # Styles for annotation highlighting
+    highlight_match = """
+    <style>
+    .annotation { font-family: serif; }
+    mark { background-color: #ffd700; color: #000; }
+    </style>
+    """
+    st.markdown(highlight_match, unsafe_allow_html=True)
+
+    # Render the main title and tabs
+    st.title("NER pattern matching")
+    tab1, tab2 = st.tabs(["Pattern file search", "Interactive search"])
+    with tab1:
+        files_tab()
+    with tab2:
+        interactive_tab()
 
 if __name__ == "__main__":
     main()
