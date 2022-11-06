@@ -40,10 +40,12 @@ for annotation in dataset["annotation"]:
 hits = pd.DataFrame(rows, columns=["text", "label", "annotation", "title"])
 
 st.write("## Found patterns")
-st.write("### Total: {}".format(len(pd.unique(hits["text"]))))
-top_n = st.slider("Show top: ", 1, 50, 15)
+total = len(pd.unique(hits["text"]))
+st.write("### Total: {}".format(total))
+top_n = st.slider("Show top: ", 1, total, 25)
 top = pd.DataFrame(hits["text"].value_counts()[:top_n].rename_axis("pattern").reset_index(name="count"))
-st.write(alt.Chart(top, width=700).mark_bar().encode(x=alt.X("pattern", sort=None), y="count"))
+top["label"] = top["pattern"].apply(lambda x: hits[hits["text"] == x]["label"].values[0])
+st.write(alt.Chart(top, width=700).mark_bar().encode(x=alt.X("pattern", sort=None), y="count", color="label"))
 
 missing = set([pattern["pattern"] for pattern in patterns]) - set(hits["text"])
 st.write("## Missing patterns")
