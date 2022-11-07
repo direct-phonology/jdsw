@@ -1,5 +1,6 @@
 """Various streamlit-powered visualizations of the _Jingdian Shiwen_ data."""
 
+import re
 import streamlit as st
 import pandas as pd
 import spacy
@@ -39,17 +40,22 @@ def get_term_hits(term):
     """Search for a single term in the corpus. Returns hits only."""
     dataset = load_data()
     nlp = spacy.blank("och")
-    matcher = Matcher(nlp.vocab)
-    pattern = [{"TEXT": c} for c in term]
-    matcher.add(term, [pattern])
+    # matcher = Matcher(nlp.vocab)
+    # pattern = [{"TEXT": c} for c in term]
+    # matcher.add(term, [pattern])
+    try:
+        pattern = re.compile(term)
+    except re.error as e:
+        st.error("Invalid regular expression")
+        return pd.DataFrame([], columns=["match", "start", "end", "annotation", "title", "juan", "juan_title", "index", "headword"])
     rows = []
     for annotation in dataset["annotation"]:
         doc = nlp(annotation)
-        for match in matcher(doc, as_spans=True):
+        for match in re.finditer(pattern, doc.text):
             rows.append({
-                "pattern": match.text,
-                "start": match.start,
-                "end": match.end,
+                "match": match.group(0),
+                "start": match.start(),
+                "end": match.end(),
                 "annotation": annotation,
                 "headword": dataset[dataset["annotation"] == annotation]["headword"].values[0],
                 "title": dataset[dataset["annotation"] == annotation]["title"].values[0],
@@ -57,7 +63,7 @@ def get_term_hits(term):
                 "juan_title": dataset[dataset["annotation"] == annotation]["juan_title"].values[0],
                 "index": dataset[dataset["annotation"] == annotation]["index"].values[0]
             })
-    return pd.DataFrame(rows, columns=["pattern", "start", "end", "annotation", "title", "juan", "juan_title", "index", "headword"])
+    return pd.DataFrame(rows, columns=["match", "start", "end", "annotation", "title", "juan", "juan_title", "index", "headword"])
 
 def files_tab():
     """NER pattern matching via a file of patterns."""
@@ -96,6 +102,14 @@ def interactive_tab():
         hits = get_term_hits(term)
         hit_annotations = hits["annotation"].unique()
         st.write("_{} hits in {} annotations_".format(len(hits), len(hit_annotations)))
+
+        # Show chart of results by match text
+        if hits["match"].unique().size > 1:
+            st.write("### Match types")
+            hit_counts = pd.DataFrame(hits["match"].value_counts().rename_axis("match").reset_index(name="count"))
+            st.write(alt.Chart(hit_counts[:10], width=700).mark_bar().encode(x=alt.X("match", sort=None), y="count"))
+
+        # Show list of search results
         for title, title_group in hits.groupby("title"):
             st.write("### {}".format(title))
             for juan_no, juan_group in title_group.groupby("juan"):
