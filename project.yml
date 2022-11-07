@@ -7,7 +7,7 @@ description: |
 # Variables can be referenced across the project.yml using ${vars.var_name}
 vars:
   dataset: "jdsw_annotations"
-  lang: "och"
+  lang: "lzh"
   gpu_id: -1
   eval_split: 0.25
 
@@ -19,10 +19,6 @@ directories: ["assets", "configs", "corpus", "metrics", "packages", "scripts", "
 # them with the project, so they won't have to be downloaded. But the
 # 'project assets' command still lets you verify that the checksums match.
 assets:
-  - dest: "prodigy.json"
-    description: "Prodigy configuration file."
-  - dest: "assets/instructions.html"
-    description: "HTML file with annotation instructions."
   - dest: "assets/annotations.jsonl"
     description: "Corpus of annotations from the _Jingdian Shiwen_, including their headwords."
   - dest: "assets/ner_patterns.jsonl"
@@ -42,10 +38,9 @@ commands:
     script:
       - "python -m pip install -r requirements.txt"
 
-  - name: "ner_manual"
-    help: "Mark people and works referenced in annotations"
+  - name: "pos"
+    help: "Annotate parts of speech by correcting an existing model"
     script:
-      - "python -m prodigy ner.manual ${vars.dataset} blank:${vars.lang} assets/annotations.jsonl --patterns assets/ner_patterns.jsonl --label PERSON,WORK_OF_ART"
+      - "python -m prodigy suparkanbun.pos.correct ${vars.dataset} assets/pos-train.jsonl -F scripts/recipes.py"
     deps:
-      - "assets/ner_patterns.jsonl"
       - "assets/annotations.jsonl"

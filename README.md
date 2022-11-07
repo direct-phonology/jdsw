@@ -1,7 +1,6 @@
 <!-- SPACY PROJECT: AUTO-GENERATED DOCS START (do not remove) -->
 
 # 🪐 spaCy Project: Parsing the _Jingdian Shiwen_
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://direct-phonology-jdsw-scriptsvisualize-0px83h.streamlit.app/)
 
 This project is an attempt to convert the annotations compiled by the Tang dynasty scholar [Lu Deming (陸德明)](https://en.wikipedia.org/wiki/Lu_Deming) in the [_Jingdian Shiwen_ (经典释文)](https://en.wikipedia.org/wiki/Jingdian_Shiwen) into a structured form that separates phonology, glosses, and references to secondary sources. A [spaCy](https://spacy.io/) pipeline is configured to parse and tag the annotations, and [prodigy](https://prodi.gy/) is used for guided annotation of the training data.
 
@@ -23,7 +22,7 @@ Commands are only re-run if their inputs have changed.
 | Command | Description |
 | --- | --- |
 | `install` | Install dependencies |
-| `ner_manual` | Mark people and works referenced in annotations |
+| `pos` | Annotate parts of speech by correcting an existing model |
 
 ### 🗂 Assets
 
@@ -33,8 +32,6 @@ in the project directory.
 
 | File | Source | Description |
 | --- | --- | --- |
-| [`prodigy.json`](prodigy.json) | Local | Prodigy configuration file. |
-| [`assets/instructions.html`](assets/instructions.html) | Local | HTML file with annotation instructions. |
 | [`assets/annotations.jsonl`](assets/annotations.jsonl) | Local | Corpus of annotations from the _Jingdian Shiwen_, including their headwords. |
 | [`assets/ner_patterns.jsonl`](assets/ner_patterns.jsonl) | Local | Patterns for pre-selecting regions in annotation text. |
 
