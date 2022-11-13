@@ -2,9 +2,33 @@
 
 # 🪐 spaCy Project: Parsing the _Jingdian Shiwen_
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://direct-phonology-jdsw-scriptsvisualize-0px83h.streamlit.app/)
+
 This project is an attempt to convert the annotations compiled by the Tang dynasty scholar [Lu Deming (陸德明)](https://en.wikipedia.org/wiki/Lu_Deming) in the [_Jingdian Shiwen_ (经典释文)](https://en.wikipedia.org/wiki/Jingdian_Shiwen) into a structured form that separates phonology, glosses, and references to secondary sources. A [spaCy](https://spacy.io/) pipeline is configured to parse and tag the annotations, and [prodigy](https://prodi.gy/) is used for guided annotation of the training data.
 
 The source text used is from the [Kanseki Repository](https://www.kanripo.org/), and has been preprocessed to remove punctuation, whitespace, and any non-Chinese characters. The results are saved in JSON-lines (`.jsonl`) format, with the aim being output that can be used for machine learning, natural language processing, and other computational applications.
+
+## Annotating data
+To annotate training data, you need to have spacy installed in your python environment:
+```sh
+pip install spacy
+```
+You also need a copy of [prodigy](https://prodi.gy/). Once you have the appropriate wheel, install it with:
+```
+pip install prodigy-x.y.z-cp310-cp310-win_amd64.whl # prodigy version x.y.z for python 3.10 on windows
+```
+Then, verify the project assets are downloaded:
+```sh
+spacy project assets
+```
+Install python dependencies needed for annotation:
+```sh
+spacy project run install
+```
+Then, choose an annotation task (see "commands" below). Invoke it with:
+```sh
+spacy project run pos # to annotate parts-of-speech
+```
 
 
 ## 📋 project.yml
