@@ -14,8 +14,9 @@ To annotate training data, you need to have spacy installed in your python envir
 pip install spacy
 ```
 You also need a copy of [prodigy](https://prodi.gy/). Once you have the appropriate wheel, install it with:
-```
-pip install prodigy-x.y.z-cp310-cp310-win_amd64.whl # prodigy version x.y.z for python 3.10 on windows
+```sh
+# example: prodigy version 1.11.8 for python 3.10 on windows
+pip install prodigy-1.11.8-cp310-cp310-win_amd64.whl
 ```
 Then, verify the project assets are downloaded:
 ```sh
@@ -27,7 +28,8 @@ spacy project run install
 ```
 Then, choose an annotation task (see "commands" below). Invoke it with:
 ```sh
-spacy project run pos # to annotate parts-of-speech
+# example: annotate parts-of-speech
+spacy project run pos
 ```
 
 
