@@ -8,3 +8,4 @@ __pycache__
 prodigy-*.whl
 mypy.ini
 *.numbers
+project.lock
