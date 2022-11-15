@@ -1,3 +1,6 @@
 {
-  "instructions": "instructions.html"
+  "lang": "lzh",
+  "instructions": "instructions.html",
+  "buttons": ["accept", "ignore", "undo"],
+  "auto_count_stream": true
 }
