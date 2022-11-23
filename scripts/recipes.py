@@ -25,6 +25,10 @@ PATTERNS: Dict[str, Dict[str, List]] = {
         "patterns": [[{"TEXT": "音"}, {}]],
         "outputs": ["VERB", "X"],
     },
+    "variant": {
+        "patterns": [[{"TEXT": "作"}, {}]],
+        "outputs": ["VERB", "SYM"],
+    }
 }
 
 def make_tasks(
