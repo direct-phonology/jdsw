@@ -4,12 +4,12 @@ from pathlib import Path
 import spacy
 import prodigy
 from spacy.language import Language
-from spacy.training import Example
 from spacy.matcher import Matcher
 from suparkanbun import DOWNLOAD_DIR, AutoModelTagger
 from prodigy.components.loaders import get_stream
 from prodigy.components.preprocess import add_tokens
 from prodigy.util import split_string, set_hashes
+from prodigy.types import PosExample
 
 UPOS = [
     "ADJ", "ADP", "ADV", "AUX", "CCONJ", "DET", "INTJ", "NOUN", "NUM", "PART",
@@ -30,9 +30,9 @@ PATTERNS: Dict[str, Dict[str, List]] = {
 def make_tasks(
     nlp: Language,
     tagger: AutoModelTagger,
-    stream: Iterable[Example],
+    stream: Iterable[PosExample],
     labels: Container[str],
-) -> Iterator[Example]:
+) -> Iterator[PosExample]:
     """Add a 'spans' key to each example, with predicted POS."""
     texts = ((eg["text"], eg) for eg in stream)
     matcher = Matcher(nlp.vocab)
