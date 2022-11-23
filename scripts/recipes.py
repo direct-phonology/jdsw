@@ -12,8 +12,8 @@ from prodigy.util import split_string, set_hashes
 from prodigy.types import PosExample
 
 UPOS = [
-    "ADJ", "ADP", "ADV", "AUX", "CCONJ", "DET", "INTJ", "NOUN", "NUM", "PART",
-    "PRON", "PROPN", "PUNCT", "SCONJ", "SYM", "VERB", "X"
+    "SYM", "X", "PROPN", "VERB", "NOUN", "ADP", "PART", "PRON", "AUX", "DET",
+    "ADJ", "ADV", "CCONJ", "SCONJ", "INTJ", "NUM", "PUNCT"
 ]
 
 PATTERNS: Dict[str, Dict[str, List]] = {
