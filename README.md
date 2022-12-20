@@ -4,11 +4,34 @@
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://direct-phonology-jdsw-scriptsvisualize-0px83h.streamlit.app/)
 
-This project is an attempt to convert the annotations compiled by the Tang dynasty scholar [Lu Deming (陸德明)](https://en.wikipedia.org/wiki/Lu_Deming) in the [_Jingdian Shiwen_ (经典释文)](https://en.wikipedia.org/wiki/Jingdian_Shiwen) into a structured form that separates phonology, glosses, and references to secondary sources. A [spaCy](https://spacy.io/) pipeline is configured to parse and tag the annotations, and [prodigy](https://prodi.gy/) is used for guided annotation of the training data.
+This project is an attempt to convert the annotations compiled by the Tang dynasty scholar [Lu Deming (陸德明)](https://en.wikipedia.org/wiki/Lu_Deming) in the [_Jingdian Shiwen_ (经典释文)](https://en.wikipedia.org/wiki/Jingdian_Shiwen) into a structured form that separates phonology, glosses, and references to secondary sources. A [spaCy](https://spacy.io/) pipeline is configured to parse and tag the annotations, and [prodigy](https://prodi.gy/) is used for guided annotation of the training data. The project is part of a broader effort to build a linguistic model of [Old Chinese (上古漢語)](https://en.wikipedia.org/wiki/Old_Chinese) that incoporates phonology.
 
-The source text used is from the [Kanseki Repository](https://www.kanripo.org/), and has been preprocessed to remove punctuation, whitespace, and any non-Chinese characters. The results are saved in JSON-lines (`.jsonl`) format, with the aim being output that can be used for machine learning, natural language processing, and other computational applications.
+## Data
+The _Jingdian Shiwen_ comprises Lu's annotations on most of the ["Thirteen Classics" (十三經)](https://en.wikipedia.org/wiki/Thirteen_Classics) of the Confucian tradition, as well as some Daoist texts. We use the edition of the _Jingdian Shiwen_ found in the [_Collectanea of the Four Categories_ (四部叢刊)](http://www.chinaknowledge.de/Literature/Poetry/sibucongkan.html), which includes high-quality lithographic reproductions of many ancient texts. The annotations given in the _Jingdian Shiwen_ are paired with the source texts to which they apply; for this we predominantly use the definitive (正文) editions published by the [Kanseki Repository](https://www.kanripo.org/).
 
-## Annotating data
+|work|title|source|_Jingdian Shiwen_ chapters (卷)|
+|-|-|-|-|
+|周易|[_Book of Changes_](https://en.wikipedia.org/wiki/I_Ching)|[KR1a0001](https://github.com/kanripo/KR1a0001)|2
+|尚書|[_Book of Documents_](https://en.wikipedia.org/wiki/Book_of_Documents)|[KR1b0001](https://github.com/kanripo/KR1b0001)|3-4|
+|毛詩|[_Mao Commentary_](https://en.wikipedia.org/wiki/Mao_Commentary) on the [_Book of Odes_](https://en.wikipedia.org/wiki/Classic_of_Poetry)|[KR1c0001](https://github.com/kanripo/KR1c0001)|5-7|
+|周禮|[_Rites of Zhou_](https://en.wikipedia.org/wiki/Rites_of_Zhou)|[KR1d0001](https://github.com/kanripo/KR1d0001)|8-9|
+|儀禮|[_Etiquette and Ceremonial_](https://en.wikipedia.org/wiki/Etiquette_and_Ceremonial)|CH1e0873*|10|
+|禮記|[_Book of Rites_](https://en.wikipedia.org/wiki/Book_of_Rites)|[KR1d0052](https://github.com/kanripo/KR1d0052)|11-14|
+|春秋左傳|[_Commentary of Zuo_](https://en.wikipedia.org/wiki/Zuo_Zhuan) on the [_Spring and Autumn Annals_](https://en.wikipedia.org/wiki/Spring_and_Autumn_Annals)|[KR1e0001](https://github.com/kanripo/KR1e0001)|15-20|
+|春秋公羊傳|[_Commentary of Gongyang_](https://en.wikipedia.org/wiki/Gongyang_Zhuan) on the [_Spring and Autumn Annals_](https://en.wikipedia.org/wiki/Spring_and_Autumn_Annals)|CH1e0877*|21|
+|春秋穀梁傳|[_Commentary of Guliang_](https://en.wikipedia.org/wiki/Guliang_Zhuan) on the [_Spring and Autumn Annals_](https://en.wikipedia.org/wiki/Spring_and_Autumn_Annals)|[KR1e0008](https://github.com/kanripo/KR1e0008)|22|
+|孝經|[_Classic of Filial Piety_](https://en.wikipedia.org/wiki/Classic_of_Filial_Piety)|[KR1f0001](https://github.com/kanripo/KR1f0001)|23|
+|論語|[_Analects of Confucius_](https://en.wikipedia.org/wiki/Analects)|[KR1h0004](https://github.com/kanripo/KR1h0004)|24|
+|老子|[_Laozi_](https://en.wikipedia.org/wiki/Tao_Te_Ching)|[KR5c0057](https://github.com/kanripo/KR5c0057)|25|
+|莊子|[_Zhuangzi_](https://en.wikipedia.org/wiki/Zhuangzi_(book))|[KR5c0126](https://github.com/kanripo/KR5c0126)|26-28|
+
+*This data is sourced with permission from the [China Ancient Texts (CHANT) database](https://www.cuhk.edu.hk/ics/rccat/en/database.html).
+
+We omit chapter 1 of the _Jingdian Shiwen_, corresponding to the [_Erya_ (爾雅)](https://en.wikipedia.org/wiki/Erya). All digital sources have been preprocessed to remove punctuation, whitespace, and non-Chinese characters. Kanseki Repository data is generously licensed CC-BY.
+
+After processing, the labeled output data is saved in JSON-lines (`.jsonl`) format, to be used for machine learning, natural language processing, and other computational applications.
+
+## Annotating
 To annotate training data, you need to have spacy installed in your python environment:
 ```sh
 pip install spacy
