@@ -81,7 +81,9 @@ in the project directory.
 
 | File | Source | Description |
 | --- | --- | --- |
-| [`assets/annotations.jsonl`](assets/annotations.jsonl) | Local | Corpus of annotations from the _Jingdian Shiwen_, including their headwords. |
-| [`assets/ner_patterns.jsonl`](assets/ner_patterns.jsonl) | Local | Patterns for pre-selecting regions in annotation text. |
+| [`assets/annotations.jsonl`](assets/annotations.jsonl) | Local | Corpus of annotations from the _Jingdian Shiwen_, including their headwords |
+| [`assets/corpus.jsonl`](assets/corpus.jsonl) | Local | Corpus of source texts annotated in the _Jingdian Shiwen_, divided into documents |
+| [`assets/docs.csv`](assets/docs.csv) | Local | Table mapping each chapter in a source text to its location in the _Jingdian Shiwen_ |
+| [`assets/variants.json`](assets/variants.json) | Local | Equivalency table for graphic variants of characters |
 
 <!-- SPACY PROJECT: AUTO-GENERATED DOCS END (do not remove) -->

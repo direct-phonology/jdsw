@@ -69,9 +69,13 @@ directories: ["assets", "configs", "corpus", "metrics", "packages", "scripts", "
 # 'project assets' command still lets you verify that the checksums match.
 assets:
   - dest: "assets/annotations.jsonl"
-    description: "Corpus of annotations from the _Jingdian Shiwen_, including their headwords."
-  - dest: "assets/ner_patterns.jsonl"
-    description: "Patterns for pre-selecting regions in annotation text."
+    description: "Corpus of annotations from the _Jingdian Shiwen_, including their headwords"
+  - dest: "assets/corpus.jsonl"
+    description: "Corpus of source texts annotated in the _Jingdian Shiwen_, divided into documents"
+  - dest: "assets/docs.csv"
+    description: "Table mapping each chapter in a source text to its location in the _Jingdian Shiwen_"
+  - dest: "assets/variants.json"
+    description: "Equivalency table for graphic variants of characters"
 
 # Workflows are series of commands that are run in order and often depend on 
 # each other.
