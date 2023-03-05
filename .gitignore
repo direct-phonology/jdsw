@@ -9,3 +9,4 @@ prodigy-*.whl
 mypy.ini
 *.numbers
 project.lock
+training
