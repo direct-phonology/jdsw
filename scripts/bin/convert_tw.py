@@ -8,11 +8,11 @@ import csv
 import sys
 import re
 from pathlib import Path
-from typing import List, Tuple, TypedDict, Dict
+from typing import List, Tuple, Dict, Sequence
 
 ASSETS_PATH = Path("assets")
 
-# collapse some tags in tharsen & wang's schema
+# TODO: collapse some tags in tharsen & wang's schema
 TAG_MAP = {
   "E": "E",     # headword
   "B": "T",     # book title
@@ -32,24 +32,94 @@ TAG_MAP = {
 }
 
 # see https://prodi.gy/docs/api-interfaces#spans
-class ProdigyToken(TypedDict):
+class ProdigyToken:
   text: str
   start: int
-  end: int
   id: int
   ws: bool
 
-class ProdigySpan(TypedDict):
-  start: int
-  end: int
-  token_start: int
-  token_end: int
+  def __init__(self, text: str, start: int, id: int) -> None:
+    self.text = text
+    self.start = start
+    self.id = id
+
+  @property
+  def end(self) -> int:
+    return self.start + len(self.text)
+
+  def as_dict(self) -> Dict:
+    return {
+      "text": self.text,
+      "start": self.start,
+      "end": self.end,
+      "id": self.id,
+      "ws": False,
+    }
+
+class ProdigySpan:
+  tokens: Sequence[ProdigyToken]
   label: str
 
-class ProdigySpancatTask(TypedDict):
-  text: str
+  def __init__(self, tokens: Sequence[ProdigyToken], label: str) -> None:
+    self.label = label
+    self.tokens = tokens
+
+  @property
+  def start(self) -> int:
+    return self.tokens[0].start
+
+  @property
+  def end(self) -> int:
+    return self.tokens[-1].end
+
+  @property
+  def token_end(self) -> int:
+    return self.token_start + len(self.tokens)
+
+  def as_dict(self) -> Dict:
+    return {
+      "start": self.start,
+      "end": self.end,
+      "token_start": self.token_start,
+      "token_end": self.token_end,
+      "label": self.label,
+    }
+
+class ProdigyRelation:
+  child: int
+  head: int
+  label: str
+
+class ProdigyTask:
   tokens: List[ProdigyToken]
   spans: List[ProdigySpan]
+  relations: List[ProdigyRelation]
+
+  def add_token(self, text: str) -> None:
+    self.tokens.append(ProdigyToken(text, len(self.tokens), Vocab.get(text)))
+
+  def add_span(self, start: int, len: int, label: str) -> None:
+    self.spans.append(ProdigySpan(start, len, label))
+
+  def add_span(self, text: str, label: str) -> None:
+    start_token = len(self.tokens)
+    for i, c in enumerate(text):
+      self.tokens.append(ProdigyToken(c, start_token + i, Vocab.get(c)))
+    self.spans.append(ProdigySpan(start_token, label, self.tokens[start_token:]))
+
+  def add_rel(self, child: int, head: int, label: str) -> None:
+    self.relations.append(ProdigyRelation(child, head, label))
+
+  def __init__(self, text: str) -> None:
+    self.tokens = [ProdigyToken(c, i, Vocab.get(c)) for i, c in enumerate(text)]
+
+  @property
+  def text(self) -> str:
+    return "".join(t.text for t in self.tokens)
+
+  # Process for converting _ to rel:
+  # 
+
 
 # Basic monotonically-increasing integer ID generator for tokens
 class Vocab:
@@ -102,11 +172,12 @@ def main(in_path: Path = ASSETS_PATH / "tharsen_wang_jdsw.tsv") -> None:
   for example in examples:
     writer.write(eg_to_prodigy(example))
 
-def eg_to_prodigy(eg: List[Tuple[str, str]]) -> ProdigySpancatTask:
+def eg_to_prodigy(eg: List[Tuple[str, str]]) -> ProdigyTask:
   """Convert a single example to Prodigy format."""
   text: str = ""
   tokens: List[ProdigyToken] = []
   spans: List[ProdigySpan] = []
+  relations: List[ProdigyRelation] = []
 
   for [tag, span] in eg:
     # remove any whitespace in both tag and span
@@ -123,16 +194,13 @@ def eg_to_prodigy(eg: List[Tuple[str, str]]) -> ProdigySpancatTask:
     # remove any remaining english characters or punctuation
     span = re.sub(r"[a-zA-Z`]", "", span)
 
-    # extract fanqie target markers and pre-add them as one-char spans
+    # extract fanqie target markers and pre-add them as relations
     target = span.find("_")
     if target != -1:
       target_token = len(text) + target - 1
-      spans.append({
-        "start": target_token,
-        "end": target_token,
-        "token_start": target_token,
-        "token_end": target_token,
-        "label": "FE",
+      relations.append({
+        "child": target_token,
+        "label": "fanqie",
       })
       span = span.replace("_", "")
 
@@ -164,6 +232,7 @@ def eg_to_prodigy(eg: List[Tuple[str, str]]) -> ProdigySpancatTask:
     "text": text,
     "tokens": tokens,
     "spans": spans,
+    "relations": relations,
   }
 
 main.__doc__ = __doc__
