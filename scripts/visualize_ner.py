@@ -7,7 +7,7 @@ import spacy
 from pathlib import Path
 import srsly
 import altair as alt
-from spacy.matcher import Matcher
+from spacy import displacy
 
 @st.cache
 def load_data():
@@ -127,6 +127,37 @@ def interactive_tab():
                             highlighted_annotation += "</mark>"
                     st.write("<li class='annotation'>{} ({})</li>".format(headword, highlighted_annotation), unsafe_allow_html=True)
 
+
+def get_juan_titles(dataset, title):
+    """Get a list of juan titles for a given title."""
+    title_group = dataset[dataset["title"] == title]
+    for juan_no, juan_group in title_group.groupby("juan"):
+        yield f"{int(juan_no)}. 《{juan_group['juan_title'].values[0]}》"
+
+
+def annotation_tab():
+    """Preview NER highlighting on annotations."""
+    dataset = load_data()
+    st.write("## Select annotations to preview")
+    title = st.selectbox("Select a title", dataset["title"].unique())
+    juan = st.selectbox("Select a juan", get_juan_titles(dataset, title))
+    annotations = dataset[(dataset["title"] == title) & (dataset["juan_title"] == juan.split("《")[1][:-1])]
+
+    # Load NER pipeline
+    nlp = spacy.load("training/model-last")
+    ner_patterns = list(srsly.read_jsonl("corpus/ner_patterns.jsonl"))
+    span_patterns = list(srsly.read_jsonl("corpus/span_patterns.jsonl"))
+    nlp.get_pipe("entity_ruler").add_patterns(ner_patterns)
+    nlp.get_pipe("span_ruler").add_patterns(span_patterns)
+
+    # Highlight entity matches for all annotations
+    for _, annotation in annotations.iterrows():
+        doc = nlp(annotation["annotation"])
+        span_html = displacy.render(doc, style="span")
+        entity_html = displacy.render(doc, style="ent")
+        st.write("<div class='annotation'>{}\n\t{}\n\t{}</div>".format(annotation["headword"], span_html, entity_html), unsafe_allow_html=True)
+
+
 def main():
     # Prevent displaying row indices
     # https://docs.streamlit.io/knowledge-base/using-streamlit/hide-row-indices-displaying-dataframe
@@ -143,17 +174,21 @@ def main():
     <style>
     .annotation { font-family: serif; }
     mark { background-color: #ffd700; color: #000; }
+    .entities, .spans { display: block; }
     </style>
     """
     st.markdown(highlight_match, unsafe_allow_html=True)
 
     # Render the main title and tabs
-    st.title("NER pattern matching")
-    tab1, tab2 = st.tabs(["Pattern file search", "Interactive search"])
+    st.title("Named entity recognition")
+    tab1, tab2, tab3 = st.tabs(["Pattern file search", "Interactive search", "Annotation preview"])
     with tab1:
         files_tab()
     with tab2:
         interactive_tab()
+    with tab3:
+        annotation_tab()
+    
 
 if __name__ == "__main__":
     main()
