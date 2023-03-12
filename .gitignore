@@ -10,3 +10,4 @@ mypy.ini
 *.numbers
 project.lock
 training
+assets/treebank
