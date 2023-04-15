@@ -5,6 +5,7 @@ from collections import defaultdict
 
 import prodigy
 import spacy
+import srsly
 from nltk.util import ngrams
 from prodigy.components.loaders import get_stream
 from prodigy.components.preprocess import add_tokens
@@ -12,6 +13,7 @@ from prodigy.types import SpansExample
 from prodigy.util import set_hashes, split_string
 from spacy.pipeline.spancat import Suggester
 from spacy.tokens import Doc, Span
+from spacy.matcher import PhraseMatcher
 from thinc.api import Ops, get_current_ops
 from thinc.types import Ragged
 
@@ -79,6 +81,17 @@ SPLIT_AROUND = re.compile(rf"([{MODIFIER}]*?[云])")
 SPLIT_BEFORE = re.compile(rf"([{MODIFIER}]*?[作無][^{MARKER}]+)")
 SPLIT_BEFORE_2 = re.compile(rf"([^{MARKER}{MODIFIER}{MODIFIER2}]+)(同)")
 
+# pre-defined entity patterns
+patterns = defaultdict(list)
+for pattern in srsly.read_jsonl("assets/jdsw_ner_patterns.jsonl"):
+    patterns[pattern["label"]].append(pattern["pattern"])
+
+# set up a PhraseMatcher for pre-defined entities
+nlp = spacy.blank("zh")
+MATCHER = PhraseMatcher(nlp.vocab, None)
+for label, _patterns in patterns.items():
+    MATCHER.add(label, [nlp.make_doc(pattern) for pattern in _patterns])
+
 
 def check_span(span: Span) -> Span:
     """Check whether a span contains entities and/or is atomic, and set the flags accordingly."""
@@ -98,6 +111,14 @@ def check_span(span: Span) -> Span:
 
     # check if the span matches a known entity pattern
     # if so, label it and mark it as atomic
+    matches = MATCHER(span.as_doc())
+    if len(matches) == 1 and (matches[0][2] - matches[0][1] == len(span)):
+        span.label_ = nlp.vocab.strings[matches[0][0]]
+        span._.atomic = True
+        span._.possible_entity = True
+        return span
+
+    # catchall entity detection via regex
     for label, patterns in ENT_PATTERN_MAP.items():
         if any(pattern.fullmatch(span.text) for pattern in patterns):
             span.label_ = label
@@ -166,6 +187,15 @@ def split_backref_noncapture(text: str, pattern: re.Pattern) -> List[str]:
     return split_at_indices(text, sorted(list(set(indices))))
 
 
+def split_phrase_matcher(doc: Doc, matcher: PhraseMatcher) -> List[str]:
+    """Split a string using a provided PhraseMatcher instance."""
+    indices = []
+    for match in matcher(doc):
+        indices.append(match[1])
+        indices.append(match[2])
+    return split_at_indices(doc.text, sorted(list(set(indices))))
+
+
 def doc_chunks_jdsw(doc: Doc) -> Iterable[Span]:
     """Split a Jingdian Shiwen annotation into non-overlapping 'chunks'."""
     # start with the entire doc as a single span
@@ -177,6 +207,9 @@ def doc_chunks_jdsw(doc: Doc) -> Iterable[Span]:
     spans = split_spans(spans, PHON_PATTERN.split)
     spans = split_spans(spans, lambda s: split_backref_noncapture(s, XYZY_PATTERN))
 
+    # pass 2: known entities
+    spans = split_spans(spans, lambda s: split_phrase_matcher(nlp.make_doc(s), MATCHER))
+
     # pass 2: chunk-final characters
     spans = split_spans(spans, SPLIT_AFTER.split)
 
@@ -185,7 +218,7 @@ def doc_chunks_jdsw(doc: Doc) -> Iterable[Span]:
 
     # pass 4: chunk-initial characters
     spans = split_spans(spans, SPLIT_BEFORE.split)
-    spans = split_spans(spans, SPLIT_BEFORE_2.split) # ent + 同
+    spans = split_spans(spans, SPLIT_BEFORE_2.split)  # ent + 同
 
     # TODO: build parse tree
 
