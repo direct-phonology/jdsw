@@ -1,6 +1,16 @@
 import re
 from functools import partial
-from typing import Any, Callable, Dict, Iterable, Iterator, Optional, Union, List, Tuple
+from typing import (
+    Any,
+    Callable,
+    Dict,
+    Iterable,
+    Iterator,
+    Optional,
+    Union,
+    List,
+    Container,
+)
 from collections import defaultdict
 
 import prodigy
@@ -38,19 +48,22 @@ WORK = "書本文言子注經卦詩"
 
 SPAN_PATTERN_MAP = {
     "PHONETIC": [
-        re.compile(rf"^[{MODIFIER}]*?如字$"),
+        re.compile(rf"^[{MODIFIER}]*?音?如字$"),
         re.compile(rf"^[{MODIFIER}]*?音?..反$"),
         re.compile(rf"^[{MODIFIER}]*?音[^{MARKER}]$"),
-        re.compile(rf"^[{MODIFIER}]*?(.)(.)之\1|\2$"),
+        re.compile(rf"^[{MODIFIER}]*?音?(.)(.)之\1|\2$"),
     ],
     "SEMANTIC": [
         re.compile(rf"^[{MODIFIER}]*?[^{MARKER}]+也$"),
     ],
     "GRAPHIC": [
-        re.compile(rf"^[{MODIFIER}]*?[作無][^{MARKER}]+$"),
+        re.compile(rf"^[{MODIFIER}]*?[作無][^{MARKER}{MODIFIER}]+$"),
     ],
     "META": [
         re.compile(rf"^[{MODIFIER}{MODIFIER2}]+[^{MARKER}]*同$"),
+        re.compile(r"^出注$"),
+        re.compile(r"^絶句$"),
+        re.compile(r"^字非$"),
     ],
     "MARKER": [
         re.compile(rf"^[{MODIFIER}]*?[{MARKER}]$"),
@@ -269,9 +282,25 @@ def build_jdsw_suggester() -> Suggester:
     return partial(chunk_ngram_suggester, doc_chunks=doc_chunks_jdsw)
 
 
-def make_tasks(stream: Iterable[SpansExample]) -> Iterator[SpansExample]:
+def make_tasks(
+    stream: Iterable[SpansExample], labels: Container[str]
+) -> Iterator[SpansExample]:
     """Predict spans for a stream of examples using a rule-based approach."""
-    return (eg for eg in stream)
+    for eg in stream:
+        eg["spans"] = []
+        for span in doc_chunks_jdsw(nlp.make_doc(eg["text"])):
+            if span.label_ in labels:
+                eg["spans"].append(
+                    {
+                        "start": span.start,
+                        "end": span.end - 1,
+                        "token_start": span.start,
+                        "token_end": span.end - 1,
+                        "label": span.label_,
+                    }
+                )
+        eg = set_hashes(eg)
+        yield eg
 
 
 def validate_spans(eg: SpansExample) -> bool:
@@ -281,10 +310,28 @@ def validate_spans(eg: SpansExample) -> bool:
     return True
 
 
+@prodigy.recipe(
+    "jdsw.spans.correct",
+    dataset=("Dataset to save annotations to", "positional", None, str),
+    source=(
+        "Data to annotate (file path or '-' to read from standard input)",
+        "positional",
+        None,
+        str,
+    ),
+    loader=("Loader (guessed from file extension if not set)", "option", "lo", str),
+    labels=(
+        "Comma-separated label(s) to annotate or text file with one label per line",
+        "option",
+        "l",
+        split_string,
+    ),
+)
 def spans_correct_ruler_jdsw(
     dataset: str,
     source: Union[str, Iterable[dict]],
     loader: Optional[str] = None,
+    labels: Container[str] = SPAN_LABELS,
 ) -> Dict[str, Any]:
     """Annotate spans in JDSW annotations by correcting rule-based predictions."""
     # set up the character-based tokenizer
@@ -293,15 +340,15 @@ def spans_correct_ruler_jdsw(
     # stream in the data, tokenize, and add the predicted spans
     stream = get_stream(source, loader)
     stream = add_tokens(nlp, stream)
-    stream = make_tasks(stream)
+    stream = make_tasks(stream, labels)
 
     # set up the recipe
     return {
         "dataset": dataset,
         "stream": stream,
-        "view_id": "spans",
+        "view_id": "spans_manual",
         # "validate_answer": validate_spans,
         "config": {
-            "labels": SPAN_LABELS,
+            "labels": labels,
         },
     }
