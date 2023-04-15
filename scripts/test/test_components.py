@@ -1,7 +1,7 @@
 from unittest import TestCase
 
 import spacy
-from scripts.recipes.spancat import doc_chunks_jdsw
+from scripts.recipes.spancat import doc_spans_jdsw
 import debugpy
 
 # 徐苦感反本亦作埳京劉作欿險也陷也八純卦象水
@@ -14,7 +14,7 @@ class TestSplitOnStr(TestCase):
 
     def test_phon_with_meta(self):
         doc = self.nlp.make_doc("爭鬪之爭下及注有爭皆同")
-        spans = [(span.text, span.label_) for span in list(doc_chunks_jdsw(doc))]
+        spans = [(span.text, span.label_) for span in list(doc_spans_jdsw(doc))]
         self.assertEqual(
             spans,
             [
@@ -25,7 +25,7 @@ class TestSplitOnStr(TestCase):
 
     def test_graphic(self):
         doc = self.nlp.make_doc("尚書作罔克胥匡以生")
-        spans = [(span.text, span.label_) for span in list(doc_chunks_jdsw(doc))]
+        spans = [(span.text, span.label_) for span in list(doc_spans_jdsw(doc))]
         self.assertEqual(
             spans,
             [
@@ -36,7 +36,7 @@ class TestSplitOnStr(TestCase):
 
     def test_multi_graphic(self):
         doc = self.nlp.make_doc("本又作縻同亡池反散也干同徐又武寄反又亡彼反韓詩云共也孟同埤蒼作縻云散也陸作䌕京作劘")
-        spans = [(span.text, span.label_) for span in list(doc_chunks_jdsw(doc))]
+        spans = [(span.text, span.label_) for span in list(doc_spans_jdsw(doc))]
         self.assertEqual(
             spans,
             [
@@ -67,7 +67,7 @@ class TestSplitOnStr(TestCase):
 
     def test_multi_source(self):
         doc = self.nlp.make_doc("音橘徐又居密反鄭云綆也方言云關西謂綆爲繘郭璞云汲水索也又其律反又音述")
-        spans = [(span.text, span.label_) for span in list(doc_chunks_jdsw(doc))]
+        spans = [(span.text, span.label_) for span in list(doc_spans_jdsw(doc))]
         self.assertEqual(
             spans,
             [
@@ -91,7 +91,7 @@ class TestSplitOnStr(TestCase):
     def test_multi_semantic(self):
         doc = self.nlp.make_doc("節計反下卦同鄭云旣巳也盡也濟度也坎宫三世卦")
         debugpy.breakpoint()
-        spans = [(span.text, span.label_) for span in list(doc_chunks_jdsw(doc))]
+        spans = [(span.text, span.label_) for span in list(doc_spans_jdsw(doc))]
         self.assertEqual(
             spans,
             [
