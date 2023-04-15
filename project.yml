@@ -95,6 +95,11 @@ commands:
       - "python -m pip install -r requirements.txt"
 
   - name: "spancat"
+    help: "Annotate spans by correcting predictions based on heuristics"
+    script:
+      - "python -m prodigy jdsw.spans.correct ${vars.dataset} corpus/annotations-train.jsonl -F scripts/recipes/spancat.py"
+
+  - name: "spancat_tw"
     help: "Train a span categorizer based on Tharsen & Wang's JDSW schema"
     script:
       - "python -m prodigy db-in ${vars.dataset} assets/tharsen_wang_jdsw.jsonl"
