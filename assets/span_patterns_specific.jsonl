@@ -1,0 +1,6 @@
+{"pattern": [{"TEXT": "音", "OP": "?"}, {}, {}, {"TEXT": "反"}], "label":  "F"}
+{"pattern": [{"TEXT": {"IN": ["上", "下"]}, "OP": "?"}, {"TEXT": "音"}, {}], "label":  "Y"}
+{"pattern": [{"TEXT": "如"}, {"TEXT": "字"}], "label": "R"}
+{"pattern": [{}, {"TEXT": "也"}], "label":  "G"}
+{"pattern": [{"TEXT": {"NOT_IN": ["或", "又", "亦"]}}, {"TEXT": {"IN": ["或", "又", "亦"]}, "OP": "?"}, {"TEXT": "作"}, {}], "label": "V"}
+{"pattern": [{"TEXT": {"IN": ["卦", "本", "易"]}, "OP": "?"}, {"TEXT": {"IN": ["上", "下", "後", "注", "及", "内", "皆", "象"]}, "OP": "+"}, {"TEXT": "同"}], "label": "Q"}
