@@ -2,6 +2,7 @@ from unittest import TestCase
 
 import spacy
 from scripts.recipes.spancat import doc_chunks_jdsw
+import debugpy
 
 # 徐苦感反本亦作埳京劉作欿險也陷也八純卦象水
 # 精領反雜卦云通也彖云養而不窮周書云黃帝穿井世本云化益作井宋衷云化益伯益也堯臣廣雅云井深也鄭云井法也字林作井子挺反周云井以不變更爲義師說井以淸絜爲義震宫五世卦
@@ -85,4 +86,22 @@ class TestSplitOnStr(TestCase):
                 ("又其律反", "PHONETIC"),
                 ("又音述", "PHONETIC"),
             ],
+        )
+
+    def test_multi_semantic(self):
+        doc = self.nlp.make_doc("節計反下卦同鄭云旣巳也盡也濟度也坎宫三世卦")
+        debugpy.breakpoint()
+        spans = [(span.text, span.label_) for span in list(doc_chunks_jdsw(doc))]
+        self.assertEqual(
+            spans,
+            [
+                ("節計反", "PHONETIC"),
+                ("下卦同", "META"),
+                ("鄭", "PERSON"),
+                ("云", "MARKER"),
+                ("旣巳也", "SEMANTIC"),
+                ("盡也", "SEMANTIC"),
+                ("濟度也", "SEMANTIC"),
+                ("坎宫三世卦", "WORK_OF_ART"),
+            ]
         )

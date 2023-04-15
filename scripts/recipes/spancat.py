@@ -131,14 +131,6 @@ def check_span(span: Span) -> Span:
         span._.possible_entity = True
         return span
 
-    # catchall entity detection via regex
-    for label, patterns in ENT_PATTERN_MAP.items():
-        if any(pattern.fullmatch(span.text) for pattern in patterns):
-            span.label_ = label
-            span._.atomic = True
-            span._.possible_entity = True
-            return span
-
     return span
 
 
@@ -232,6 +224,15 @@ def doc_chunks_jdsw(doc: Doc) -> Iterable[Span]:
     # pass 4: chunk-initial characters
     spans = split_spans(spans, SPLIT_BEFORE.split)
     spans = split_spans(spans, SPLIT_BEFORE_2.split)  # ent + 同
+
+    # pass 5: catchall entity detection
+    for span in spans:
+        for label, patterns in ENT_PATTERN_MAP.items():
+            if any(pattern.fullmatch(span.text) for pattern in patterns):
+                if not span.label_:  # don't overwrite existing labels
+                    span.label_ = label
+                    span._.atomic = True
+                    span._.possible_entity = True
 
     # TODO: build parse tree
 
