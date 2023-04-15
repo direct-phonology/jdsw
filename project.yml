@@ -94,13 +94,6 @@ commands:
     script:
       - "python -m pip install -r requirements.txt"
 
-  - name: "pos"
-    help: "Annotate parts of speech by correcting an existing model"
-    script:
-      - "python -m prodigy suparkanbun.pos.correct ${vars.dataset} assets/pos_sample.jsonl -F scripts/recipes.py"
-    deps:
-      - "assets/pos_sample.jsonl"
-
   - name: "spancat"
     help: "Train a span categorizer based on Tharsen & Wang's JDSW schema"
     script:
