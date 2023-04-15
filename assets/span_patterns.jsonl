@@ -1,6 +1,0 @@
-{"pattern": [{}, {}, {"TEXT": "反"}], "label":  "FANQIE"}
-{"pattern": [{"TEXT": {"IN": ["上", "下"]}, "OP": "?"}, {"TEXT": "音"}, {}], "label":  "YIN"}
-{"pattern": [{"TEXT": "如"}, {"TEXT": "字"}], "label": "RUZI"}
-{"pattern": [{}, {"TEXT": "也"}], "label":  "GLOSS"}
-{"pattern": [{"TEXT": {"NOT_IN": ["或", "又", "亦"]}}, {"TEXT": {"IN": ["或", "又", "亦"]}, "OP": "?"}, {"TEXT": "作"}, {}], "label": "VARIATION"}
-{"pattern": [{"TEXT": {"IN": ["卦", "本", "易"]}, "OP": "?"}, {"TEXT": {"IN": ["上", "下", "後", "注", "及", "内", "皆", "象"]}, "OP": "+"}, {"TEXT": "同"}], "label": "QUANTIFIER"}

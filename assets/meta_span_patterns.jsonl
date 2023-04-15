@@ -1,0 +1,7 @@
+{"pattern": [{"TEXT": {"IN": ["上", "下", "後"]}, "OP": "?"}, {"TEXT": "及"}, {"TEXT": "注"}, {"TEXT": "同"}], "label":  "M"}
+{"pattern": [{"TEXT": {"IN": ["章", "卦", "年", "卷", "篇", "易"]}}, {"TEXT": "末"}, {"TEXT": "注"}, {"TEXT": "同"}], "label": "M"}
+{"pattern": [{"TEXT": {"IN": ["章", "卦", "年", "卷", "篇", "易"]}}, {"TEXT": "内"}, {"TEXT": "皆", "OP": "?"}, {"TEXT": "同"}], "label": "M"}
+{"pattern": [{"TEXT": "諸"}, {"TEXT": "經"}, {"TEXT": "内"}, {"TEXT": "皆"}, {"TEXT": "同"}], "label": "M"}
+{"pattern": [{"TEXT": {"IN": ["上", "下", "後"]}}, {"TEXT": "皆", "OP": "?"}, {"TEXT": "同"}], "label":  "M"}
+{"pattern": [{"TEXT": "注"}, {"TEXT": "同"}], "label":  "M"}
+{"pattern": [{"TEXT": {"IN": ["上", "下", "後"]}, "OP": "?"}, {"TEXT": "皆", "OP": "?"}, {"TEXT": "放"}, {"TEXT": "此"}], "label":  "M"}
