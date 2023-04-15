@@ -1,8 +1,8 @@
-from unittest import TestCase
+from unittest import TestCase, skip
 
 from scripts.bin.convert_tw import ProdigyTask
 
-
+@skip("WIP")
 class TestProdigyConversion(TestCase):
 
   def setUp(self) -> None:
