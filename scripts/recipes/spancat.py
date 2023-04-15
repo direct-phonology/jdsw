@@ -27,10 +27,6 @@ from spacy.matcher import PhraseMatcher
 from thinc.api import Ops, get_current_ops
 from thinc.types import Ragged
 
-# import debugpy
-
-# debugpy.listen(5678)
-# debugpy.wait_for_client()
 
 if not Span.has_extension("atomic"):
     Span.set_extension("atomic", default=False)
@@ -41,8 +37,8 @@ if not Span.has_extension("possible_entity"):
 SPAN_LABELS = ["SEMANTIC", "GRAPHIC", "PHONETIC", "META", "PERSON", "WORK_OF_ART"]
 """Labels for types of content in Jingdian Shiwen annotations."""
 
-MODIFIER = "上下又並同一或亦後"
-MODIFIER2 = "注皆章及文篇"
+MODIFIER = "上下又並同一或亦後末"
+MODIFIER2 = "注皆章及文篇卦"
 MARKER = "作云也同音無"
 WORK = "書本文言子注經卦詩"
 
@@ -136,31 +132,30 @@ def check_span(span: Span) -> Span:
 
 def split_spans(
     spans: Iterable[Span],
-    # pattern: re.Pattern,
     split_fn: Callable[[str], List[str]],
 ) -> List[Span]:
     """
-    Use a pattern to split each non-atomic span, yielding a flat list of spans.
-    If split_fn is provided, use it to split the span instead of the pattern.
+    Use a provided function to split each non-atomic span, yielding a flat list of spans.
     """
     output_spans = []
     _split_fn = split_fn
 
     def _split_span(span: Span) -> List[Span]:
         output_spans = []
-        chunks = list(filter(bool, _split_fn(span.text)))
+        subspans = list(filter(bool, _split_fn(span.text)))
 
         # must be a non-destructive split
-        assert "".join(chunks) == span.text
+        assert "".join(subspans) == span.text
 
-        chunk_start = 0
-        for chunk in chunks:
+        subspan_start = 0
+        for subspan in subspans:
             output_spans.append(
                 span.doc.char_span(
-                    span.start + chunk_start, span.start + chunk_start + len(chunk)
+                    span.start + subspan_start,
+                    span.start + subspan_start + len(subspan),
                 )
             )
-            chunk_start += len(chunk)
+            subspan_start += len(subspan)
 
         return output_spans
 
@@ -168,8 +163,8 @@ def split_spans(
         if span._.atomic:
             output_spans.append(span)
         else:
-            for chunk in _split_span(span):
-                output_spans.append(check_span(chunk))
+            for subspan in _split_span(span):
+                output_spans.append(check_span(subspan))
 
     return output_spans
 
@@ -201,27 +196,25 @@ def split_phrase_matcher(doc: Doc, matcher: PhraseMatcher) -> List[str]:
     return split_at_indices(doc.text, sorted(list(set(indices))))
 
 
-def doc_chunks_jdsw(doc: Doc) -> Iterable[Span]:
-    """Split a Jingdian Shiwen annotation into non-overlapping 'chunks'."""
+def doc_spans_jdsw(doc: Doc) -> Iterable[Span]:
+    """Split a Jingdian Shiwen annotation into (non-overlapping) labeled spans."""
     # start with the entire doc as a single span
     spans = [doc.char_span(0, len(doc.text))]
 
-    # debugpy.breakpoint()
-
-    # pass 1: full chunks
+    # pass 1: phonetic patterns
     spans = split_spans(spans, PHON_PATTERN.split)
     spans = split_spans(spans, lambda s: split_backref_noncapture(s, XYZY_PATTERN))
 
     # pass 2: known entities
     spans = split_spans(spans, lambda s: split_phrase_matcher(nlp.make_doc(s), MATCHER))
 
-    # pass 2: chunk-final characters
+    # pass 2: span-final characters
     spans = split_spans(spans, SPLIT_AFTER.split)
 
-    # pass 3: chunk-separator characters
+    # pass 3: span-separator characters
     spans = split_spans(spans, SPLIT_AROUND.split)
 
-    # pass 4: chunk-initial characters
+    # pass 4: span-initial characters
     spans = split_spans(spans, SPLIT_BEFORE.split)
     spans = split_spans(spans, SPLIT_BEFORE_2.split)  # ent + 同
 
@@ -234,18 +227,16 @@ def doc_chunks_jdsw(doc: Doc) -> Iterable[Span]:
                     span._.atomic = True
                     span._.possible_entity = True
 
-    # TODO: build parse tree
-
     return spans
 
 
-def chunk_ngram_suggester(
+def span_ngram_suggester(
     docs: Iterable[Doc],
-    doc_chunks: Callable[[Doc], Iterable[Span]],
+    doc_spans: Callable[[Doc], Iterable[Span]],
     *,
     ops: Optional[Ops] = None,
 ) -> Ragged:
-    """Suggester for all ngrams within preselected chunks of a document."""
+    """Suggester for all ngrams within preselected spans of a document."""
     # if we didn't specify gpu or cpu, use whatever is currently active
     if ops is None:
         ops = get_current_ops()
@@ -258,8 +249,8 @@ def chunk_ngram_suggester(
     lengths = []
     for doc in docs:
         length = 0
-        for chunk in doc_chunks(doc):
-            tokens = range(chunk.start, chunk.end)
+        for span in doc_spans(doc):
+            tokens = range(span.start, span.end)
             for i in range(1, len(tokens)):
                 for ng in ngrams(i, tokens):
                     spans.append(ng)
@@ -280,7 +271,7 @@ def chunk_ngram_suggester(
 def build_jdsw_suggester() -> Suggester:
     """Suggest spans within Jingdian Shiwen annotations."""
     # TODO: support specifying a maximum ngram size
-    return partial(chunk_ngram_suggester, doc_chunks=doc_chunks_jdsw)
+    return partial(span_ngram_suggester, doc_spans=doc_spans_jdsw)
 
 
 def make_tasks(
@@ -289,7 +280,7 @@ def make_tasks(
     """Predict spans for a stream of examples using a rule-based approach."""
     for eg in stream:
         eg["spans"] = []
-        for span in doc_chunks_jdsw(nlp.make_doc(eg["text"])):
+        for span in doc_spans_jdsw(nlp.make_doc(eg["text"])):
             if span.label_ in labels:
                 eg["spans"].append(
                     {
