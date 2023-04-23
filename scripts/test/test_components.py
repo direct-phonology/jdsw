@@ -3,7 +3,6 @@ from unittest import TestCase, skip
 
 import spacy
 
-# bail out if prodigy's not installed
 try:
     from scripts.recipes.spancat import doc_spans_jdsw
 except ModuleNotFoundError:
