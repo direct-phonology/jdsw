@@ -5,3 +5,4 @@ seaborn
 torch
 fastcore
 suparkanbun
+jsonlines
