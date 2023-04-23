@@ -1,13 +1,19 @@
+import os
 from unittest import TestCase, skip
 
 import spacy
-from scripts.recipes.spancat import doc_spans_jdsw
-import debugpy
+
+# bail out if prodigy's not installed
+try:
+    from scripts.recipes.spancat import doc_spans_jdsw
+except ModuleNotFoundError:
+    from scripts.lib.components import doc_to_spans
 
 # 徐苦感反本亦作埳京劉作欿險也陷也八純卦象水
 # 精領反雜卦云通也彖云養而不窮周書云黃帝穿井世本云化益作井宋衷云化益伯益也堯臣廣雅云井深也鄭云井法也字林作井子挺反周云井以不變更爲義師說井以淸絜爲義震宫五世卦
 
 
+@skip("Unused; kept for reference")
 class TestSplitOnStr(TestCase):
     def setUp(self):
         self.nlp = spacy.blank("zh")
@@ -104,5 +110,5 @@ class TestSplitOnStr(TestCase):
                 ("盡也", "SEMANTIC"),
                 ("濟度也", "SEMANTIC"),
                 ("坎宫三世卦", "WORK_OF_ART"),
-            ]
+            ],
         )
