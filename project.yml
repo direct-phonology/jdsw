@@ -47,10 +47,10 @@ description: |
   ```sh
   spacy project run install
   ```
-  Then, choose an annotation task (see "commands" below). Invoke it with:
+  Then, choose a task (see "commands" below). Invoke it with e.g.:
   ```sh
-  # example: annotate parts-of-speech
-  spacy project run pos
+  # annotate data by correcting predictions
+  spacy project run annotate
   ```
 
 # Variables can be referenced across the project.yml using ${vars.var_name}
@@ -94,13 +94,13 @@ commands:
     script:
       - "python -m pip install -r requirements.txt"
 
-  - name: "spancat"
-    help: "Annotate spans by correcting predictions based on heuristics"
+  - name: "annotate"
+    help: "Annotate spans and relations by correcting predictions based on heuristics"
     script:
-      - "python -m prodigy jdsw.spans.correct ${vars.dataset} corpus/annotations-train.jsonl -F scripts/recipes/spancat.py"
+      - "python -m prodigy jdsw.correct ${vars.dataset} corpus/annotations-train.jsonl -F scripts/recipes/spancat.py"
 
-  - name: "spancat_tw"
-    help: "Train a span categorizer based on Tharsen & Wang's JDSW schema"
-    script:
-      - "python -m prodigy db-in ${vars.dataset} assets/tharsen_wang_jdsw.jsonl"
-      - "python -m prodigy train training/ --spancat ${vars.dataset} --lang zh --label-stats"
+  # - name: "spancat_tw"
+  #   help: "Train a span categorizer based on Tharsen & Wang's JDSW schema"
+  #   script:
+  #     - "python -m prodigy db-in ${vars.dataset} assets/tharsen_wang_jdsw.jsonl"
+  #     - "python -m prodigy train training/ --spancat ${vars.dataset} --lang zh --label-stats"
