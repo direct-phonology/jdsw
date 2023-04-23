@@ -19,11 +19,12 @@ import srsly
 from nltk.util import ngrams
 from prodigy.components.loaders import get_stream
 from prodigy.components.preprocess import add_tokens
-from prodigy.types import SpansExample
+from prodigy.types import RelationsTask
 from prodigy.util import set_hashes, split_string
 from spacy.pipeline.spancat import Suggester
 from spacy.tokens import Doc, Span
 from spacy.matcher import PhraseMatcher
+from spacy.language import Language
 from thinc.api import Ops, get_current_ops
 from thinc.types import Ragged
 
@@ -34,8 +35,11 @@ if not Span.has_extension("atomic"):
 if not Span.has_extension("possible_entity"):
     Span.set_extension("possible_entity", default=True)
 
-SPAN_LABELS = ["SEMANTIC", "GRAPHIC", "PHONETIC", "META", "PERSON", "WORK_OF_ART"]
+SPAN_LABELS = ["SEM", "GRAF", "PHON", "META", "PER", "WORK"]
 """Labels for types of content in Jingdian Shiwen annotations."""
+
+REL_LABELS = ["SRC", "MOD"]
+"""Labels for types of relations between spans in Jingdian Shiwen annotations."""
 
 MODIFIER = "上下又並同一或亦後末"
 MODIFIER2 = "注皆章及文篇卦"
@@ -43,16 +47,16 @@ MARKER = "作云也同音無"
 WORK = "書本文言子注經卦詩"
 
 SPAN_PATTERN_MAP = {
-    "PHONETIC": [
-        re.compile(rf"^[{MODIFIER}]*?音?如字$"),
-        re.compile(rf"^[{MODIFIER}]*?音?..反$"),
-        re.compile(rf"^[{MODIFIER}]*?音[^{MARKER}]$"),
+    "PHON": [
         re.compile(rf"^[{MODIFIER}]*?音?(.)(.)之\1|\2$"),
+        re.compile(rf"^[{MODIFIER}]*?音?..反$"),
+        re.compile(rf"^[{MODIFIER}]*?音?如字$"),
+        re.compile(rf"^[{MODIFIER}]*?音[^{MARKER}]$"),
     ],
-    "SEMANTIC": [
+    "SEM": [
         re.compile(rf"^[{MODIFIER}]*?[^{MARKER}]+也$"),
     ],
-    "GRAPHIC": [
+    "GRAF": [
         re.compile(rf"^[{MODIFIER}]*?[作無][^{MARKER}{MODIFIER}]+$"),
     ],
     "META": [
@@ -67,10 +71,10 @@ SPAN_PATTERN_MAP = {
 }
 
 ENT_PATTERN_MAP = {
-    "WORK_OF_ART": [
+    "WORK": [
         re.compile(rf"^.*?[{WORK}]$"),
     ],
-    "PERSON": [
+    "PER": [
         re.compile(rf"^[^{WORK}{MARKER}]{{1,3}}$"),
     ],
 }
@@ -84,7 +88,7 @@ ENT_PATTERNS = [
 ]
 
 PHON_PATTERN = re.compile(rf"([{MODIFIER}]*?音?(?:(?:..反)|音.|如字))")
-XYZY_PATTERN = re.compile(r"(.)(.)之\1|\2")
+XYZY_PATTERN = re.compile(r"音?(.)(.)之\1|\2")
 SPLIT_AFTER = re.compile(r"(.+?[也同]+)")
 SPLIT_AROUND = re.compile(rf"([{MODIFIER}]*?[云])")
 SPLIT_BEFORE = re.compile(rf"([{MODIFIER}]*?[作無][^{MARKER}]+)")
@@ -230,6 +234,48 @@ def doc_spans_jdsw(doc: Doc) -> Iterable[Span]:
     return spans
 
 
+def span_rels_jdsw(spans: List[Span]) -> Iterable[Dict[str, Any]]:
+    """Extract relations from Jingdian Shiwen spans."""
+    rels: List[Dict[str, Any]] = []
+    subtrees: List[List[Span]] = [[]]
+
+    # first pass: add relations between meta spans and what they modify
+    for i, span in enumerate(spans):
+        if i > 0 and span.label_ == "META" and spans[i - 1].label_ in SPAN_LABELS:
+            rels.append(
+                {
+                    "head": span.end - 1,
+                    "child": spans[i - 1].end - 1,
+                    "label": "MOD",
+                }
+            )
+
+    # second pass: add relations between spans and their textual sources (entities)
+    while len(spans):
+        span = spans.pop(0)
+        if span.label_ not in ["PER", "WORK"]:
+            subtrees[-1].append(span)
+        else:
+            subtrees.append([span])
+    for subtree in subtrees:
+        if len(subtree) < 2:
+            continue
+        head = subtree[0]
+        if head.label_ not in ["PER", "WORK"]:
+            continue
+        for span in subtree[1:]:
+            if span.label_ in ["SEM", "GRAF", "PHON"]:
+                rels.append(
+                    {
+                        "head": head.end - 1,
+                        "child": span.end - 1,
+                        "label": "SRC",
+                    }
+                )
+
+    return rels
+
+
 def span_ngram_suggester(
     docs: Iterable[Doc],
     doc_spans: Callable[[Doc], Iterable[Span]],
@@ -275,27 +321,55 @@ def build_jdsw_suggester() -> Suggester:
 
 
 def make_tasks(
-    stream: Iterable[SpansExample], labels: Container[str]
-) -> Iterator[SpansExample]:
+    nlp: Language,
+    stream: Iterable[RelationsTask],
+    labels: Container[str],
+) -> Iterator[RelationsTask]:
     """Predict spans for a stream of examples using a rule-based approach."""
-    for eg in stream:
-        eg["spans"] = []
-        for span in doc_spans_jdsw(nlp.make_doc(eg["text"])):
-            if span.label_ in labels:
-                eg["spans"].append(
-                    {
-                        "start": span.start,
-                        "end": span.end - 1,
-                        "token_start": span.start,
-                        "token_end": span.end - 1,
-                        "label": span.label_,
-                    }
-                )
+    texts = ((eg["text"], eg) for eg in stream)
+
+    for text, eg in texts:
+        doc = nlp.make_doc(text)
+
+        # tokens
+        tokens = [
+            {
+                "start": i,
+                "end": i + 1,
+                "text": char,
+                "id": i,
+                "ws": False,
+                "disabled": char == "云",
+            }
+            for i, char in enumerate(text)
+        ]
+        eg["tokens"] = tokens
+
+        # spans
+        spans = doc_spans_jdsw(doc)
+        prodigy_spans = [
+            {
+                "start": span.start,
+                "end": span.end,
+                "token_start": span.start,
+                "token_end": span.end - 1,
+                "label": span.label_,
+            }
+            for span in spans
+            if span.label_ in labels
+        ]
+        eg["spans"] = prodigy_spans
+
+        # relations
+        rels = span_rels_jdsw(list(spans))
+        eg["relations"] = rels
+
+        # rehash since we added data
         eg = set_hashes(eg)
         yield eg
 
 
-def validate_spans(eg: SpansExample) -> bool:
+def validate_spans(eg: RelationsTask) -> bool:
     """Validate Jingdian Shiwen spans."""
     # TODO: validate that spans are within the suggested chunks
     spans = eg.get("spans", [])
@@ -303,7 +377,7 @@ def validate_spans(eg: SpansExample) -> bool:
 
 
 @prodigy.recipe(
-    "jdsw.spans.correct",
+    "jdsw.correct",
     dataset=("Dataset to save annotations to", "positional", None, str),
     source=(
         "Data to annotate (file path or '-' to read from standard input)",
@@ -312,35 +386,42 @@ def validate_spans(eg: SpansExample) -> bool:
         str,
     ),
     loader=("Loader (guessed from file extension if not set)", "option", "lo", str),
-    labels=(
-        "Comma-separated label(s) to annotate or text file with one label per line",
+    label=(
+        "Comma-separated relation label(s) to annotate or text file with one label per line",
+        "option",
+        "r",
+        split_string,
+    ),
+    span_label=(
+        "Comma-separated span label(s) to annotate or text file with one label per line",
         "option",
         "l",
         split_string,
     ),
 )
-def spans_correct_ruler_jdsw(
+def jdsw_correct(
     dataset: str,
     source: Union[str, Iterable[dict]],
     loader: Optional[str] = None,
-    labels: Container[str] = SPAN_LABELS,
+    label: Container[str] = REL_LABELS,
+    span_label: Container[str] = SPAN_LABELS,
 ) -> Dict[str, Any]:
-    """Annotate spans in JDSW annotations by correcting rule-based predictions."""
+    """Annotate spans and relations in JDSW annotations by correcting rule-based predictions."""
     # set up the character-based tokenizer
     nlp = spacy.blank("zh")
 
-    # stream in the data, tokenize, and add the predicted spans
-    stream = get_stream(source, loader)
-    stream = add_tokens(nlp, stream)
-    stream = make_tasks(stream, labels)
+    # stream in the data, tokenize, and add the predicted spans and labels
+    stream = get_stream(source, loader=loader, input_key="text")
+    stream = make_tasks(nlp, stream, span_label)
 
     # set up the recipe
     return {
         "dataset": dataset,
         "stream": stream,
-        "view_id": "spans_manual",
+        "view_id": "relations",
         # "validate_answer": validate_spans,
         "config": {
-            "labels": labels,
+            "labels": label,
+            "relations_span_labels": span_label,
         },
     }
