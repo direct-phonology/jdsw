@@ -3,8 +3,5 @@
   "instructions": "instructions.html",
   "buttons": ["accept", "ignore", "undo"],
   "auto_count_stream": true,
-  "batch_size": 20,
-  "custom_theme": {
-    "fontPrimary": "'Heiti TC', 'Microsoft YaHei New', 'Microsoft Yahei', SimHei, serif"
-  }
+  "batch_size": 10
 }
