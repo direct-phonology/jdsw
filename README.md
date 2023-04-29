@@ -49,10 +49,10 @@ Install python dependencies needed for annotation:
 ```sh
 spacy project run install
 ```
-Then, choose an annotation task (see "commands" below). Invoke it with:
+Then, choose a task (see "commands" below). Invoke it with e.g.:
 ```sh
-# example: annotate parts-of-speech
-spacy project run pos
+# annotate data by correcting predictions
+spacy project run annotate
 ```
 
 
@@ -71,7 +71,7 @@ Commands are only re-run if their inputs have changed.
 | Command | Description |
 | --- | --- |
 | `install` | Install dependencies |
-| `pos` | Annotate parts of speech by correcting an existing model |
+| `annotate` | Annotate spans and relations by correcting predictions based on heuristics |
 
 ### 🗂 Assets
 
@@ -81,9 +81,8 @@ in the project directory.
 
 | File | Source | Description |
 | --- | --- | --- |
-| [`assets/annotations.jsonl`](assets/annotations.jsonl) | Local | Corpus of annotations from the _Jingdian Shiwen_, including their headwords |
-| [`assets/corpus.jsonl`](assets/corpus.jsonl) | Local | Corpus of source texts annotated in the _Jingdian Shiwen_, divided into documents |
 | [`assets/docs.csv`](assets/docs.csv) | Local | Table mapping each chapter in a source text to its location in the _Jingdian Shiwen_ |
 | [`assets/variants.json`](assets/variants.json) | Local | Equivalency table for graphic variants of characters |
+| `assets/treebank` | Git | Universal Dependencies treebank for Classical Chinese |
 
 <!-- SPACY PROJECT: AUTO-GENERATED DOCS END (do not remove) -->
