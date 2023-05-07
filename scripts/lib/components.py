@@ -6,6 +6,7 @@ import spacy
 import srsly
 from spacy.matcher import PhraseMatcher
 from spacy.tokens import Doc, Span
+from spacy.util import filter_spans
 
 from scripts.lib.patterns import (
     ENT_PATTERN_MAP,
@@ -53,11 +54,17 @@ def check_span(span: Span) -> Span:
             span._.possible_entity = False
             return span
 
-    # check if the span matches a known entity pattern
+    # check if the span matches a known entity pattern, preferring longest match
     # if so, label it and mark it as atomic
-    matches = MATCHER(span.as_doc())
-    if len(matches) == 1 and (matches[0][2] - matches[0][1] == len(span)):
-        span.label_ = nlp.vocab.strings[matches[0][0]]
+    doc = span.as_doc()
+    match_spans = []
+    for label, start, end in MATCHER(doc):
+        match_span = doc.char_span(start, end)
+        match_span.label_ = nlp.vocab.strings[label]
+        match_spans.append(match_span)
+    matches = filter_spans(match_spans)
+    if len(matches) == 1 and (matches[0].text == span.text):
+        span.label_ = matches[0].label_
         span._.atomic = True
         span._.possible_entity = True
         return span
@@ -125,9 +132,10 @@ def split_backref_noncapture(text: str, pattern: re.Pattern) -> List[str]:
 def split_phrase_matcher(doc: Doc, matcher: PhraseMatcher) -> List[str]:
     """Split a string using a provided PhraseMatcher instance."""
     indices = []
-    for match in matcher(doc):
-        indices.append(match[1])
-        indices.append(match[2])
+    spans = [doc[start:end] for _, start, end in matcher(doc)]
+    for span in filter_spans(spans):
+        indices.append(span.start)
+        indices.append(span.end)
     return split_at_indices(doc.text, sorted(list(set(indices))))
 
 
