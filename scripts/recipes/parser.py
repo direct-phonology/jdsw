@@ -92,7 +92,7 @@ def make_tasks(
     dataset=("Dataset to save annotations to", "positional", None, str),
     source=("Data to annotate (file path or '-' to read from standard input)", "positional", None, str),
     loader=("Loader (guessed from file extension if not set)", "option", "lo", str),
-    labels=("Comma-separated NER label(s) to annotate or text file with one label per line", "option", "l", split_string),
+    labels=("Comma-separated relation label(s) to annotate or text file with one label per line", "option", "l", split_string),
     bert=("BERT model to use from SuPaR-Kanbun", "option", "b", str),
 )
 def dep_correct_suparkanbun(
