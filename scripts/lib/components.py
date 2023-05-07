@@ -1,49 +1,107 @@
 import re
-import json
-from typing import List, Iterable, Tuple, Callable
-from collections import namedtuple, defaultdict
+from collections import defaultdict
+from typing import Any, Callable, Dict, Iterable, List
 
-from pathlib import Path
 import spacy
 import srsly
-from spacy.language import Language
 from spacy.matcher import PhraseMatcher
+from spacy.tokens import Doc, Span
 
-# from spacy.tokens import Doc, Span
+from scripts.lib.patterns import (
+    ENT_PATTERN_MAP,
+    PHON_PATTERN,
+    SPAN_LABELS,
+    SPAN_PATTERN_MAP,
+    SPLIT_AFTER,
+    SPLIT_AROUND,
+    SPLIT_BEFORE,
+    SPLIT_BEFORE_2,
+    XYZY_PATTERN,
+)
 
-MODIFIER = "上下又並同一或亦"
-PHON_PATTERN = re.compile(rf"([{MODIFIER}]?音?(?:(?:..反)|音.|如字))")
-XYZY_PATTERN = re.compile(r"(.)(.)之\1|\2")
-SPLIT_AFTER = re.compile(r"(.+?[也同]+)")
-SPLIT_AROUND = re.compile(rf"([{MODIFIER}]?云)")
-SPLIT_BEFORE = re.compile(rf"([{MODIFIER}]?作.+)")
+if not Span.has_extension("atomic"):
+    Span.set_extension("atomic", default=False)
 
-# GRAPHIC = re.compile(r"(.+?)([上下又並同一或亦]?作.)")
+if not Span.has_extension("possible_entity"):
+    Span.set_extension("possible_entity", default=True)
+
+# pre-defined entity patterns
+patterns = defaultdict(list)
+for pattern in srsly.read_jsonl("assets/jdsw_ner_patterns.jsonl"):
+    patterns[pattern["label"]].append(pattern["pattern"])
+
+# set up a PhraseMatcher for pre-defined entities
+nlp = spacy.blank("zh")
+MATCHER = PhraseMatcher(nlp.vocab, None)
+for label, _patterns in patterns.items():
+    MATCHER.add(label, [nlp.make_doc(pattern) for pattern in _patterns])
 
 
-# individual span formats
-## fanqie (modifier + 音? + AB + 反)
-## yin (modifier + 音 + X)
-## ruzi (modifier + 如字)
-## xyzy (XY + 之 + X/Y)
-## semantic (anything ending in 也)
-## meta (anything ending in 同); "出注" or "絶句"??
-## graphic (entity + 作 + X)
-## entity (anything preceding a 作 or 云)
-### book (ending with 書 or 本)
-### person (1-3 characters)
+def check_span(span: Span) -> Span:
+    """Check whether a span contains entities and/or is atomic, and set the flags accordingly."""
+    # spans of length 1 can no longer be split
+    if len(span) == 1:
+        span._.atomic = True
 
-SEMANTIC = re.compile(r"^[^云作]+?也$")
-GRAPHIC = re.compile(rf"^[{MODIFIER}]?作[^云也]*$")
-META = re.compile(r"^[^作云也]*?同$")
-WORK_OF_ART = re.compile(r"^.*?[書本文言子注經卦]$")
-PERSON = re.compile(r"^[^云作也書本文言注經]{1,2}$")
-COMMENTARY = re.compile(r"^.+注.+$")
+    # check if the span matches a known span pattern
+    # if so, label it and mark it as atomic
+    # also mark it as not containing any entities
+    for label, patterns in SPAN_PATTERN_MAP.items():
+        if any(pattern.fullmatch(span.text) for pattern in patterns):
+            span.label_ = label
+            span._.atomic = True
+            span._.possible_entity = False
+            return span
 
-Span = namedtuple("Span", ["text", "label"])
+    # check if the span matches a known entity pattern
+    # if so, label it and mark it as atomic
+    matches = MATCHER(span.as_doc())
+    if len(matches) == 1 and (matches[0][2] - matches[0][1] == len(span)):
+        span.label_ = nlp.vocab.strings[matches[0][0]]
+        span._.atomic = True
+        span._.possible_entity = True
+        return span
 
-# entity_patterns = [json.loads(pattern) for pattern in Path("assets/ner_patterns.jsonl").read_text().splitlines()]
-# entities = set(pattern['pattern'] for pattern in entity_patterns)
+    return span
+
+
+def split_spans(
+    spans: Iterable[Span],
+    split_fn: Callable[[str], List[str]],
+) -> List[Span]:
+    """
+    Use a provided function to split each non-atomic span, yielding a flat list of spans.
+    """
+    output_spans = []
+    _split_fn = split_fn
+
+    def _split_span(span: Span) -> List[Span]:
+        output_spans = []
+        subspans = list(filter(bool, _split_fn(span.text)))
+
+        # must be a non-destructive split
+        assert "".join(subspans) == span.text
+
+        subspan_start = 0
+        for subspan in subspans:
+            output_spans.append(
+                span.doc.char_span(
+                    span.start + subspan_start,
+                    span.start + subspan_start + len(subspan),
+                )
+            )
+            subspan_start += len(subspan)
+
+        return output_spans
+
+    for span in spans:
+        if span._.atomic:
+            output_spans.append(span)
+        else:
+            for subspan in _split_span(span):
+                output_spans.append(check_span(subspan))
+
+    return output_spans
 
 
 def split_at_indices(text: str, indices: List[int]) -> List[str]:
@@ -64,143 +122,86 @@ def split_backref_noncapture(text: str, pattern: re.Pattern) -> List[str]:
     return split_at_indices(text, sorted(list(set(indices))))
 
 
-def split_spans(
-    spans: Iterable[Span],
-    pattern: re.Pattern,
-    split_fn: Callable[[str], List[str]] = None,
-) -> List[Span]:
-    """
-    Use a pattern to split each unlabeled span, returning a flattened list of spans.
-    If split_fn is provided, use it to split the span instead of the pattern.
-    """
-    output: List[Span] = []
-    _split_fn = split_fn or pattern.split
+def split_phrase_matcher(doc: Doc, matcher: PhraseMatcher) -> List[str]:
+    """Split a string using a provided PhraseMatcher instance."""
+    indices = []
+    for match in matcher(doc):
+        indices.append(match[1])
+        indices.append(match[2])
+    return split_at_indices(doc.text, sorted(list(set(indices))))
 
+
+def doc_spans_jdsw(doc: Doc) -> Iterable[Span]:
+    """Split a Jingdian Shiwen annotation into (non-overlapping) labeled spans."""
+    # start with the entire doc as a single span
+    spans = [doc.char_span(0, len(doc.text))]
+
+    # pass 1: phonetic patterns
+    spans = split_spans(spans, PHON_PATTERN.split)
+    spans = split_spans(spans, lambda s: split_backref_noncapture(s, XYZY_PATTERN))
+
+    # pass 2: known entities
+    spans = split_spans(spans, lambda s: split_phrase_matcher(nlp.make_doc(s), MATCHER))
+
+    # pass 2: span-final characters
+    spans = split_spans(spans, SPLIT_AFTER.split)
+
+    # pass 3: span-separator characters
+    spans = split_spans(spans, SPLIT_AROUND.split)
+
+    # pass 4: span-initial characters
+    spans = split_spans(spans, SPLIT_BEFORE.split)
+    spans = split_spans(spans, SPLIT_BEFORE_2.split)  # ent + 同
+
+    # pass 5: catchall entity detection
     for span in spans:
-        if span.label:
-            output.append(span)
-            continue
-
-        for item in _split_fn(span.text):
-            if item:
-                output.append(Span(item, None))
-
-    return output
-
-
-def label_spans(
-    spans: Iterable[Span],
-    pattern: re.Pattern,
-    label: str,
-) -> List[Span]:
-    """For each unlabeled span, label it if it matches the pattern."""
-
-    output: List[Span] = []
-
-    for span in spans:
-        if span.label:
-            output.append(span)
-            continue
-
-        if pattern.match(span.text):
-            output.append(Span(span.text, label))
-        else:
-            output.append(span)
-
-    return output
-
-
-def split_and_label_spans(
-    spans: Iterable[Span],
-    pattern: re.Pattern,
-    label: str = None,
-    split_fn: Callable[[str], List[str]] = None,
-) -> List[Span]:
-    """
-    For each unlabeled span, split it using the pattern and label the result if it matches the pattern.
-    If split_fn is provided, use it to split the span instead of the pattern.
-    """
-    output: List[Span] = []
-    _split_fn = split_fn or pattern.split
-
-    for span in spans:
-        if span.label:
-            output.append(span)
-            continue
-
-        for item in _split_fn(span.text):
-            if item:
-                if pattern.match(item):
-                    output.append(Span(item, label))
-                else:
-                    output.append(Span(item, None))
-
-    return output
-
-
-def label_via_matcher(spans: Iterable[Span], matcher: PhraseMatcher, nlp: spacy.Language) -> List[Span]:
-    """For each unlabeled span, label it if it matches a phrase in the matcher."""
-    output: List[Span] = []
-
-    for span in spans:
-        doc = nlp.make_doc(span.text)
-        matches = matcher(doc)
-
-
-
-    return output
-
-
-def doc_to_spans(doc: str) -> List[Span]:
-    # first pass: split and label phonetic patterns
-    spans = [Span(doc, None)]
-    spans = split_and_label_spans(spans, PHON_PATTERN, label="PHONETIC")
-    spans = split_and_label_spans(
-        spans,
-        XYZY_PATTERN,
-        label="PHONETIC",
-        split_fn=lambda s: split_backref_noncapture(s, XYZY_PATTERN),
-    )
-
-    # second pass: split semantic, graphic, meta patterns
-    spans = split_spans(spans, SPLIT_AFTER)
-    spans = split_spans(spans, SPLIT_AROUND)
-    spans = split_spans(spans, SPLIT_BEFORE)
-
-    # third pass: split known entities
-    # patterns = defaultdict(list)
-    # for pattern in srsly.read_jsonl('assets/ner_patterns.jsonl'):
-    #     patterns[pattern['label']].append(pattern['pattern'])
-
-    # nlp = spacy.blank("zh")
-    # matcher = PhraseMatcher(nlp.vocab, None)
-    # for label, _patterns in patterns.items():
-    #     matcher.add(label, [nlp.make_doc(pattern) for pattern in _patterns])
-
-    # final pass: labeling
-    spans = label_spans(spans, SEMANTIC, "SEMANTIC")
-    spans = label_spans(spans, META, "META")
-    spans = label_spans(spans, GRAPHIC, "GRAPHIC")
-
-    # commentary entities
-    spans = label_spans(spans, COMMENTARY, "WORK_OF_ART")
-
-    # catch-all for entities
-    for i, span in enumerate(spans):
-        if "云" in span.text or span.label == "GRAPHIC":
-            if not spans[i - 1].label:
-                if WORK_OF_ART.match(spans[i - 1].text):
-                    spans[i - 1] = Span(spans[i - 1].text, "WORK_OF_ART")
-                elif PERSON.match(spans[i - 1].text):
-                    spans[i - 1] = Span(spans[i - 1].text, "PERSON")
+        for label, patterns in ENT_PATTERN_MAP.items():
+            if any(pattern.fullmatch(span.text) for pattern in patterns):
+                if not span.label_:  # don't overwrite existing labels
+                    span.label_ = label
+                    span._.atomic = True
+                    span._.possible_entity = True
 
     return spans
 
 
-def str_to_doc(text: str) -> spacy.tokens.Doc:
-    """Convert a string to a spaCy Doc."""
-    nlp = spacy.blank("zh")
+def span_rels_jdsw(spans: List[Span]) -> Iterable[Dict[str, Any]]:
+    """Extract relations from Jingdian Shiwen spans."""
+    rels: List[Dict[str, Any]] = []
+    subtrees: List[List[Span]] = [[]]
 
-    doc = nlp(text)
+    # first pass: add relations between meta spans and what they modify
+    for i, span in enumerate(spans):
+        if i > 0 and span.label_ == "META" and spans[i - 1].label_ in SPAN_LABELS:
+            rels.append(
+                {
+                    "head": span.end - 1,
+                    "child": spans[i - 1].end - 1,
+                    "label": "MOD",
+                }
+            )
 
-    return doc
+    # second pass: add relations between spans and their textual sources (entities)
+    while len(spans):
+        span = spans.pop(0)
+        if span.label_ not in ["PER", "WORK"]:
+            subtrees[-1].append(span)
+        else:
+            subtrees.append([span])
+    for subtree in subtrees:
+        if len(subtree) < 2:
+            continue
+        head = subtree[0]
+        if head.label_ not in ["PER", "WORK"]:
+            continue
+        for span in subtree[1:]:
+            if span.label_ in ["SEM", "GRAF", "PHON"]:
+                rels.append(
+                    {
+                        "head": head.end - 1,
+                        "child": span.end - 1,
+                        "label": "SRC",
+                    }
+                )
+
+    return rels

@@ -126,3 +126,62 @@ KSEMVAR_THREE = re.compile(r"U\+(\w+)<(?:k\w+,?){3}")  # all three dicts agree
 KSEMVAR_TWO = re.compile(r"U\+(\w+)<(?:k\w+,?){2}")  # two dicts agree
 KSEMVAR_ONE = re.compile(r"U\+(\w+)<k\w+")  # use any dict
 KZVAR = re.compile(r"U\+(\w+)")  # z-variant
+
+SPAN_LABELS = ["SEM", "GRAF", "PHON", "META", "PER", "WORK"]
+"""Labels for types of content in Jingdian Shiwen annotations."""
+
+REL_LABELS = ["SRC", "MOD"]
+"""Labels for types of relations between spans in Jingdian Shiwen annotations."""
+
+MODIFIER = "上下又並同一或亦後末"
+MODIFIER2 = "注皆章及文篇卦"
+MARKER = "作云也同音無"
+WORK = "書本文言子注經卦詩"
+
+SPAN_PATTERN_MAP = {
+    "PHON": [
+        re.compile(rf"^[{MODIFIER}]*?音?(.)(.)之\1|\2$"),
+        re.compile(rf"^[{MODIFIER}]*?音?..反$"),
+        re.compile(rf"^[{MODIFIER}]*?音?如字$"),
+        re.compile(rf"^[{MODIFIER}]*?音[^{MARKER}]$"),
+    ],
+    "SEM": [
+        re.compile(rf"^[{MODIFIER}]*?[^{MARKER}]+也$"),
+    ],
+    "GRAF": [
+        re.compile(rf"^[{MODIFIER}]*?[作無][^{MARKER}{MODIFIER}]+$"),
+    ],
+    "META": [
+        re.compile(rf"[{MODIFIER}{MODIFIER2}]+[^{MARKER}]*同$"),
+        re.compile(r"^出注$"),
+        re.compile(r"^絶句$"),
+        re.compile(r"^字非$"),
+    ],
+    "MARKER": [
+        re.compile(rf"^[{MODIFIER}]*?[{MARKER}]$"),
+    ],
+}
+
+ENT_PATTERN_MAP = {
+    "WORK": [
+        re.compile(rf"^.*?[{WORK}]$"),
+    ],
+    "PER": [
+        re.compile(rf"^[^{WORK}{MARKER}]{{1,3}}$"),
+    ],
+}
+
+SPAN_PATTERNS = [
+    pattern for patterns in SPAN_PATTERN_MAP.values() for pattern in patterns
+]
+
+ENT_PATTERNS = [
+    pattern for patterns in ENT_PATTERN_MAP.values() for pattern in patterns
+]
+
+PHON_PATTERN = re.compile(rf"([{MODIFIER}]*?音?(?:(?:..反)|音.|如字))")
+XYZY_PATTERN = re.compile(r"音?(.)(.)之\1|\2")
+SPLIT_AFTER = re.compile(r"(.+?[也同]+)")
+SPLIT_AROUND = re.compile(rf"([{MODIFIER}]*?[云])")
+SPLIT_BEFORE = re.compile(rf"([{MODIFIER}]*?[作無][^{MARKER}]+)")
+SPLIT_BEFORE_2 = re.compile(rf"([^{MARKER}{MODIFIER}{MODIFIER2}]+)(同)")
