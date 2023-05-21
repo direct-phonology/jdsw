@@ -34,6 +34,19 @@ class TestSpanLabeling(TestCase):
             ],
         )
 
+    def test_ent_in_meta(self):
+        doc = self.nlp.make_doc("都浪反易内皆同有異者别出")
+        spans = [(span.text, span.label_) for span in list(doc_spans_jdsw(doc))]
+        self.assertEqual(
+            spans,
+            [
+                ("都浪反", "PHON"),
+                ("易", "WORK"),
+                ("内皆同", "META"),
+                ("有異者别出", ""),
+            ],
+        )
+
     def test_multi_graf(self):
         doc = self.nlp.make_doc("本又作縻同亡池反散也干同徐又武寄反又亡彼反韓詩云共也孟同埤蒼作縻云散也陸作䌕京作劘")
         spans = [(span.text, span.label_) for span in list(doc_spans_jdsw(doc))]
