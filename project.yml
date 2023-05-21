@@ -98,3 +98,8 @@ commands:
     help: "Annotate spans and relations by correcting predictions based on heuristics"
     script:
       - "python -m prodigy jdsw.correct ${vars.dataset} corpus/annotations-small.jsonl -F scripts/recipes/spancat.py"
+
+  - name: "export"
+    help: "Export annotations from Prodigy's database"
+    script:
+      - "python -m prodigy db-out ${vars.dataset} corpus"
