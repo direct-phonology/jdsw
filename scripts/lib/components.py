@@ -56,18 +56,18 @@ def check_span(span: Span) -> Span:
 
     # check if the span matches a known entity pattern, preferring longest match
     # if so, label it and mark it as atomic
-    doc = span.as_doc()
-    match_spans = []
-    for label, start, end in MATCHER(doc):
-        match_span = doc.char_span(start, end)
-        match_span.label_ = nlp.vocab.strings[label]
-        match_spans.append(match_span)
-    matches = filter_spans(match_spans)
-    if len(matches) == 1 and (matches[0].text == span.text):
-        span.label_ = matches[0].label_
-        span._.atomic = True
-        span._.possible_entity = True
-        return span
+    if span._.possible_entity:
+        doc = span.as_doc()
+        match_spans = []
+        for label, start, end in MATCHER(doc):
+            match_span = doc.char_span(start, end)
+            match_span.label_ = nlp.vocab.strings[label]
+            match_spans.append(match_span)
+        matches = filter_spans(match_spans)
+        if len(matches) == 1 and (matches[0].text == span.text):
+            span.label_ = matches[0].label_
+            span._.atomic = True
+            return span
 
     return span
 
