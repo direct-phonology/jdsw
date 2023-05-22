@@ -15,6 +15,7 @@ from scripts.lib.patterns import (
     SPAN_PATTERN_MAP,
     SPLIT_AFTER,
     SPLIT_AROUND,
+    SPLIT_AROUND_2,
     SPLIT_BEFORE,
     SPLIT_BEFORE_2,
     SPLIT_BEFORE_3,
@@ -172,6 +173,7 @@ def doc_spans_jdsw(doc: Doc) -> Iterable[Span]:
 
     # pass 3: span-separator characters
     spans = split_spans(spans, SPLIT_AROUND.split)
+    spans = split_spans(spans, SPLIT_AROUND_2.split) # 非也
 
     # pass 4: span-initial characters
     spans = split_spans(spans, SPLIT_BEFORE.split)
