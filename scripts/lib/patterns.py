@@ -146,11 +146,11 @@ SPAN_PATTERN_MAP = {
         re.compile(rf"^[{MODIFIER}]*?音[^{MARKER}]$"),
     ],
     "SEM": [
-        re.compile(rf"^[{MODIFIER}]*?[^{MARKER}]+也$"),
+        re.compile(rf"^[{MODIFIER}]*?[^{MARKER}非]+也$"),
         re.compile(rf"^[{MODIFIER}]*?謂之[^{MARKER}]+$"),
     ],
     "GRAF": [
-        re.compile(rf"^[{MODIFIER}]*?[作無][^{MARKER}{MODIFIER}]+$"),
+        re.compile(rf"^[{MODIFIER}]*?[作無][^{MARKER}{MODIFIER}]+字?$"),
     ],
     "META": [
         re.compile(rf"^[{MODIFIER}{MODIFIER2}]+[^{MARKER}]*同$"),
@@ -161,6 +161,9 @@ SPAN_PATTERN_MAP = {
     "MARKER": [
         re.compile(rf"^[{MODIFIER}]*?[{MARKER}]$"),
     ],
+    "NEG": [
+        re.compile(rf"^者?非也$"),
+    ]
 }
 
 ENT_PATTERN_MAP = {
@@ -182,8 +185,9 @@ ENT_PATTERNS = [
 
 PHON_PATTERN = re.compile(rf"([{MODIFIER}]*?音?(?:(?:..反)|音.|如字))")
 XYZY_PATTERN = re.compile(r"音?(.)(.)之\1|\2")
-SPLIT_AFTER = re.compile(r"(.+?[也同]+)")
+SPLIT_AFTER = re.compile(r"([^非]+?[也同]+)")
 SPLIT_AROUND = re.compile(rf"([{MODIFIER}]*?[云])")
-SPLIT_BEFORE = re.compile(rf"([{MODIFIER}]*?[作無][^{MARKER}]+)")
+SPLIT_AROUND_2 = re.compile(rf"(者?非也)")
+SPLIT_BEFORE = re.compile(rf"([{MODIFIER}]*?[作無][^{MARKER}]+字?)")
 SPLIT_BEFORE_2 = re.compile(rf"([^{MARKER}{MODIFIER}{MODIFIER2}]+)(同)")
 SPLIT_BEFORE_3 = re.compile(rf"([{MODIFIER}]*?謂之[^{MARKER}]+?)")
