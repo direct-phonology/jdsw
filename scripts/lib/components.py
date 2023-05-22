@@ -139,6 +139,21 @@ def split_phrase_matcher(doc: Doc, matcher: PhraseMatcher) -> List[str]:
     return split_at_indices(doc.text, sorted(list(set(indices))))
 
 
+def split_headwords(text: str, headword: str) -> List[str]:
+    """Split a string using any characters from the headword."""
+    indices = [i for i, char in enumerate(text) if char in headword]
+    ranges = []
+    for j, i in enumerate(indices):
+        if j == 0:
+            ranges.append([i, i + 1])
+        elif indices[j - 1] == i - 1:
+            ranges[-1][1] += 1
+        else:
+            ranges.append([i, i + 1])
+    range_indices = [i for r in ranges for i in r]
+    return split_at_indices(text, sorted(list(set(range_indices))))
+
+
 def doc_spans_jdsw(doc: Doc) -> Iterable[Span]:
     """Split a Jingdian Shiwen annotation into (non-overlapping) labeled spans."""
     # start with the entire doc as a single span
@@ -160,6 +175,15 @@ def doc_spans_jdsw(doc: Doc) -> Iterable[Span]:
     # pass 4: span-initial characters
     spans = split_spans(spans, SPLIT_BEFORE.split)
     spans = split_spans(spans, SPLIT_BEFORE_2.split)  # ent + 同
+
+    # pass 5: restatements of headword
+    if headword := doc.user_data.get("headword"):
+        spans = split_spans(spans, lambda s: split_headwords(s, headword))
+        for span in spans:
+            if span.text in headword:
+                span.label_ = "HEAD"
+                span._.atomic = True
+                span._.possible_entity = False
 
     # pass 5: catchall entity detection
     for span in spans:
