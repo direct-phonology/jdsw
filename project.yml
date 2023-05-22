@@ -95,9 +95,9 @@ commands:
       - "python -m pip install -r requirements.txt"
 
   - name: "annotate"
-    help: "Annotate spans and relations by correcting predictions based on heuristics"
+    help: "Annotate spans by correcting predictions based on heuristics"
     script:
-      - "python -m prodigy jdsw.correct ${vars.dataset} corpus/annotations-small.jsonl -F scripts/recipes/spancat.py"
+      - "python -m prodigy jdsw.spans.correct ${vars.dataset} corpus/annotations-small.jsonl -F scripts/recipes/spancat.py"
 
   - name: "export"
     help: "Export annotations from Prodigy's database"
