@@ -17,6 +17,7 @@ from scripts.lib.patterns import (
     SPLIT_AROUND,
     SPLIT_BEFORE,
     SPLIT_BEFORE_2,
+    SPLIT_BEFORE_3,
     XYZY_PATTERN,
 )
 
@@ -175,6 +176,7 @@ def doc_spans_jdsw(doc: Doc) -> Iterable[Span]:
     # pass 4: span-initial characters
     spans = split_spans(spans, SPLIT_BEFORE.split)
     spans = split_spans(spans, SPLIT_BEFORE_2.split)  # ent + 同
+    spans = split_spans(spans, SPLIT_BEFORE_3.split)  # 謂之
 
     # pass 5: restatements of headword
     if headword := doc.user_data.get("headword"):

@@ -147,6 +147,7 @@ SPAN_PATTERN_MAP = {
     ],
     "SEM": [
         re.compile(rf"^[{MODIFIER}]*?[^{MARKER}]+也$"),
+        re.compile(rf"^[{MODIFIER}]*?謂之[^{MARKER}]+$"),
     ],
     "GRAF": [
         re.compile(rf"^[{MODIFIER}]*?[作無][^{MARKER}{MODIFIER}]+$"),
@@ -185,3 +186,4 @@ SPLIT_AFTER = re.compile(r"(.+?[也同]+)")
 SPLIT_AROUND = re.compile(rf"([{MODIFIER}]*?[云])")
 SPLIT_BEFORE = re.compile(rf"([{MODIFIER}]*?[作無][^{MARKER}]+)")
 SPLIT_BEFORE_2 = re.compile(rf"([^{MARKER}{MODIFIER}{MODIFIER2}]+)(同)")
+SPLIT_BEFORE_3 = re.compile(rf"([{MODIFIER}]*?謂之[^{MARKER}]+?)")
