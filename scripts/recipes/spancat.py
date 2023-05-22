@@ -13,8 +13,8 @@ from spacy.tokens import Doc, Span
 from thinc.api import Ops, get_current_ops
 from thinc.types import Ragged
 
-from scripts.lib.components import doc_spans_jdsw, span_rels_jdsw
-from scripts.lib.patterns import REL_LABELS, SPAN_LABELS
+from scripts.lib.components import doc_spans_jdsw
+from scripts.lib.patterns import SPAN_LABELS
 
 
 def span_ngram_suggester(
@@ -80,7 +80,6 @@ def make_tasks(
                 "text": char,
                 "id": i,
                 "ws": False,
-                "disabled": char == "云",
             }
             for i, char in enumerate(text)
         ]
@@ -101,10 +100,6 @@ def make_tasks(
         ]
         eg["spans"] = prodigy_spans
 
-        # relations
-        rels = span_rels_jdsw(list(spans))
-        eg["relations"] = rels
-
         # rehash since we added data
         eg = set_hashes(eg)
         yield eg
@@ -118,7 +113,7 @@ def validate_spans(eg: RelationsTask) -> bool:
 
 
 @prodigy.recipe(
-    "jdsw.correct",
+    "jdsw.spans.correct",
     dataset=("Dataset to save annotations to", "positional", None, str),
     source=(
         "Data to annotate (file path or '-' to read from standard input)",
@@ -127,42 +122,34 @@ def validate_spans(eg: RelationsTask) -> bool:
         str,
     ),
     loader=("Loader (guessed from file extension if not set)", "option", "lo", str),
-    label=(
-        "Comma-separated relation label(s) to annotate or text file with one label per line",
-        "option",
-        "r",
-        split_string,
-    ),
-    span_label=(
-        "Comma-separated span label(s) to annotate or text file with one label per line",
+    labels=(
+        "Comma-separated label(s) to annotate or text file with one label per line",
         "option",
         "l",
         split_string,
     ),
 )
-def jdsw_correct(
+def jdsw_spans_correct(
     dataset: str,
     source: Union[str, Iterable[dict]],
     loader: Optional[str] = None,
-    label: Container[str] = REL_LABELS,
-    span_label: Container[str] = SPAN_LABELS,
+    labels: Container[str] = SPAN_LABELS,
 ) -> Dict[str, Any]:
-    """Annotate spans and relations in JDSW annotations by correcting rule-based predictions."""
+    """Annotate spans in JDSW annotations by correcting rule-based predictions."""
     # set up the character-based tokenizer
     nlp = spacy.blank("zh")
 
     # stream in the data, tokenize, and add the predicted spans and labels
     stream = get_stream(source, loader=loader, input_key="text")
-    stream = make_tasks(nlp, stream, span_label)
+    stream = make_tasks(nlp, stream, labels)
 
     # set up the recipe
     return {
         "dataset": dataset,
         "stream": stream,
-        "view_id": "relations",
+        "view_id": "spans_manual",
         # "validate_answer": validate_spans,
         "config": {
-            "labels": label,
-            "relations_span_labels": span_label,
+            "labels": labels,
         },
     }

@@ -71,7 +71,7 @@ Commands are only re-run if their inputs have changed.
 | Command | Description |
 | --- | --- |
 | `install` | Install dependencies |
-| `annotate` | Annotate spans and relations by correcting predictions based on heuristics |
+| `annotate` | Annotate spans by correcting predictions based on heuristics |
 | `export` | Export annotations from Prodigy's database |
 
 ### 🗂 Assets
