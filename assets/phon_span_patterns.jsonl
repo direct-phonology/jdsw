@@ -1,3 +1,0 @@
-{"pattern": [{"TEXT": {"IN": ["上", "下", "又"]}, "OP": "?"}, {"TEXT": "音", "OP": "?"}, {}, {}, {"TEXT": "反"}], "label":  "P"}
-{"pattern": [{"TEXT": "又", "OP": "?"}, {"TEXT": "如"}, {"TEXT": "字"}], "label": "P"}
-{"pattern": [{"TEXT": "又", "OP": "?"}, {"TEXT": "音"}, {}], "label":  "P"}

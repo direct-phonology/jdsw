@@ -30,7 +30,7 @@ if not Span.has_extension("possible_entity"):
 
 # pre-defined entity patterns
 patterns = defaultdict(list)
-for pattern in srsly.read_jsonl("assets/jdsw_ner_patterns.jsonl"):
+for pattern in srsly.read_jsonl("assets/ner_patterns.jsonl"):
     patterns[pattern["label"]].append(pattern["pattern"])
 
 # set up a PhraseMatcher for pre-defined entities
