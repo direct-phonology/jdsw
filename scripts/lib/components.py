@@ -181,22 +181,13 @@ def doc_spans_jdsw(doc: Doc) -> Iterable[Span]:
     spans = split_spans(spans, SPLIT_BEFORE_3.split)  # 謂之
 
     # pass 5: restatements of headword
-    if headword := doc.user_data.get("headword"):
-        spans = split_spans(spans, lambda s: split_headwords(s, headword))
-        for span in spans:
-            if span.text in headword:
-                span.label_ = "HEAD"
-                span._.atomic = True
-                span._.possible_entity = False
-
-    # pass 5: catchall entity detection
-    for span in spans:
-        for label, patterns in ENT_PATTERN_MAP.items():
-            if any(pattern.fullmatch(span.text) for pattern in patterns):
-                if not span.label_:  # don't overwrite existing labels
-                    span.label_ = label
-                    span._.atomic = True
-                    span._.possible_entity = True
+    # if headword := doc.user_data.get("headword"):
+    #     spans = split_spans(spans, lambda s: split_headwords(s, headword))
+    #     for span in spans:
+    #         if span.text in headword:
+    #             span.label_ = "HEAD"
+    #             span._.atomic = True
+    #             span._.possible_entity = False
 
     return spans
 
