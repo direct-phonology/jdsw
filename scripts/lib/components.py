@@ -9,7 +9,6 @@ from spacy.tokens import Doc, Span
 from spacy.util import filter_spans
 
 from scripts.lib.patterns import (
-    ENT_PATTERN_MAP,
     PHON_PATTERN,
     SPAN_LABELS,
     SPAN_PATTERN_MAP,

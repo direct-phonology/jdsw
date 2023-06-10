@@ -136,7 +136,6 @@ REL_LABELS = ["SRC", "MOD"]
 MODIFIER = "上下又並同一或亦後末内"
 MODIFIER2 = "注皆章及文篇卦易"
 MARKER = "作云也同音無"
-WORK = "書本文言子注經卦詩"
 
 SPAN_PATTERN_MAP = {
     "PHON": [
@@ -161,26 +160,10 @@ SPAN_PATTERN_MAP = {
     "MARKER": [
         re.compile(rf"^[{MODIFIER}]*?[{MARKER}]$"),
     ],
-    "NEG": [
-        re.compile(rf"^者?非也$"),
-    ]
-}
-
-ENT_PATTERN_MAP = {
-    "WORK": [
-        re.compile(rf"^.*?[{WORK}]$"),
-    ],
-    "PER": [
-        re.compile(rf"^[^{WORK}{MARKER}]{{1,3}}$"),
-    ],
 }
 
 SPAN_PATTERNS = [
     pattern for patterns in SPAN_PATTERN_MAP.values() for pattern in patterns
-]
-
-ENT_PATTERNS = [
-    pattern for patterns in ENT_PATTERN_MAP.values() for pattern in patterns
 ]
 
 PHON_PATTERN = re.compile(rf"([{MODIFIER}]*?音?(?:(?:..反)|音.|如字))")
