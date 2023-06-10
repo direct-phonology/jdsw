@@ -152,10 +152,11 @@ SPAN_PATTERN_MAP = {
         re.compile(rf"^[{MODIFIER}]*?[作無][^{MARKER}{MODIFIER}]+[字同]?$"),
     ],
     "META": [
-        re.compile(rf"^[{MODIFIER}{MODIFIER2}]+[^{MARKER}]*同$"),
         re.compile(r"^出注$"),
         re.compile(r"^絶句$"),
         re.compile(r"^字非$"),
+        re.compile(rf"^者?非也$"),
+        re.compile(rf"^[{MODIFIER}{MODIFIER2}]+[^{MARKER}]*同$"),
     ],
     "MARKER": [
         re.compile(rf"^[{MODIFIER}]*?[{MARKER}]$"),
