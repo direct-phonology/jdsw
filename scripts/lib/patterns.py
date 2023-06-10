@@ -133,7 +133,7 @@ SPAN_LABELS = ["SEM", "GRAF", "PHON", "META", "PER", "WORK"]
 REL_LABELS = ["SRC", "MOD"]
 """Labels for types of relations between spans in Jingdian Shiwen annotations."""
 
-MODIFIER = "上下又並同一或亦後末内"
+MODIFIER = "上下又並一或亦後末内"
 MODIFIER2 = "注皆章及文篇卦易"
 MARKER = "作云也同音無"
 
@@ -149,7 +149,7 @@ SPAN_PATTERN_MAP = {
         re.compile(rf"^[{MODIFIER}]*?謂之[^{MARKER}]+$"),
     ],
     "GRAF": [
-        re.compile(rf"^[{MODIFIER}]*?[作無][^{MARKER}{MODIFIER}]+字?$"),
+        re.compile(rf"^[{MODIFIER}]*?[作無][^{MARKER}{MODIFIER}]+[字同]?$"),
     ],
     "META": [
         re.compile(rf"^[{MODIFIER}{MODIFIER2}]+[^{MARKER}]*同$"),
@@ -171,6 +171,6 @@ XYZY_PATTERN = re.compile(r"音?(.)(.)之\1|\2")
 SPLIT_AFTER = re.compile(r"([^非]+?[也同]+)")
 SPLIT_AROUND = re.compile(rf"([{MODIFIER}]*?[云])")
 SPLIT_AROUND_2 = re.compile(rf"(者?非也)")
-SPLIT_BEFORE = re.compile(rf"([{MODIFIER}]*?[作無][^{MARKER}]+字?)")
+SPLIT_BEFORE = re.compile(rf"([{MODIFIER}]*?[作無][^{MARKER}]+[字同]?)")
 SPLIT_BEFORE_2 = re.compile(rf"([^{MARKER}{MODIFIER}{MODIFIER2}]+)(同)")
 SPLIT_BEFORE_3 = re.compile(rf"([{MODIFIER}]*?謂之[^{MARKER}]+?)")
