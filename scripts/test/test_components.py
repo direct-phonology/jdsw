@@ -1,16 +1,17 @@
-from unittest import TestCase
+from unittest import TestCase, skip
 
 import spacy
 
 from scripts.lib.components import doc_spans_jdsw
 
-# 徐苦感反本亦作埳京劉作欿險也陷也八純卦象水
 # 精領反雜卦云通也彖云養而不窮周書云黃帝穿井世本云化益作井宋衷云化益伯益也堯臣廣雅云井深也鄭云井法也字林作井子挺反周云井以不變更爲義師說井以淸絜爲義震宫五世卦
+# 本又作貃武伯反靜也德正應和曰貉左傳作莫音同韓詩同云莫定也
 
 
 class TestSpanLabeling(TestCase):
     def setUp(self):
         self.nlp = spacy.blank("zh")
+        self.maxDiff = None
 
     def test_phon_with_meta(self):
         doc = self.nlp.make_doc("爭鬪之爭下及注有爭皆同")
@@ -41,8 +42,7 @@ class TestSpanLabeling(TestCase):
             spans,
             [
                 ("都浪反", "PHON"),
-                ("易", "WORK"),
-                ("内皆同", "META"),
+                ("易内皆同", "META"),
                 ("有異者别出", ""),
             ],
         )
@@ -53,9 +53,9 @@ class TestSpanLabeling(TestCase):
         self.assertEqual(
             spans,
             [
-                ("本", "WORK"),
-                ("又作縻", "GRAF"),
-                ("同亡池反", "PHON"),
+                ("本", ""),
+                ("又作縻同", "GRAF"),
+                ("亡池反", "PHON"),
                 ("散也", "SEM"),
                 ("干", "PER"),
                 ("同", "MARKER"),
@@ -114,7 +114,7 @@ class TestSpanLabeling(TestCase):
                 ("旣巳也", "SEM"),
                 ("盡也", "SEM"),
                 ("濟度也", "SEM"),
-                ("坎宫三世卦", "WORK"),
+                ("坎宫三世卦", ""),
             ],
         )
 
@@ -124,7 +124,7 @@ class TestSpanLabeling(TestCase):
         self.assertEqual(
             spans,
             [
-                ("本", "WORK"),
+                ("本", ""),
                 ("亦作壺", "GRAF"),
                 ("京", "PER"),
                 ("馬", "PER"),
@@ -132,5 +132,91 @@ class TestSpanLabeling(TestCase):
                 ("王肅", "PER"),
                 ("翟子玄", "PER"),
                 ("作壺", "GRAF"),
+            ],
+        )
+
+    @skip("FIXME")
+    def test_graf_sem(self):
+        doc = self.nlp.make_doc("徐苦感反本亦作埳京劉作欿險也陷也八純卦象水")
+        spans = [(span.text, span.label_) for span in list(doc_spans_jdsw(doc))]
+        self.assertEqual(
+            spans,
+            [
+                ("徐", "PER"),
+                ("苦感反", "PHON"),
+                ("本", ""),
+                ("亦作埳", "GRAF"),
+                ("京劉", "PER"),
+                ("作欿", "GRAF"),
+                ("險也", "SEM"),
+                ("陷也", "SEM"),
+                ("八純卦象水", ""),
+            ],
+        )
+
+    @skip("FIXME")
+    def test_graf_zi(self):
+        doc = self.nlp.make_doc("音避徐扶亦反本或作避字非也")
+        spans = [(span.text, span.label_) for span in list(doc_spans_jdsw(doc))]
+        self.assertEqual(
+            spans,
+            [
+                ("音避", "PHON"),
+                ("徐", "PER"),
+                ("扶亦反", "PHON"),
+                ("本", ""),
+                ("或作避字", "GRAF"),
+                ("非也", "META"),
+            ],
+        )
+
+    @skip("FIXME")
+    def test_many_head_restatements(self):
+        doc = self.nlp.make_doc("音接櫂也徐音集方言云楫謂之橈或謂之櫂郭注云楫橈頭索也所以縣櫂謂之楫說文云楫舟棹也釋名云在傍撥水曰櫂又謂之楫")
+        doc.user_data["headword"] = "楫之"
+        spans = [(span.text, span.label_) for span in list(doc_spans_jdsw(doc))]
+        self.assertEqual(
+            spans,
+            [
+                ("音接", "PHON"),
+                ("櫂也", "SEM"),
+                ("徐", "PER"),
+                ("音集", "PHON"),
+                ("方言", "WORK"),
+                ("云", "MARKER"),
+                ("楫謂之橈", "SEM"),
+                ("或謂之櫂", "SEM"),
+                ("郭注", "WORK"),
+                ("云", "MARKER"),
+                ("楫橈頭索也", "SEM"),
+                ("所以縣櫂謂之楫", "SEM"),
+                ("說文", "WORK"),
+                ("云", "MARKER"),
+                ("楫舟棹也", "SEM"),
+                ("釋名", "WORK"),
+                ("云", "MARKER"),
+                ("在傍撥水曰櫂", ""),
+                ("又謂之楫", "SEM"),
+            ],
+        )
+
+    @skip("FIXME")
+    def test_multi_head_references(self):
+        doc = self.nlp.make_doc("本亦作愷又作凱苦亥反弟亦作悌徒禮反一音待豈樂也弟易也後豈弟皆同")
+        doc.user_data["headword"] = "豈弟"
+        spans = [(span.text, span.label_) for span in list(doc_spans_jdsw(doc))]
+        self.assertEqual(
+            spans,
+            [
+                ("本", ""),
+                ("亦作愷", "GRAF"),
+                ("又作凱", "GRAF"),
+                ("苦亥反", "PHON"),
+                ("弟亦作悌", "GRAF"),
+                ("徒禮反", "PHON"),
+                ("一音待", "SEM"),
+                ("豈樂也", "SEM"),
+                ("弟易也", "SEM"),
+                ("後豈弟皆同", "META"),
             ],
         )
