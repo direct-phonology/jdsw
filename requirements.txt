@@ -1,5 +1,7 @@
 spacy
 spacy-och
+spacy-transformers
+spacy-experimental
 pandas
 seaborn
 torch
