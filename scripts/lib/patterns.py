@@ -133,7 +133,7 @@ SPAN_LABELS = ["SEM", "GRAF", "PHON", "META", "PER", "WORK"]
 REL_LABELS = ["SRC", "MOD"]
 """Labels for types of relations between spans in Jingdian Shiwen annotations."""
 
-MODIFIER = "上下又並一或亦後末内"
+MODIFIER = "上下又並一或亦後末内當"
 MODIFIER2 = "注皆章及文篇卦易"
 MARKER = "作云也同音無"
 
