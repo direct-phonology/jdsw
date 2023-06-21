@@ -55,28 +55,33 @@ description: |
 
 # Variables can be referenced across the project.yml using ${vars.var_name}
 vars:
-  dataset: "jdsw_annotations"
-  lang: "lzh"
+  corpus: "annotations-small"
+  embedding: "tok2vec" # tok2vec, trf
+  suggester: "span_finder" # ngram, span_finder
+  transformer_model_name: "roberta-classical-chinese-base-char"
   gpu_id: -1
-  eval_split: 0.25
-  treebank: "UD_Classical_Chinese-Kyoto"
+  config_file: "configs/${vars.suggester}/config_${vars.embedding}.cfg"
+  spancat_model: "training/${vars.embedding}_${vars.suggester}/model-best"
 
 # These are the directories that the project needs. The project CLI will make
 # sure that they always exist.
-directories: ["assets", "configs", "corpus", "metrics", "packages", "scripts", "training"]
+directories: ["assets", "configs", "data", "metrics", "packages", "scripts", "training"]
 
-# Assets that should be downloaded or available in the directory. We're shipping
-# them with the project, so they won't have to be downloaded. But the
-# 'project assets' command still lets you verify that the checksums match.
+# Assets that should be downloaded or available in the directory. Remote assets
+# will be downloaded if not present locally.
 assets:
   - dest: "assets/docs.csv"
     description: "Table mapping each chapter in a source text to its location in the _Jingdian Shiwen_"
+    url: 
+    
   - dest: "assets/variants.json"
     description: "Equivalency table for graphic variants of characters"
+    url: 
+
   - dest: "assets/treebank"
     description: "Universal Dependencies treebank for Classical Chinese"
     git:
-      repo: "https://github.com/UniversalDependencies/${vars.treebank}"
+      repo: "https://github.com/UniversalDependencies/UD_Classical_Chinese-Kyoto"
       branch: master
       path: ""
 
@@ -94,12 +99,28 @@ commands:
     script:
       - "python -m pip install -r requirements.txt"
 
-  - name: "annotate"
+  - name: "annotate-spans"
     help: "Annotate spans by correcting predictions based on heuristics"
     script:
-      - "python -m prodigy jdsw.spans.correct ${vars.dataset} corpus/annotations-small.jsonl -F scripts/recipes/spancat.py"
+      - "python -m prodigy jdsw.spans.correct jdsw-spans assets/${vars.corpus}.jsonl -F scripts/recipes/spancat.py"
 
   - name: "export"
-    help: "Export annotations from Prodigy's database"
+    help: "Export training data from prodigy's database for use with spaCy"
     script:
-      - "python -m prodigy db-out ${vars.dataset} corpus"
+      - "python -m prodigy data-to-spacy data --lang zh --config ${vars.config_file} --spancat jdsw-spans"
+    deps:
+      - "${vars.config_file}"
+    outputs:
+      - "data/dev.spacy"
+      - "data/train.spacy"
+
+  - name: "train"
+    help: "Train a spaCy pipeline"
+    script:
+      - "python -m spacy train ${vars.config_file} --output training/${vars.embedding}_${vars.suggester}/ --paths.train data/train.spacy --paths.dev data/dev.spacy --gpu-id ${vars.gpu_id}"
+    deps:
+      - "${vars.config_file}"
+      - "data/train.spacy"
+      - "data/dev.spacy"
+    outputs:
+      - "${vars.spancat_model}"

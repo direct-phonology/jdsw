@@ -1,6 +1,6 @@
 <!-- SPACY PROJECT: AUTO-GENERATED DOCS START (do not remove) -->
 
-# 🪐 spaCy Project: Parsing the _Jingdian Shiwen_
+# spaCy Project: Parsing the _Jingdian Shiwen_
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://direct-phonology-jdsw-scriptsvisualize-0px83h.streamlit.app/)
 
@@ -56,13 +56,13 @@ spacy project run annotate
 ```
 
 
-## 📋 project.yml
+## project.yml
 
 The [`project.yml`](project.yml) defines the data assets required by the
 project, as well as the available commands and workflows. For details, see the
 [spaCy projects documentation](https://spacy.io/usage/projects).
 
-### ⏯ Commands
+### Commands
 
 The following commands are defined by the project. They
 can be executed using [`spacy project run [name]`](https://spacy.io/api/cli#project-run).
@@ -71,10 +71,11 @@ Commands are only re-run if their inputs have changed.
 | Command | Description |
 | --- | --- |
 | `install` | Install dependencies |
-| `annotate` | Annotate spans by correcting predictions based on heuristics |
-| `export` | Export annotations from Prodigy's database |
+| `annotate-spans` | Annotate spans by correcting predictions based on heuristics |
+| `export` | Export training data from prodigy's database for use with spaCy |
+| `train` | Train a spaCy pipeline |
 
-### 🗂 Assets
+### Assets
 
 The following assets are defined by the project. They can
 be fetched by running [`spacy project assets`](https://spacy.io/api/cli#project-assets)
@@ -87,3 +88,12 @@ in the project directory.
 | `assets/treebank` | Git | Universal Dependencies treebank for Classical Chinese |
 
 <!-- SPACY PROJECT: AUTO-GENERATED DOCS END (do not remove) -->
+
+### Parameters
+
+| Parameter | Description |
+| --- | --- |
+| `embedding` | Choose an embedding layer implementation (spaCy's Tok2Vec or Transformer) |
+| `suggester` | Choose between two span suggester architectures (SpanFinder, Ngram) |
+| `tranformer_model_name` | Choose a transformer model from HuggingFace (if using Transformer as the embedding layer) |
+| `gpu_id` | Choose whether you want to use your GPU (device number) or CPU (-1) |
