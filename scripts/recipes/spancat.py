@@ -1,5 +1,6 @@
 from functools import partial
 from typing import Any, Callable, Container, Dict, Iterable, Iterator, Optional, Union
+import random
 
 import prodigy
 import spacy
@@ -139,8 +140,11 @@ def jdsw_spans_correct(
     # set up the character-based tokenizer
     nlp = spacy.blank("zh")
 
-    # stream in the data, tokenize, and add the predicted spans and labels
-    stream = get_stream(source, loader=loader, input_key="text")
+    # stream in the data and shuffle it
+    stream = list(get_stream(source, loader=loader, input_key="text"))
+    random.shuffle(stream)
+
+    # tokenize, and add the predicted spans and labels
     stream = make_tasks(nlp, stream, labels)
 
     # set up the recipe
