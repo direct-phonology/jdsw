@@ -55,7 +55,7 @@ description: |
 
 # Variables can be referenced across the project.yml using ${vars.var_name}
 vars:
-  corpus: "annotations-small"
+  corpus: "annotations-large"
   embedding: "tok2vec" # tok2vec, trf
   suggester: "span_finder" # ngram, span_finder
   transformer_model_name: "roberta-classical-chinese-base-char"
