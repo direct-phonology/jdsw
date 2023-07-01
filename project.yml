@@ -57,7 +57,7 @@ description: |
 vars:
   corpus: "annotations-large"
   embedding: "tok2vec" # tok2vec, trf
-  suggester: "span_finder" # ngram, span_finder
+  suggester: "ngram" # ngram, span_finder
   transformer_model_name: "roberta-classical-chinese-base-char"
   gpu_id: -1
   config_file: "configs/${vars.suggester}/config_${vars.embedding}.cfg"
