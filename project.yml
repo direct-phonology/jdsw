@@ -102,15 +102,17 @@ commands:
   - name: "annotate-spans"
     help: "Annotate spans by correcting predictions based on heuristics"
     script:
-      - "python -m prodigy jdsw.spans.correct jdsw-spans assets/${vars.corpus}.jsonl -F scripts/recipes/spancat.py"
+      - "python -m prodigy jdsw.spans.correct spans assets/${vars.corpus}.jsonl -F scripts/recipes/spancat.py"
 
   - name: "export"
     help: "Export training data from prodigy's database for use with spaCy"
     script:
-      - "python -m prodigy data-to-spacy data --lang zh --config ${vars.config_file} --spancat jdsw-spans"
+      - "python -m prodigy db-out spans data"
+      - "python -m prodigy data-to-spacy data --lang zh --config ${vars.config_file} --spancat spans"
     deps:
       - "${vars.config_file}"
     outputs:
+      - "data/spans.jsonl"
       - "data/dev.spacy"
       - "data/train.spacy"
 
