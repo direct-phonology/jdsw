@@ -58,7 +58,7 @@ vars:
   corpus: "annotations-large"
   embedding: "tok2vec" # tok2vec, trf
   suggester: "ngram" # ngram, span_finder
-  transformer_model_name: "roberta-classical-chinese-base-char"
+  transformer_model_name: "KoichiYasuoka/roberta-classical-chinese-base-char"
   gpu_id: -1
   config_file: "configs/${vars.suggester}/config_${vars.embedding}.cfg"
   spancat_model: "training/${vars.embedding}_${vars.suggester}/model-best"
@@ -119,7 +119,7 @@ commands:
   - name: "train"
     help: "Train a spaCy pipeline"
     script:
-      - "python -m spacy train ${vars.config_file} --output training/${vars.embedding}_${vars.suggester}/ --paths.train data/train.spacy --paths.dev data/dev.spacy --gpu-id ${vars.gpu_id}"
+      - "python -m spacy train ${vars.config_file} --output training/${vars.embedding}_${vars.suggester}/ --paths.train data/train.spacy --paths.dev data/dev.spacy --gpu-id ${vars.gpu_id} --vars.transformer_model_name ${vars.transformer_model_name}"
     deps:
       - "${vars.config_file}"
       - "data/train.spacy"
