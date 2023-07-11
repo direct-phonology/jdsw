@@ -10,4 +10,5 @@ mypy.ini
 *.numbers
 project.lock
 training
+metrics
 assets/treebank

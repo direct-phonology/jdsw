@@ -126,3 +126,9 @@ commands:
       - "data/dev.spacy"
     outputs:
       - "${vars.spancat_model}"
+
+  - name: "eval"
+    help: "Evaluate the trained spaCy pipeline's accuracy and speed using test data"
+    script:
+      - "python -m spacy benchmark accuracy ${vars.spancat_model} data --gpu-id ${vars.gpu_id} --output metrics/accuracy.json"
+      - "python -m spacy benchmark speed ${vars.spancat_model} data --gpu-id ${vars.gpu_id}"
