@@ -1,12 +1,14 @@
 import unittest
 
 from scripts.lib.alignment import (
+    ALTERNATE,
     ANCHOR,
     GAP,
     PARTIAL,
     UNMATCHED,
     Alignment,
     align_sequence,
+    alternate_graphs,
 )
 from scripts.lib.documents import KanripoDoc
 
@@ -58,6 +60,38 @@ class TestAlignSequence(unittest.TestCase):
         matches = align_sequence(["甲乙丙", "戊新", "庚辛壬"], "甲乙丙丁戊己庚辛壬癸")
         self.assertEqual(matches[1].confidence, PARTIAL)
         self.assertEqual((matches[1].start, matches[1].end), (4, 6))
+
+    def test_damaged_char_is_wildcard(self):
+        """a ⬤ placeholder in the text matches any lemma character exactly,
+        instead of being absorbed by a lossy prefix match"""
+        matches = align_sequence(["甲乙丙", "戊己", "庚辛壬"], "甲乙丙丁⬤己庚辛壬癸")
+        self.assertEqual(matches[1].confidence, GAP)
+        self.assertEqual((matches[1].start, matches[1].end), (4, 6))
+        # single-char lemma over a damaged char
+        matches = align_sequence(["甲乙丙", "戊", "庚辛壬"], "甲乙丙丁⬤己庚辛壬癸")
+        self.assertEqual((matches[1].start, matches[1].end), (4, 5))
+
+    def test_alternate_graph_recovery(self):
+        """a lemma absent from the text is recovered via the alternative
+        graph its own gloss cites (本又作X)"""
+        text = "甲乙丙丁戊己庚辛壬癸"
+        lemmas = ["甲乙丙", "戊新", "庚辛壬"]
+        alternates = [(), ("己",), ()]
+        matches = align_sequence(lemmas, text, alternates=alternates)
+        self.assertEqual(matches[1].confidence, ALTERNATE)
+        self.assertEqual((matches[1].start, matches[1].end), (4, 6))
+
+
+class TestAlternateGraphs(unittest.TestCase):
+    def test_formulae(self):
+        self.assertEqual(alternate_graphs("本又作措又作厝同七路反"), ("措", "厝"))
+        self.assertEqual(alternate_graphs("本亦作己"), ("己",))
+        self.assertEqual(alternate_graphs("一本作虛"), ("虛",))
+
+    def test_other_texts_graphs_are_not_alternates(self):
+        """citations of other texts' graphs (說文作X) are not 本-variants"""
+        self.assertEqual(alternate_graphs("說文作䞓又作赬"), ())
+        self.assertEqual(alternate_graphs("音洛"), ())
 
 
 class TestAlignmentReport(unittest.TestCase):

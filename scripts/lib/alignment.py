@@ -18,6 +18,7 @@ this directly:
    their longest matching prefix or suffix.
 """
 
+import re
 from bisect import bisect_right
 from dataclasses import dataclass
 from itertools import groupby
@@ -29,8 +30,18 @@ from scripts.lib.variants import normalize
 # alignment confidence levels, from best to worst
 ANCHOR = "anchor"  # exact match selected by weighted LIS
 GAP = "gap"  # exact match found between two anchors
+ALTERNATE = "alternate"  # matched via an alternative graph cited in the gloss
 PARTIAL = "partial"  # prefix/suffix match found between two anchors
 UNMATCHED = "unmatched"  # no plausible position found
+
+# placeholder for a damaged/illegible character in SBCK transcriptions;
+# treated as a wildcard that matches any lemma character
+DAMAGED = "⬤"
+
+# glosses citing alternative graphs for a character of the headword,
+# e.g. 本又作X, 本亦作X, 一本作X, including chains like 本又作X又作Y
+ALTERNATE_GRAPH = re.compile(r"本[又亦或]?作(.(?:又作.)*)")
+ALTERNATE_CHAIN = re.compile(r"又作(.)")
 
 
 @dataclass
@@ -78,6 +89,19 @@ class _MaxFenwick:
             best = max(best, self.tree[i])
             i -= i & -i
         return best
+
+
+def _wildcard_find(needle: str, haystack: str, start: int = 0) -> int:
+    """
+    Like str.find, but a DAMAGED placeholder in the haystack matches any
+    needle character. Falls back to str.find when no placeholder is present.
+    """
+    if DAMAGED not in haystack:
+        return haystack.find(needle, start)
+    for i in range(start, len(haystack) - len(needle) + 1):
+        if all(h == n or h == DAMAGED for h, n in zip(haystack[i:], needle)):
+            return i
+    return -1
 
 
 def _find_all(needle: str, haystack: str, limit: int) -> list[int]:
@@ -130,24 +154,38 @@ def _select_anchors(candidates: list[_Candidate]) -> list[_Candidate]:
 
 
 def _fill_gap(
-    lemma: str, text: str, window_start: int, window_end: int
+    lemma: str,
+    text: str,
+    window_start: int,
+    window_end: int,
+    alternates: tuple = (),
 ) -> Optional[Match]:
     """Place a non-anchor lemma within the window between its flanking anchors."""
     window = text[window_start:window_end]
 
-    # exact match within the window
-    pos = window.find(lemma)
+    # exact match within the window (damaged characters match anything)
+    pos = _wildcard_find(lemma, window)
     if pos != -1:
         start = window_start + pos
         return Match(-1, lemma, start, start + len(lemma), GAP)
 
+    # retry with alternative graphs cited in the gloss (本又作X), substituted
+    # for each character of the lemma in turn
+    for alt in alternates:
+        for i in range(len(lemma)):
+            variant = lemma[:i] + alt + lemma[i + 1 :]
+            pos = _wildcard_find(variant, window)
+            if pos != -1:
+                start = window_start + pos
+                return Match(-1, lemma, start, start + len(lemma), ALTERNATE)
+
     # longest prefix or suffix match, extended to the full lemma length
     for length in range(len(lemma) - 1, 0, -1):
-        pos = window.find(lemma[:length])
+        pos = _wildcard_find(lemma[:length], window)
         if pos != -1:
             start = window_start + pos
             return Match(-1, lemma, start, min(start + len(lemma), window_end), PARTIAL)
-        pos = window.find(lemma[-length:])
+        pos = _wildcard_find(lemma[-length:], window)
         if pos != -1:
             end = window_start + pos + length
             return Match(-1, lemma, max(end - len(lemma), window_start), end, PARTIAL)
@@ -155,16 +193,34 @@ def _fill_gap(
     return None
 
 
+def alternate_graphs(annotation: str) -> tuple:
+    """Alternative graphs for the headword cited in an annotation (本又作X)."""
+    graphs = []
+    for segment in ALTERNATE_GRAPH.findall(annotation):
+        graphs.append(segment[0])
+        graphs.extend(ALTERNATE_CHAIN.findall(segment[1:]))
+    return tuple(graphs)
+
+
 def align_sequence(
-    lemmas: list[str], text: str, max_candidates: int = 128
+    lemmas: list[str],
+    text: str,
+    max_candidates: int = 128,
+    alternates: Optional[list[tuple]] = None,
 ) -> list[Match]:
     """
     Align an ordered sequence of lemmata against a text, returning one Match
     per lemma. Lemmata occurring more than max_candidates times are excluded
-    from anchor selection and placed by gap-filling only.
+    from anchor selection and placed by gap-filling only. If alternates are
+    given (per-lemma graphs cited in the annotation, see alternate_graphs),
+    they are substituted into the lemma when gap-filling finds no direct match.
     """
     text_norm = normalize(text)
     lemmas_norm = [normalize(lemma) for lemma in lemmas]
+    alternates_norm = [
+        tuple(normalize(a) for a in alts)
+        for alts in (alternates or [()] * len(lemmas))
+    ]
 
     candidates = []
     for i, lemma in enumerate(lemmas_norm):
@@ -193,7 +249,7 @@ def align_sequence(
         next_anchor = next((j for j in anchor_indices if j > i), None)
         window_end = anchors[next_anchor].start if next_anchor is not None else len(text_norm)
 
-        match = _fill_gap(lemma, text_norm, cursor, window_end)
+        match = _fill_gap(lemma, text_norm, cursor, window_end, alternates_norm[i])
         if match:
             match.index, match.lemma = i, lemmas[i]
             matches.append(match)
@@ -244,7 +300,8 @@ class Alignment:
 
         spans = sorted(self.y.meta["annotations"].items())
         lemmas = [self.y.text[start:end] for (start, end), _ in spans]
-        self.matches = align_sequence(lemmas, self.x.text)
+        alternates = [alternate_graphs(str(annotation)) for _, annotation in spans]
+        self.matches = align_sequence(lemmas, self.x.text, alternates=alternates)
 
         layers = self.x.meta.get("layers", [])
         self.x.meta["annotations"] = {}

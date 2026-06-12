@@ -10,7 +10,7 @@ import re
 from dataclasses import dataclass
 from typing import Any, Iterator, Optional
 
-from scripts.lib.alignment import align_sequence, layer_at
+from scripts.lib.alignment import align_sequence, alternate_graphs, layer_at
 from scripts.lib.phonology import (
     MultipleReadingsError,
     NoReadingError,
@@ -87,7 +87,8 @@ def polyphone_records(
     since they assign no specific reading.
     """
     lemmas = [entry["meta"]["headword"] for entry in entries]
-    matches = align_sequence(lemmas, text)
+    alternates = [alternate_graphs(entry["text"]) for entry in entries]
+    matches = align_sequence(lemmas, text, alternates=alternates)
 
     for entry, match in zip(entries, matches):
         if not match.found:
