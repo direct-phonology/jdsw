@@ -30,7 +30,9 @@ The SBCK 莊子 embeds Lu Deming's own 音義 inline (「音義曰…」 inside 
 commentary). This is a contamination risk for alignment — the JDSW's own text
 must not be matched as if it were Guo Xiang's — and at the same time a second
 witness of the JDSW itself. The 注疏 editions KR1e0006 (公羊注疏) and
-KR1e0010 (穀梁注疏) likewise credit 陸德明 and embed the 音義 inline.
+KR1e0010 (穀梁注疏) likewise credit 陸德明 and embed the 音義 inline, and so
+does the SBCK 公羊解詁 (KR1e0007) now used as the 公羊 witness — see the
+儀禮/公羊 section below for the 〇-span exclusion this requires.
 
 ## Edition mismatches per work
 
@@ -62,14 +64,44 @@ rather than its input — a structured JDSW is itself a witness for
 reconstructing the lost 鄭注. Lemmata where Lu notes 「本今無此字」 should
 additionally be checked against KR1f0003's 古文 recension.
 
-### 儀禮 and 公羊傳 — dropping the CHANT dependency
+### 儀禮 and 公羊傳 — swapped (CHANT dependency dropped)
 
 The Kanripo catalog lists 正文 editions (KR1d0025, KR1e0005, keyed to the
 1816 南昌府學 阮元 reprints) but both are catalog stubs with no repository.
-Instead, derive the 正文 from the commentary editions already in `docs.csv`
-(KR1d0026 儀禮鄭注, KR1e0007 公羊解詁) by stripping the parenthesized
-commentary — the pipeline already produces this as a byproduct, it guarantees
-offset compatibility with the alignment, and it aligns at 96.9%/97.2%.
+Instead, the 正文 is derived from the commentary editions in `docs.csv`
+(KR1d0026 儀禮鄭注, KR1e0007 公羊解詁) by keeping only the main-layer
+characters — the layer extractor produces this as a byproduct, and it
+guarantees offset compatibility with the full-edition alignment, which a
+separately-sourced text never could. Accordingly the `zhengwen_id` column is
+empty for these two works in `docs.csv` and `juan.csv`; with the CHANT texts
+gone, the whole corpus comes from a single source (Kanripo, CC-BY) with one
+acquisition path (`git clone -b $sbck_branch`).
+
+Confirmed against fresh clones (June 2026), JDSW 卷 10 and 21 with layer
+tracking: 儀禮 97.7% matched (n=3,227), 公羊 97.2% (n=2,674), reproducing the
+figures originally recorded here (96.9%/97.2%). ~58% of matched lemmata in
+both works sit in the commentary layer — Lu glosses 鄭注 and 何休's 解詁 as
+heavily as the classics — so the bare-正文 CHANT texts could never have
+captured the majority of these chapters; the swap roughly doubles the
+recoverable data. Residual misses are ordinary variant-graph residue
+(袗𤣥, 紒, 齊衰), i.e. the usual `variants.json` harvesting queue.
+
+**Trap: KR1e0007 embeds the JDSW itself.** The SBCK 公羊解詁 carries Lu
+Deming's 音義 inline as 〇-prefixed paren spans — (〇陸曰解詁佳買反…),
+(〇正月音征又音政後放此) — over 400 in the first three juan alone. The
+97.2% figure was computed with those spans dropped during cleaning; without
+that exclusion the JDSW matches its own embedded text and the numbers are
+inflated and wrong. The layer extractor therefore needs a third label
+(`jdsw_self`) for this witness, exactly as planned for the 莊子 音義曰 spans
+(see "Kanripo branches" above) — the 〇 marker makes it mechanically trivial
+here. KR1d0026 is clean (zero 〇 spans). Silver lining: the embedded spans
+are a second in-situ witness of the 公羊音義 — useful for collation against
+the SBCK JDSW transcription and as another free gold-standard set for
+evaluating the aligner, same as the Wikisource 孝經鄭注.
+
+`annotations.jsonl` still records `zhengwen_id: CH1e0873_*` / `CH1e0877_*`
+until the corpus is re-exported against the new witnesses (same situation as
+the 老子 KR5c0057 residue above).
 
 ### 尚書 — permanent residue
 
