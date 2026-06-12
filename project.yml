@@ -72,11 +72,12 @@ directories: ["assets", "configs", "data", "metrics", "packages", "scripts", "tr
 assets:
   - dest: "assets/docs.csv"
     description: "Table mapping each chapter in a source text to its location in the _Jingdian Shiwen_"
-    url: 
-    
+
   - dest: "assets/variants.json"
-    description: "Equivalency table for graphic variants of characters"
-    url: 
+    description: "Equivalency table for graphic variants (異體字) of characters"
+
+  - dest: "assets/normalization.json"
+    description: "Mechanical Unicode normalization mappings (compatibility forms, width folding)"
 
   - dest: "assets/treebank"
     description: "Universal Dependencies treebank for Classical Chinese"
@@ -97,7 +98,7 @@ commands:
   - name: "install"
     help: "Install dependencies"
     script:
-      - "python -m pip install -r requirements.txt"
+      - 'python -m pip install -e ".[dev]"'
 
   - name: "annotate-spans"
     help: "Annotate spans by correcting predictions based on heuristics"

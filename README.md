@@ -1,6 +1,6 @@
-<!-- SPACY PROJECT: AUTO-GENERATED DOCS START (do not remove) -->
+<!-- WEASEL: AUTO-GENERATED DOCS START (do not remove) -->
 
-# spaCy Project: Parsing the _Jingdian Shiwen_
+# 🪐 Weasel Project: Parsing the _Jingdian Shiwen_
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://direct-phonology-jdsw-scriptsvisualize-0px83h.streamlit.app/)
 
@@ -56,16 +56,16 @@ spacy project run annotate
 ```
 
 
-## project.yml
+## 📋 project.yml
 
 The [`project.yml`](project.yml) defines the data assets required by the
 project, as well as the available commands and workflows. For details, see the
-[spaCy projects documentation](https://spacy.io/usage/projects).
+[Weasel documentation](https://github.com/explosion/weasel).
 
-### Commands
+### ⏯ Commands
 
 The following commands are defined by the project. They
-can be executed using [`spacy project run [name]`](https://spacy.io/api/cli#project-run).
+can be executed using [`weasel run [name]`](https://github.com/explosion/weasel/tree/main/docs/cli.md#rocket-run).
 Commands are only re-run if their inputs have changed.
 
 | Command | Description |
@@ -74,20 +74,22 @@ Commands are only re-run if their inputs have changed.
 | `annotate-spans` | Annotate spans by correcting predictions based on heuristics |
 | `export` | Export training data from prodigy's database for use with spaCy |
 | `train` | Train a spaCy pipeline |
+| `eval` | Evaluate the trained spaCy pipeline's accuracy and speed using test data |
 
-### Assets
+### 🗂 Assets
 
 The following assets are defined by the project. They can
-be fetched by running [`spacy project assets`](https://spacy.io/api/cli#project-assets)
+be fetched by running [`weasel assets`](https://github.com/explosion/weasel/tree/main/docs/cli.md#open_file_folder-assets)
 in the project directory.
 
 | File | Source | Description |
 | --- | --- | --- |
 | [`assets/docs.csv`](assets/docs.csv) | Local | Table mapping each chapter in a source text to its location in the _Jingdian Shiwen_ |
-| [`assets/variants.json`](assets/variants.json) | Local | Equivalency table for graphic variants of characters |
+| [`assets/variants.json`](assets/variants.json) | Local | Equivalency table for graphic variants (異體字) of characters |
+| [`assets/normalization.json`](assets/normalization.json) | Local | Mechanical Unicode normalization mappings (compatibility forms, width folding) |
 | `assets/treebank` | Git | Universal Dependencies treebank for Classical Chinese |
 
-<!-- SPACY PROJECT: AUTO-GENERATED DOCS END (do not remove) -->
+<!-- WEASEL: AUTO-GENERATED DOCS END (do not remove) -->
 
 ### Parameters
 
