@@ -1,6 +1,5 @@
 import re
 from pathlib import Path
-import json
 
 import pandas as pd
 import spacy
@@ -22,7 +21,6 @@ from .phonology import Reconstruction, NoReadingError, MultipleReadingsError
 KR_UNICODE = pd.read_csv(Path("assets/kr-unicode.csv"))
 MC_BAXTER = Reconstruction(pd.read_csv(Path("assets/GDR-SBGY-full.csv")))
 OC_BAXTER = NotImplementedError("TODO")
-VARIANT_TABLE = str.maketrans(json.loads(Path("assets/variants.json").read_text()))
 
 NLP = spacy.blank("och")
 NLP.add_pipe("sentencizer")
@@ -213,14 +211,3 @@ def augment_annotations(text: str, rc: Reconstruction, stats: dict) -> str:
             return f"{annotation.group('char')}\t{BLANK}"
 
     return EMPTY_ANNO.sub(_convert, text)
-
-
-def fuzzy_find(phrase: str, text: str) -> int:
-    """True if phrase is found in text, ignoring variant characters."""
-
-    # collapse variants into a single character
-    # TODO: use levenshtein for distance matching
-    text_norm = text.translate(VARIANT_TABLE)
-    phrase_norm = phrase.translate(VARIANT_TABLE)
-
-    return text_norm.find(phrase_norm)

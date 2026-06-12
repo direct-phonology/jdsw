@@ -1,7 +1,83 @@
 import unittest
 
-from scripts.lib.alignment import Alignment
+from scripts.lib.alignment import (
+    ANCHOR,
+    GAP,
+    PARTIAL,
+    UNMATCHED,
+    Alignment,
+    align_sequence,
+)
 from scripts.lib.documents import KanripoDoc
+
+
+class TestAlignSequence(unittest.TestCase):
+    def test_common_char_does_not_derail(self):
+        """a common character matching a wrong early instance must not derail
+        the alignment of later multi-character lemmas (the greedy failure mode)"""
+        # true position of 也 is after the anchor, but it also occurs at 0
+        text = "也大學之道在止於至善也"
+        matches = align_sequence(["大學之道", "也"], text)
+        self.assertEqual((matches[0].start, matches[0].end), (1, 5))
+        self.assertEqual(matches[0].confidence, ANCHOR)
+        self.assertEqual((matches[1].start, matches[1].end), (10, 11))
+
+    def test_monotonic(self):
+        """matched positions must be strictly increasing in lemma order"""
+        text = "寡人之於國也盡心焉耳矣河內凶則移其民於河東移其粟於河內"
+        matches = align_sequence(["寡人", "河內", "河東", "河內"], text)
+        positions = [m.start for m in matches if m.found]
+        self.assertEqual(positions, sorted(positions))
+        self.assertEqual((matches[1].start, matches[3].start), (11, 25))
+
+    def test_repeated_lemma_prefers_earlier_on_tie(self):
+        """deterministic: equal-weight alternatives resolve to earlier positions"""
+        matches = align_sequence(["寡人"], "或謂寡人勿取或謂寡人取之")
+        self.assertEqual((matches[0].start, matches[0].end), (2, 4))
+
+    def test_gap_fill_between_anchors(self):
+        """lemmas without an anchor are placed in the window between anchors"""
+        text = "甲乙丙丁戊己庚辛壬癸"
+        matches = align_sequence(["甲乙丙", "戊", "庚辛壬"], text)
+        self.assertEqual(matches[1].confidence, ANCHOR)  # unique, so anchored
+        # a char occurring only in the gap window still lands correctly
+        matches = align_sequence(["甲乙丙", "丁", "庚辛壬"], text)
+        self.assertEqual((matches[1].start, matches[1].end), (3, 4))
+
+    def test_unmatched_lemma_is_reported(self):
+        """a lemma absent from the text is flagged, not silently misplaced"""
+        matches = align_sequence(["甲乙丙", "魚魚", "庚辛壬"], "甲乙丙丁戊己庚辛壬癸")
+        self.assertEqual(matches[1].confidence, UNMATCHED)
+        self.assertIsNone(matches[1].start)
+        # neighbors are unaffected
+        self.assertEqual(matches[0].confidence, ANCHOR)
+        self.assertEqual(matches[2].confidence, ANCHOR)
+
+    def test_partial_match(self):
+        """a lemma whose graph differs from the base text matches by prefix"""
+        matches = align_sequence(["甲乙丙", "戊新", "庚辛壬"], "甲乙丙丁戊己庚辛壬癸")
+        self.assertEqual(matches[1].confidence, PARTIAL)
+        self.assertEqual((matches[1].start, matches[1].end), (4, 6))
+
+
+class TestAlignmentReport(unittest.TestCase):
+    def test_confidence_and_layer(self):
+        """the alignment report records confidence and edition layer per lemma"""
+        x = KanripoDoc(
+            id="x",
+            text="甲乙丙丁戊己庚辛壬癸",
+            meta={"layers": [(0, 5, "main"), (5, 10, "commentary")]},
+        )
+        y = KanripoDoc(
+            id="y",
+            text="乙丙庚辛",
+            meta={"annotations": {(0, 2): "one", (2, 4): "two"}},
+        )
+        report = Alignment(x, y).align_annotations().x.meta["alignment"]
+        self.assertEqual(report[0]["confidence"], ANCHOR)
+        self.assertEqual(report[0]["layer"], "main")
+        self.assertEqual(report[1]["x_span"], (6, 8))
+        self.assertEqual(report[1]["layer"], "commentary")
 
 class TestAlignAnnotations(unittest.TestCase):
     def test_headgraphs(self):
