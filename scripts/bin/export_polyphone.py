@@ -28,12 +28,16 @@ def main(
     """
     rc = Reconstruction(pd.read_csv(readings_file))
 
-    # group annotation entries by the zhengwen juan they comment on
+    # group annotation entries by the zhengwen juan they comment on.
+    # index restarts per JDSW physical sub-juan, so sorting by it alone
+    # interleaves lemma sequences whenever a chapter spans a 卷 boundary
+    # and silently breaks the monotonicity that alignment depends on;
+    # (jdsw_id, index) is the correct global order
     by_juan: dict[str, list[dict]] = defaultdict(list)
     for entry in srsly.read_jsonl(annotations_file):
         by_juan[entry["meta"]["zhengwen_id"]].append(entry)
     for entries in by_juan.values():
-        entries.sort(key=lambda entry: entry["meta"]["index"])
+        entries.sort(key=lambda e: (e["meta"]["jdsw_id"], e["meta"]["index"]))
 
     docs = {doc.id: doc for doc in KanripoTxtDataset(zhengwen_path)}
 
