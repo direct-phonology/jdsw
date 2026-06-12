@@ -1,4 +1,4 @@
-from typing import Iterator, Dict, Any
+from typing import Any, Dict, Iterator, Optional
 
 DocMeta = Dict[str, Any]
 
@@ -13,10 +13,10 @@ class KanripoDoc:
     at doc.meta.
     """
 
-    def __init__(self, id: str, text: str, meta: DocMeta = {}) -> None:
+    def __init__(self, id: str, text: str, meta: Optional[DocMeta] = None) -> None:
         self.id = id
         self.text = text
-        self.meta = meta.copy()
+        self.meta = dict(meta) if meta else {}
 
     def __repr__(self) -> str:
         return f'KanripoDoc(id="{self.id}", text="{self.text}")'
@@ -40,7 +40,7 @@ class KanripoDoc:
         return self.id < other.id
 
 
-def merge_docs(*docs: KanripoDoc, meta: DocMeta = {}) -> KanripoDoc:
+def merge_docs(*docs: KanripoDoc, meta: Optional[DocMeta] = None) -> KanripoDoc:
     """
     Merge multiple documents into a single document.
 
@@ -61,5 +61,5 @@ def merge_docs(*docs: KanripoDoc, meta: DocMeta = {}) -> KanripoDoc:
     return KanripoDoc(
         id=f"{_docs[0].id}-{_docs[-1].id}",
         text="".join(doc.text for doc in _docs),
-        meta=meta.copy(),
+        meta=meta,
     )

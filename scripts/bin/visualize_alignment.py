@@ -52,7 +52,7 @@ def main(doc_id: str) -> None:
     alignments.append(Alignment(zw_laozi, jdsw_laozi))
 
     # everything else: use juan.csv to align; join jdsw juan into one doc if multiple
-    reader = csv.DictReader(open("data/juan.csv", encoding="utf-8"))
+    reader = csv.DictReader(open("assets/juan.csv", encoding="utf-8"))
     for row in reader:
         # get the relevant zhengwen doc
         zw_doc = all_docs[row["zhengwen_id"]]

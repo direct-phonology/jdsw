@@ -58,7 +58,7 @@ class KanripoUnicode(DocTextTransform):
     entity_re = re.compile(r"&(KR\d+);|(\[.+?\])")
 
     def __init__(self) -> None:
-        reader = csv.DictReader(open("data/kr-unicode.csv", encoding="utf-8"))
+        reader = csv.DictReader(open("assets/kr-unicode.csv", encoding="utf-8"))
         self.encoder = dict(((row["form"], row["unicode"]) for row in reader))
 
     def encodes(self, text: str) -> str:  # type: ignore[override]
