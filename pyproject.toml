@@ -16,6 +16,9 @@ dependencies = [
     "jsonlines==4.0.0",
     "torch==2.10.0",
     "pandas==2.2.2",
+    # fastcore.transform was removed upstream (moved to fasttransform);
+    # 1.13+ raises on import, so this must stay pinned
+    "fastcore==1.5.55",
     # bounded only; not pinned against a verified environment
     "seaborn>=0.13,<0.14",
     "nltk>=3.9,<4.0",
@@ -23,7 +26,6 @@ dependencies = [
     "spacy-transformers>=1.3,<2.0",
     "spacy-experimental>=0.6,<0.7",
     "suparkanbun>=1.0",
-    "fastcore>=1.5,<2.0",
     "pyconll>=3.1,<4.0",
 ]
 

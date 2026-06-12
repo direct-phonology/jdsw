@@ -61,6 +61,26 @@ class TestAlignSequence(unittest.TestCase):
         self.assertEqual(matches[1].confidence, PARTIAL)
         self.assertEqual((matches[1].start, matches[1].end), (4, 6))
 
+    def test_partial_requires_two_verified_chars(self):
+        """a lemma of 3+ characters must verify at least 2 to match partially;
+        a single common character is not evidence of position"""
+        matches = align_sequence(["甲乙丙"], "甲丁戊")
+        self.assertEqual(matches[0].confidence, UNMATCHED)
+        # 2-character lemmas may still match on a single character
+        matches = align_sequence(["甲乙"], "甲丁")
+        self.assertEqual(matches[0].confidence, PARTIAL)
+
+    def test_partial_tail_does_not_consume_next_lemma(self):
+        """the unverified tail of a partial must not advance the gap-fill
+        cursor past the next lemma's true position"""
+        matches = align_sequence(["甲乙子", "丙丁"], "甲乙丙戊")
+        self.assertEqual(matches[0].confidence, PARTIAL)
+        self.assertEqual(matches[0].verified_end, 2)  # only 甲乙 verified
+        # 丙 sits inside the first partial's extrapolated tail; it must
+        # still be reachable
+        self.assertEqual(matches[1].confidence, PARTIAL)
+        self.assertEqual(matches[1].start, 2)
+
     def test_damaged_char_is_wildcard(self):
         """a ⬤ placeholder in the text matches any lemma character exactly,
         instead of being absorbed by a lossy prefix match"""

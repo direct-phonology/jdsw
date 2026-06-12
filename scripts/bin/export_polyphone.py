@@ -1,20 +1,21 @@
 #!/usr/bin/env python3
 
-from collections import Counter, defaultdict
+from collections import Counter
 from pathlib import Path
 
 import pandas as pd
 import srsly
 import typer
 
-from scripts.lib.loaders import KanripoTxtDataset
+from scripts.lib.corpus import doc_for, group_annotations, load_clean_docs, load_juan_map
 from scripts.lib.phonology import Reconstruction
 from scripts.lib.polyphone import polyphone_records
 
 
 def main(
     annotations_file: Path = Path("assets/annotations.jsonl"),
-    zhengwen_path: Path = Path("txt/zhengwen"),
+    source_path: Path = Path("txt/sbck"),
+    juan_file: Path = Path("assets/juan.csv"),
     output_file: Path = Path("data/polyphones.jsonl"),
     readings_file: Path = Path("assets/GDR-SBGY-full.csv"),
     context: int = 24,
@@ -22,29 +23,24 @@ def main(
     """
     Export polyphone disambiguation data from aligned JDSW annotations.
 
-    Aligns the headwords of each juan's annotations against its zhengwen text,
-    extracts fanqie/duruo readings, validates them against the Guangyun, and
-    writes one JSON-lines record per (character in context, reading) pair.
+    Aligns the headwords of each JDSW sub-juan's annotations against the SBCK
+    commentary edition it comments on (mapped via juan.csv), with edition
+    layers tracked so each record carries a main/commentary label. Editions
+    are expected as Kanripo clones under source_path, pinned to the branch
+    recorded in docs.csv (sbck_branch). Extracts fanqie/duruo readings,
+    validates them against the Guangyun, and writes one JSON-lines record per
+    (character in context, reading) pair.
     """
     rc = Reconstruction(pd.read_csv(readings_file))
 
-    # group annotation entries by the zhengwen juan they comment on.
-    # index restarts per JDSW physical sub-juan, so sorting by it alone
-    # interleaves lemma sequences whenever a chapter spans a 卷 boundary
-    # and silently breaks the monotonicity that alignment depends on;
-    # (jdsw_id, index) is the correct global order
-    by_juan: dict[str, list[dict]] = defaultdict(list)
-    for entry in srsly.read_jsonl(annotations_file):
-        by_juan[entry["meta"]["zhengwen_id"]].append(entry)
-    for entries in by_juan.values():
-        entries.sort(key=lambda e: (e["meta"]["jdsw_id"], e["meta"]["index"]))
-
-    docs = {doc.id: doc for doc in KanripoTxtDataset(zhengwen_path)}
+    juan_map = load_juan_map(juan_file)
+    by_juan = group_annotations(srsly.read_jsonl(annotations_file), juan_map)
+    docs = load_clean_docs(source_path)
 
     stats: Counter = Counter()
     records = []
-    for zhengwen_id, entries in sorted(by_juan.items()):
-        doc = docs.get(zhengwen_id)
+    for source_id, entries in sorted(by_juan.items()):
+        doc = doc_for(source_id, docs)
         if doc is None:
             stats["juan missing"] += 1
             continue
@@ -55,6 +51,7 @@ def main(
             records.append(record)
             stats[f"alignment: {record['alignment']}"] += 1
             stats[f"validation: {record['validation']}"] += 1
+            stats[f"layer: {record['layer']}"] += 1
 
     srsly.write_jsonl(output_file, records)
 

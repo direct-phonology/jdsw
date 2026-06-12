@@ -53,6 +53,9 @@ class Match:
     start: Optional[int]  # span in the source text, if found
     end: Optional[int]
     confidence: str
+    # end of the portion of the span actually verified against the text; for
+    # partial matches the rest of the span is extrapolated from lemma length
+    verified_end: Optional[int] = None
 
     @property
     def found(self) -> bool:
@@ -179,16 +182,21 @@ def _fill_gap(
                 start = window_start + pos
                 return Match(-1, lemma, start, start + len(lemma), ALTERNATE)
 
-    # longest prefix or suffix match, extended to the full lemma length
-    for length in range(len(lemma) - 1, 0, -1):
+    # longest prefix or suffix match, extended to the full lemma length;
+    # lemmas of 3+ characters must verify at least 2, so that a partial can't
+    # anchor a long lemma on a single common character
+    min_length = 2 if len(lemma) >= 3 else 1
+    for length in range(len(lemma) - 1, min_length - 1, -1):
         pos = _wildcard_find(lemma[:length], window)
         if pos != -1:
             start = window_start + pos
-            return Match(-1, lemma, start, min(start + len(lemma), window_end), PARTIAL)
+            end = min(start + len(lemma), window_end)
+            return Match(-1, lemma, start, end, PARTIAL, verified_end=start + length)
         pos = _wildcard_find(lemma[-length:], window)
         if pos != -1:
             end = window_start + pos + length
-            return Match(-1, lemma, max(end - len(lemma), window_start), end, PARTIAL)
+            start = max(end - len(lemma), window_start)
+            return Match(-1, lemma, start, end, PARTIAL, verified_end=end)
 
     return None
 
@@ -253,7 +261,9 @@ def align_sequence(
         if match:
             match.index, match.lemma = i, lemmas[i]
             matches.append(match)
-            cursor = match.end
+            # a partial's unverified tail must not consume window space the
+            # next lemma may legitimately occupy
+            cursor = match.verified_end if match.verified_end is not None else match.end
         else:
             matches.append(Match(i, lemmas[i], None, None, UNMATCHED))
 

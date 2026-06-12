@@ -54,6 +54,11 @@ def main() -> None:
     # everything else: use juan.csv to align; join jdsw juan into one doc if multiple
     reader = csv.DictReader(open("data/juan.csv", encoding="utf-8"))
     for row in reader:
+        # 儀禮/公羊 have no standalone zhengwen witness; their 正文 is the main
+        # layer of the SBCK edition (see scripts/bin/export_polyphone.py)
+        if not row["zhengwen_id"]:
+            continue
+
         # get the relevant zhengwen doc
         zw_doc = all_docs[row["zhengwen_id"]]
 
