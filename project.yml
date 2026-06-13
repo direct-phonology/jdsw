@@ -93,9 +93,12 @@ assets:
       branch: master
       path: ""
 
-# Workflows are series of commands that are run in order and often depend on 
+# Workflows are series of commands that are run in order and often depend on
 # each other.
-# workflows: []
+workflows:
+  corpus:
+    - fetch-sources
+    - align
 
 # Project commands, specified in a style similar to CI config files (e.g. Azure
 # pipelines). The name is the command name that lets you trigger the command
@@ -140,3 +143,24 @@ commands:
     script:
       - "python -m spacy benchmark accuracy ${vars.spancat_model} data --gpu-id ${vars.gpu_id} --output metrics/accuracy.json"
       - "python -m spacy benchmark speed ${vars.spancat_model} data --gpu-id ${vars.gpu_id}"
+
+  - name: "fetch-sources"
+    help: "Clone the SBCK source editions listed in docs.csv (branch-pinned)"
+    script:
+      - "python -m scripts.bin.align_corpus fetch-sources --source-path txt/sbck --docs-csv assets/docs.csv"
+    deps:
+      - "assets/docs.csv"
+    outputs:
+      - "txt/sbck"
+
+  - name: "align"
+    help: "Align the annotations corpus against the SBCK editions, per work"
+    script:
+      - "python -m scripts.bin.align_corpus align --source-path txt/sbck --annotations assets/annotations.jsonl --out data/aligned.jsonl --metrics metrics/alignment.json"
+    deps:
+      - "txt/sbck"
+      - "assets/annotations.jsonl"
+      - "assets/docs.csv"
+    outputs:
+      - "data/aligned.jsonl"
+      - "metrics/alignment.json"

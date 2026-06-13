@@ -12,8 +12,8 @@ from unittest import TestCase
 
 from fastcore.transform import Pipeline
 
-from scripts.lib.alignment import align_sequence, alternate_graphs
-from scripts.lib.corpus import edition_pipeline
+from scripts.lib.alignment import align_sequence, alternate_graphs, layer_at
+from scripts.lib.corpus import doc_for, edition_pipeline
 from scripts.lib.documents import KanripoDoc
 from scripts.lib.loaders import KanripoTxtDataset
 from scripts.lib.transforms import (
@@ -107,6 +107,54 @@ class TestSbckFloors(TestCase):
         self.assertNotIn("音義曰", zhuangzi.text)
         self.assertNotIn("〇", zhuangzi.text)
         self.assertNotIn("○", zhuangzi.text)
+
+
+class TestMergedWorkLayers(TestCase):
+    """
+    Per-work alignment merges a work's fascicles via doc_for before aligning;
+    the merged doc must carry correctly-offset layers so every matched lemma
+    gets a real layer label, not None. A fascicle in the second part is what
+    catches a dropped or mis-offset merge: its lemma would otherwise be
+    mislabeled or unlabeled.
+    """
+
+    def _work(self) -> dict[str, KanripoDoc]:
+        # two fascicles of one synthetic work; the second carries a commentary
+        # layer, so a lemma matched there proves the offset survived the merge
+        return {
+            "KRTEST_001": KanripoDoc(
+                id="KRTEST_001",
+                text="天命之謂性",  # 5 chars, all main
+                meta={"layers": [(0, 5, "main")], "jdsw_self": []},
+            ),
+            "KRTEST_002": KanripoDoc(
+                id="KRTEST_002",
+                text="註曰道也",  # 4 chars, all commentary
+                meta={"layers": [(0, 4, "commentary")], "jdsw_self": []},
+            ),
+        }
+
+    def test_layers_survive_merge_under_alignment(self) -> None:
+        doc = doc_for("KRTEST", self._work())
+        self.assertIsNotNone(doc)
+        # merged text "天命之謂性註曰道也"; layers offset and coalesced
+        self.assertEqual(doc.meta["layers"], [(0, 5, "main"), (5, 9, "commentary")])
+
+        headwords = ["天命", "性", "道"]
+        matches = align_sequence(headwords, doc.text)
+        rate = sum(m.found for m in matches) / len(matches)
+        self.assertGreaterEqual(rate, 0.9)
+
+        layers = doc.meta["layers"]
+        by_lemma = {
+            m.lemma: layer_at(layers, m.start) for m in matches if m.found
+        }
+        # every matched lemma gets a real layer, not None / not all "unknown"
+        self.assertNotIn(None, by_lemma.values())
+        self.assertEqual(by_lemma["天命"], "main")
+        # 道 sits in the second fascicle: only a correct offset puts it in the
+        # commentary span (start 7 of the merged text)
+        self.assertEqual(by_lemma["道"], "commentary")
 
 
 class TestGoldSelfAlignment(TestCase):
