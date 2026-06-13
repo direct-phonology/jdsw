@@ -60,6 +60,7 @@ class TestSbckFloors(TestCase):
     CASES = [
         ("KR1g0003_010_001", "KR1d0026_001", 0.88),  # 儀禮 士冠禮
         ("KR1g0003_021_001", "KR1e0007_001", 0.88),  # 公羊 隱公
+        ("KR1g0003_026_001", "KR5c0051_001", 0.90),  # 莊子 逍遙遊
     ]
 
     def test_floors(self) -> None:
@@ -92,6 +93,20 @@ class TestSbckFloors(TestCase):
         self.assertNotIn("○", gongyang.text)
         # the 儀禮 witness has no such embedding
         self.assertEqual(docs["KR1d0026_001"].meta["jdsw_self"], [])
+
+    def test_zhuangzi_yinyiyue_is_separated(self) -> None:
+        """KR5c0051 embeds Lu's 音義 inside Guo Xiang's commentary, opened by
+        音義曰 (篇-initial) or a circle; all must land in jdsw_self, leaving no
+        marker in the aligned text to match against"""
+        docs = {
+            d.id: d
+            for d in map(edition_pipeline(), KanripoTxtDataset(FIXTURES / "sbck"))
+        }
+        zhuangzi = docs["KR5c0051_001"]
+        self.assertGreater(len(zhuangzi.meta["jdsw_self"]), 100)
+        self.assertNotIn("音義曰", zhuangzi.text)
+        self.assertNotIn("〇", zhuangzi.text)
+        self.assertNotIn("○", zhuangzi.text)
 
 
 class TestGoldSelfAlignment(TestCase):

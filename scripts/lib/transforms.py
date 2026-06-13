@@ -75,24 +75,36 @@ class ExtractLayers(Transform):
     recording which layer each character of the cleaned text belongs to.
 
     doc.meta["layers"] holds coalesced (start, end, label) spans over the
-    cleaned text, where label is "main" or "commentary". Text from a 〇
-    marker to the end of its paren group is Lu Deming's own 音義 embedded in
-    the edition (e.g. SBCK 公羊解詁 KR1e0007, where a group reads 注〇音義 or
-    is 〇-initial outright); the JDSW must not be aligned against its own
-    text, so these segments are removed from the cleaned text entirely and
-    recorded under doc.meta["jdsw_self"] as (position, text) pairs, where
-    position is the offset in the cleaned text at which the segment sat.
+    cleaned text. Inside a paren group, text from the first embedded-音義
+    marker to the end of the group is Lu Deming's own 音義 carried by the
+    edition; the JDSW must not be aligned against its own text, so those
+    segments are removed and recorded under doc.meta["jdsw_self"] as
+    (position, text) pairs (position = offset in the cleaned text where the
+    segment sat). The markers are:
+
+    - a circle, 〇 (U+3007) or ○ (U+25CB), used interchangeably in the SBCK
+      公羊解詁 (KR1e0007), where a group reads 注〇音義 or is circle-initial;
+    - the phrase 音義曰, which opens the 篇-initial 音義 block in the SBCK
+      莊子 (KR5c0051), where later blocks instead use a circle.
+
+    The remaining characters are labeled "commentary" (inside parens) or
+    "main" (outside). A witness with no paren markup at all — the ZTDZ 老子
+    (KR5c0073) writes 經 and 王弼注 full-size and undelimited — yields no
+    layer signal; rather than mislabel everything "main", such a doc is
+    labeled entirely "unknown" (see docs/corpus.md on the positional
+    heuristic that would replace this).
+
     Run after HealAnnotations, so groups split at page breaks are rejoined
     and a marker is not severed from its segment.
     """
 
     MAIN = "main"
     COMMENTARY = "commentary"
+    UNKNOWN = "unknown"
     JDSW_SELF = "jdsw_self"
-    # the transcription uses 〇 (U+3007) and ○ (U+25CB) interchangeably; inside
-    # a paren group a circle opens the JDSW's own embedded 音義, while at paren
-    # depth 0 the same glyph is a 經-entry separator and is simply dropped
-    OPEN, CLOSE, MARKER = "(（", ")）", "〇○"
+    OPEN, CLOSE = "(（", ")）"
+    SEPARATORS = "〇○"  # circles at paren depth 0 are 經-entry separators
+    SELF_MARKERS = ("〇", "○", "音義曰")  # open Lu's embedded 音義 inside a group
 
     def encodes(self, doc: KanripoDoc) -> KanripoDoc:
         text, layers, jdsw_self = self.extract(doc.text)
@@ -101,11 +113,19 @@ class ExtractLayers(Transform):
         doc.meta["jdsw_self"] = jdsw_self
         return doc
 
+    def _self_marker_cut(self, chars: str) -> int:
+        """Index of the earliest embedded-音義 marker in a group, or len."""
+        return min(
+            (i for i in (chars.find(m) for m in self.SELF_MARKERS) if i != -1),
+            default=len(chars),
+        )
+
     def extract(self, text: str) -> tuple[str, list, list]:
         cleaned: list[str] = []
         layers: list[list] = []
         jdsw_self: list[tuple[int, str]] = []
         depth = 0
+        saw_commentary = False
         group: list[str] = []  # chars of the current top-level paren group
 
         def emit(char: str, label: str) -> None:
@@ -118,10 +138,7 @@ class ExtractLayers(Transform):
 
         def close_group() -> None:
             chars = "".join(group)
-            cut = min(
-                (i for i in (chars.find(m) for m in self.MARKER) if i != -1),
-                default=len(chars),
-            )
+            cut = self._self_marker_cut(chars)
             for char in chars[:cut]:
                 emit(char, self.COMMENTARY)
             if cut < len(chars):
@@ -131,17 +148,24 @@ class ExtractLayers(Transform):
         for char in text:
             if char in self.OPEN:
                 depth += 1
+                saw_commentary = True
             elif char in self.CLOSE:
                 depth = max(depth - 1, 0)
                 if depth == 0:
                     close_group()
             elif depth > 0:
                 group.append(char)
-            elif char in self.MARKER:
+            elif char in self.SEPARATORS:
                 continue  # 經-entry separator in the main flow
             else:
                 emit(char, self.MAIN)
         close_group()  # tolerate an unterminated group at end of text
+
+        # no commentary markup at all: we cannot tell 經 from 注, so the
+        # "main" labels are not trustworthy — mark the whole witness unknown
+        if not saw_commentary:
+            for span in layers:
+                span[2] = self.UNKNOWN
 
         return "".join(cleaned), [tuple(span) for span in layers], jdsw_self
 

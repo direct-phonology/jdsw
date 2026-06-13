@@ -83,6 +83,9 @@ assets:
   - dest: "assets/normalization.json"
     description: "Mechanical Unicode normalization mappings (compatibility forms, width folding)"
 
+  - dest: "assets/default_reading_profiles.csv"
+    description: "Per-character default (如字) readings from elimination analysis, consumed by scripts/lib/ruzi.py"
+
   - dest: "assets/treebank"
     description: "Universal Dependencies treebank for Classical Chinese"
     git:

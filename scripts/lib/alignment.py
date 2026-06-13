@@ -271,11 +271,16 @@ def align_sequence(
 
 
 def layer_at(layers: list, position: int) -> str:
-    """Edition layer ("main", "commentary", ...) containing a text position."""
+    """
+    Edition layer ("main", "commentary", "unknown") containing a text
+    position. Falls back to "unknown" rather than "main": a position with no
+    layer span is one we have no layer evidence for, and silently calling it
+    "main" mislabels witnesses whose layers were never determined.
+    """
     for start, end, label in layers:
         if start <= position < end:
             return label
-    return "main"
+    return "unknown"
 
 
 class Alignment:

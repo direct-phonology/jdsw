@@ -91,6 +91,7 @@ in the project directory.
 | [`assets/docs.csv`](assets/docs.csv) | Local | Table mapping each chapter in a source text to its location in the _Jingdian Shiwen_ |
 | [`assets/variants.json`](assets/variants.json) | Local | Equivalency table for graphic variants (異體字) of characters |
 | [`assets/normalization.json`](assets/normalization.json) | Local | Mechanical Unicode normalization mappings (compatibility forms, width folding) |
+| [`assets/default_reading_profiles.csv`](assets/default_reading_profiles.csv) | Local | Per-character default (如字) readings from elimination analysis, consumed by scripts/lib/ruzi.py |
 | `assets/treebank` | Git | Universal Dependencies treebank for Classical Chinese |
 
 <!-- WEASEL: AUTO-GENERATED DOCS END (do not remove) -->

@@ -1,0 +1,1120 @@
+char,n_gy_readings,guangyun_readings,ruzi_default,ruzi_confidence,n_dual_annotations,n_bare_ruzi,corpus_marked_dist,n_corpus_marked,least_marked_default,signals_agree
+三,2,sam samH,sam,1.0,7,0,samH×7 sam×1,8,sam,True
+出,2,tsyhwijH tsyhwit,tsyhwit,1.0,6,0,tsyhwijH×7,7,tsyhwit,True
+中,2,trjuwng trjuwngH,trjuwng,1.0,4,2,trjuwngH×10,10,trjuwng,True
+思,2,si siH,si,1.0,4,0,siH×5,5,si,True
+合,2,hop kop,hop,1.0,4,1,kop×5,5,hop,True
+約,2,'jak 'jiewH,'jak,1.0,4,1,'jiewH×4,4,'jak,True
+於,2,'jo 'u,'jo,1.0,3,0,'u×12,12,'jo,True
+弔,2,tek tewH,tewH,1.0,3,0,tek×7,7,tewH,True
+喪,2,sang sangH,,0.0,3,1,,0,,False
+好,2,xawH xawX,xawX,1.0,2,0,xawH×24,24,xawX,True
+惡,3,'ak 'u 'uH,'u,0.5,2,1,'uH×18 'u×1,19,'ak,False
+行,4,haeng haengH hang hangH,hangH,0.33,2,1,haengH×11 hang×2 haeng×1,14,hangH,True
+度,2,dak duH,duH,1.0,2,6,dak×11 duH×1,12,duH,True
+委,2,'jwe 'jweX,'jweX,1.0,2,0,'jwe×8,8,'jweX,True
+齊,2,dzej dzejH,dzej,1.0,2,1,dzejH×6,6,dzej,True
+和,2,hwa hwaH,hwa,1.0,2,1,hwaH×5,5,hwa,True
+沈,3,drim drimH syimX,syimX,0.5,2,0,drim×3 drimH×1 syimX×1,5,drimH,False
+池,2,da drje,drje,1.0,2,1,da×3 drje×1,4,drje,True
+譽,2,yo yoH,yoH,1.0,2,0,yo×4,4,yoH,True
+仰,2,ngjangH ngjangX,ngjangX,1.0,2,0,ngjangH×2,2,ngjangX,True
+視,2,dzyijH dzyijX,dzyijX,1.0,2,1,dzyijH×2,2,dzyijX,True
+藏,2,dzang dzangH,,0.0,2,1,,0,,False
+見,3,'aewX henH kenH,kenH,0.5,1,0,henH×28 'aewX×1,29,kenH,True
+相,2,sjang sjangH,sjang,1.0,1,0,sjangH×23,23,sjang,True
+淡,4,dam damH damX yemX,yemX,0.33,1,0,damH×8 damX×1,9,dam,False
+冠,2,kwan kwanH,kwan,1.0,1,0,kwanH×8,8,kwan,True
+離,3,lejH lje ljeH,lje,0.5,1,1,ljeH×4 lje×2 lejH×2,8,lejH,False
+參,5,sam srim tshom tshomH tsrhim,tsrhim,0.33,1,0,tsrhim×4 tshom×3 srim×1,8,sam,False
+麗,2,lejH lje,lejH,1.0,1,0,lje×6 lejH×1,7,lejH,True
+句,4,gju kjuH kuw kuwH,kuwH,0.33,1,0,kuw×4 kjuH×3,7,gju,False
+會,2,hwajH kwajH,hwajH,1.0,1,0,kwajH×6,6,hwajH,True
+勞,2,law lawH,law,1.0,1,0,lawH×6,6,law,True
+柱,2,drjuX trjuX,drjuX,1.0,1,0,trjuX×6,6,drjuX,True
+使,2,sriH sriX,sriX,1.0,1,0,sriH×4 sriX×1,5,sriX,True
+觀,2,kwan kwanH,kwan,1.0,1,0,kwanH×5,5,kwan,True
+衣,2,'j+j 'j+jH,'j+j,1.0,1,0,'j+jH×5,5,'j+j,True
+華,3,hwae hwaeH xwae,hwae,0.5,1,0,hwaeH×4,4,hwae,True
+積,2,tsjeH tsjek,tsjek,1.0,1,0,tsjeH×4,4,tsjek,True
+殿,2,denH tenH,denH,1.0,1,0,tenH×3,3,denH,True
+漸,2,dzjemX tsjem,tsjem,1.0,1,0,dzjemX×2 tsjem×1,3,tsjem,True
+浪,2,lang langH,lang,1.0,1,0,langH×2 lang×1,3,lang,True
+右,2,hjuwH hjuwX,hjuwX,1.0,1,0,hjuwH×3,3,hjuwX,True
+降,2,haewng kaewngH,kaewngH,1.0,1,0,kaewngH×2 haewng×1,3,haewng,False
+放,2,pjangH pjangX,pjangH,1.0,1,0,pjangX×3,3,pjangH,True
+祭,2,tsjejH tsreajH,tsjejH,1.0,1,0,tsreajH×3,3,tsjejH,True
+不,4,pjut pjuw pjuwX trhjuwH,pjut,0.33,1,1,pjuwX×1 pjuw×1,2,pjut,True
+聚,2,dzjuH dzjuX,dzjuX,1.0,1,0,dzjuH×2,2,dzjuX,True
+寅,2,yij yin,yin,1.0,1,0,yij×1 yin×1,2,yij,False
+陳,2,drin drinH,drin,1.0,1,0,drinH×2,2,drin,True
+正,2,tsyeng tsyengH,tsyengH,1.0,1,0,tsyeng×2,2,tsyengH,True
+閒,3,kaenH kean keanH,kean,0.5,1,2,kean×1 keanH×1,2,kaenH,False
+莽,3,mangX muX muwX,muwX,0.5,1,0,mangX×1 muX×1,2,muwX,True
+調,3,dew dewH trjuw,trjuw,0.5,1,0,dewH×1 trjuw×1,2,dew,False
+穜,2,drjowng duwng,drjowng,1.0,1,0,duwng×2,2,drjowng,True
+聞,2,mjun mjunH,mjun,1.0,1,0,mjunH×2,2,mjun,True
+當,2,tang tangH,,0.0,1,1,tang×1,1,tangH,False
+除,2,drjo drjoH,drjo,1.0,1,0,drjoH×1,1,drjo,True
+蒼,2,tshang tshangX,tshang,1.0,1,0,tshangX×1,1,tshang,True
+鳻,2,bjun paen,paen,1.0,1,0,bjun×1,1,paen,True
+載,3,dzojH tsojH tsojX,tsojH,0.5,1,3,dzojH×1,1,tsojH,True
+土,2,duX thuX,,0.0,1,1,thuX×1,1,duX,False
+巧,2,khaewH khaewX,khaewX,1.0,1,0,khaewH×1,1,khaewX,True
+驅,2,khju khjuH,khju,1.0,1,0,khjuH×1,1,khju,True
+亟,2,khiH kik,,0.0,1,0,khiH×1,1,kik,False
+聽,2,theng thengH,,0.0,1,0,thengH×1,1,theng,False
+親,2,tshin tshinH,tshin,1.0,1,0,tshinH×1,1,tshin,True
+興,2,xing xingH,xing,1.0,1,0,xingH×1,1,xing,True
+期,1,gi,,0.0,1,0,,0,,False
+係,1,kejH,,0.0,1,0,,0,,False
+搢,1,tsinH,,0.0,1,2,,0,,False
+屋,1,'uwk,,0.0,1,1,,0,,False
+難,1,nanH,,0.0,1,0,,0,,False
+租,1,tsu,,0.0,1,0,,0,,False
+治,3,dri driH drijH,,0.0,0,1,driH×44,44,dri,False
+樂,3,lak ngaewH ngaewk,,0.0,0,0,lak×24 ngaewH×4 ngaewk×2,30,ngaewk,False
+長,3,drjang drjangH trjangX,,0.0,0,1,trjangX×23 drjangH×1,24,drjang,False
+與,3,yo yoH yoX,,0.0,0,0,yo×18 yoH×4,22,yoX,False
+數,4,sraewk srjuH srjuX suwk,,0.0,0,0,sraewk×10 srjuX×9 srjuH×2 suwk×1,22,suwk,False
+去,2,khjoH khjoX,,0.0,0,0,khjoX×20,20,khjoH,False
+覆,4,bjuwH phjuwH phjuwk phok,,0.0,0,0,phjuwk×17 phjuwH×1 bjuwH×1,19,phok,False
+帥,2,srwijH srwit,,0.0,0,0,srwijH×17,17,srwit,False
+斷,3,dwanX twanH twanX,,0.0,0,0,twanH×9 twanX×7,16,dwanX,False
+冒,2,mawH mok,,0.0,0,0,mawH×14 mok×1,15,mok,False
+復,2,bjuwH bjuwk,,0.0,0,0,bjuwH×11 bjuwk×3,14,bjuwk,False
+著,5,drjak drjo trjak trjoH trjoX,,0.0,0,0,trjoH×5 drjak×3 drjo×2 trjak×2 trjoX×1,13,trjoX,False
+解,4,heaH heaX keaH keaX,,0.0,0,0,heaX×8 keaH×2 keaX×2 heaH×1,13,heaH,False
+盡,2,dzinX tsinX,,0.0,0,0,tsinX×13,13,dzinX,False
+任,2,nyim nyimH,,0.0,0,0,nyim×7 nyimH×6,13,nyimH,False
+厎,2,tsiX tsyijX,,0.0,0,0,tsyijX×12,12,tsiX,False
+稽,2,kej khejX,,0.0,0,0,kej×6 khejX×6,12,kej,False
+朝,2,drjew trjew,,0.0,0,2,drjew×11 trjew×1,12,trjew,False
+乗,2,zying zyingH,,0.0,0,0,zyingH×11,11,zying,False
+烝,2,tsying tsyingH,,0.0,0,0,tsying×11,11,tsyingH,False
+咎,2,gjuwX kaw,,0.0,0,0,gjuwX×9 kaw×2,11,kaw,False
+舎,2,syaeH syaeX,,0.0,0,0,syaeX×11,11,syaeH,False
+邪,2,yae zjae,,0.0,0,0,zjae×11,11,yae,False
+鮮,3,sjen sjenH sjenX,,0.0,0,0,sjenX×9 sjen×2,11,sjenH,False
+亶,2,tanX tsyen,,0.0,0,0,tanX×10,10,tsyen,False
+袒,2,danX dreanH,,0.0,0,0,danX×10,10,dreanH,False
+厭,3,'jemH 'jemX 'jep,,0.0,0,0,'jemH×8 'jep×2,10,'jemX,False
+傳,3,drjwen drjwenH trjwenH,,0.0,0,0,drjwen×5 trjwenH×3 drjwenH×1,9,drjwenH,False
+搏,3,pak phak pjuH,,0.0,0,0,pak×9,9,phak,False
+噫,2,'eajH 'i,,0.0,0,0,'i×7 'eajH×2,9,'eajH,False
+陶,2,daw yew,,0.0,0,0,daw×7 yew×2,9,yew,False
+斂,2,ljemH ljemX,,0.0,0,0,ljemH×7 ljemX×2,9,ljemX,False
+幾,4,gj+j gj+jH kj+j kj+jX,,0.0,0,0,kj+j×5 gj+j×3 kj+jX×1,9,gj+jH,False
+萑,2,hwan tsywij,,0.0,0,0,hwan×9,9,tsywij,False
+屬,2,dzyowk tsyowk,,0.0,0,0,tsyowk×9,9,dzyowk,False
+卒,3,tshwot tswit tswot,,0.0,0,0,tswot×6 tswit×3,9,tshwot,False
+苴,4,dzrae tshjo tsjo tsjoX,,0.0,0,0,tshjo×6 tsjo×3,9,dzrae,False
+說,3,sywejH sywet ywet,,0.0,0,5,ywet×9,9,sywejH,False
+惰,2,dwaH dwaX,,0.0,0,0,dwaH×8,8,dwaX,False
+埽,2,sawH sawX,,0.0,0,0,sawH×8,8,sawX,False
+鞠,3,gjuwk khjuwk kjuwk,,0.0,0,0,kjuwk×8,8,gjuwk,False
+否,2,bijX pjuwX,,0.0,0,0,pjuwX×6 bijX×2,8,bijX,False
+蠃,2,lwa lwaX,,0.0,0,0,lwa×7 lwaX×1,8,lwaX,False
+被,2,bjeH bjeX,,0.0,0,0,bjeH×7 bjeX×1,8,bjeX,False
+蔓,2,man mjonH,,0.0,0,0,mjonH×7 man×1,8,man,False
+刖,3,ngjwot ngwaet ngwot,,0.0,0,0,ngwaet×7 ngjwot×1,8,ngwot,False
+且,2,tshjaeX tsjo,,0.0,0,0,tsjo×8,8,tshjaeX,False
+鑿,3,dzak dzuwk tsak,,0.0,0,1,dzak×8,8,dzuwk,False
+背,2,bwojH pwojH,,0.0,0,0,bwojH×7 pwojH×1,8,pwojH,False
+沮,5,dzjoX tshjo tsjo tsjoH tsrjo,,0.0,0,0,tshjo×5 dzjoX×3,8,tsjo,False
+緼,4,'jun 'junH 'junX 'won,,0.0,0,0,'won×4 'jun×2 'junX×2,8,'junH,False
+索,3,sak sreak srjaek,,0.0,0,0,sak×8,8,sreak,False
+別,2,bjet pjet,,0.0,0,0,pjet×8,8,bjet,False
+讙,2,xjwon xwan,,0.0,0,0,xwan×7 xjwon×1,8,xjwon,False
+號,2,haw hawH,,0.0,0,0,haw×5 hawH×2,7,hawH,False
+娣,2,dejH dejX,,0.0,0,0,dejH×7,7,dejX,False
+涕,2,thejH thejX,,0.0,0,0,thejX×6 thejH×1,7,thejH,False
+夏,2,haeH haeX,,0.0,0,0,haeX×6 haeH×1,7,haeH,False
+夭,3,'awX 'jew 'jewX,,0.0,0,0,'jewX×5 'awX×2,7,'jew,False
+蘧,2,gjo gju,,0.0,0,0,gjo×7,7,gju,False
+鎧,2,khojH khojX,,0.0,0,0,khojH×7,7,khojX,False
+過,2,kwa kwaH,,0.0,0,0,kwa×4 kwaH×3,7,kwaH,False
+還,2,hwaen zjwen,,0.0,0,0,zjwen×7,7,hwaen,False
+梏,2,kaewk kowk,,0.0,0,0,kowk×6 kaewk×1,7,kaewk,False
+共,2,gjowngH kjowng,,0.0,0,0,kjowng×7,7,gjowngH,False
+蜃,2,dzyinH dzyinX,,0.0,0,0,dzyinX×7,7,dzyinH,False
+姪,2,det drit,,0.0,0,0,det×7,7,drit,False
+供,2,kjowng kjowngH,,0.0,0,0,kjowng×7,7,kjowngH,False
+夫,2,bju pju,,0.0,0,0,bju×7,7,pju,False
+畜,2,trhjuwH xjuwk,,0.0,0,0,xjuwk×7,7,trhjuwH,False
+賁,4,bj+j bjun pjeH pwon,,0.0,0,0,pwon×3 bjun×3 pjeH×1,7,bj+j,False
+跛,2,paX pjeH,,0.0,0,0,paX×5 pjeH×2,7,pjeH,False
+嚮,2,xjangH xjangX,,0.0,0,0,xjangH×6 xjangX×1,7,xjangX,False
+燕,2,'en 'enH,,0.0,0,0,'enH×4 'en×3,7,'en,False
+令,5,leng lengH ljen ljeng ljengH,,0.0,0,0,ljeng×7,7,leng,False
+操,3,suwX tshaw tshawH,,0.0,0,0,tshaw×6,6,suwX,False
+錯,2,tshak tshuH,,0.0,0,0,tshuH×4 tshak×2,6,tshak,False
+饌,2,dzrjwenH dzrwaenX,,0.0,0,0,dzrjwenH×6,6,dzrwaenX,False
+胥,2,sjo sjoX,,0.0,0,1,sjo×5 sjoX×1,6,sjoX,False
+圜,2,hjwen hwaen,,0.0,0,0,hjwen×6,6,hwaen,False
+倚,2,'jeH 'jeX,,0.0,0,0,'jeX×5 'jeH×1,6,'jeH,False
+匐,2,bjuwk bok,,0.0,0,0,bok×6,6,bjuwk,False
+差,5,tsrhae tsrhea tsrheaH tsrheaj tsrhje,,0.0,0,0,tsrhea×4 tsrheaH×2,6,tsrhae,False
+頊,2,ngjowk xjowk,,0.0,0,0,xjowk×6,6,ngjowk,False
+台,2,thoj yi,,0.0,0,0,yi×6,6,thoj,False
+枕,3,drim tsyimH tsyimX,,0.0,0,0,tsyimH×6,6,drim,False
+粥,2,tsyuwk yuwk,,0.0,0,0,yuwk×5 tsyuwk×1,6,tsyuwk,False
+分,2,bjunH pjun,,0.0,0,0,bjunH×4 pjun×2,6,pjun,False
+脛,2,hengH hengX,,0.0,0,0,hengH×6,6,hengX,False
+父,2,bjuX pjuX,,0.0,0,0,pjuX×6,6,bjuX,False
+浸,2,tshim tsimH,,0.0,0,0,tsimH×6,6,tshim,False
+累,2,ljweH ljweX,,0.0,0,0,ljweH×6,6,ljweX,False
+洒,2,sejX sreaH,,0.0,0,0,sreaH×5 sejX×1,6,sejX,False
+圃,2,puH puX,,0.0,0,0,puX×6,6,puH,False
+曁,4,gijH kit kj+jH kj+t,,0.0,0,0,gijH×6,6,kit,False
+韎,2,mat meajH,,0.0,0,0,meajH×6,6,mat,False
+拔,3,bat beat bjot,,0.0,0,0,beat×3 bat×3,6,bjot,False
+卵,2,lwaX lwanX,,0.0,0,0,lwanX×6,6,lwaX,False
+膮,2,xew xewX,,0.0,0,0,xew×6,6,xewX,False
+圻,3,gj+j ngj+n ngon,,0.0,0,0,gj+j×6,6,ngj+n,False
+稱,2,tsyhing tsyhingH,,0.0,0,0,tsyhingH×5,5,tsyhing,False
+逮,2,dejH dojH,,0.0,0,0,dejH×4 dojH×1,5,dojH,False
+決,2,kwet xwet,,0.0,0,1,kwet×4 xwet×1,5,xwet,False
+埴,2,dzyik tsyhiH,,0.0,0,0,dzyik×5,5,tsyhiH,False
+桴,2,bjuw phju,,0.0,0,0,bjuw×3 phju×2,5,phju,False
+語,2,ngjoH ngjoX,,0.0,0,0,ngjoH×5,5,ngjoX,False
+創,2,tsrhjang tsrhjangH,,0.0,0,0,tsrhjangH×3 tsrhjang×2,5,tsrhjang,False
+植,2,driH dzyik,,0.0,0,0,driH×3 dzyik×2,5,dzyik,False
+繇,3,drjuwH yew yuw,,0.0,0,0,yew×4 yuw×1,5,drjuwH,False
+契,3,khejH khet khj+t,,0.0,0,0,khejH×3 khet×2,5,khj+t,False
+臐,2,xjun xjunH,,0.0,0,0,xjun×5,5,xjunH,False
+盛,2,dzyeng dzyengH,,0.0,0,0,dzyeng×5,5,dzyengH,False
+濟,2,tsejH tsejX,,0.0,0,0,tsejX×3 tsejH×2,5,tsejH,False
+虺,3,xjw+jX xweaj xwoj,,0.0,0,0,xjw+jX×4 xwoj×1,5,xweaj,False
+霆,2,deng dengX,,0.0,0,0,deng×4 dengX×1,5,dengX,False
+穿,2,tsyhwen tsyhwenH,,0.0,0,0,tsyhwen×5,5,tsyhwenH,False
+掘,2,gjut gjwot,,0.0,0,0,gjut×4 gjwot×1,5,gjwot,False
+腥,2,seng sengH,,0.0,0,0,seng×4 sengH×1,5,sengH,False
+樸,4,bu buwk phaewk puwk,,0.0,0,0,phaewk×3 puwk×1 buwk×1,5,bu,False
+縞,2,kawH kawX,,0.0,0,0,kawX×5,5,kawH,False
+窒,2,tet trit,,0.0,0,0,trit×5,5,tet,False
+宿,2,sjuwH sjuwk,,0.0,0,0,sjuwH×3 sjuwk×2,5,sjuwk,False
+墊,2,dep temH,,0.0,0,0,temH×5,5,dep,False
+燎,3,ljew ljewH ljewX,,0.0,0,0,ljewH×5,5,ljew,False
+渾,2,hwon hwonX,,0.0,0,0,hwonX×4 hwon×1,5,hwon,False
+更,2,kaeng kaengH,,0.0,0,0,kaeng×5,5,kaengH,False
+啐,4,swojH tshwaejH tshwojH tswit,,0.0,0,0,tshwojH×5,5,swojH,False
+殺,2,sreajH sreat,,0.0,0,0,sreajH×5,5,sreat,False
+蝑,2,sjaeH sjo,,0.0,0,0,sjo×5,5,sjaeH,False
+墮,3,dwaX thwaX xjwie,,0.0,0,0,xjwie×5,5,dwaX,False
+狙,2,tshjo tshjoH,,0.0,0,0,tshjo×5,5,tshjoH,False
+輿,2,yo yoH,,0.0,0,0,yo×5,5,yoH,False
+戾,2,lejH let,,0.0,0,0,lejH×5,5,let,False
+翟,2,dek draek,,0.0,0,0,dek×5,5,draek,False
+假,2,kaeH kaeX,,0.0,0,0,kaeX×5,5,kaeH,False
+罷,3,beaX bje bjeX,,0.0,0,0,bje×5,5,beaX,False
+彷,2,bang phjangX,,0.0,0,0,bang×5,5,phjangX,False
+溺,2,nek nyak,,0.0,0,0,nek×5,5,nyak,False
+斁,3,duH tuH yek,,0.0,0,0,yek×3 tuH×2,5,duH,False
+濯,2,draewH draewk,,0.0,0,0,draewk×4 draewH×1,5,draewH,False
+藉,2,dzjaeH dzjek,,0.0,0,0,dzjaeH×4 dzjek×1,5,dzjek,False
+稾,2,kawX khawH,,0.0,0,0,kawX×4 khawH×1,5,khawH,False
+乾,2,gjen kan,,0.0,0,0,gjen×2 kan×2,4,gjen,False
+枸,3,kjuX kuw kuwX,,0.0,0,0,kjuX×2 kuwX×2,4,kuw,False
+偪,2,pik pjuwk,,0.0,0,0,pik×4,4,pjuwk,False
+荼,3,drae du zyae,,0.0,0,0,du×4,4,drae,False
+踖,3,dzjek tshjak tsjek,,0.0,0,0,tsjek×4,4,dzjek,False
+鞞,4,bej pengX pjeX pjie,,0.0,0,0,pengX×3 bej×1,4,pjeX,False
+貉,2,hak maek,,0.0,0,0,hak×2 maek×2,4,hak,False
+涖,2,lejH lijH,,0.0,0,0,lijH×4,4,lejH,False
+格,2,kaek kak,,0.0,0,0,kaek×4,4,kak,False
+亨,3,phaeng xaeng xjangX,,0.0,0,0,phaeng×3 xaeng×1,4,xjangX,False
+黿,2,ngjwon ngwan,,0.0,0,0,ngjwon×4,4,ngwan,False
+盥,2,kwanH kwanX,,0.0,0,0,kwanX×4,4,kwanH,False
+訾,2,tsje tsjeX,,0.0,0,0,tsje×4,4,tsjeX,False
+蕃,2,bjon pjon,,0.0,0,0,bjon×4,4,pjon,False
+漑,2,kj+jH kojH,,0.0,0,0,kojH×4,4,kj+jH,False
+芒,2,mang mjang,,0.0,0,0,mang×3 mjang×1,4,mjang,False
+喟,2,khweajH khwijH,,0.0,0,0,khwijH×4,4,khweajH,False
+紃,2,zwin zywin,,0.0,0,0,zwin×4,4,zywin,False
+監,2,kaem kaemH,,0.0,0,0,kaem×4,4,kaemH,False
+崔,2,dzwoj tshwoj,,0.0,0,0,dzwoj×4,4,tshwoj,False
+莞,3,hwaenX hwan kwan,,0.0,0,0,kwan×4,4,hwaenX,False
+單,4,dzyen dzyenH dzyenX tan,,0.0,0,0,tan×3 dzyenX×1,4,dzyen,False
+戕,3,dzjang ka tsang,,0.0,0,0,dzjang×4,4,ka,False
+萊,2,loj lojH,,0.0,0,0,loj×4,4,lojH,False
+貫,2,kwan kwanH,,0.0,0,0,kwanH×4,4,kwan,False
+函,2,heam hom,,0.0,0,0,hom×3 heam×1,4,heam,False
+遯,2,dwonH dwonX,,0.0,0,0,dwonH×4,4,dwonX,False
+湛,3,dreamX drim tom,,0.0,0,0,tom×2 drim×1 dreamX×1,4,dreamX,False
+侑,2,hjuwH hjwojX,,0.0,0,0,hjuwH×4,4,hjwojX,False
+韣,3,duwk dzyowk tsyowk,,0.0,0,0,duwk×4,4,dzyowk,False
+脅,2,xjaemH xjaep,,0.0,0,0,xjaep×4,4,xjaemH,False
+嵬,2,ngwoj ngwojX,,0.0,0,0,ngwoj×4,4,ngwojX,False
+塞,2,sojH sok,,0.0,0,0,sok×2 sojH×2,4,sojH,False
+費,3,bj+jH phj+jH pijH,,0.0,0,0,phj+jH×3 bj+jH×1,4,pijH,False
+酨,2,dojH dzojH,,0.0,0,0,dzojH×4,4,dojH,False
+鏤,2,lju luwH,,0.0,0,0,luwH×4,4,lju,False
+廷,2,deng dengH,,0.0,0,0,deng×2 dengH×2,4,deng,False
+菟,2,du thuH,,0.0,0,0,du×4,4,thuH,False
+畫,2,hweaH hweak,,0.0,0,0,hweaH×3 hweak×1,4,hweak,False
+檮,3,daw drjuw tawX,,0.0,0,0,daw×3 drjuw×1,4,tawX,False
+艾,2,ngajH ngjojH,,0.0,0,0,ngjojH×3 ngajH×1,4,ngajH,False
+凍,2,tuwng tuwngH,,0.0,0,0,tuwngH×4,4,tuwng,False
+仆,4,bok phjuH phjuwH phuwH,,0.0,0,0,bok×3 phjuH×1,4,phjuwH,False
+鶩,2,mjuH muwk,,0.0,0,0,muwk×4,4,mjuH,False
+徯,2,hej hejX,,0.0,0,0,hejX×4,4,hej,False
+滑,3,hweat hwot kwot,,0.0,0,0,kwot×4,4,hweat,False
+沛,2,pajH phajH,,0.0,0,0,phajH×2 pajH×2,4,pajH,False
+堇,3,gin gj+n kj+nX,,0.0,0,0,kj+nX×4,4,gin,False
+筴,3,keap kep tsrheak,,0.0,0,0,tsrheak×4,4,keap,False
+趣,4,tshjowk tshju tshjuH tshuwX,,0.0,0,0,tshjuH×2 tshju×1 tshuwX×1,4,tshjowk,False
+茆,2,ljuwX maewX,,0.0,0,0,maewX×3 ljuwX×1,4,ljuwX,False
+韐,2,keap kop,,0.0,0,0,keap×2 kop×1,3,kop,False
+踣,2,bok phuwH,,0.0,0,0,bok×3,3,phuwH,False
+煖,2,nwanX xjwon,,0.0,0,0,nwanX×3,3,xjwon,False
+灑,4,sraeX sreaX srjeH srjeX,,0.0,0,0,sreaX×3,3,sraeX,False
+闑,2,nget ngjet,,0.0,0,0,ngjet×3,3,nget,False
+狂,2,gjwang gjwangH,,0.0,0,0,gjwang×3,3,gjwangH,False
+愬,2,sreak suH,,0.0,0,0,suH×2 sreak×1,3,sreak,False
+黽,3,meangX mjienX mjinX,,0.0,0,0,meangX×3,3,mjienX,False
+洵,2,swin zwin,,0.0,0,0,swin×3,3,zwin,False
+深,2,syim syimH,,0.0,0,0,syimH×3,3,syim,False
+咷,2,daw thewH,,0.0,0,0,daw×3,3,thewH,False
+櫟,2,lek yak,,0.0,0,0,lek×3,3,yak,False
+脫,2,dwat thwat,,0.0,0,0,dwat×2 thwat×1,3,thwat,False
+控,2,khaewng khuwngH,,0.0,0,0,khuwngH×2 khaewng×1,3,khaewng,False
+漱,2,srjuwH suwH,,0.0,0,0,srjuwH×3,3,suwH,False
+較,2,kaewH kaewk,,0.0,0,0,kaewk×3,3,kaewH,False
+隮,2,tsej tsejH,,0.0,0,0,tsej×2 tsejH×1,3,tsejH,False
+漂,2,phjiew phjiewH,,0.0,0,0,phjiewH×3,3,phjiew,False
+蹇,2,kjenX kjonX,,0.0,0,0,kjenX×3,3,kjonX,False
+惇,2,tsywin twon,,0.0,0,0,twon×3,3,tsywin,False
+腓,2,bj+j bj+jH,,0.0,0,0,bj+j×3,3,bj+jH,False
+題,2,dej dejH,,0.0,0,0,dej×3,3,dejH,False
+覺,2,kaewH kaewk,,0.0,0,0,kaewH×3,3,kaewk,False
+校,2,haewH kaewH,,0.0,0,0,haewH×3,3,kaewH,False
+掇,2,trjwet twat,,0.0,0,0,twat×3,3,trjwet,False
+芼,2,maw mawH,,0.0,0,0,mawH×3,3,maw,False
+澳,2,'awH 'juwk,,0.0,0,0,'juwk×3,3,'awH,False
+蟲,2,drjuwng drjuwngH,,0.0,0,0,drjuwng×3,3,drjuwngH,False
+摩,2,ma maH,,0.0,0,0,ma×3,3,maH,False
+繅,2,saw tsawX,,0.0,0,0,tsawX×2 saw×1,3,saw,False
+蕢,2,gwijH khweajH,,0.0,0,0,gwijH×2 khweajH×1,3,khweajH,False
+楬,3,gjet gjot khaet,,0.0,0,0,khaet×3,3,gjet,False
+顚,2,ten thenH,,0.0,0,0,ten×3,3,thenH,False
+颺,2,yang yangH,,0.0,0,0,yang×3,3,yangH,False
+檜,2,kwajH kwat,,0.0,0,0,kwajH×2 kwat×1,3,kwat,False
+將,2,tsjang tsjangH,,0.0,0,1,tsjangH×3,3,tsjang,False
+卣,2,yuw yuwX,,0.0,0,0,yuwX×2 yuw×1,3,yuw,False
+馮,2,bing bjuwng,,0.0,0,0,bing×3,3,bjuwng,False
+戡,2,khom trimX,,0.0,0,0,khom×2 trimX×1,3,trimX,False
+寥,2,lek lew,,0.0,0,0,lew×3,3,lek,False
+茷,3,bjojH bjot pajH,,0.0,0,0,bjojH×3,3,bjot,False
+伺,2,si siH,,0.0,0,0,si×2 siH×1,3,siH,False
+幅,2,pik pjuwk,,0.0,0,0,pjuwk×3,3,pik,False
+綬,2,dzyuwH dzyuwX,,0.0,0,0,dzyuwX×3,3,dzyuwH,False
+耒,2,lwijX lwojH,,0.0,0,0,lwojH×3,3,lwijX,False
+沱,2,da daX,,0.0,0,0,da×3,3,daX,False
+黝,2,'jij 'jiwX,,0.0,0,0,'jiwX×3,3,'jij,False
+沌,3,drjwenX dwon dwonX,,0.0,0,0,dwonX×3,3,drjwenX,False
+蔾,2,lej lij,,0.0,0,0,lij×3,3,lej,False
+車,2,kjo tsyhae,,0.0,0,0,kjo×3,3,tsyhae,False
+濫,2,haemX lamH,,0.0,0,0,lamH×3,3,haemX,False
+盟,2,maengH mjaeng,,0.0,0,0,maengH×2 mjaeng×1,3,mjaeng,False
+雩,2,hju xju,,0.0,0,0,hju×2 xju×1,3,xju,False
+亢,2,kang khangH,,0.0,0,0,khangH×3,3,kang,False
+敦,4,dwan twoj twon twonH,,0.0,0,1,twoj×2 twon×1,3,dwan,False
+黔,2,gim gjem,,0.0,0,0,gjem×2 gim×1,3,gim,False
+掉,3,dewH dewX nraewk,,0.0,0,0,dewH×3,3,dewX,False
+洗,2,sejX senX,,0.0,0,0,senX×2 sejX×1,3,sejX,False
+禱,2,tawH tawX,,0.0,0,0,tawX×3,3,tawH,False
+楯,3,trhwin zwin zywinX,,0.0,0,0,zywinX×3,3,trhwin,False
+駿,2,swinH tswinH,,0.0,0,0,swinH×3,3,tswinH,False
+澹,3,dam damH damX,,0.0,0,0,damH×3,3,dam,False
+窬,3,duw duwH yu,,0.0,0,0,yu×2 duwH×1,3,duw,False
+韍,2,bijH pjut,,0.0,0,0,pjut×3,3,bijH,False
+披,2,phje phjeX,,0.0,0,0,phje×3,3,phjeX,False
+噍,3,dzjewH tsjew tsjuw,,0.0,0,0,tsjew×2 tsjuw×1,3,dzjewH,False
+抗,2,hang khangH,,0.0,0,0,khangH×3,3,hang,False
+簠,3,phjuH pju pjuX,,0.0,0,0,pjuX×2 pju×1,3,phjuH,False
+戲,3,xje xjeH xu,,0.0,0,0,xje×2 xu×1,3,xjeH,False
+錢,2,dzjen tsjenX,,0.0,0,0,tsjenX×3,3,dzjen,False
+劑,2,dzejH tsjwe,,0.0,0,0,tsjwe×3,3,dzejH,False
+重,3,drjowng drjowngH drjowngX,,0.0,0,0,drjowngX×2 drjowng×1,3,drjowngH,False
+倒,2,tawH tawX,,0.0,0,0,tawX×3,3,tawH,False
+屠,2,drjo du,,0.0,0,0,du×3,3,drjo,False
+瑱,3,den thenH trinH,,0.0,0,0,thenH×3,3,den,False
+隩,2,'awH 'juwk,,0.0,0,0,'juwk×2 'awH×1,3,'awH,False
+弇,2,'jemX kom,,0.0,0,0,'jemX×3,3,kom,False
+恫,2,duwngH thuwng,,0.0,0,0,thuwng×3,3,duwngH,False
+纍,2,lwij lwijH,,0.0,0,0,lwij×3,3,lwijH,False
+祇,2,gjie tsye,,0.0,0,0,tsye×3,3,gjie,False
+踧,2,dek tsjuwk,,0.0,0,0,tsjuwk×3,3,dek,False
+涇,2,gjiengX keng,,0.0,0,0,keng×3,3,gjiengX,False
+踶,2,dejH drjeX,,0.0,0,0,drjeX×3,3,dejH,False
+屯,2,dwon trwin,,0.0,0,0,trwin×2 dwon×1,3,dwon,False
+卬,2,ngang ngjangX,,0.0,0,0,ngang×3,3,ngjangX,False
+弟,2,dejH dejX,,0.0,0,3,dejH×2 dejX×1,3,dejX,False
+僂,3,ljuX luw luwH,,0.0,0,0,ljuX×2 luw×1,3,luwH,False
+髀,3,bejX pjeX pjijX,,0.0,0,0,bejX×3,3,pjeX,False
+盾,2,dwonX zywinX,,0.0,0,0,zywinX×2 dwonX×1,3,dwonX,False
+忿,2,phjunH phjunX,,0.0,0,0,phjunX×3,3,phjunH,False
+頒,2,bjun paen,,0.0,0,0,paen×2 bjun×1,3,bjun,False
+咡,2,nyi nyiH,,0.0,0,0,nyiH×2,2,nyi,False
+獫,4,ljem ljemH ljemX xjemX,,0.0,0,0,xjemX×1 ljemH×1,2,ljem,False
+閉,2,pejH pet,,0.0,0,0,pejH×2,2,pet,False
+囿,2,hjuwH hjuwk,,0.0,0,0,hjuwH×2,2,hjuwk,False
+緅,3,tsjuH tsrjuw tsuw,,0.0,0,0,tsrjuw×2,2,tsjuH,False
+醟,2,hjwaengH xjwiengH,,0.0,0,0,hjwaengH×2,2,xjwiengH,False
+眄,2,menH menX,,0.0,0,0,menH×2,2,menX,False
+耽,2,tom tomX,,0.0,0,0,tom×2,2,tomX,False
+伏,2,bjuwH bjuwk,,0.0,0,0,bjuwH×1 bjuwk×1,2,bjuwH,False
+簸,2,paH paX,,0.0,0,0,paX×2,2,paH,False
+爓,2,yemH zjem,,0.0,0,0,zjem×2,2,yemH,False
+駘,2,doj dojX,,0.0,0,0,dojX×1 doj×1,2,doj,False
+頃,2,khjwieng khjwiengX,,0.0,0,0,khjwieng×2,2,khjwiengX,False
+郜,2,kawH kowk,,0.0,0,0,kawH×2,2,kowk,False
+孛,2,bwojH bwot,,0.0,0,0,bwojH×2,2,bwot,False
+鍭,2,huw huwH,,0.0,0,0,huwH×2,2,huw,False
+何,2,ha haX,,0.0,0,0,haX×2,2,ha,False
+溟,2,meng mengX,,0.0,0,0,mengX×2,2,meng,False
+洌,2,ljejH ljet,,0.0,0,0,ljet×2,2,ljejH,False
+宓,2,mit mjit,,0.0,0,0,mit×2,2,mjit,False
+猒,2,'jem 'jemH,,0.0,0,0,'jemH×2,2,'jem,False
+簜,2,dangX thang,,0.0,0,0,dangX×2,2,thang,False
+鬌,3,drjwe dwaX twaX,,0.0,0,0,twaX×2,2,drjwe,False
+捍,2,haenX hanH,,0.0,0,0,hanH×2,2,haenX,False
+楅,2,pik pjuwk,,0.0,0,0,pjuwk×2,2,pik,False
+孳,2,dziH tsi,,0.0,0,0,tsi×1 dziH×1,2,dziH,False
+縫,2,bjowng bjowngH,,0.0,0,0,bjowng×2,2,bjowngH,False
+煬,2,yang yangH,,0.0,0,0,yang×2,2,yangH,False
+翳,2,'ej 'ejH,,0.0,0,0,'ejH×2,2,'ej,False
+徹,2,drjet trhjet,,0.0,0,1,trhjet×1 drjet×1,2,drjet,False
+蛸,2,sjew sraew,,0.0,0,0,sjew×1 sraew×1,2,sjew,False
+倡,2,tsyhang tsyhangH,,0.0,0,0,tsyhangH×2,2,tsyhang,False
+錡,3,gje gjeX ngjeX,,0.0,0,0,ngjeX×1 gjeX×1,2,gje,False
+汪,3,'jwangX 'wang 'wangH,,0.0,0,0,'wang×2,2,'jwangX,False
+渙,2,xwajH xwanH,,0.0,0,0,xwanH×2,2,xwajH,False
+癉,4,dan taH taX tan,,0.0,0,0,tan×2,2,dan,False
+鬲,2,keak lek,,0.0,0,0,lek×2,2,keak,False
+鄗,3,hawX khaew xak,,0.0,0,0,xak×1 khaew×1,2,hawX,False
+禜,2,hjaeng hjwaengH,,0.0,0,0,hjwaengH×2,2,hjaeng,False
+鋪,3,phju phu phuH,,0.0,0,0,phu×2,2,phju,False
+箘,2,gwinX khwin,,0.0,0,0,gwinX×2,2,khwin,False
+薧,2,khawX xaw,,0.0,0,0,khawX×2,2,xaw,False
+醍,2,dej thejX,,0.0,0,0,thejX×2,2,dej,False
+粗,2,dzuX tshu,,0.0,0,0,dzuX×1 tshu×1,2,dzuX,False
+彊,3,gjang gjangX kjangH,,0.0,0,0,gjang×2,2,gjangX,False
+嗑,2,hap kap,,0.0,0,0,hap×2,2,kap,False
+輁,2,gjowng kjowngX,,0.0,0,0,kjowngX×2,2,gjowng,False
+隱,2,'j+nH 'j+nX,,0.0,0,0,'j+nH×2,2,'j+nX,False
+奠,2,denH tengH,,0.0,0,0,denH×2,2,tengH,False
+詬,3,khuwH kuwX xuwH,,0.0,0,0,xuwH×1 khuwH×1,2,kuwX,False
+頡,2,het keat,,0.0,0,0,het×2,2,keat,False
+涯,2,ngea ngje,,0.0,0,0,ngea×2,2,ngje,False
+鉏,2,dzrjo dzrjoX,,0.0,0,0,dzrjo×2,2,dzrjoX,False
+盬,2,ku kuX,,0.0,0,0,kuX×2,2,ku,False
+罦,2,bjuw phju,,0.0,0,0,bjuw×1 phju×1,2,bjuw,False
+扁,4,benX bjienX penX phjien,,0.0,0,0,benX×1 phjien×1,2,bjienX,False
+槐,2,hweaj hwoj,,0.0,0,0,hweaj×2,2,hwoj,False
+凝,2,nging ngingH,,0.0,0,0,nging×2,2,ngingH,False
+臠,2,ljwenX lwan,,0.0,0,0,ljwenX×2,2,lwan,False
+曖,2,'ajH 'ojH,,0.0,0,0,'ojH×2,2,'ajH,False
+瑩,2,'wengH hjaeng,,0.0,0,0,hjaeng×2,2,'wengH,False
+蓑,2,swa swoj,,0.0,0,0,swa×2,2,swoj,False
+魄,2,phaek thak,,0.0,0,0,phaek×2,2,thak,False
+種,2,tsyowngH tsyowngX,,0.0,0,0,tsyowngH×2,2,tsyowngX,False
+獻,3,ngjet sa xjonH,,0.0,0,0,sa×1 xjonH×1,2,ngjet,False
+庮,2,yuw yuwX,,0.0,0,0,yuw×2,2,yuwX,False
+造,2,dzawX tshawH,,0.0,0,0,dzawX×1 tshawH×1,2,dzawX,False
+蜋,2,lang ljang,,0.0,0,0,lang×2,2,ljang,False
+焌,3,tshwit tswinH tswonH,,0.0,0,0,tswonH×1 tswinH×1,2,tshwit,False
+亹,2,mj+jX mwon,,0.0,0,0,mj+jX×1 mwon×1,2,mj+jX,False
+猗,2,'je 'jeX,,0.0,0,0,'jeX×2,2,'je,False
+骭,2,haenH kanH,,0.0,0,0,haenH×2,2,kanH,False
+籠,3,lowng luwng luwngX,,0.0,0,0,luwng×2,2,lowng,False
+勝,2,sying syingH,,0.0,0,0,syingH×2,2,sying,False
+鬠,2,hwat kwajH,,0.0,0,0,kwajH×2,2,hwat,False
+娩,5,mjenX mjonH mjonX mjunH phjonH,,0.0,0,0,mjunH×1 mjonX×1,2,mjenX,False
+僾,2,'j+jX 'ojH,,0.0,0,0,'ojH×2,2,'j+jX,False
+狃,2,nrjuwH nrjuwX,,0.0,0,0,nrjuwX×2,2,nrjuwH,False
+蹢,3,drjek nreak tek,,0.0,0,0,drjek×2,2,nreak,False
+剽,2,bjiew phjiewH,,0.0,0,0,phjiewH×2,2,bjiew,False
+蜂,2,buwng phjowng,,0.0,0,0,phjowng×2,2,buwng,False
+畬,2,syae yo,,0.0,0,0,yo×2,2,syae,False
+薜,2,bejH peak,,0.0,0,0,peak×1 bejH×1,2,bejH,False
+觳,2,huwk khaewk,,0.0,0,0,huwk×1 khaewk×1,2,huwk,False
+禬,2,hwajH kwajH,,0.0,0,0,kwajH×2,2,hwajH,False
+燋,2,tsjak tsjew,,0.0,0,0,tsjak×2,2,tsjew,False
+肸,2,xit xj+t,,0.0,0,0,xit×2,2,xj+t,False
+胠,3,khjaep khjo khjoH,,0.0,0,0,khjo×2,2,khjaep,False
+邯,2,ham han,,0.0,0,0,han×2,2,ham,False
+柢,3,tej tejH tejX,,0.0,0,0,tejH×2,2,tej,False
+觱,2,hjut pjit,,0.0,0,0,pjit×2,2,hjut,False
+邴,2,pjaengH pjaengX,,0.0,0,0,pjaengH×2,2,pjaengX,False
+繄,2,'ej 'ejH,,0.0,0,0,'ej×2,2,'ejH,False
+稌,2,thu thuX,,0.0,0,0,thuX×2,2,thu,False
+鵻,2,swinX tsywij,,0.0,0,0,tsywij×2,2,swinX,False
+壞,2,hweajH kweajH,,0.0,0,0,hweajH×1 kweajH×1,2,hweajH,False
+蠙,2,ben bjin,,0.0,0,0,ben×2,2,bjin,False
+汎,2,bjuwng phjomH,,0.0,0,0,phjomH×2,2,bjuwng,False
+谷,3,kuwk luwk yowk,,0.0,0,0,kuwk×2,2,luwk,False
+皤,2,ba pa,,0.0,0,0,ba×2,2,pa,False
+推,2,thwoj tsyhwij,,0.0,0,0,thwoj×1 tsyhwij×1,2,thwoj,False
+虹,3,huwng kaewngH kuwngH,,0.0,0,0,huwng×2,2,kaewngH,False
+搶,3,tshjang tshjangX tsrhjangX,,0.0,0,0,tshjang×2,2,tshjangX,False
+砥,3,tsyeX tsyij tsyijX,,0.0,0,0,tsyijX×1 tsyij×1,2,tsyeX,False
+諏,2,tsju tsuw,,0.0,0,0,tsju×2,2,tsuw,False
+杼,2,drjoX zyoX,,0.0,0,0,drjoX×2,2,zyoX,False
+觿,2,hwej xjwie,,0.0,0,0,hwej×1 xjwie×1,2,hwej,False
+縣,2,hwen hwenH,,0.0,0,0,hwen×2,2,hwenH,False
+梱,2,khwonX ngwon,,0.0,0,0,khwonX×2,2,ngwon,False
+準,2,tsywet tsywinX,,0.0,0,0,tsywinX×2,2,tsywet,False
+儆,2,gjaengH kjaengX,,0.0,0,0,kjaengX×2,2,gjaengH,False
+阪,2,baenX pjonX,,0.0,0,0,pjonX×1 baenX×1,2,baenX,False
+繫,3,hejH kejH khej,,0.0,0,0,hejH×2,2,kejH,False
+裹,2,kwaH kwaX,,0.0,0,0,kwaX×2,2,kwaH,False
+蘄,4,gi gj+j gj+n kj+j,,0.0,0,0,gj+j×2,2,gi,False
+輻,2,pjuwH pjuwk,,0.0,0,0,pjuwk×2,2,pjuwH,False
+蚡,2,bjun bjunX,,0.0,0,0,bjunX×2,2,bjun,False
+挐,2,nrae nrjo,,0.0,0,0,nrjo×2,2,nrae,False
+瞀,2,maewk muwH,,0.0,0,0,muwH×2,2,maewk,False
+迂,3,'ju 'juX hju,,0.0,0,0,hju×2,2,'ju,False
+睇,2,dejH thej,,0.0,0,0,dejH×2,2,thej,False
+眡,3,dzyijH dzyijX tej,,0.0,0,0,dzyijH×2,2,dzyijX,False
+越,2,hjwot hwat,,0.0,0,0,hjwot×1 hwat×1,2,hjwot,False
+掠,2,ljak ljangH,,0.0,0,0,ljangH×2,2,ljak,False
+綴,2,trjwejH trjwet,,0.0,0,0,trjwet×2,2,trjwejH,False
+惔,3,dam damH damX,,0.0,0,0,damH×2,2,dam,False
+殷,2,'ean 'j+n,,0.0,0,0,'j+n×2,2,'ean,False
+玼,3,dzje tshejX tshjweX,,0.0,0,0,tshjweX×1 tshejX×1,2,dzje,False
+㯺,2,haemH xamX,,0.0,0,0,xamX×2,2,haemH,False
+蕰,3,'junH 'junX 'won,,0.0,0,0,'junX×2,2,'junH,False
+泆,2,det yit,,0.0,0,0,yit×2,2,det,False
+縵,2,maenH manH,,0.0,0,0,manH×2,2,maenH,False
+編,3,pen penX pjien,,0.0,0,0,pjien×2,2,pen,False
+純,2,dzywin tsywinX,,0.0,0,0,tsywinX×2,2,dzywin,False
+繚,3,lew lewX ljewX,,0.0,0,0,lewX×2,2,lew,False
+銍,2,trit tsyit,,0.0,0,0,trit×2,2,tsyit,False
+鷩,2,pjiejH pjiet,,0.0,0,0,pjiet×2,2,pjiejH,False
+吁,2,hjuH xju,,0.0,0,0,xju×2,2,hjuH,False
+憸,4,sjem tshjem tshjemX xjemX,,0.0,0,0,sjem×2,2,tshjem,False
+蜮,2,hwik hwok,,0.0,0,0,hwok×2,2,hwik,False
+縊,2,'ejH 'jeH,,0.0,0,0,'jeH×2,2,'ejH,False
+恐,2,khjowngH khjowngX,,0.0,0,0,khjowngX×2,2,khjowngH,False
+傭,2,trhjowng yowng,,0.0,0,0,yowng×2,2,trhjowng,False
+晢,2,tsyejH tsyet,,0.0,0,0,tsyejH×2,2,tsyet,False
+藨,3,bjewX phaw pjew,,0.0,0,0,bjewX×2,2,phaw,False
+暴,2,bawH buwk,,0.0,0,0,bawH×2,2,buwk,False
+螣,3,dok dong drimX,,0.0,0,0,dong×1 dok×1,2,drimX,False
+膠,3,kaew kaewH khaew,,0.0,0,0,kaewH×1 kaew×1,2,khaew,False
+侗,3,duwng thuwng thuwngX,,0.0,0,0,duwng×2,2,thuwng,False
+畋,2,den denH,,0.0,0,0,den×2,2,denH,False
+泄,2,sjet yejH,,0.0,0,0,sjet×2,2,yejH,False
+刷,2,srjwet srwaet,,0.0,0,0,srjwet×2,2,srwaet,False
+胞,2,paew phaew,,0.0,0,0,phaew×1 paew×1,2,paew,False
+頗,3,pha phaH phaX,,0.0,0,0,pha×2,2,phaH,False
+蹶,3,kjwejH kjwet kjwot,,0.0,0,0,kjwot×1 kjwejH×1,2,kjwet,False
+膴,3,mju mjuX xu,,0.0,0,0,xu×2,2,mju,False
+噦,3,'jwet 'jwot xwajH,,0.0,0,0,'jwot×2,2,'jwet,False
+宛,2,'jwon 'jwonX,,0.0,0,0,'jwon×2,2,'jwonX,False
+緹,2,dej thejX,,0.0,0,0,thejX×2,2,dej,False
+螔,2,sje ye,,0.0,0,0,ye×2,2,sje,False
+提,2,dej dzye,,0.0,0,0,dej×2,2,dzye,False
+騑,2,phj+j pj+j,,0.0,0,0,phj+j×2,2,pj+j,False
+槎,2,dzrae dzraeX,,0.0,0,0,dzraeX×2,2,dzrae,False
+悌,2,dejH dejX,,0.0,0,0,dejX×2,2,dejH,False
+歃,2,sreap srjep,,0.0,0,0,sreap×2,2,srjep,False
+煦,2,xjuH xjuX,,0.0,0,0,xjuH×1 xjuX×1,2,xjuH,False
+洮,2,thaw yew,,0.0,0,0,thaw×2,2,yew,False
+偏,2,phjien phjienH,,0.0,0,0,phjien×2,2,phjienH,False
+盎,2,'angH 'angX,,0.0,0,0,'angH×2,2,'angX,False
+先,2,sen senH,,0.0,0,0,senH×2,2,sen,False
+湫,4,dzjuwX tsewX tshjuw tsjuw,,0.0,0,0,tshjuw×2,2,dzjuwX,False
+鑚,2,tswan tswanH,,0.0,0,0,tswan×2,2,tswanH,False
+畛,2,tsyin tsyinX,,0.0,0,0,tsyinX×2,2,tsyin,False
+隈,2,'woj 'wojH,,0.0,0,0,'woj×2,2,'wojH,False
+彈,2,dan danH,,0.0,0,1,dan×2,2,danH,False
+韗,2,hjunH xjwonH,,0.0,0,0,hjunH×2,2,xjwonH,False
+鐔,3,dom yim zim,,0.0,0,0,dom×1 yim×1,2,zim,False
+鐲,2,draewk dzyowk,,0.0,0,0,draewk×2,2,dzyowk,False
+綪,2,tshenH tsreang,,0.0,0,0,tsreang×1 tshenH×1,2,tshenH,False
+荎,2,det drij,,0.0,0,0,det×2,2,drij,False
+娶,2,sju tshjuH,,0.0,0,0,tshjuH×2,2,sju,False
+椑,4,bej bek bjiek pjie,,0.0,0,0,bek×2,2,bej,False
+臞,2,gju gjuH,,0.0,0,0,gju×2,2,gjuH,False
+邀,2,'jiew kew,,0.0,0,0,kew×2,2,'jiew,False
+蜼,3,lwijX yuwH ywijH,,0.0,0,0,lwijX×2,2,yuwH,False
+繻,2,nyu sju,,0.0,0,0,sju×2,2,nyu,False
+賈,3,kaeH kaeX kuX,,0.0,0,0,kuX×1 kaeH×1,2,kaeX,False
+辨,2,beanH bjenX,,0.0,0,0,bjenX×2,2,beanH,False
+柞,2,dzak tsak,,0.0,0,0,tsak×2,2,dzak,False
+窆,2,pjemH pongH,,0.0,0,0,pjemH×2,2,pongH,False
+抉,2,'wet kwet,,0.0,0,0,'wet×1,1,kwet,False
+傍,2,bang bangH,,0.0,0,0,bang×1,1,bangH,False
+町,4,dengX thenX theng thengX,,0.0,0,0,thenX×1,1,dengX,False
+刜,2,bjut phjut,,0.0,0,0,phjut×1,1,bjut,False
+燾,2,daw dawH,,0.0,0,0,dawH×1,1,daw,False
+鸒,2,yo yoH,,0.0,0,0,yoH×1,1,yo,False
+檇,3,dzwoj tswij tswijH,,0.0,0,0,tswijH×1,1,dzwoj,False
+芘,2,bjij bjijH,,0.0,0,0,bjij×1,1,bjijH,False
+區,2,'uw khju,,0.0,0,0,khju×1,1,'uw,False
+臨,2,lim limH,,0.0,0,2,limH×1,1,lim,False
+塗,2,drae du,,0.0,0,0,du×1,1,drae,False
+潢,2,hwang hwangH,,0.0,0,0,hwang×1,1,hwangH,False
+啗,2,damH damX,,0.0,0,0,damX×1,1,damH,False
+棺,2,kwan kwanH,,0.0,0,1,kwan×1,1,kwanH,False
+杻,2,nrjuwX trhjuwX,,0.0,0,0,nrjuwX×1,1,trhjuwX,False
+瞭,2,lew lewX,,0.0,0,0,lewX×1,1,lew,False
+憃,3,syowng trhaewng trhjowngH,,0.0,0,0,syowng×1,1,trhaewng,False
+眂,2,dzye dzyijH,,0.0,0,0,dzyijH×1,1,dzye,False
+昄,3,baenX paenX panX,,0.0,0,0,baenX×1,1,paenX,False
+脕,3,mjonH mjonX mjunH,,0.0,0,0,mjunH×1,1,mjonH,False
+脢,2,mwoj mwojH,,0.0,0,0,mwoj×1,1,mwojH,False
+綸,2,kwean lwin,,0.0,0,0,lwin×1,1,kwean,False
+眅,2,phaen phaenX,,0.0,0,0,phaenX×1,1,phaen,False
+掃,2,sawH sawX,,0.0,0,0,sawH×1,1,sawX,False
+蹻,5,gjak gjew khjiew kjak kjewX,,0.0,0,0,kjak×1,1,gjak,False
+駰,2,'in 'jin,,0.0,0,0,'in×1,1,'jin,False
+汙,2,'uH hju,,0.0,0,0,'uH×1,1,hju,False
+烟,2,'en 'jin,,0.0,0,0,'jin×1,1,'en,False
+㠀,2,tawX tewX,,0.0,0,0,tawX×1,1,tewX,False
+腦,2,nawH nawX,,0.0,0,0,nawX×1,1,nawH,False
+醒,3,seng sengH sengX,,0.0,0,0,sengX×1,1,seng,False
+縐,2,tsrhaewH tsrjuwH,,0.0,0,0,tsrjuwH×1,1,tsrhaewH,False
+廖,2,lew ljuwH,,0.0,0,0,lew×1,1,ljuwH,False
+稰,2,sjo sjoX,,0.0,0,0,sjoX×1,1,sjo,False
+射,4,yaeH yek zyaeH zyek,,0.0,0,0,yek×1,1,yaeH,False
+沽,3,ku kuH kuX,,0.0,0,0,ku×1,1,kuH,False
+机,2,kij kijX,,0.0,0,0,kijX×1,1,kij,False
+絜,2,het ket,,0.0,0,0,ket×1,1,het,False
+樅,2,tshjowng tsjowng,,0.0,0,0,tshjowng×1,1,tsjowng,False
+卷,4,gjwen gjwonX kjwenH kjwenX,,0.0,0,0,gjwen×1,1,gjwonX,False
+轛,2,trwijH twojH,,0.0,0,0,twojH×1,1,trwijH,False
+鼐,2,nojH nojX,,0.0,0,0,nojH×1,1,nojX,False
+巋,2,khwij khwijX,,0.0,0,0,khwijX×1,1,khwij,False
+烋,2,xaew xjiw,,0.0,0,0,xaew×1,1,xjiw,False
+柚,2,drjuwk yuwH,,0.0,0,0,drjuwk×1,1,yuwH,False
+瀾,2,lan lanH,,0.0,0,0,lanH×1,1,lan,False
+秏,2,xawH xwojH,,0.0,0,0,xawH×1,1,xwojH,False
+鬈,2,gjwen khjwen,,0.0,0,0,gjwen×1,1,khjwen,False
+爝,3,dzjak tsjak tsjewH,,0.0,0,0,tsjak×1,1,dzjak,False
+蓂,2,mek meng,,0.0,0,0,meng×1,1,mek,False
+异,2,yi yiH,,0.0,0,0,yiH×1,1,yi,False
+暵,2,xanH xanX,,0.0,0,0,xanX×1,1,xanH,False
+愀,2,dzjuwX tshjewX,,0.0,0,0,tshjewX×1,1,dzjuwX,False
+卉,2,xjw+jH xjw+jX,,0.0,0,0,xjw+jH×1,1,xjw+jX,False
+紾,2,trjenX tsyinX,,0.0,0,0,tsyinX×1,1,trjenX,False
+隋,2,thwaX zjwe,,0.0,0,0,thwaX×1,1,zjwe,False
+繳,3,heak kewX tsyak,,0.0,0,0,tsyak×1,1,heak,False
+韝,2,khuw kuw,,0.0,0,0,khuw×1,1,kuw,False
+街,2,kea keaj,,0.0,0,0,kea×1,1,keaj,False
+駣,3,daw dawX drjewX,,0.0,0,0,drjewX×1,1,daw,False
+釗,2,kew tsyew,,0.0,0,0,kew×1,1,tsyew,False
+織,2,tsyiH tsyik,,0.0,0,0,tsyiH×1,1,tsyik,False
+飲,2,'imH 'imX,,0.0,0,0,'imH×1,1,'imX,False
+虵,3,yaeX ye zyae,,0.0,0,0,ye×1,1,yaeX,False
+琇,2,sjuwH yuwX,,0.0,0,0,sjuwH×1,1,yuwX,False
+激,2,kek kewH,,0.0,0,0,kek×1,1,kewH,False
+蘞,3,ljem ljemX xjaem,,0.0,0,0,ljem×1,1,ljemX,False
+諞,3,bjenX bjien bjienX,,0.0,0,0,bjenX×1,1,bjien,False
+渴,2,gjet khat,,0.0,0,0,khat×1,1,gjet,False
+勠,3,ljuw ljuwH ljuwk,,0.0,0,0,ljuwk×1,1,ljuw,False
+喬,2,gjew kjew,,0.0,0,0,gjew×1,1,kjew,False
+郇,2,hwaen swin,,0.0,0,0,swin×1,1,hwaen,False
+璆,2,gjiw gjuw,,0.0,0,0,gjiw×1,1,gjuw,False
+便,2,bjenH bjien,,0.0,0,0,bjien×1,1,bjenH,False
+鄐,2,trhjuwk xjuwk,,0.0,0,0,xjuwk×1,1,trhjuwk,False
+菏,2,ha ka,,0.0,0,0,ka×1,1,ha,False
+啜,5,dzywejH dzywet trjwejH trjwet tsyhwet,,0.0,0,0,trjwet×1,1,dzywejH,False
+染,2,nyemH nyemX,,0.0,0,0,nyemX×1,1,nyemH,False
+褚,2,trhjoX trjoX,,0.0,0,0,trjoX×1,1,trhjoX,False
+蔞,3,lju ljuX luw,,0.0,0,0,ljuX×1,1,lju,False
+荷,2,ha haX,,0.0,0,0,haX×1,1,ha,False
+繆,4,mjiw mjiwH mjuw mjuwk,,0.0,0,0,mjiwH×1,1,mjiw,False
+襈,2,dzrjwenH gjwenH,,0.0,0,0,dzrjwenH×1,1,gjwenH,False
+裁,2,dzoj dzojH,,0.0,0,0,dzojH×1,1,dzoj,False
+楄,2,ben bjien,,0.0,0,0,ben×1,1,bjien,False
+鱒,2,dzwonH dzwonX,,0.0,0,0,dzwonX×1,1,dzwonH,False
+淢,2,hwik xwik,,0.0,0,0,xwik×1,1,hwik,False
+敗,2,baejH paejH,,0.0,0,0,paejH×1,1,baejH,False
+蛾,2,nga ngjeX,,0.0,0,0,ngjeX×1,1,nga,False
+䟽,2,srjo srjoH,,0.0,0,0,srjo×1,1,srjoH,False
+帑,2,nu thangX,,0.0,0,0,nu×1,1,thangX,False
+沫,2,majH mat,,0.0,0,0,mat×1,1,majH,False
+適,3,syek tek tsyek,,0.0,0,0,tek×1,1,syek,False
+咤,2,trae traeH,,0.0,0,0,traeH×1,1,trae,False
+囷,3,gwinX khwin phin,,0.0,0,0,khwin×1,1,gwinX,False
+蔦,2,tewH tewX,,0.0,0,0,tewX×1,1,tewH,False
+拮,2,ket kjit,,0.0,0,0,kjit×1,1,ket,False
+瑁,3,mawH mowk mwojH,,0.0,0,0,mawH×1,1,mowk,False
+掔,2,khean khen,,0.0,0,0,khen×1,1,khean,False
+扔,2,nying nyingH,,0.0,0,0,nying×1,1,nyingH,False
+大,2,daH dajH,,0.0,0,0,daH×1,1,dajH,False
+壅,2,'jowng 'jowngX,,0.0,0,0,'jowngX×1,1,'jowng,False
+擉,2,trhaewk tsrhaewk,,0.0,0,0,tsrhaewk×1,1,trhaewk,False
+郫,3,bea bje bjie,,0.0,0,0,bje×1,1,bea,False
+悝,2,khwoj liX,,0.0,0,0,khwoj×1,1,liX,False
+槍,2,tshjang tsrhaeng,,0.0,0,0,tshjang×1,1,tsrhaeng,False
+堵,2,tsyaeX tuX,,0.0,0,0,tuX×1,1,tsyaeX,False
+怒,2,nuH nuX,,0.0,0,0,nuH×1,1,nuX,False
+抍,2,sying tsyingX,,0.0,0,0,tsyingX×1,1,sying,False
+闍,2,dzyae tu,,0.0,0,0,tu×1,1,dzyae,False
+鬋,3,tsjen tsjenH tsjenX,,0.0,0,0,tsjenX×1,1,tsjen,False
+妻,2,tshej tshejH,,0.0,0,0,tshejH×1,1,tshej,False
+汗,3,han hanH kan,,0.0,0,0,hanH×1,1,han,False
+唈,2,'ip 'op,,0.0,0,0,'op×1,1,'ip,False
+蟋,2,sit srit,,0.0,0,0,sit×1,1,srit,False
+驪,2,lej lje,,0.0,0,0,lje×1,1,lej,False
+澶,3,danH drjen dzyen,,0.0,0,0,danH×1,1,drjen,False
+只,2,tsye tsyeX,,0.0,0,0,tsyeX×1,1,tsye,False
+撰,2,dzrjwenX dzrwaenX,,0.0,0,0,dzrjwenX×1,1,dzrwaenX,False
+罋,2,'jowng 'uwngH,,0.0,0,0,'uwngH×1,1,'jowng,False
+襮,2,pak powk,,0.0,0,0,powk×1,1,pak,False
+鍼,2,gjem tsyim,,0.0,0,0,tsyim×1,1,gjem,False
+鐐,2,lew lewH,,0.0,0,0,lew×1,1,lewH,False
+縓,2,tshjwen tshjwenH,,0.0,0,0,tshjwenH×1,1,tshjwen,False
+枳,2,kjieX tsyeX,,0.0,0,0,tsyeX×1,1,kjieX,False
+撮,2,tshwat tswat,,0.0,0,0,tshwat×1,1,tswat,False
+翿,2,daw dawH,,0.0,0,0,dawH×1,1,daw,False
+梡,3,hwan hwanX khwanX,,0.0,0,0,khwanX×1,1,hwan,False
+綃,2,sjew sraew,,0.0,0,0,sjew×1,1,sraew,False
+鬵,3,dzim dzjem zim,,0.0,0,0,dzim×1,1,dzjem,False
+螘,2,ngj+jX ngjeX,,0.0,0,0,ngjeX×1,1,ngj+jX,False
+尌,2,drjuH dzyuH,,0.0,0,0,dzyuH×1,1,drjuH,False
+兼,2,kem kemH,,0.0,0,0,kem×1,1,kemH,False
+評,2,bjaeng bjaengH,,0.0,0,0,bjaengH×1,1,bjaeng,False
+蝀,2,tuwng tuwngX,,0.0,0,0,tuwngX×1,1,tuwng,False
+蠓,2,muwng muwngX,,0.0,0,0,muwngX×1,1,muwng,False
+吟,2,ngim ngimH,,0.0,0,1,ngim×1,1,ngimH,False
+浥,3,'eap 'ip 'jaep,,0.0,0,0,'ip×1,1,'eap,False
+洞,2,duwng duwngH,,0.0,0,0,duwngH×1,1,duwng,False
+跂,3,gjie khjeH khjieX,,0.0,0,0,khjeH×1,1,gjie,False
+左,2,tsaH tsaX,,0.0,0,0,tsaH×1,1,tsaX,False
+屍,2,syij syijH,,0.0,0,0,syij×1,1,syijH,False
+曏,4,syangH syangX xjangH xjangX,,0.0,0,0,xjangH×1,1,syangH,False
+蹂,3,njuw nyuwH nyuwX,,0.0,0,0,njuw×1,1,nyuwH,False
+銚,3,dewH thew yew,,0.0,0,0,yew×1,1,dewH,False
+屎,2,syijX xjij,,0.0,0,0,xjij×1,1,syijX,False
+揄,4,duw duwX yu yuw,,0.0,0,0,yuw×1,1,duw,False
+姡,2,hwaet hwat,,0.0,0,0,hwaet×1,1,hwat,False
+熠,2,hip yip,,0.0,0,0,yip×1,1,hip,False
+喑,3,'im 'imH 'om,,0.0,0,0,'imH×1,1,'im,False
+咮,4,trjuH trjuw trjuwH tsyu,,0.0,0,0,trjuwH×1,1,trjuH,False
+淹,2,'jem 'jomH,,0.0,0,0,'jem×1,1,'jomH,False
+妁,2,dzyak tsyak,,0.0,0,0,tsyak×1,1,dzyak,False
+餞,2,dzjenH dzjenX,,0.0,0,0,dzjenX×1,1,dzjenH,False
+劀,2,kwaet kweat,,0.0,0,0,kweat×1,1,kwaet,False
+輹,2,bjuwk pjuwk,,0.0,0,0,bjuwk×1,1,pjuwk,False
+打,2,taengX tengX,,0.0,0,0,tengX×1,1,taengX,False
+慹,4,dzip nep tsyep tsyip,,0.0,0,0,nep×1,1,dzip,False
+缺,2,khjwiet khwet,,0.0,0,0,khwet×1,1,khjwiet,False
+疕,3,phijX phjieX pjijX,,0.0,0,0,phjieX×1,1,phijX,False
+摶,2,drjwenX dwan,,0.0,0,0,dwan×1,1,drjwenX,False
+辴,3,trhij trhin trhinX,,0.0,0,0,trhinX×1,1,trhij,False
+苾,2,bet bjit,,0.0,0,0,bet×1,1,bjit,False
+副,3,phjuwH phjuwk phwik,,0.0,0,1,phjuwH×1,1,phjuwk,False
+淰,3,nemX nreamX syimX,,0.0,0,0,syimX×1,1,nemX,False
+雍,2,'jowng 'jowngH,,0.0,0,0,'jowng×1,1,'jowngH,False
+定,2,dengH tengH,,0.0,0,0,tengH×1,1,dengH,False
+噴,2,phwon phwonH,,0.0,0,0,phwonH×1,1,phwon,False
+煎,2,tsjen tsjenH,,0.0,0,0,tsjen×1,1,tsjenH,False
+菲,3,bj+jH phj+j phj+jX,,0.0,0,0,bj+jH×1,1,phj+j,False
+趼,3,kenX ngen ngenH,,0.0,0,0,kenX×1,1,ngen,False
+拓,2,thak tsyek,,0.0,0,0,thak×1,1,tsyek,False
+斮,2,tsraewk tsrjak,,0.0,0,0,tsrjak×1,1,tsraewk,False
+劾,3,hojH hok kheajH,,0.0,0,0,hojH×1,1,hok,False
+橈,2,nraewH nyew,,0.0,0,0,nraewH×1,1,nyew,False
+杝,3,drjeX trhjeX ye,,0.0,0,0,ye×1,1,drjeX,False
+釿,2,kj+n nginX,,0.0,0,0,kj+n×1,1,nginX,False
+禁,2,kim kimH,,0.0,0,0,kimH×1,1,kim,False
+烘,3,huwngH xuwng xuwngH,,0.0,0,0,xuwng×1,1,huwngH,False
+齎,2,tsej tsij,,0.0,0,0,tsij×1,1,tsej,False
+醷,2,'iX 'ik,,0.0,0,0,'iX×1,1,'ik,False
+楀,2,hjuX kjuX,,0.0,0,0,kjuX×1,1,hjuX,False
+撤,2,drjet trhjet,,0.0,0,0,drjet×1,1,trhjet,False
+匜,2,ye yeX,,0.0,0,0,ye×1,1,yeX,False
+顈,2,henX khwengX,,0.0,0,0,khwengX×1,1,henX,False
+猱,2,naw nrjuwH,,0.0,0,0,naw×1,1,nrjuwH,False
+鑋,2,khengH khjieng,,0.0,0,0,khengH×1,1,khjieng,False
+瓠,2,hu huH,,0.0,0,0,huH×1,1,hu,False
+後,2,huwH huwX,,0.0,0,0,huwH×1,1,huwX,False
+隄,2,dej tej,,0.0,0,0,tej×1,1,dej,False
+擷,2,het xet,,0.0,0,0,het×1,1,xet,False
+蔀,2,buwX phuwX,,0.0,0,0,buwX×1,1,phuwX,False
+畤,3,driX dzyiX tsiX,,0.0,0,0,tsiX×1,1,driX,False
+砮,2,nu nuX,,0.0,0,0,nu×1,1,nuX,False
+靷,2,yinH yinX,,0.0,0,0,yinH×1,1,yinX,False
+莖,2,'eang heang,,0.0,0,0,heang×1,1,'eang,False
+蝃,2,tejH tsywet,,0.0,0,0,tejH×1,1,tsywet,False
+潦,2,lawH lawX,,0.0,0,0,lawX×1,1,lawH,False
+翹,2,gjiew gjiewH,,0.0,0,0,gjiewH×1,1,gjiew,False
+請,3,dzjeng dzjengH tshjengX,,0.0,0,0,tshjengX×1,1,dzjeng,False
+鶄,2,tsheng tsjeng,,0.0,0,0,tsjeng×1,1,tsheng,False
+刺,2,tshjeH tshjek,,0.0,0,0,tshjek×1,1,tshjeH,False
+毚,2,dzraem dzream,,0.0,0,0,dzream×1,1,dzraem,False
+向,2,syangH xjangH,,0.0,0,0,xjangH×1,1,syangH,False
+繘,2,kjwit ywit,,0.0,0,0,kjwit×1,1,ywit,False
+泭,2,bju phju,,0.0,0,0,phju×1,1,bju,False
+瞑,3,men menH meng,,0.0,0,0,menH×1,1,men,False
+散,2,sanH sanX,,0.0,0,0,sanH×1,1,sanX,False
+科,2,khwa khwaH,,0.0,0,0,khwa×1,1,khwaH,False
+桋,2,dej yij,,0.0,0,0,yij×1,1,dej,False
+蓧,2,dek thew,,0.0,0,0,dek×1,1,thew,False
+譚,2,dom domX,,0.0,0,0,dom×1,1,domX,False
+妃,2,phj+j phwojH,,0.0,0,0,phwojH×1,1,phj+j,False
+僎,3,dzrjwenH dzrjwenX tswin,,0.0,0,0,tswin×1,1,dzrjwenH,False
+愞,3,nwaH nwanH nywenX,,0.0,0,0,nwanH×1,1,nwaH,False
+匯,2,hwojX khweaj,,0.0,0,0,hwojX×1,1,khweaj,False
+塡,4,den denH trin trinH,,0.0,0,0,den×1,1,denH,False
+辟,3,bjiek phjiek pjiek,,0.0,0,0,pjiek×1,1,bjiek,False
+䔰,2,phjuwk pjuwH,,0.0,0,0,pjuwH×1,1,phjuwk,False
+婤,2,trhjuw tsyuw,,0.0,0,0,tsyuw×1,1,trhjuw,False
+薺,2,dzejX dzij,,0.0,0,0,dzejX×1,1,dzij,False
+蠯,3,bea beangX bjie,,0.0,0,0,bea×1,1,beangX,False
+拲,2,kjowk kjowngX,,0.0,0,0,kjowngX×1,1,kjowk,False
+餧,2,'jweH nwojX,,0.0,0,0,'jweH×1,1,nwojX,False
+彗,4,hjwejH sjwejH zjwejH zwijH,,0.0,0,0,zjwejH×1,1,hjwejH,False
+儗,4,ngiH ngiX ngojH xojH,,0.0,0,0,ngiX×1,1,ngiH,False
+丰,2,keajH phjowng,,0.0,0,0,phjowng×1,1,keajH,False
+圯,2,bijX yi,,0.0,0,0,bijX×1,1,yi,False
+茀,2,phjut pj+jH,,0.0,0,0,pj+jH×1,1,phjut,False
+氂,2,li maw,,0.0,0,0,li×1,1,maw,False
+俔,2,henX khenH,,0.0,0,0,khenH×1,1,henX,False
+縆,2,kong kongH,,0.0,0,0,kongH×1,1,kong,False
+瀏,2,ljuw ljuwX,,0.0,0,0,ljuw×1,1,ljuwX,False
+擔,2,tam tamH,,0.0,0,0,tam×1,1,tamH,False
+藐,2,maewk mjewX,,0.0,0,0,mjewX×1,1,maewk,False
+轚,2,kejH kek,,0.0,0,0,kek×1,1,kejH,False
+蓋,3,hap kajH kap,,0.0,0,0,hap×1,1,kajH,False
+輠,4,hwaX hwaeX hwojX kwaX,,0.0,0,0,hwojX×1,1,hwaX,False
+借,2,tsjaeH tsjek,,0.0,0,0,tsjek×1,1,tsjaeH,False
+鐻,3,gjo gjoX kjoH,,0.0,0,0,kjoH×1,1,gjo,False
+滄,2,tshang tsrhjangH,,0.0,0,0,tshang×1,1,tsrhjangH,False
+坐,2,dzwaH dzwaX,,0.0,0,0,dzwaH×1,1,dzwaX,False
+漕,2,dzaw dzawH,,0.0,0,0,dzaw×1,1,dzawH,False
+鬷,2,tsuwng tsuwngX,,0.0,0,0,tsuwng×1,1,tsuwngX,False
+旄,2,maw mawH,,0.0,0,0,mawH×1,1,maw,False
+遒,2,dzjuw tsjuw,,0.0,0,0,dzjuw×1,1,tsjuw,False
+晛,2,henX nenH,,0.0,0,0,nenH×1,1,henX,False
+氐,2,tej trij,,0.0,0,0,tej×1,1,trij,False
+椌,2,khaewng khuwng,,0.0,0,0,khaewng×1,1,khuwng,False
+硎,2,heng khaeng,,0.0,0,0,heng×1,1,khaeng,False
+朏,3,phj+jX phojX phwojH,,0.0,0,0,phj+jX×1,1,phojX,False
+讒,3,dzraem dzraemH dzream,,0.0,0,0,dzream×1,1,dzraem,False
+鵴,2,gjuwk kjuwk,,0.0,0,0,kjuwk×1,1,gjuwk,False
+馯,2,hanH khaen,,0.0,0,0,hanH×1,1,khaen,False
+莩,2,bjewX phju,,0.0,0,0,phju×1,1,bjewX,False
+嶷,2,ngi ngik,,0.0,0,0,ngik×1,1,ngi,False
+揜,2,'amX 'jemX,,0.0,0,0,'jemX×1,1,'amX,False
+菩,4,bjuwX bojX bok bu,,0.0,0,0,bjuwX×1,1,bojX,False
+罬,2,kjwet trjwet,,0.0,0,0,trjwet×1,1,kjwet,False
+犥,2,phjewX phjiew,,0.0,0,0,phjewX×1,1,phjiew,False
+轉,2,trjwenH trjwenX,,0.0,0,0,trjwenH×1,1,trjwenX,False
+灉,2,'jowng 'jowngH,,0.0,0,0,'jowng×1,1,'jowngH,False
+汶,3,min mjun mjunH,,0.0,0,0,mjunH×1,1,min,False
+狷,2,kjwienH kwenH,,0.0,0,0,kjwienH×1,1,kwenH,False
+陬,3,tsju tsrjuw tsuw,,0.0,0,0,tsuw×1,1,tsju,False
+磌,2,den tsyin,,0.0,0,0,tsyin×1,1,den,False
+欂,3,beak bjaek pak,,0.0,0,0,beak×1,1,bjaek,False
+阻,2,tsrjoH tsrjoX,,0.0,0,0,tsrjoX×1,1,tsrjoH,False
+唫,2,gimX ngim,,0.0,0,0,ngim×1,1,gimX,False
+軷,2,bajH bat,,0.0,0,0,bat×1,1,bajH,False
+嫉,2,dzijH dzit,,0.0,0,0,dzit×1,1,dzijH,False
+莛,2,deng dengX,,0.0,0,0,deng×1,1,dengX,False
+緎,2,hwik xwik,,0.0,0,0,hwik×1,1,xwik,False
+謑,3,hejX xaeH xeaH,,0.0,0,0,hejX×1,1,xaeH,False
+袷,2,keap kjaep,,0.0,0,0,keap×1,1,kjaep,False
+硩,2,thek trhjet,,0.0,0,0,thek×1,1,trhjet,False
+妸,2,'a 'aX,,0.0,0,0,'a×1,1,'aX,False
+曼,2,man mjonH,,0.0,0,0,mjonH×1,1,man,False
+跨,4,khuH khwae khwaeH khwaeX,,0.0,0,0,khwaeH×1,1,khuH,False
+杷,3,bae baeH beaH,,0.0,0,0,bae×1,1,baeH,False
+椐,3,khjo kjo kjoH,,0.0,0,0,khjo×1,1,kjo,False
+樻,2,gwijH khwijH,,0.0,0,0,khwijH×1,1,gwijH,False
+禨,2,kj+j kj+jH,,0.0,0,0,kj+jH×1,1,kj+j,False
+識,2,syik tsyiH,,0.0,0,0,syik×1,1,tsyiH,False
+簪,2,tsom tsrim,,0.0,0,0,tsrim×1,1,tsom,False
+㧁,4,hap khjoH khop kop,,0.0,0,0,khjoH×1,1,hap,False
+張,2,trjang trjangH,,0.0,0,0,trjangH×1,1,trjang,False
+汨,2,kwot mek,,0.0,0,0,kwot×1,1,mek,False
+嗽,3,sraewk suwH suwk,,0.0,0,0,suwH×1,1,sraewk,False
+蜡,2,dzraeH tshjoH,,0.0,0,0,dzraeH×1,1,tshjoH,False
+褶,3,dep dzyip zip,,0.0,0,0,dep×1,1,dzyip,False
+穽,2,dzjengH dzjengX,,0.0,0,0,dzjengH×1,1,dzjengX,False
+宴,2,'enH 'enX,,0.0,0,0,'enH×1,1,'enX,False
+梐,2,bejX pej,,0.0,0,0,bejX×1,1,pej,False
+輜,2,tsrhi tsri,,0.0,0,0,tsri×1,1,tsrhi,False
+謾,5,maen maenH man manH mjien,,0.0,0,0,manH×1,1,maen,False
+洸,2,'wang kwang,,0.0,0,0,kwang×1,1,'wang,False
+跪,2,gjweX khjweX,,0.0,0,0,gjweX×1,1,khjweX,False
+般,4,ban paen pan pat,,0.0,0,0,ban×1,1,paen,False
+要,2,'jiew 'jiewH,,0.0,0,0,'jiewH×1,1,'jiew,False
+風,2,pjuwng pjuwngH,,0.0,0,0,pjuwngH×1,1,pjuwng,False
+愴,2,tsrhjangH tsrhjangX,,0.0,0,0,tsrhjangH×1,1,tsrhjangX,False
+荑,2,dej yij,,0.0,0,0,dej×1,1,yij,False
+躋,2,tsej tsejH,,0.0,0,0,tsej×1,1,tsejH,False
+廞,2,xim ximX,,0.0,0,0,xim×1,1,ximX,False
+醆,2,tsreanX tsyenX,,0.0,0,0,tsreanX×1,1,tsyenX,False
+楢,2,tsyhewX yuw,,0.0,0,0,yuw×1,1,tsyhewX,False
+爚,2,syak yak,,0.0,0,0,yak×1,1,syak,False
+忝,2,themH themX,,0.0,0,0,themX×1,1,themH,False
+篧,2,dzraewk tsraewk,,0.0,0,0,dzraewk×1,1,tsraewk,False
+鶻,3,hweat hwot kwot,,0.0,0,0,kwot×1,1,hweat,False
+怨,2,'jwon 'jwonH,,0.0,0,0,'jwon×1,1,'jwonH,False
+屈,2,khjut kjut,,0.0,0,0,khjut×1,1,kjut,False
+摸,2,mak mu,,0.0,0,0,mu×1,1,mak,False
+蝍,3,tset tsik tsit,,0.0,0,0,tsik×1,1,tset,False
+晏,2,'aenH 'anH,,0.0,0,0,'aenH×1,1,'anH,False
+擐,2,hwaenH kwaen,,0.0,0,0,hwaenH×1,1,kwaen,False
+芐,2,haeH huX,,0.0,0,0,haeH×1,1,huX,False
+縁,2,ywen ywenH,,0.0,0,0,ywenH×1,1,ywen,False
+耡,2,dzrjo dzrjoH,,0.0,0,0,dzrjoH×1,1,dzrjo,False
+甗,3,ngjenH ngjenX ngjon,,0.0,0,0,ngjenX×1,1,ngjenH,False
+濩,3,'waek huH hwak,,0.0,0,0,hwak×1,1,'waek,False
+蔚,2,'jut 'jw+jH,,0.0,0,0,'jut×1,1,'jw+jH,False
+枇,3,bjij bjijH pjijX,,0.0,0,0,pjijX×1,1,bjij,False
+召,2,drjewH dzyewH,,0.0,0,0,dzyewH×1,1,drjewH,False
+輾,2,nrjenH trjenX,,0.0,0,0,trjenX×1,1,nrjenH,False
+暍,2,'jot xat,,0.0,0,0,'jot×1,1,xat,False
+秠,4,phij phijX phjuw phjuwX,,0.0,0,0,phijX×1,1,phij,False
+鍥,2,ket khet,,0.0,0,0,khet×1,1,ket,False
+澆,2,kew ngewH,,0.0,0,0,kew×1,1,ngewH,False
+錞,3,dwojH dwojX dzywin,,0.0,0,0,dzywin×1,1,dwojH,False
+芾,3,pajH pj+jH pjut,,0.0,0,0,pj+jH×1,1,pajH,False
+犂,2,lej lij,,0.0,0,0,lij×1,1,lej,False
+虖,3,hu xju xu,,0.0,0,0,xu×1,1,hu,False
+揲,4,dep sep yep zyet,,0.0,0,0,zyet×1,1,dep,False
+獺,2,that trhaet,,0.0,0,0,that×1,1,trhaet,False
+嗃,3,xaew xaewH xak,,0.0,0,0,xaew×1,1,xaewH,False
+磋,2,tsha tshaH,,0.0,0,0,tsha×1,1,tshaH,False
+扳,2,paen phaen,,0.0,0,0,phaen×1,1,paen,False
+碞,2,ngeam ngim,,0.0,0,0,ngeam×1,1,ngim,False
+祋,2,twajH twat,,0.0,0,0,twajH×1,1,twat,False
+襢,3,danX trjenH trjenX,,0.0,0,0,danX×1,1,trjenH,False
+鮥,2,lak ngaek,,0.0,0,0,lak×1,1,ngaek,False
+窀,3,drwean dwon trwin,,0.0,0,0,trwin×1,1,drwean,False
+絮,4,nraeH nrjoH sjoH trhjoH,,0.0,0,0,sjoH×1,1,nraeH,False
+泚,2,tshejX tshjweX,,0.0,0,0,tshejX×1,1,tshjweX,False
+潛,2,dzjem dzjemH,,0.0,0,0,dzjem×1,1,dzjemH,False
+綢,2,drjuw thaw,,0.0,0,0,drjuw×1,1,thaw,False
+渫,2,dzreap sjet,,0.0,0,0,sjet×1,1,dzreap,False
+无,2,mju mu,,0.0,0,0,mju×1,1,mu,False
+褫,4,drje drjeX trhiX trhjeX,,0.0,0,0,trhjeX×1,1,drje,False
+綣,2,khjwonH khjwonX,,0.0,0,0,khjwonX×1,1,khjwonH,False
+墳,2,bjun bjunX,,0.0,0,0,bjunX×1,1,bjun,False
+楩,2,bjien bjienX,,0.0,0,0,bjien×1,1,bjienX,False
+郲,2,loj lwojX,,0.0,0,0,loj×1,1,lwojX,False
+碣,2,gjet gjot,,0.0,0,0,gjet×1,1,gjot,False
+翰,2,han hanH,,0.0,0,0,hanH×1,1,han,False
+臡,3,na nej nyej,,0.0,0,0,nej×1,1,na,False
+蝘,2,'enX 'jonX,,0.0,0,0,'jonX×1,1,'enX,False
+防,2,bjang bjangH,,0.0,0,0,bjang×1,1,bjangH,False
+琬,2,'jwonX 'wanH,,0.0,0,0,'jwonX×1,1,'wanH,False
+剖,2,phjuX phuwX,,0.0,0,0,phuwX×1,1,phjuX,False
+諄,2,tsywin tsywinH,,0.0,0,0,tsywin×1,1,tsywinH,False
+鎭,2,trin trinH,,0.0,0,0,trinH×1,1,trin,False
+鼃,2,'wea hwea,,0.0,0,0,hwea×1,1,'wea,False
+朅,2,khjet khjwot,,0.0,0,0,khjet×1,1,khjwot,False
+涼,2,ljang ljangH,,0.0,0,0,ljangH×1,1,ljang,False
+耨,2,nowk nuwH,,0.0,0,0,nuwH×1,1,nowk,False
+柟,3,nom nyem nyemX,,0.0,0,0,nom×1,1,nyem,False
+遁,2,dwonH dwonX,,0.0,0,0,dwonH×1,1,dwonX,False
+坫,2,temH trim,,0.0,0,0,temH×1,1,trim,False
+爆,3,paewH paewk pak,,0.0,0,0,paewk×1,1,paewH,False
+欬,2,'aejH khojH,,0.0,0,0,khojH×1,1,'aejH,False
+瘥,3,dza tsjae tsrheaH,,0.0,0,0,dza×1,1,tsjae,False
+應,2,'ing 'ingH,,0.0,0,1,'ingH×1,1,'ing,False
+楔,2,keat set,,0.0,0,0,set×1,1,keat,False
+朓,2,thew thewX,,0.0,0,0,thewX×1,1,thew,False
+栩,2,hjuX xjuX,,0.0,0,0,xjuX×1,1,hjuX,False
+衷,2,trjuwng trjuwngH,,0.0,0,0,trjuwng×1,1,trjuwngH,False
+援,2,hjwenH hjwon,,0.0,0,0,hjwon×1,1,hjwenH,False
+巢,2,dzraew dzraewH,,0.0,0,0,dzraew×1,1,dzraewH,False
+讞,2,ngjenX ngjet,,0.0,0,0,ngjet×1,1,ngjenX,False
+錘,2,drjwe drjweH,,0.0,0,0,drjweH×1,1,drjwe,False
+倭,3,'jwe 'wa 'waX,,0.0,0,0,'jwe×1,1,'wa,False
+緵,2,tsuwng tsuwngH,,0.0,0,0,tsuwngH×1,1,tsuwng,False
+祲,2,tsim tsimH,,0.0,0,0,tsimH×1,1,tsim,False
+暝,2,meng mengH,,0.0,0,0,mengH×1,1,meng,False
+愾,2,khojH xj+jH,,0.0,0,0,khojH×1,1,xj+jH,False
+繟,2,dan tsyhenX,,0.0,0,0,tsyhenX×1,1,dan,False
+袺,2,keat ket,,0.0,0,0,ket×1,1,keat,False
+嚇,2,xaeH xaek,,0.0,0,0,xaeH×1,1,xaek,False
+綅,3,sjem tshim tsim,,0.0,0,0,sjem×1,1,tshim,False
+炮,2,baew phaewH,,0.0,0,0,baew×1,1,phaewH,False
+蘆,2,ljo lu,,0.0,0,0,lu×1,1,ljo,False
+樠,3,man mjon mwon,,0.0,0,0,mjon×1,1,man,False
+濡,2,nwan nyu,,0.0,0,0,nyu×1,1,nwan,False
+鸋,2,neng nengH,,0.0,0,0,neng×1,1,nengH,False
+洋,2,yang zjang,,0.0,0,0,yang×1,1,zjang,False
+鼒,2,dzoj tsi,,0.0,0,0,tsi×1,1,dzoj,False
+陂,2,pje pjeH,,0.0,0,0,pje×1,1,pjeH,False
+鮦,3,drjowngX drjuwX duwng,,0.0,0,0,drjowngX×1,1,drjuwX,False
+餾,2,ljuw ljuwH,,0.0,0,0,ljuwH×1,1,ljuw,False
+蠡,3,lejX lje lwa,,0.0,0,0,lejX×1,1,lje,False
+瑰,2,hwoj kwoj,,0.0,0,0,kwoj×1,1,hwoj,False
+韞,2,'junX 'won,,0.0,0,0,'junX×1,1,'won,False
+痡,2,phju phu,,0.0,0,0,phu×1,1,phju,False
+脞,2,tshja tshwaX,,0.0,0,0,tshwaX×1,1,tshja,False
+但,3,dan danH danX,,0.0,0,0,danX×1,1,dan,False
+栵,2,ljejH ljet,,0.0,0,0,ljejH×1,1,ljet,False
+蜺,2,ngej nget,,0.0,0,0,ngej×1,1,nget,False
+量,2,ljang ljangH,,0.0,0,0,ljangH×1,1,ljang,False
+鷔,2,ngaw ngawH,,0.0,0,0,ngawH×1,1,ngaw,False
+姺,2,senX srin,,0.0,0,0,senX×1,1,srin,False
+畷,2,trjwejH trjwet,,0.0,0,0,trjwet×1,1,trjwejH,False
+洟,2,thejH yij,,0.0,0,0,thejH×1,1,yij,False
+驒,3,da dan ten,,0.0,0,0,da×1,1,dan,False
+仔,2,tsi tsiX,,0.0,0,0,tsi×1,1,tsiX,False
+翛,2,sew syuwk,,0.0,0,0,sew×1,1,syuwk,False
+詒,2,dojX yi,,0.0,0,0,yi×1,1,dojX,False
+拚,2,bjenH pjunH,,0.0,0,0,pjunH×1,1,bjenH,False
+鷯,2,lew ljewH,,0.0,0,0,lew×1,1,ljewH,False
+桁,2,haeng hang,,0.0,0,0,hang×1,1,haeng,False
+杓,4,dzyak phjiew pjiew tek,,0.0,0,0,tek×1,1,dzyak,False
+捘,3,tshwin tswojH tswonH,,0.0,0,0,tswojH×1,1,tshwin,False
+贖,2,dzyuH zyowk,,0.0,0,0,dzyuH×1,1,zyowk,False
+騧,2,kwae kwea,,0.0,0,0,kwae×1,1,kwea,False
+妨,2,phjang phjangH,,0.0,0,0,phjang×1,1,phjangH,False
+易,2,yeH yek,,0.0,0,1,yek×1,1,yeH,False
+栝,2,kwat themX,,0.0,0,0,kwat×1,1,themX,False
+部,2,buX buwX,,0.0,0,0,buwX×1,1,buX,False
+諝,2,sjo sjoX,,0.0,0,0,sjoX×1,1,sjo,False
+捼,3,nwa nwoj nywij,,0.0,0,0,nwa×1,1,nwoj,False
+罿,2,duwng tsyhowng,,0.0,0,0,tsyhowng×1,1,duwng,False
+堲,3,dzik tsik tsit,,0.0,0,0,dzik×1,1,tsik,False
+挑,3,dewX thaw thew,,0.0,0,0,dewX×1,1,thaw,False
+瞿,2,gju kjuH,,0.0,0,0,gju×1,1,kjuH,False
+閼,4,'at 'en 'jen 'jot,,0.0,0,0,'at×1,1,'en,False
+磨,2,ma maH,,0.0,0,0,maH×1,1,ma,False
+臂,1,pjieH,,0.0,0,1,,0,,False
+遊,1,yuw,,0.0,0,1,,0,,False
+采,1,tshojX,,0.0,0,1,,0,,False
+雖,1,swij,,0.0,0,1,,0,,False
+孟,1,maengH,,0.0,0,1,,0,,False
+椄,1,tsjep,,0.0,0,1,,0,,False
+厲,1,ljejH,,0.0,0,4,,0,,False
+納,1,nop,,0.0,0,2,,0,,False
+充,1,tsyhuwng,,0.0,0,1,,0,,False
+寺,1,ziH,,0.0,0,1,,0,,False
+衡,1,haeng,,0.0,0,4,,0,,False
+讎,1,dzyuw,,0.0,0,1,,0,,False
+盧,1,lu,,0.0,0,1,,0,,False
+淸,1,tshjeng,,0.0,0,2,,0,,False
+爲,2,hjwe hjweH,,0.0,0,1,,0,,False
+上,2,dzyangH dzyangX,,0.0,0,3,,0,,False
+輔,1,bjuX,,0.0,0,1,,0,,False
+景,1,kjaengX,,0.0,0,2,,0,,False
+趙,1,drjewX,,0.0,0,1,,0,,False
+秩,1,drit,,0.0,0,1,,0,,False
+田,1,den,,0.0,0,1,,0,,False
+欲,1,yowk,,0.0,0,1,,0,,False
+悼,1,dawH,,0.0,0,1,,0,,False
+頓,1,twonH,,0.0,0,1,,0,,False
+騷,1,saw,,0.0,0,1,,0,,False
+怪,1,kweajH,,0.0,0,1,,0,,False
+類,1,lwijH,,0.0,0,1,,0,,False
+勲,1,xjun,,0.0,0,1,,0,,False
+丞,2,dzying dzyingH,,0.0,0,1,,0,,False
+庶,1,syoH,,0.0,0,1,,0,,False
+冝,0,,,0.0,0,1,,0,,False
+違,1,hjw+j,,0.0,0,1,,0,,False
+頸,2,gjieng kjiengX,,0.0,0,1,,0,,False
+祝,2,tsyuwH tsyuwk,,0.0,0,1,,0,,False
+隂,1,'im,,0.0,0,1,,0,,False
+焉,3,'jen 'jon hjen,,0.0,0,2,,0,,False
+垂,1,dzywe,,0.0,0,1,,0,,False
+生,2,sraeng srjaengH,,0.0,0,1,,0,,False
+帶,1,tajH,,0.0,0,1,,0,,False
+奄,1,'jemX,,0.0,0,1,,0,,False
+環,1,hwaen,,0.0,0,1,,0,,False
+斥,1,tsyhek,,0.0,0,1,,0,,False
+英,1,'jaeng,,0.0,0,1,,0,,False
+戎,1,nyuwng,,0.0,0,1,,0,,False
+用,1,yowngH,,0.0,0,1,,0,,False
+闇,1,'omH,,0.0,0,1,,0,,False
+從,3,dzjowng dzjowngH tshjowng,,0.0,0,1,,0,,False
+攻,2,kowng kuwng,,0.0,0,2,,0,,False
+吹,2,tsyhwe tsyhweH,,0.0,0,1,,0,,False
+振,2,tsyin tsyinH,,0.0,0,1,,0,,False
+困,1,khwonH,,0.0,0,1,,0,,False
+髙,1,kaw,,0.0,0,1,,0,,False
+名,1,mjieng,,0.0,0,1,,0,,False
+似,1,ziX,,0.0,0,1,,0,,False
+義,1,ngjeH,,0.0,0,1,,0,,False
+呼,1,xu,,0.0,0,1,,0,,False
+永,1,hjwaengX,,0.0,0,1,,0,,False
+塵,1,drin,,0.0,0,1,,0,,False
+接,1,tsjep,,0.0,0,2,,0,,False
+苻,1,bju,,0.0,0,1,,0,,False
+宅,1,draek,,0.0,0,1,,0,,False
+葬,1,tsangH,,0.0,0,1,,0,,False
+旅,1,ljoX,,0.0,0,1,,0,,False
+烈,1,ljet,,0.0,0,1,,0,,False
+受,1,dzyuwX,,0.0,0,1,,0,,False
+閑,1,hean,,0.0,0,1,,0,,False
+貢,1,kuwngH,,0.0,0,2,,0,,False
+展,1,trjenX,,0.0,0,1,,0,,False
+空,2,khuwng khuwngH,,0.0,0,1,,0,,False
+議,1,ngjeH,,0.0,0,1,,0,,False
+驕,1,kjew,,0.0,0,1,,0,,False
+意,1,'iH,,0.0,0,2,,0,,False
+貝,1,pajH,,0.0,0,1,,0,,False
+彌,1,mje,,0.0,0,1,,0,,False
+蒙,1,muwng,,0.0,0,1,,0,,False
+下,2,haeH haeX,,0.0,0,1,,0,,False
+頭,1,duw,,0.0,0,1,,0,,False
+蒲,1,bu,,0.0,0,1,,0,,False
+甘,1,kam,,0.0,0,1,,0,,False
+續,1,zjowk,,0.0,0,1,,0,,False
+恣,1,tsijH,,0.0,0,1,,0,,False
+秉,1,pjaengX,,0.0,0,1,,0,,False
+施,3,sye syeH yeH,,0.0,0,1,,0,,False
+燒,2,syew syewH,,0.0,0,1,,0,,False
+蛇,3,tha ye zyae,,0.0,0,2,,0,,False
+商,1,syang,,0.0,0,1,,0,,False
+橫,3,hwaeng hwaengH kwang,,0.0,0,1,,0,,False
+頑,1,ngwaen,,0.0,0,1,,0,,False
+牧,1,mjuwk,,0.0,0,1,,0,,False
+臺,1,doj,,0.0,0,1,,0,,False
+食,2,yiH zyik,,0.0,0,4,,0,,False
+丈,1,drjangX,,0.0,0,1,,0,,False
+咸,1,heam,,0.0,0,1,,0,,False
+淳,1,dzywin,,0.0,0,1,,0,,False
+内,1,nwojH,,0.0,0,2,,0,,False
+直,1,drik,,0.0,0,1,,0,,False
+葉,2,syep yep,,0.0,0,1,,0,,False
+豫,1,yoH,,0.0,0,1,,0,,False
+陸,1,ljuwk,,0.0,0,1,,0,,False
+允,1,ywinX,,0.0,0,1,,0,,False
+波,1,pa,,0.0,0,1,,0,,False
+嚴,1,ngjaem,,0.0,0,2,,0,,False
+慢,1,maenH,,0.0,0,1,,0,,False
+泰,1,thajH,,0.0,0,1,,0,,False
+束,1,syowk,,0.0,0,1,,0,,False
+誨,1,xwojH,,0.0,0,1,,0,,False
+遥,1,yew,,0.0,0,1,,0,,False
+駒,1,kju,,0.0,0,1,,0,,False
+北,1,pok,,0.0,0,2,,0,,False
+囊,1,nang,,0.0,0,1,,0,,False
+血,1,xwet,,0.0,0,1,,0,,False
+畏,1,'jw+jH,,0.0,0,2,,0,,False
+栗,1,lit,,0.0,0,1,,0,,False
+延,2,yen yenH,,0.0,0,1,,0,,False
+哀,1,'oj,,0.0,0,1,,0,,False
+湯,3,syang thang thangH,,0.0,0,1,,0,,False
+鵠,1,howk,,0.0,0,1,,0,,False
+平,2,bjaeng bjien,,0.0,0,1,,0,,False
+童,1,duwng,,0.0,0,1,,0,,False
+來,1,loj,,0.0,0,2,,0,,False
+狄,1,dek,,0.0,0,1,,0,,False
+賔,1,pjin,,0.0,0,1,,0,,False
+茅,1,maew,,0.0,0,1,,0,,False
+斯,1,sje,,0.0,0,1,,0,,False
+奏,1,tsuwH,,0.0,0,3,,0,,False
+亮,1,ljangH,,0.0,0,1,,0,,False
+居,2,ki kjo,,0.0,0,1,,0,,False
+母,1,muwX,,0.0,0,1,,0,,False
+封,2,pjowng pjowngH,,0.0,0,1,,0,,False
+瓦,2,ngwaeH ngwaeX,,0.0,0,1,,0,,False
+付,1,pjuH,,0.0,0,1,,0,,False
+奚,1,hej,,0.0,0,1,,0,,False
+遺,2,ywij ywijH,,0.0,0,2,,0,,False
+子,1,tsiX,,0.0,0,2,,0,,False

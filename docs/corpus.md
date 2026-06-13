@@ -26,13 +26,18 @@ all, so every commentary lemma misses. Any tooling that fetches sources must
 pin the branch explicitly; `assets/docs.csv` now records the required branch
 per work (`sbck_branch`).
 
-The SBCK 莊子 embeds Lu Deming's own 音義 inline (「音義曰…」 inside the
-commentary). This is a contamination risk for alignment — the JDSW's own text
-must not be matched as if it were Guo Xiang's — and at the same time a second
-witness of the JDSW itself. The 注疏 editions KR1e0006 (公羊注疏) and
-KR1e0010 (穀梁注疏) likewise credit 陸德明 and embed the 音義 inline, and so
-does the SBCK 公羊解詁 (KR1e0007) now used as the 公羊 witness — see the
-儀禮/公羊 section below for the 〇-span exclusion this requires.
+The SBCK 莊子 embeds Lu Deming's own 音義 inline, inside Guo Xiang's
+parenthesized commentary. This is a contamination risk for alignment — the
+JDSW's own text must not be matched as if it were Guo Xiang's — and at the
+same time a second witness of the JDSW itself. `ExtractLayers`
+(`scripts/lib/transforms.py`) pulls these segments into `doc.meta["jdsw_self"]`
+so they are excluded from candidate enumeration: the 篇-initial 音義 block is
+opened by the phrase 音義曰, and each later block by a circle (〇/○), so both
+are registered as embedded-音義 markers. With this in place 莊子 卷 26 aligns
+at ~0.98 (逍遙遊 n=251). The 注疏 editions KR1e0006 (公羊注疏) and KR1e0010
+(穀梁注疏) likewise credit 陸德明 and embed the 音義 inline, and so does the
+SBCK 公羊解詁 (KR1e0007) now used as the 公羊 witness — see the 儀禮/公羊
+section below for the 〇-span exclusion this requires.
 
 ## Edition mismatches per work
 
@@ -46,12 +51,17 @@ SBCK witness of the Wang Bi Laozi. Tested: 64.9% → 92.2% matched, residual
 misses are ordinary variant graphs.
 
 Caveats: the Daozang transcription writes the commentary full-size with no
-parenthesis markup, so main-vs-commentary layer detection needs a positional
-heuristic for this witness (commentary follows each 經 segment) rather than
-the paren-stripping used for SBCK texts. KR5c0046 (道德經古本篇, 傅奕本) is
-worth pulling as a comparandum, since Lu repeatedly cites 古本 readings.
-`annotations.jsonl` still records `zhengwen_id: KR5c0057` until the corpus is
-re-exported against the new witness.
+parenthesis markup, so the paren-based `ExtractLayers` finds no commentary
+and (correctly) refuses to guess — it labels the whole witness `unknown`
+rather than a falsely-confident `main`, and `layer_at` likewise falls back to
+`unknown` for any uncovered position. Trustworthy 經/注 labels for this
+witness still need a positional heuristic (commentary follows each 經
+segment), most cleanly by aligning a bare 經 witness against the combined
+text and labeling the gaps 注; that is unwritten, so 老子 layer labels read
+`unknown` until then. KR5c0046 (道德經古本篇, 傅奕本) is worth pulling as a
+comparandum, since Lu repeatedly cites 古本 readings. `annotations.jsonl`
+still records `zhengwen_id: KR5c0057` until the corpus is re-exported against
+the new witness.
 
 ### 孝經 — no clean swap exists
 
@@ -123,3 +133,27 @@ residue, not alignment error.
   matches.
 - ~47 headwords contain Kanripo private-use entities missing from
   `kr-unicode.csv`; these need mapping additions before they can align.
+
+## Reading extraction beyond fanqie
+
+`scripts/lib/polyphone.py` derives a reading per character occurrence from
+four sources, tagged in each record's `kind`:
+
+- **fanqie** (X Y 反) and **duruo** (音 X) — the explicit readings, composed
+  or looked up against the Guangyun.
+- **ruzi** — 如字 ("read as usual", ~5% of annotations) declines a special
+  reading, so the character keeps its *default*. The default is not derivable
+  from the gloss; it comes from `assets/default_reading_profiles.csv` (column
+  `ruzi_default`, with `ruzi_confidence`/`signals_agree`), an elimination
+  analysis carried in as an asset and read by `scripts/lib/ruzi.py`. Only the
+  ~60 characters the analysis could resolve confidently carry a default; the
+  rest stay unresolved (the table is deliberately conservative). Confidence
+  and agreement ride along on each `ruzi` record so consumers can filter.
+- **scope** — 下同 ("same below") and 注同 ("same in the 注") propagate an
+  explicit reading to later occurrences of the same character, up to the next
+  gloss of it (capped at `MAX_SCOPE`). 注同 is layer-aware: it propagates only
+  to commentary-layer positions, so it depends on the layer extraction above
+  and yields nothing on a witness whose layers are `unknown`.
+
+Each of these multiplies usable labels beyond the bare fanqie count; 如字 and
+the scope markers are each ~5% of annotations.

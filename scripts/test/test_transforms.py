@@ -88,3 +88,22 @@ class TestExtractLayers(TestCase):
         text, layers, _ = ExtractLayers().extract("甲（乙）")
         self.assertEqual(text, "甲乙")
         self.assertEqual(layers, [(0, 1, "main"), (1, 2, "commentary")])
+
+    def test_yinyiyue_marker(self):
+        """音義曰 inside a group opens Lu's embedded 音義 (SBCK 莊子), where the
+        篇-initial block uses the phrase rather than a circle"""
+        text, layers, jdsw_self = ExtractLayers().extract("甲(注也音義曰逍如字)乙")
+        self.assertEqual(text, "甲注也乙")
+        self.assertEqual(
+            layers, [(0, 1, "main"), (1, 3, "commentary"), (3, 4, "main")]
+        )
+        self.assertEqual(jdsw_self, [(3, "音義曰逍如字")])
+
+    def test_no_markup_is_unknown(self):
+        """a witness with no paren markup (ZTDZ 老子: 經 and 注 full-size and
+        undelimited) yields no layer signal, so it is labeled unknown rather
+        than a falsely-confident main"""
+        text, layers, jdsw_self = ExtractLayers().extract("道可道非常道")
+        self.assertEqual(text, "道可道非常道")
+        self.assertEqual(layers, [(0, 6, "unknown")])
+        self.assertEqual(jdsw_self, [])
